@@ -1,0 +1,8 @@
+# Build artifacts
+**/bin/
+**/obj/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

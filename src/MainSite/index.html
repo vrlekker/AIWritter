@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Automated Media Lab portal for trending C# repositories." />
+  <title>Automated Media Lab</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="bg-orb orb-a"></div>
+  <div class="bg-orb orb-b"></div>
+
+  <header class="site-header">
+    <p class="eyebrow">Automated Media Lab</p>
+    <h1>Trending C# Repositories</h1>
+    <p class="subtitle">A self-updating portal powered by GitHub Actions + .NET 8.</p>
+  </header>
+
+  <main class="content">
+    <section class="toolbar">
+      <label for="searchInput">Search Repositories</label>
+      <input id="searchInput" type="search" placeholder="Type a repo name, owner, or keyword..." autocomplete="off" />
+      <p id="metaInfo" class="meta">Loading latest dataset...</p>
+    </section>
+
+    <section id="results" class="card-grid" aria-live="polite"></section>
+  </main>
+
+  <template id="repoCardTemplate">
+    <article class="repo-card">
+      <div class="repo-head">
+        <h2 class="repo-name"></h2>
+        <span class="repo-stars"></span>
+      </div>
+      <p class="repo-description"></p>
+      <p class="repo-summary"></p>
+      <div class="repo-foot">
+        <span class="repo-owner"></span>
+        <a class="repo-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+      </div>
+    </article>
+  </template>
+
+  <script src="./script.js" defer></script>
+</body>
+</html>

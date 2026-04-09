@@ -1,0 +1,238 @@
+:root {
+  --bg-0: #061a1d;
+  --bg-1: #0c2f33;
+  --surface: rgba(7, 23, 26, 0.8);
+  --surface-border: rgba(111, 211, 176, 0.3);
+  --text-primary: #def7eb;
+  --text-muted: #9cc8bc;
+  --accent: #6fd3b0;
+  --accent-strong: #31a48b;
+  --shadow: 0 16px 40px rgba(0, 0, 0, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Space Grotesk", sans-serif;
+  color: var(--text-primary);
+  min-height: 100vh;
+  background: radial-gradient(circle at 15% 15%, #174851 0%, transparent 35%),
+    radial-gradient(circle at 85% 20%, #2a5e56 0%, transparent 32%),
+    linear-gradient(120deg, var(--bg-0), var(--bg-1));
+  overflow-x: hidden;
+}
+
+.bg-orb {
+  position: fixed;
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  filter: blur(50px);
+  opacity: 0.25;
+  pointer-events: none;
+  animation: float 10s ease-in-out infinite;
+}
+
+.orb-a {
+  background: #00a86b;
+  top: -80px;
+  right: -60px;
+}
+
+.orb-b {
+  background: #14b8a6;
+  bottom: -120px;
+  left: -80px;
+  animation-delay: -4s;
+}
+
+.site-header,
+.content {
+  width: min(1000px, 92vw);
+  margin: 0 auto;
+}
+
+.site-header {
+  padding: 64px 0 24px;
+  animation: rise 600ms ease-out both;
+}
+
+.eyebrow {
+  font-family: "IBM Plex Mono", monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.78rem;
+  color: var(--accent);
+  margin: 0 0 10px;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  line-height: 1.05;
+}
+
+.subtitle {
+  margin: 12px 0 0;
+  color: var(--text-muted);
+}
+
+.toolbar {
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--surface-border);
+  border-radius: 18px;
+  padding: 18px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  animation: rise 700ms ease-out both;
+}
+
+.toolbar label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.toolbar input {
+  width: 100%;
+  border: 1px solid rgba(111, 211, 176, 0.5);
+  background: rgba(4, 14, 16, 0.8);
+  color: var(--text-primary);
+  border-radius: 12px;
+  padding: 12px 14px;
+  font-size: 1rem;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.toolbar input:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.meta {
+  margin-top: 10px;
+  margin-bottom: 0;
+  color: var(--text-muted);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.86rem;
+}
+
+.card-grid {
+  margin: 22px 0 56px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 16px;
+}
+
+.repo-card {
+  border: 1px solid var(--surface-border);
+  border-radius: 16px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transform: translateY(8px);
+  opacity: 0;
+  animation: reveal 450ms ease forwards;
+}
+
+.repo-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.repo-name {
+  margin: 0;
+  font-size: 1.08rem;
+}
+
+.repo-stars {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.8rem;
+  color: var(--accent);
+}
+
+.repo-description,
+.repo-summary {
+  margin: 0;
+  color: #c6e9de;
+  line-height: 1.45;
+  font-size: 0.95rem;
+}
+
+.repo-summary {
+  color: #b1dcd0;
+}
+
+.repo-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: auto;
+}
+
+.repo-owner {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.repo-link {
+  text-decoration: none;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.repo-link:hover {
+  color: #9be9cf;
+}
+
+@keyframes reveal {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(22px);
+  }
+}
+
+@media (max-width: 640px) {
+  .site-header {
+    padding-top: 42px;
+  }
+
+  .repo-foot {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+}

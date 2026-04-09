@@ -1,0 +1,48 @@
+name: Ghost Engine
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  run-engine:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup .NET 8
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Restore
+        run: dotnet restore engine/GhostEngine.csproj
+
+      - name: Run Ghost Engine
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}
+        run: dotnet run --project engine/GhostEngine.csproj --configuration Release
+
+      - name: Commit generated content
+        run: |
+          if git diff --quiet -- src/MainSite/data src/MainSite/sitemap.xml; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "system-bot"
+          git config user.email "system-bot@users.noreply.github.com"
+          git add src/MainSite/data src/MainSite/sitemap.xml
+          git commit -m "chore(engine): refresh trending data"
+          git push
