@@ -1,133 +1,91 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.github.io/repository/</loc>
+    <loc>https://vrlekker.github.io/AIWritter/</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=csharp-repos</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=csharp-repos&amp;item=powertoys</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=powertoys</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=csharp-repos&amp;item=v2rayn</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=v2rayn</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=csharp-repos&amp;item=powershell</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=powershell</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=csharp-repos&amp;item=jellyfin</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=jellyfin</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=csharp-repos&amp;item=files</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=files</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=csharp-repos&amp;item=aspnetcore</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=aspnetcore</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=ai-tools</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=ai-tools&amp;item=studio</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=tandem-browser</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=ai-tools&amp;item=langchain-google</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=toolhive</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=ai-tools&amp;item=wisent</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=localai</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=ai-tools&amp;item=archon</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=goose</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=ai-tools&amp;item=copilotkit</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=hermes-agent</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://example.github.io/repository/?feed=ai-tools&amp;item=models</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://example.github.io/repository/?feed=tech-news</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://example.github.io/repository/?feed=tech-news&amp;item=what-game-engines-know-about-data-that-databases-forgot</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://example.github.io/repository/?feed=tech-news&amp;item=hegel-a-universal-property-based-testing-protocol-and-family-of-pbt-libraries</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://example.github.io/repository/?feed=tech-news&amp;item=research-driven-agents-what-happens-when-your-agent-reads-before-it-codes</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://example.github.io/repository/?feed=tech-news&amp;item=show-hn-i-built-a-cargo-like-build-tool-for-c-c</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://example.github.io/repository/?feed=tech-news&amp;item=picoz80-drop-in-z80-replacement</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://example.github.io/repository/?feed=tech-news&amp;item=eff-is-leaving-x</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=asm</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

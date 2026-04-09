@@ -1,7 +1,7 @@
 ﻿{
-  "generatedAtUtc": "2026-04-09T19:30:36.4040054Z",
+  "generatedAtUtc": "2026-04-09T20:00:04.6506872Z",
   "featuredFeedId": "csharp-repos",
-  "totalItemCount": 18,
+  "totalItemCount": 12,
   "feeds": [
     {
       "id": "csharp-repos",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "101,377 stars",
-          "publishedAtUtc": "2026-04-09T19:29:11.0000000Z"
+          "metric": "101,378 stars",
+          "publishedAtUtc": "2026-04-09T19:57:53.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "50,173 stars",
-          "publishedAtUtc": "2026-04-09T19:16:51.0000000Z"
+          "metric": "50,174 stars",
+          "publishedAtUtc": "2026-04-09T19:50:14.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "42,937 stars",
-          "publishedAtUtc": "2026-04-09T19:25:58.0000000Z"
+          "metric": "42,938 stars",
+          "publishedAtUtc": "2026-04-09T19:57:55.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -76,122 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "studio",
-          "subtitle": "@decocms",
-          "summary": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar Deco CMS Open-source · TypeScript-first · Deploy anywhere Open-source...",
-          "url": "https://github.com/decocms/studio",
+          "title": "tandem-browser",
+          "subtitle": "@hydro13",
+          "summary": "AI-Human symbiotic browser — browse the web as one entity Tandem Browser Tandem Browser is a local-first Electron browser built for human-AI collaboration.",
+          "url": "https://github.com/hydro13/tandem-browser",
           "category": "TypeScript",
-          "metric": "356 stars",
-          "publishedAtUtc": "2026-04-09T19:29:36.0000000Z"
+          "metric": "506 stars",
+          "publishedAtUtc": "2026-04-09T19:58:57.0000000Z"
         },
         {
-          "title": "langchain-google",
-          "subtitle": "@langchain-ai",
-          "summary": "\uD83E\uDD9C\uD83D\uDD17 LangChain interfaces to Google's suite of AI products (Gemini & Vertex AI) \uD83E\uDD9C️\uD83D\uDD17 LangChain Google This repository centralizes Google integrations for LangChain projects.",
-          "url": "https://github.com/langchain-ai/langchain-google",
-          "category": "Python",
-          "metric": "363 stars",
-          "publishedAtUtc": "2026-04-09T19:29:17.0000000Z"
+          "title": "toolhive",
+          "subtitle": "@stacklok",
+          "summary": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers. [![Release][release-img]][release] [![Build status][ci-img]][ci]...",
+          "url": "https://github.com/stacklok/toolhive",
+          "category": "Go",
+          "metric": "1,708 stars",
+          "publishedAtUtc": "2026-04-09T19:58:18.0000000Z"
         },
         {
-          "title": "wisent",
-          "subtitle": "@wisent-ai",
-          "summary": "This is an open-source version of the representation engineering framework for stopping harmful outputs or... pip install wisent Overview Wisent allows you to control your AI by...",
-          "url": "https://github.com/wisent-ai/wisent",
-          "category": "Python",
-          "metric": "341 stars",
-          "publishedAtUtc": "2026-04-09T19:29:06.0000000Z"
+          "title": "LocalAI",
+          "subtitle": "@mudler",
+          "summary": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU... LocalAI is the open-source AI engine.",
+          "url": "https://github.com/mudler/LocalAI",
+          "category": "Go",
+          "metric": "45,141 stars",
+          "publishedAtUtc": "2026-04-09T19:58:38.0000000Z"
         },
         {
-          "title": "Archon",
-          "subtitle": "@coleam00",
-          "summary": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. Archon The first open-source harness builder for AI coding.",
-          "url": "https://github.com/coleam00/Archon",
-          "category": "TypeScript",
-          "metric": "14,295 stars",
-          "publishedAtUtc": "2026-04-09T19:28:34.0000000Z"
-        },
-        {
-          "title": "CopilotKit",
-          "subtitle": "@CopilotKit",
-          "summary": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol CopilotKit Docs · Examples · Copilot Cloud · Discord Build agent-native applications...",
-          "url": "https://github.com/CopilotKit/CopilotKit",
-          "category": "TypeScript",
-          "metric": "30,100 stars",
-          "publishedAtUtc": "2026-04-09T19:28:02.0000000Z"
-        },
-        {
-          "title": "models",
-          "subtitle": "@arimxyer",
-          "summary": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers. models TUI and CLI for browsing AI models, benchmarks, coding agents, and provider...",
-          "url": "https://github.com/arimxyer/models",
+          "title": "goose",
+          "subtitle": "@aaif-goose",
+          "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM This project has moved from block/goose to the Agentic AI...",
+          "url": "https://github.com/aaif-goose/goose",
           "category": "Rust",
-          "metric": "377 stars",
-          "publishedAtUtc": "2026-04-09T19:28:06.0000000Z"
-        }
-      ]
-    },
-    {
-      "id": "tech-news",
-      "title": "Latest Tech News",
-      "description": "Hot technology headlines from Hacker News top stories.",
-      "itemType": "news",
-      "actionLabel": "Read Article",
-      "sourceQuery": "https://hacker-news.firebaseio.com/v0/topstories.json",
-      "items": [
-        {
-          "title": "What Game Engines Know About Data That Databases Forgot",
-          "subtitle": "Hacker News • @speckx",
-          "summary": "Trending on Hacker News with 57 points and 31 comments. Fresh coverage from the technology discussion cycle.",
-          "url": "https://nockawa.github.io/blog/what-game-engines-know-about-data/",
-          "category": "Technology News",
-          "metric": "57 points",
-          "publishedAtUtc": "2026-04-09T18:10:33.0000000Z"
+          "metric": "40,458 stars",
+          "publishedAtUtc": "2026-04-09T19:58:38.0000000Z"
         },
         {
-          "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
-          "subtitle": "Hacker News • @PaulHoule",
-          "summary": "Trending on Hacker News with 26 points and 3 comments. Fresh coverage from the technology discussion cycle.",
-          "url": "https://hegel.dev",
-          "category": "Technology News",
-          "metric": "26 points",
-          "publishedAtUtc": "2026-04-09T18:37:45.0000000Z"
+          "title": "hermes-agent",
+          "subtitle": "@NousResearch",
+          "summary": "The agent that grows with you Hermes Agent ☤ The self-improving AI agent built by Nous Research.",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "category": "Python",
+          "metric": "43,705 stars",
+          "publishedAtUtc": "2026-04-09T19:59:49.0000000Z"
         },
         {
-          "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
-          "subtitle": "Hacker News • @hopechong",
-          "summary": "Trending on Hacker News with 40 points and 13 comments. Fresh coverage from the technology discussion cycle.",
-          "url": "https://blog.skypilot.co/research-driven-agents/",
-          "category": "Technology News",
-          "metric": "40 points",
-          "publishedAtUtc": "2026-04-09T16:58:49.0000000Z"
-        },
-        {
-          "title": "Show HN: I built a Cargo-like build tool for C/C++",
-          "subtitle": "Hacker News • @randerson_112",
-          "summary": "Trending on Hacker News with 71 points and 70 comments. Fresh coverage from the technology discussion cycle.",
-          "url": "https://github.com/randerson112/craft",
-          "category": "Technology News",
-          "metric": "71 points",
-          "publishedAtUtc": "2026-04-09T16:04:54.0000000Z"
-        },
-        {
-          "title": "PicoZ80 – Drop-In Z80 Replacement",
-          "subtitle": "Hacker News • @rickcarlino",
-          "summary": "Trending on Hacker News with 5 points. Fresh coverage from the technology discussion cycle.",
-          "url": "https://eaw.app/picoz80/",
-          "category": "Technology News",
-          "metric": "5 points",
-          "publishedAtUtc": "2026-04-09T18:53:20.0000000Z"
-        },
-        {
-          "title": "EFF is leaving X",
-          "subtitle": "Hacker News • @gregsadetsky",
-          "summary": "Trending on Hacker News with 603 points and 536 comments. Fresh coverage from the technology discussion cycle.",
-          "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-          "category": "Technology News",
-          "metric": "603 points",
-          "publishedAtUtc": "2026-04-09T17:08:04.0000000Z"
+          "title": "asm",
+          "subtitle": "@luongnv89",
+          "summary": "The universal skill manager for AI coding agents. One tool to manage every AI agent's skills Stop juggling skill directories across Claude Code, Codex, Cursor, Windsurf, and 10+...",
+          "url": "https://github.com/luongnv89/asm",
+          "category": "TypeScript",
+          "metric": "162 stars",
+          "publishedAtUtc": "2026-04-09T19:56:50.0000000Z"
         }
       ]
     }
@@ -212,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "101,377 stars",
-      "publishedAtUtc": "2026-04-09T19:29:11.0000000Z"
+      "metric": "101,378 stars",
+      "publishedAtUtc": "2026-04-09T19:57:53.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -230,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "50,173 stars",
-      "publishedAtUtc": "2026-04-09T19:16:51.0000000Z"
+      "metric": "50,174 stars",
+      "publishedAtUtc": "2026-04-09T19:50:14.0000000Z"
     },
     {
       "title": "Files",
@@ -239,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "42,937 stars",
-      "publishedAtUtc": "2026-04-09T19:25:58.0000000Z"
+      "metric": "42,938 stars",
+      "publishedAtUtc": "2026-04-09T19:57:55.0000000Z"
     },
     {
       "title": "aspnetcore",
