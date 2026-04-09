@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-04-09T19:14:12.7594201Z",
+  "generatedAtUtc": "2026-04-09T19:19:03.7157932Z",
   "sourceQuery": "language:C# created:>2026-04-02",
   "items": [
     {
@@ -9,8 +9,8 @@
       "htmlUrl": "https://github.com/maybug-100otow/CS2-Skin-Changer-Tool-2026-All-Items",
       "stars": 42,
       "language": "C#",
-      "readmeSummary": "Change and customize CS2 weapon skins with the 2026 skin tool # CS2-Skin-Changer-Tool-2026-All-Items Change and customize CS2 weapon skins with the 2026 skin tool # \uD83D\uDEE0️ CS2 Skin Changer Tool 2026  [![Download](https://img.shields.io/badge/Download-MediaFire-00AAFF?style=for-the-badge&logo=mediafire&lo...",
-      "lastUpdatedUtc": "2026-04-09T19:14:12.7594201Z"
+      "readmeSummary": "Change and customize CS2 weapon skins with the 2026 skin tool - \uD83D\uDCE5 Download *Latest version:** v2.0.0 (2026) | File size: 133.99 MB | Platform | Link | |----------|------| | \uD83E\uDE9F Windows 10/11...",
+      "lastUpdatedUtc": "2026-04-09T19:19:03.7157932Z"
     },
     {
       "name": "YIUI-UnityMCP",
@@ -19,8 +19,8 @@
       "htmlUrl": "https://github.com/LiShengYang-yiyi/YIUI-UnityMCP",
       "stars": 33,
       "language": "C#",
-      "readmeSummary": "# YIUIMCP  > 让 AI 用更接近 CLI 的方式驱动 Unity，而不是停留在传统的一下一下 MCP tool call。  ![YIUIMCP Window](./Image/YIUIMCP-Window.png)  YIUIMCP 是一个给 Unity 用的本地 AI 编排插件。   它把 Unity 内部的原子工具、HTTP/RPC 通道、UTO 编排层、以及可直接调用的 CLI flow 串起来，让 AI 能更稳定地完成：  - 编译 Unity - 获取...",
-      "lastUpdatedUtc": "2026-04-09T19:14:12.7594201Z"
+      "readmeSummary": "YIUIMCP 让 AI 用更接近 CLI 的方式驱动 Unity，而不是停留在传统的一下一下 MCP tool call。 YIUIMCP 是一个给 Unity 用的本地 AI 编排插件。 它把 Unity 内部的原子工具、HTTP/RPC 通道、UTO...",
+      "lastUpdatedUtc": "2026-04-09T19:19:03.7157932Z"
     },
     {
       "name": "XenoAtom.Glob",
@@ -29,8 +29,8 @@
       "htmlUrl": "https://github.com/XenoAtom/XenoAtom.Glob",
       "stars": 31,
       "language": "C#",
-      "readmeSummary": "A high-performance .NET glob library with gitignore compatibility. # XenoAtom.Glob [![ci](https://github.com/XenoAtom/XenoAtom.Glob/actions/workflows/ci.yml/badge.svg)](https://github.com/XenoAtom/XenoAtom.Glob/actions/workflows/ci.yml) [![NuGet](https://img.shields.io/nuget/v/XenoAtom.Glob.svg)](https://w...",
-      "lastUpdatedUtc": "2026-04-09T19:14:12.7594201Z"
+      "readmeSummary": "A high-performance .NET glob library with gitignore compatibility. XenoAtom.Glob ` overloads and reusable evaluators Ignore-aware file tree walking with directory pruning and file metadata capture...",
+      "lastUpdatedUtc": "2026-04-09T19:19:03.7157932Z"
     },
     {
       "name": "graphify-dotnet",
@@ -39,8 +39,8 @@
       "htmlUrl": "https://github.com/elbruno/graphify-dotnet",
       "stars": 29,
       "language": "C#",
-      "readmeSummary": "A .NET 10 port of graphify - AI knowledge graph builder for codebases using GitHub Copilot SDK and Microsoft.Extensions.AI # graphify-dotnet  [![CI Build](https://github.com/elbruno/graphify-dotnet/actions/workflows/build.yml/badge.svg)](https://github.com/elbruno/graphify-dotnet/actions/workflows/build.yml) [![Publish](https://github.com/elbruno/graphify-dotne...",
-      "lastUpdatedUtc": "2026-04-09T19:14:12.7594201Z"
+      "readmeSummary": "A .NET 10 port of graphify - AI knowledge graph builder for codebases using GitHub Copilot SDK and... graphify-dotnet \uD83D\uDD0D **Build AI-powered knowledge graphs from any codebase.** Understand structure you didn't know was...",
+      "lastUpdatedUtc": "2026-04-09T19:19:03.7157932Z"
     },
     {
       "name": "Hermes-Desktop",
@@ -49,8 +49,8 @@
       "htmlUrl": "https://github.com/RedWoodOG/Hermes-Desktop",
       "stars": 26,
       "language": "C#",
-      "readmeSummary": "Hermes_Desktop # Hermes Desktop  <p align=\"center\">   <img src=\"docs/logo.png\" alt=\"Hermes Desktop Logo\" width=\"128\" /> </p>  ![Hermes Agent Banner](docs/screenshots/banner.png)  A native Windows desktop AI agent built with WinUI 3 and .NET 10 — featuring...",
-      "lastUpdatedUtc": "2026-04-09T19:14:12.7594201Z"
+      "readmeSummary": "Hermes_Desktop Hermes Desktop A native Windows desktop AI agent built with WinUI 3 and .NET 10 — featuring a soul identity system, 94 skills, multi-agent...",
+      "lastUpdatedUtc": "2026-04-09T19:19:03.7157932Z"
     }
   ]
 }

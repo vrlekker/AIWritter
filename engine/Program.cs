@@ -2,6 +2,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
 using System.Text.Encodings.Web;
+using System.Text.RegularExpressions;
 using System.Xml.Linq;
 using GhostEngine.Models;
 
@@ -146,7 +147,7 @@ static async Task<string> SummarizeReadmeAsync(HttpClient client, GitHubReposito
 
         return string.IsNullOrWhiteSpace(content)
             ? CreateFallbackSummary(readmeText, repo.Description)
-            : content.Trim();
+            : NormalizeSummaryText(content, 220);
     }
     catch
     {
@@ -156,22 +157,82 @@ static async Task<string> SummarizeReadmeAsync(HttpClient client, GitHubReposito
 
 static string CreateFallbackSummary(string readmeText, string? description)
 {
-    var clean = readmeText
-        .Replace("\r", " ")
-        .Replace("\n", " ")
-        .Trim();
+    var clean = NormalizeSummaryText(readmeText, 400);
+    var normalizedDescription = NormalizeSummaryText(description, 120);
 
-    if (clean.Length > 240)
+    if (string.IsNullOrWhiteSpace(clean))
     {
-        clean = clean[..240].TrimEnd() + "...";
+        return string.IsNullOrWhiteSpace(normalizedDescription)
+            ? "No README summary available."
+            : normalizedDescription;
     }
 
-    if (!string.IsNullOrWhiteSpace(description))
+    var excerpt = ExtractSummaryExcerpt(clean, normalizedDescription);
+
+    if (string.IsNullOrWhiteSpace(normalizedDescription))
     {
-        return $"{description.Trim()} {clean}".Trim();
+        return excerpt;
     }
 
-    return clean;
+    if (string.IsNullOrWhiteSpace(excerpt) || string.Equals(excerpt, normalizedDescription, StringComparison.OrdinalIgnoreCase))
+    {
+        return normalizedDescription;
+    }
+
+    return NormalizeSummaryText($"{normalizedDescription} {excerpt}", 220);
+}
+
+static string NormalizeSummaryText(string? value, int maxLength)
+{
+    if (string.IsNullOrWhiteSpace(value))
+    {
+        return string.Empty;
+    }
+
+    var clean = value;
+    clean = Regex.Replace(clean, @"```.*?```", " ", RegexOptions.Singleline);
+    clean = Regex.Replace(clean, @"!\[[^\]]*\]\([^)]+\)", " ");
+    clean = Regex.Replace(clean, @"\[([^\]]+)\]\([^)]+\)", "$1");
+    clean = Regex.Replace(clean, @"https?://\S+", " ");
+    clean = Regex.Replace(clean, @"<[^>]+>", " ");
+    clean = Regex.Replace(clean, @"(?m)^\s{0,3}(#{1,6}|>+|[-*+])\s*", " ");
+    clean = clean.Replace("\r", " ").Replace("\n", " ");
+    clean = Regex.Replace(clean, @"\s+", " ").Trim();
+
+    if (clean.Length <= maxLength)
+    {
+        return clean;
+    }
+
+    var shortened = clean[..maxLength].TrimEnd();
+    var lastSpace = shortened.LastIndexOf(' ');
+    if (lastSpace > maxLength / 2)
+    {
+        shortened = shortened[..lastSpace];
+    }
+
+    return shortened.TrimEnd(' ', '.', ',', ';', ':') + "...";
+}
+
+static string ExtractSummaryExcerpt(string cleanText, string normalizedDescription)
+{
+    if (string.IsNullOrWhiteSpace(cleanText))
+    {
+        return string.Empty;
+    }
+
+    var sentences = Regex.Split(cleanText, @"(?<=[.!?])\s+")
+        .Select(segment => segment.Trim())
+        .Where(segment => segment.Length >= 32)
+        .Where(segment => string.IsNullOrWhiteSpace(normalizedDescription) || !segment.Contains(normalizedDescription, StringComparison.OrdinalIgnoreCase))
+        .ToList();
+
+    if (sentences.Count == 0)
+    {
+        return NormalizeSummaryText(cleanText, 140);
+    }
+
+    return NormalizeSummaryText(sentences[0], 140);
 }
 
 static Task WriteSitemapAsync(string sitemapPath, IEnumerable<TrendingRepoItem> repos, DateTime updatedAtUtc)

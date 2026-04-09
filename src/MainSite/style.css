@@ -152,6 +152,7 @@ h1 {
 .repo-name {
   margin: 0;
   font-size: 1.08rem;
+  overflow-wrap: anywhere;
 }
 
 .repo-stars {
@@ -166,10 +167,22 @@ h1 {
   color: #c6e9de;
   line-height: 1.45;
   font-size: 0.95rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .repo-summary {
   color: #b1dcd0;
+  -webkit-line-clamp: 5;
+  line-clamp: 5;
+}
+
+.repo-description {
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
 }
 
 .repo-foot {
