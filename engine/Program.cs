@@ -177,25 +177,25 @@ static Task WriteSitemapAsync(string sitemapPath, IEnumerable<TrendingRepoItem> 
 {
     var baseUrl = ResolveBaseSiteUrl();
     var lastMod = updatedAtUtc.ToString("yyyy-MM-dd");
+    XNamespace ns = "http://www.sitemaps.org/schemas/sitemap/0.9";
 
-    var urlset = new XElement("urlset",
-        new XAttribute("xmlns", "http://www.sitemaps.org/schemas/sitemap/0.9"),
-        new XElement("url",
-            new XElement("loc", baseUrl),
-            new XElement("lastmod", lastMod),
-            new XElement("changefreq", "daily"),
-            new XElement("priority", "1.0")
+    var urlset = new XElement(ns + "urlset",
+        new XElement(ns + "url",
+            new XElement(ns + "loc", baseUrl),
+            new XElement(ns + "lastmod", lastMod),
+            new XElement(ns + "changefreq", "daily"),
+            new XElement(ns + "priority", "1.0")
         ));
 
     foreach (var repo in repos)
     {
         var repoParam = Uri.EscapeDataString($"{repo.Owner}/{repo.Name}");
         var link = $"{baseUrl}?repo={repoParam}";
-        urlset.Add(new XElement("url",
-            new XElement("loc", link),
-            new XElement("lastmod", lastMod),
-            new XElement("changefreq", "daily"),
-            new XElement("priority", "0.7")
+        urlset.Add(new XElement(ns + "url",
+            new XElement(ns + "loc", link),
+            new XElement(ns + "lastmod", lastMod),
+            new XElement(ns + "changefreq", "daily"),
+            new XElement(ns + "priority", "0.7")
         ));
     }
 
