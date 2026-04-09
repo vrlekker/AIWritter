@@ -4,6 +4,8 @@ const metaInfo = document.getElementById("metaInfo");
 const feedTabsEl = document.getElementById("feedTabs");
 const feedDescriptionEl = document.getElementById("feedDescription");
 const heroStatsEl = document.getElementById("heroStats");
+const pulseUpdatedEl = document.getElementById("pulseUpdated");
+const pulseCountEl = document.getElementById("pulseCount");
 const template = document.getElementById("itemCardTemplate");
 
 const state = {
@@ -11,6 +13,17 @@ const state = {
   activeFeedId: "",
   generatedAtUtc: "",
   totalItemCount: 0,
+};
+
+const FEED_ICONS = {
+  "ai-tools": "fa-robot",
+  "tech-news": "fa-bolt",
+  "csharp-repos": "fa-code-branch",
+  security: "fa-shield-halved",
+};
+
+const FEED_DEFAULT_ACTION = {
+  "tech-news": "Read Article",
 };
 
 async function init() {
@@ -29,10 +42,13 @@ async function init() {
     state.activeFeedId = resolveInitialFeed(normalized.featuredFeedId, normalized.feeds);
 
     renderHeroStats();
+    renderPulseStrip();
     renderTabs();
     renderActiveFeed();
   } catch (error) {
     metaInfo.textContent = "Unable to load data. Run the engine workflow to generate trending-repos.json.";
+    pulseUpdatedEl.textContent = "Last Engine Run: unavailable";
+    pulseCountEl.textContent = "0 items processed";
     resultsEl.innerHTML = "";
   }
 }
@@ -71,11 +87,12 @@ function normalizePayload(payload) {
 
 function normalizeFeed(feed) {
   const items = feed.items || feed.Items || [];
+  const id = feed.id || feed.Id || "feed";
   return {
-    id: feed.id || feed.Id,
+    id,
     title: feed.title || feed.Title,
     description: feed.description || feed.Description,
-    actionLabel: feed.actionLabel || feed.ActionLabel || "Open",
+    actionLabel: feed.actionLabel || feed.ActionLabel || FEED_DEFAULT_ACTION[id] || "Open",
     items: items.map(normalizeItem),
   };
 }
@@ -124,9 +141,9 @@ function resolveInitialFeed(featuredFeedId, feeds) {
 function renderHeroStats() {
   const generated = state.generatedAtUtc ? new Date(state.generatedAtUtc).toLocaleString() : "unknown";
   const stats = [
-    `${state.feeds.length} feeds`,
+    `${state.feeds.length} feeds online`,
     `${state.totalItemCount} live items`,
-    `Updated ${generated}`,
+    `Synced ${generated}`,
   ];
 
   heroStatsEl.innerHTML = "";
@@ -138,6 +155,27 @@ function renderHeroStats() {
   });
 }
 
+function renderPulseStrip() {
+  const minutes = getMinutesSinceUpdate(state.generatedAtUtc);
+  const runLabel = minutes === null ? "Last Engine Run: unknown" : `Last Engine Run: ${minutes} minute${minutes === 1 ? "" : "s"} ago`;
+  pulseUpdatedEl.textContent = runLabel;
+  pulseCountEl.textContent = `${state.totalItemCount.toLocaleString()} items processed`;
+}
+
+function getMinutesSinceUpdate(utc) {
+  if (!utc) {
+    return null;
+  }
+
+  const timestamp = Date.parse(utc);
+  if (Number.isNaN(timestamp)) {
+    return null;
+  }
+
+  const deltaMs = Date.now() - timestamp;
+  return Math.max(0, Math.round(deltaMs / 60000));
+}
+
 function renderTabs() {
   feedTabsEl.innerHTML = "";
 
@@ -145,7 +183,9 @@ function renderTabs() {
     const button = document.createElement("button");
     button.type = "button";
     button.className = feed.id === state.activeFeedId ? "feed-tab is-active" : "feed-tab";
-    button.textContent = `${feed.title} (${feed.items.length})`;
+    button.setAttribute("role", "tab");
+    button.setAttribute("aria-selected", feed.id === state.activeFeedId ? "true" : "false");
+    button.innerHTML = `<i class="fa-solid ${iconForFeed(feed.id)}" aria-hidden="true"></i><span>${feed.title}</span><span class="tab-count">${feed.items.length}</span>`;
     button.addEventListener("click", () => {
       state.activeFeedId = feed.id;
       searchInput.value = "";
@@ -169,10 +209,10 @@ function renderActiveFeed() {
 
   const query = searchInput.value.trim().toLowerCase();
   const items = query ? filterItems(feed.items, query) : feed.items;
-  renderCards(items, feed.actionLabel, query);
+  renderCards(items, feed, query);
 }
 
-function renderCards(items, actionLabel, query) {
+function renderCards(items, feed, query) {
   resultsEl.innerHTML = "";
 
   if (!items.length) {
@@ -187,7 +227,8 @@ function renderCards(items, actionLabel, query) {
 
   items.forEach((item, index) => {
     const fragment = template.content.cloneNode(true);
-    fragment.querySelector(".item-badge").textContent = item.category;
+    fragment.querySelector(".item-badge-icon").className = `item-badge-icon fa-solid ${iconForFeed(feed.id)}`;
+    fragment.querySelector(".item-badge-label").textContent = item.category;
     fragment.querySelector(".item-metric").textContent = item.metric;
     fragment.querySelector(".item-title").textContent = item.title;
     fragment.querySelector(".item-summary").textContent = item.summary;
@@ -195,13 +236,61 @@ function renderCards(items, actionLabel, query) {
 
     const link = fragment.querySelector(".item-link");
     link.href = item.url;
-    link.textContent = actionLabel;
+    link.textContent = feed.actionLabel;
+
+    const tooltip = fragment.querySelector(".item-tooltip");
+    tooltip.textContent = `Original source: ${item.url}. Rewritten by AI summarizer.`;
+
+    const copyButton = fragment.querySelector(".item-copy");
+    copyButton.addEventListener("click", () => copySummary(item, copyButton));
+
+    const shareButton = fragment.querySelector(".item-share");
+    shareButton.addEventListener("click", () => shareItem(item, shareButton));
 
     const card = fragment.querySelector(".item-card");
     card.style.animationDelay = `${index * 50}ms`;
 
     resultsEl.appendChild(fragment);
   });
+}
+
+function iconForFeed(feedId) {
+  return FEED_ICONS[feedId] || "fa-microchip";
+}
+
+async function copySummary(item, button) {
+  const text = `${item.title}\n\n${item.summary}\n\nSource: ${item.url}`;
+
+  try {
+    await navigator.clipboard.writeText(text);
+    setTemporaryButtonText(button, "Copied");
+  } catch {
+    setTemporaryButtonText(button, "Blocked");
+  }
+}
+
+async function shareItem(item, button) {
+  const payload = { title: item.title, text: item.summary, url: item.url };
+
+  try {
+    if (navigator.share) {
+      await navigator.share(payload);
+      return;
+    }
+
+    await navigator.clipboard.writeText(item.url);
+    setTemporaryButtonText(button, "Link Copied");
+  } catch {
+    setTemporaryButtonText(button, "Blocked");
+  }
+}
+
+function setTemporaryButtonText(button, label) {
+  const original = button.innerHTML;
+  button.textContent = label;
+  window.setTimeout(() => {
+    button.innerHTML = original;
+  }, 1200);
 }
 
 function filterItems(items, query) {

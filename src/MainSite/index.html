@@ -7,17 +7,26 @@
   <title>Automated Media Lab</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWix+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkR4j8Jf3zYz2fRr2f9P3p7h5v0x0n0k6Q0A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
-  <div class="page-aura aura-left"></div>
-  <div class="page-aura aura-right"></div>
+  <div class="pulse-strip" role="status" aria-live="polite">
+    <div class="pulse-left">
+      <span class="live-dot" aria-hidden="true"></span>
+      <span class="live-text">LIVE</span>
+    </div>
+    <div class="pulse-right">
+      <span id="pulseUpdated">Last Engine Run: --</span>
+      <span class="pulse-divider">|</span>
+      <span id="pulseCount">0 items processed</span>
+    </div>
+  </div>
 
   <header class="hero">
     <p class="eyebrow">Automated Media Lab</p>
-    <h1>One live desk for AI tools, C# projects, and technology headlines.</h1>
-    <p class="subtitle">GitHub Actions keeps this portal current by refreshing multiple public data feeds into a static site.</p>
+    <h1>High signal, low noise for AI, C#, and tech intelligence.</h1>
     <div id="heroStats" class="hero-stats"></div>
   </header>
 
@@ -38,14 +47,19 @@
   <template id="itemCardTemplate">
     <article class="item-card">
       <div class="item-top">
-        <span class="item-badge"></span>
+        <span class="item-badge"><i class="item-badge-icon fa-solid fa-code-branch" aria-hidden="true"></i><span class="item-badge-label"></span></span>
         <span class="item-metric"></span>
       </div>
       <h2 class="item-title"></h2>
       <p class="item-summary"></p>
       <div class="item-foot">
         <span class="item-subtitle"></span>
-        <a class="item-link" target="_blank" rel="noopener noreferrer"></a>
+        <div class="item-actions">
+          <button type="button" class="item-info" aria-label="Item source details"><i class="fa-solid fa-circle-info" aria-hidden="true"></i><span class="item-tooltip" role="tooltip"></span></button>
+          <button type="button" class="item-copy" aria-label="Copy summary"><i class="fa-regular fa-copy" aria-hidden="true"></i> Copy</button>
+          <a class="item-link" target="_blank" rel="noopener noreferrer"></a>
+          <button type="button" class="item-share" aria-label="Share item"><i class="fa-solid fa-share-nodes" aria-hidden="true"></i> Share</button>
+        </div>
       </div>
     </article>
   </template>
