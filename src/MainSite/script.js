@@ -13,10 +13,13 @@ async function init() {
     }
 
     const payload = await response.json();
-    allRepos = payload.items || [];
+    const items = payload.items || payload.Items || [];
+    const generatedAtUtc = payload.generatedAtUtc || payload.GeneratedAtUtc;
+
+    allRepos = items;
     render(allRepos);
 
-    const generated = payload.generatedAtUtc ? new Date(payload.generatedAtUtc).toLocaleString() : "unknown";
+    const generated = generatedAtUtc ? new Date(generatedAtUtc).toLocaleString() : "unknown";
     metaInfo.textContent = `Last refresh: ${generated} | Repositories: ${allRepos.length}`;
   } catch (error) {
     metaInfo.textContent = "Unable to load data. Run the engine workflow to generate trending-repos.json.";
@@ -37,15 +40,21 @@ function render(repos) {
 
   repos.forEach((repo, index) => {
     const fragment = template.content.cloneNode(true);
+    const name = repo.name || repo.Name;
+    const owner = repo.owner || repo.Owner;
+    const description = repo.description || repo.Description;
+    const stars = repo.stars || repo.Stars || 0;
+    const readmeSummary = repo.readmeSummary || repo.ReadmeSummary;
+    const htmlUrl = repo.htmlUrl || repo.HtmlUrl;
 
-    fragment.querySelector(".repo-name").textContent = repo.name;
-    fragment.querySelector(".repo-stars").textContent = `★ ${repo.stars.toLocaleString()}`;
-    fragment.querySelector(".repo-description").textContent = repo.description;
-    fragment.querySelector(".repo-summary").textContent = repo.readmeSummary;
-    fragment.querySelector(".repo-owner").textContent = `@${repo.owner}`;
+    fragment.querySelector(".repo-name").textContent = name;
+    fragment.querySelector(".repo-stars").textContent = `★ ${stars.toLocaleString()}`;
+    fragment.querySelector(".repo-description").textContent = description;
+    fragment.querySelector(".repo-summary").textContent = readmeSummary;
+    fragment.querySelector(".repo-owner").textContent = `@${owner}`;
 
     const link = fragment.querySelector(".repo-link");
-    link.href = repo.htmlUrl;
+    link.href = htmlUrl;
 
     const card = fragment.querySelector(".repo-card");
     card.style.animationDelay = `${index * 60}ms`;
@@ -62,7 +71,7 @@ searchInput.addEventListener("input", (event) => {
   }
 
   const filtered = allRepos.filter((repo) => {
-    const combined = `${repo.name} ${repo.owner} ${repo.description} ${repo.readmeSummary}`.toLowerCase();
+    const combined = `${repo.name || repo.Name} ${repo.owner || repo.Owner} ${repo.description || repo.Description} ${repo.readmeSummary || repo.ReadmeSummary}`.toLowerCase();
     return combined.includes(query);
   });
 

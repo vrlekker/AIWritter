@@ -64,7 +64,8 @@ foreach (var repo in searchResponse.Items.Take(RepoCount))
 var options = new JsonSerializerOptions
 {
     WriteIndented = true,
-    Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+    Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping,
+    PropertyNamingPolicy = JsonNamingPolicy.CamelCase
 };
 
 await File.WriteAllTextAsync(outputJsonPath, JsonSerializer.Serialize(payload, options), Encoding.UTF8);
