@@ -1,56 +1,255 @@
 ﻿{
-  "generatedAtUtc": "2026-04-09T19:19:03.7157932Z",
-  "sourceQuery": "language:C# created:>2026-04-02",
+  "generatedAtUtc": "2026-04-09T19:30:36.4040054Z",
+  "featuredFeedId": "csharp-repos",
+  "totalItemCount": 18,
+  "feeds": [
+    {
+      "id": "csharp-repos",
+      "title": "Trending C# Repositories",
+      "description": "Fresh .NET and C# projects gaining attention this week.",
+      "itemType": "repository",
+      "actionLabel": "View Repository",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-04-02 archived:false",
+      "items": [
+        {
+          "title": "PowerToys",
+          "subtitle": "@microsoft",
+          "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
+          "url": "https://github.com/microsoft/PowerToys",
+          "category": "C#",
+          "metric": "131,475 stars",
+          "publishedAtUtc": "2026-04-09T19:20:43.0000000Z"
+        },
+        {
+          "title": "v2rayN",
+          "subtitle": "@2dust",
+          "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
+          "url": "https://github.com/2dust/v2rayN",
+          "category": "C#",
+          "metric": "101,377 stars",
+          "publishedAtUtc": "2026-04-09T19:29:11.0000000Z"
+        },
+        {
+          "title": "PowerShell",
+          "subtitle": "@PowerShell",
+          "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
+          "url": "https://github.com/PowerShell/PowerShell",
+          "category": "C#",
+          "metric": "52,351 stars",
+          "publishedAtUtc": "2026-04-09T18:29:42.0000000Z"
+        },
+        {
+          "title": "jellyfin",
+          "subtitle": "@jellyfin",
+          "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "category": "C#",
+          "metric": "50,173 stars",
+          "publishedAtUtc": "2026-04-09T19:16:51.0000000Z"
+        },
+        {
+          "title": "Files",
+          "subtitle": "@files-community",
+          "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
+          "url": "https://github.com/files-community/Files",
+          "category": "C#",
+          "metric": "42,937 stars",
+          "publishedAtUtc": "2026-04-09T19:25:58.0000000Z"
+        },
+        {
+          "title": "aspnetcore",
+          "subtitle": "@dotnet",
+          "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
+          "url": "https://github.com/dotnet/aspnetcore",
+          "category": "C#",
+          "metric": "37,817 stars",
+          "publishedAtUtc": "2026-04-09T16:55:52.0000000Z"
+        }
+      ]
+    },
+    {
+      "id": "ai-tools",
+      "title": "AI Tools",
+      "description": "Active AI tooling repositories worth monitoring across the ecosystem.",
+      "itemType": "repository",
+      "actionLabel": "Explore Tool",
+      "sourceQuery": "topic:ai stars:>150 archived:false",
+      "items": [
+        {
+          "title": "studio",
+          "subtitle": "@decocms",
+          "summary": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar Deco CMS Open-source · TypeScript-first · Deploy anywhere Open-source...",
+          "url": "https://github.com/decocms/studio",
+          "category": "TypeScript",
+          "metric": "356 stars",
+          "publishedAtUtc": "2026-04-09T19:29:36.0000000Z"
+        },
+        {
+          "title": "langchain-google",
+          "subtitle": "@langchain-ai",
+          "summary": "\uD83E\uDD9C\uD83D\uDD17 LangChain interfaces to Google's suite of AI products (Gemini & Vertex AI) \uD83E\uDD9C️\uD83D\uDD17 LangChain Google This repository centralizes Google integrations for LangChain projects.",
+          "url": "https://github.com/langchain-ai/langchain-google",
+          "category": "Python",
+          "metric": "363 stars",
+          "publishedAtUtc": "2026-04-09T19:29:17.0000000Z"
+        },
+        {
+          "title": "wisent",
+          "subtitle": "@wisent-ai",
+          "summary": "This is an open-source version of the representation engineering framework for stopping harmful outputs or... pip install wisent Overview Wisent allows you to control your AI by...",
+          "url": "https://github.com/wisent-ai/wisent",
+          "category": "Python",
+          "metric": "341 stars",
+          "publishedAtUtc": "2026-04-09T19:29:06.0000000Z"
+        },
+        {
+          "title": "Archon",
+          "subtitle": "@coleam00",
+          "summary": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. Archon The first open-source harness builder for AI coding.",
+          "url": "https://github.com/coleam00/Archon",
+          "category": "TypeScript",
+          "metric": "14,295 stars",
+          "publishedAtUtc": "2026-04-09T19:28:34.0000000Z"
+        },
+        {
+          "title": "CopilotKit",
+          "subtitle": "@CopilotKit",
+          "summary": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol CopilotKit Docs · Examples · Copilot Cloud · Discord Build agent-native applications...",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "category": "TypeScript",
+          "metric": "30,100 stars",
+          "publishedAtUtc": "2026-04-09T19:28:02.0000000Z"
+        },
+        {
+          "title": "models",
+          "subtitle": "@arimxyer",
+          "summary": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers. models TUI and CLI for browsing AI models, benchmarks, coding agents, and provider...",
+          "url": "https://github.com/arimxyer/models",
+          "category": "Rust",
+          "metric": "377 stars",
+          "publishedAtUtc": "2026-04-09T19:28:06.0000000Z"
+        }
+      ]
+    },
+    {
+      "id": "tech-news",
+      "title": "Latest Tech News",
+      "description": "Hot technology headlines from Hacker News top stories.",
+      "itemType": "news",
+      "actionLabel": "Read Article",
+      "sourceQuery": "https://hacker-news.firebaseio.com/v0/topstories.json",
+      "items": [
+        {
+          "title": "What Game Engines Know About Data That Databases Forgot",
+          "subtitle": "Hacker News • @speckx",
+          "summary": "Trending on Hacker News with 57 points and 31 comments. Fresh coverage from the technology discussion cycle.",
+          "url": "https://nockawa.github.io/blog/what-game-engines-know-about-data/",
+          "category": "Technology News",
+          "metric": "57 points",
+          "publishedAtUtc": "2026-04-09T18:10:33.0000000Z"
+        },
+        {
+          "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
+          "subtitle": "Hacker News • @PaulHoule",
+          "summary": "Trending on Hacker News with 26 points and 3 comments. Fresh coverage from the technology discussion cycle.",
+          "url": "https://hegel.dev",
+          "category": "Technology News",
+          "metric": "26 points",
+          "publishedAtUtc": "2026-04-09T18:37:45.0000000Z"
+        },
+        {
+          "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
+          "subtitle": "Hacker News • @hopechong",
+          "summary": "Trending on Hacker News with 40 points and 13 comments. Fresh coverage from the technology discussion cycle.",
+          "url": "https://blog.skypilot.co/research-driven-agents/",
+          "category": "Technology News",
+          "metric": "40 points",
+          "publishedAtUtc": "2026-04-09T16:58:49.0000000Z"
+        },
+        {
+          "title": "Show HN: I built a Cargo-like build tool for C/C++",
+          "subtitle": "Hacker News • @randerson_112",
+          "summary": "Trending on Hacker News with 71 points and 70 comments. Fresh coverage from the technology discussion cycle.",
+          "url": "https://github.com/randerson112/craft",
+          "category": "Technology News",
+          "metric": "71 points",
+          "publishedAtUtc": "2026-04-09T16:04:54.0000000Z"
+        },
+        {
+          "title": "PicoZ80 – Drop-In Z80 Replacement",
+          "subtitle": "Hacker News • @rickcarlino",
+          "summary": "Trending on Hacker News with 5 points. Fresh coverage from the technology discussion cycle.",
+          "url": "https://eaw.app/picoz80/",
+          "category": "Technology News",
+          "metric": "5 points",
+          "publishedAtUtc": "2026-04-09T18:53:20.0000000Z"
+        },
+        {
+          "title": "EFF is leaving X",
+          "subtitle": "Hacker News • @gregsadetsky",
+          "summary": "Trending on Hacker News with 603 points and 536 comments. Fresh coverage from the technology discussion cycle.",
+          "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
+          "category": "Technology News",
+          "metric": "603 points",
+          "publishedAtUtc": "2026-04-09T17:08:04.0000000Z"
+        }
+      ]
+    }
+  ],
   "items": [
     {
-      "name": "CS2-Skin-Changer-Tool-2026-All-Items",
-      "owner": "maybug-100otow",
-      "description": "Change and customize CS2 weapon skins with the 2026 skin tool",
-      "htmlUrl": "https://github.com/maybug-100otow/CS2-Skin-Changer-Tool-2026-All-Items",
-      "stars": 42,
-      "language": "C#",
-      "readmeSummary": "Change and customize CS2 weapon skins with the 2026 skin tool - \uD83D\uDCE5 Download *Latest version:** v2.0.0 (2026) | File size: 133.99 MB | Platform | Link | |----------|------| | \uD83E\uDE9F Windows 10/11...",
-      "lastUpdatedUtc": "2026-04-09T19:19:03.7157932Z"
+      "title": "PowerToys",
+      "subtitle": "@microsoft",
+      "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
+      "url": "https://github.com/microsoft/PowerToys",
+      "category": "C#",
+      "metric": "131,475 stars",
+      "publishedAtUtc": "2026-04-09T19:20:43.0000000Z"
     },
     {
-      "name": "YIUI-UnityMCP",
-      "owner": "LiShengYang-yiyi",
-      "description": "No description provided.",
-      "htmlUrl": "https://github.com/LiShengYang-yiyi/YIUI-UnityMCP",
-      "stars": 33,
-      "language": "C#",
-      "readmeSummary": "YIUIMCP 让 AI 用更接近 CLI 的方式驱动 Unity，而不是停留在传统的一下一下 MCP tool call。 YIUIMCP 是一个给 Unity 用的本地 AI 编排插件。 它把 Unity 内部的原子工具、HTTP/RPC 通道、UTO...",
-      "lastUpdatedUtc": "2026-04-09T19:19:03.7157932Z"
+      "title": "v2rayN",
+      "subtitle": "@2dust",
+      "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
+      "url": "https://github.com/2dust/v2rayN",
+      "category": "C#",
+      "metric": "101,377 stars",
+      "publishedAtUtc": "2026-04-09T19:29:11.0000000Z"
     },
     {
-      "name": "XenoAtom.Glob",
-      "owner": "XenoAtom",
-      "description": "A high-performance .NET glob library with gitignore compatibility.",
-      "htmlUrl": "https://github.com/XenoAtom/XenoAtom.Glob",
-      "stars": 31,
-      "language": "C#",
-      "readmeSummary": "A high-performance .NET glob library with gitignore compatibility. XenoAtom.Glob ` overloads and reusable evaluators Ignore-aware file tree walking with directory pruning and file metadata capture...",
-      "lastUpdatedUtc": "2026-04-09T19:19:03.7157932Z"
+      "title": "PowerShell",
+      "subtitle": "@PowerShell",
+      "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "category": "C#",
+      "metric": "52,351 stars",
+      "publishedAtUtc": "2026-04-09T18:29:42.0000000Z"
     },
     {
-      "name": "graphify-dotnet",
-      "owner": "elbruno",
-      "description": "A .NET 10 port of graphify - AI knowledge graph builder for codebases using GitHub Copilot SDK and Microsoft.Extensions.AI",
-      "htmlUrl": "https://github.com/elbruno/graphify-dotnet",
-      "stars": 29,
-      "language": "C#",
-      "readmeSummary": "A .NET 10 port of graphify - AI knowledge graph builder for codebases using GitHub Copilot SDK and... graphify-dotnet \uD83D\uDD0D **Build AI-powered knowledge graphs from any codebase.** Understand structure you didn't know was...",
-      "lastUpdatedUtc": "2026-04-09T19:19:03.7157932Z"
+      "title": "jellyfin",
+      "subtitle": "@jellyfin",
+      "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "category": "C#",
+      "metric": "50,173 stars",
+      "publishedAtUtc": "2026-04-09T19:16:51.0000000Z"
     },
     {
-      "name": "Hermes-Desktop",
-      "owner": "RedWoodOG",
-      "description": "Hermes_Desktop",
-      "htmlUrl": "https://github.com/RedWoodOG/Hermes-Desktop",
-      "stars": 26,
-      "language": "C#",
-      "readmeSummary": "Hermes_Desktop Hermes Desktop A native Windows desktop AI agent built with WinUI 3 and .NET 10 — featuring a soul identity system, 94 skills, multi-agent...",
-      "lastUpdatedUtc": "2026-04-09T19:19:03.7157932Z"
+      "title": "Files",
+      "subtitle": "@files-community",
+      "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
+      "url": "https://github.com/files-community/Files",
+      "category": "C#",
+      "metric": "42,937 stars",
+      "publishedAtUtc": "2026-04-09T19:25:58.0000000Z"
+    },
+    {
+      "title": "aspnetcore",
+      "subtitle": "@dotnet",
+      "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "category": "C#",
+      "metric": "37,817 stars",
+      "publishedAtUtc": "2026-04-09T16:55:52.0000000Z"
     }
   ]
 }

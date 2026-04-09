@@ -3,44 +3,49 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Automated Media Lab portal for trending C# repositories." />
+  <meta name="description" content="Automated Media Lab portal for AI tools, C# repositories, and technology news." />
   <title>Automated Media Lab</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
-  <div class="bg-orb orb-a"></div>
-  <div class="bg-orb orb-b"></div>
+  <div class="page-aura aura-left"></div>
+  <div class="page-aura aura-right"></div>
 
-  <header class="site-header">
+  <header class="hero">
     <p class="eyebrow">Automated Media Lab</p>
-    <h1>Trending C# Repositories</h1>
-    <p class="subtitle">A self-updating portal powered by GitHub Actions + .NET 8.</p>
+    <h1>One live desk for AI tools, C# projects, and technology headlines.</h1>
+    <p class="subtitle">GitHub Actions keeps this portal current by refreshing multiple public data feeds into a static site.</p>
+    <div id="heroStats" class="hero-stats"></div>
   </header>
 
   <main class="content">
-    <section class="toolbar">
-      <label for="searchInput">Search Repositories</label>
-      <input id="searchInput" type="search" placeholder="Type a repo name, owner, or keyword..." autocomplete="off" />
+    <section class="control-panel">
+      <div class="search-block">
+        <label for="searchInput">Search the selected feed</label>
+        <input id="searchInput" type="search" placeholder="Search titles, summaries, sources, or tags..." autocomplete="off" />
+      </div>
       <p id="metaInfo" class="meta">Loading latest dataset...</p>
+      <div id="feedTabs" class="feed-tabs" role="tablist" aria-label="Content feeds"></div>
+      <p id="feedDescription" class="feed-description"></p>
     </section>
 
     <section id="results" class="card-grid" aria-live="polite"></section>
   </main>
 
-  <template id="repoCardTemplate">
-    <article class="repo-card">
-      <div class="repo-head">
-        <h2 class="repo-name"></h2>
-        <span class="repo-stars"></span>
+  <template id="itemCardTemplate">
+    <article class="item-card">
+      <div class="item-top">
+        <span class="item-badge"></span>
+        <span class="item-metric"></span>
       </div>
-      <p class="repo-description"></p>
-      <p class="repo-summary"></p>
-      <div class="repo-foot">
-        <span class="repo-owner"></span>
-        <a class="repo-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+      <h2 class="item-title"></h2>
+      <p class="item-summary"></p>
+      <div class="item-foot">
+        <span class="item-subtitle"></span>
+        <a class="item-link" target="_blank" rel="noopener noreferrer"></a>
       </div>
     </article>
   </template>

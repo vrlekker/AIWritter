@@ -28,6 +28,9 @@ public sealed class GitHubRepositoryItem
     [JsonPropertyName("language")]
     public string? Language { get; set; }
 
+    [JsonPropertyName("updated_at")]
+    public DateTime UpdatedAt { get; set; }
+
     [JsonPropertyName("owner")]
     public GitHubOwner Owner { get; set; } = new();
 }
