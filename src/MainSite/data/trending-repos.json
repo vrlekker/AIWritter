@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-04-09T20:00:04.6506872Z",
+  "generatedAtUtc": "2026-04-10T06:19:40.8566914Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-04-02 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-04-03 archived:false",
       "items": [
         {
           "title": "PowerToys",
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "131,475 stars",
-          "publishedAtUtc": "2026-04-09T19:20:43.0000000Z"
+          "metric": "131,489 stars",
+          "publishedAtUtc": "2026-04-10T06:16:59.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "101,378 stars",
-          "publishedAtUtc": "2026-04-09T19:57:53.0000000Z"
+          "metric": "101,432 stars",
+          "publishedAtUtc": "2026-04-10T06:14:56.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "52,351 stars",
-          "publishedAtUtc": "2026-04-09T18:29:42.0000000Z"
+          "metric": "52,358 stars",
+          "publishedAtUtc": "2026-04-10T05:00:36.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "50,174 stars",
-          "publishedAtUtc": "2026-04-09T19:50:14.0000000Z"
+          "metric": "50,184 stars",
+          "publishedAtUtc": "2026-04-10T05:57:07.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "42,938 stars",
-          "publishedAtUtc": "2026-04-09T19:57:55.0000000Z"
+          "metric": "42,944 stars",
+          "publishedAtUtc": "2026-04-10T06:00:08.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,817 stars",
-          "publishedAtUtc": "2026-04-09T16:55:52.0000000Z"
+          "metric": "37,819 stars",
+          "publishedAtUtc": "2026-04-10T01:23:50.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "tandem-browser",
-          "subtitle": "@hydro13",
-          "summary": "AI-Human symbiotic browser — browse the web as one entity Tandem Browser Tandem Browser is a local-first Electron browser built for human-AI collaboration.",
-          "url": "https://github.com/hydro13/tandem-browser",
-          "category": "TypeScript",
-          "metric": "506 stars",
-          "publishedAtUtc": "2026-04-09T19:58:57.0000000Z"
-        },
-        {
-          "title": "toolhive",
-          "subtitle": "@stacklok",
-          "summary": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers. [![Release][release-img]][release] [![Build status][ci-img]][ci]...",
-          "url": "https://github.com/stacklok/toolhive",
-          "category": "Go",
-          "metric": "1,708 stars",
-          "publishedAtUtc": "2026-04-09T19:58:18.0000000Z"
-        },
-        {
-          "title": "LocalAI",
-          "subtitle": "@mudler",
-          "summary": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU... LocalAI is the open-source AI engine.",
-          "url": "https://github.com/mudler/LocalAI",
-          "category": "Go",
-          "metric": "45,141 stars",
-          "publishedAtUtc": "2026-04-09T19:58:38.0000000Z"
-        },
-        {
-          "title": "goose",
-          "subtitle": "@aaif-goose",
-          "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM This project has moved from block/goose to the Agentic AI...",
-          "url": "https://github.com/aaif-goose/goose",
+          "title": "biomcp",
+          "subtitle": "@genomoncology",
+          "summary": "BioMCP: Biomedical Model Context Protocol Evidence from the biomedical sources you already trust.",
+          "url": "https://github.com/genomoncology/biomcp",
           "category": "Rust",
-          "metric": "40,458 stars",
-          "publishedAtUtc": "2026-04-09T19:58:38.0000000Z"
+          "metric": "485 stars",
+          "publishedAtUtc": "2026-04-10T06:17:57.0000000Z"
         },
         {
-          "title": "hermes-agent",
-          "subtitle": "@NousResearch",
-          "summary": "The agent that grows with you Hermes Agent ☤ The self-improving AI agent built by Nous Research.",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "category": "Python",
-          "metric": "43,705 stars",
-          "publishedAtUtc": "2026-04-09T19:59:49.0000000Z"
-        },
-        {
-          "title": "asm",
-          "subtitle": "@luongnv89",
-          "summary": "The universal skill manager for AI coding agents. One tool to manage every AI agent's skills Stop juggling skill directories across Claude Code, Codex, Cursor, Windsurf, and 10+...",
-          "url": "https://github.com/luongnv89/asm",
+          "title": "AionUi",
+          "subtitle": "@iOfficeAI",
+          "summary": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose... &nbsp; &nbsp; -- A free, open-source, Cowork app with AI...",
+          "url": "https://github.com/iOfficeAI/AionUi",
           "category": "TypeScript",
-          "metric": "162 stars",
-          "publishedAtUtc": "2026-04-09T19:56:50.0000000Z"
+          "metric": "21,394 stars",
+          "publishedAtUtc": "2026-04-10T06:18:27.0000000Z"
+        },
+        {
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
+          "url": "https://github.com/openclaw/openclaw",
+          "category": "TypeScript",
+          "metric": "353,538 stars",
+          "publishedAtUtc": "2026-04-10T06:19:06.0000000Z"
+        },
+        {
+          "title": "aidevops",
+          "subtitle": "@marcusquinn",
+          "summary": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and... AI DevOps Framework aidevops.sh — An OpenCode plugin and AI...",
+          "url": "https://github.com/marcusquinn/aidevops",
+          "category": "Shell",
+          "metric": "167 stars",
+          "publishedAtUtc": "2026-04-10T06:15:52.0000000Z"
+        },
+        {
+          "title": "mcp-toolbox",
+          "subtitle": "@googleapis",
+          "summary": "MCP Toolbox for Databases is an open source MCP server for databases. MCP Toolbox for Databases MCP Toolbox for Databases is an open source Model Context Protocol (MCP) server...",
+          "url": "https://github.com/googleapis/mcp-toolbox",
+          "category": "Go",
+          "metric": "14,040 stars",
+          "publishedAtUtc": "2026-04-10T06:18:26.0000000Z"
+        },
+        {
+          "title": "fojin",
+          "subtitle": "@xr843",
+          "summary": "Buddhist Digital Text Platform — 9,200+ texts, 500+ sources, 8 UI languages, AI Q&A (RAG), knowledge graph, full-text... FoJin 佛津 The World's Encyclopedic Buddhist Digital Text...",
+          "url": "https://github.com/xr843/fojin",
+          "category": "Python",
+          "metric": "233 stars",
+          "publishedAtUtc": "2026-04-10T06:13:33.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "131,475 stars",
-      "publishedAtUtc": "2026-04-09T19:20:43.0000000Z"
+      "metric": "131,489 stars",
+      "publishedAtUtc": "2026-04-10T06:16:59.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "101,378 stars",
-      "publishedAtUtc": "2026-04-09T19:57:53.0000000Z"
+      "metric": "101,432 stars",
+      "publishedAtUtc": "2026-04-10T06:14:56.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "52,351 stars",
-      "publishedAtUtc": "2026-04-09T18:29:42.0000000Z"
+      "metric": "52,358 stars",
+      "publishedAtUtc": "2026-04-10T05:00:36.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "50,174 stars",
-      "publishedAtUtc": "2026-04-09T19:50:14.0000000Z"
+      "metric": "50,184 stars",
+      "publishedAtUtc": "2026-04-10T05:57:07.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "42,938 stars",
-      "publishedAtUtc": "2026-04-09T19:57:55.0000000Z"
+      "metric": "42,944 stars",
+      "publishedAtUtc": "2026-04-10T06:00:08.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,817 stars",
-      "publishedAtUtc": "2026-04-09T16:55:52.0000000Z"
+      "metric": "37,819 stars",
+      "publishedAtUtc": "2026-04-10T01:23:50.0000000Z"
     }
   ]
 }
