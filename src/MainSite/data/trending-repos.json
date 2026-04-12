@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-04-12T06:11:38.5611141Z",
+  "generatedAtUtc": "2026-04-12T14:11:13.8403583Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "131,558 stars",
-          "publishedAtUtc": "2026-04-12T05:00:23.0000000Z"
+          "metric": "131,567 stars",
+          "publishedAtUtc": "2026-04-12T13:27:58.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "101,701 stars",
-          "publishedAtUtc": "2026-04-12T06:11:07.0000000Z"
+          "metric": "101,752 stars",
+          "publishedAtUtc": "2026-04-12T14:06:03.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "52,388 stars",
-          "publishedAtUtc": "2026-04-12T05:07:45.0000000Z"
+          "metric": "52,390 stars",
+          "publishedAtUtc": "2026-04-12T13:24:25.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "50,235 stars",
-          "publishedAtUtc": "2026-04-12T06:06:29.0000000Z"
+          "metric": "50,246 stars",
+          "publishedAtUtc": "2026-04-12T14:09:21.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "42,964 stars",
-          "publishedAtUtc": "2026-04-12T04:57:46.0000000Z"
+          "metric": "42,963 stars",
+          "publishedAtUtc": "2026-04-12T13:57:09.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,825 stars",
-          "publishedAtUtc": "2026-04-12T00:00:14.0000000Z"
+          "metric": "37,824 stars",
+          "publishedAtUtc": "2026-04-12T12:35:25.0000000Z"
         }
       ]
     },
@@ -76,31 +76,31 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "natively-cluely-ai-assistant",
-          "subtitle": "@Natively-AI-assistant",
-          "summary": "Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI... Sponsored by Recall AI - API for desktop recording If you’re...",
-          "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant",
-          "category": "TypeScript",
-          "metric": "933 stars",
-          "publishedAtUtc": "2026-04-12T06:11:13.0000000Z"
+          "title": "claude-code-chat",
+          "subtitle": "@andrepimenta",
+          "summary": "Beautiful Claude Code Chat Interface for VS Code Chat with Claude Code through a beautiful, intuitive interface right inside VS Code.",
+          "url": "https://github.com/andrepimenta/claude-code-chat",
+          "category": "JavaScript",
+          "metric": "1,020 stars",
+          "publishedAtUtc": "2026-04-12T14:10:17.0000000Z"
         },
         {
-          "title": "worldmonitor",
-          "subtitle": "@koala73",
-          "summary": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure... World Monitor Real-time global intelligence dashboard —...",
-          "url": "https://github.com/koala73/worldmonitor",
-          "category": "TypeScript",
-          "metric": "47,842 stars",
-          "publishedAtUtc": "2026-04-12T06:10:18.0000000Z"
+          "title": "ragent",
+          "subtitle": "@nageoffer",
+          "summary": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。 Ragent AI 从 0 到 1 纯手工打造，一套真正能落地、经得起推敲的 Agentic RAG 系统。深入底层设计细节，覆盖全链路核心能力。配套完整的 RAG...",
+          "url": "https://github.com/nageoffer/ragent",
+          "category": "Java",
+          "metric": "1,432 stars",
+          "publishedAtUtc": "2026-04-12T14:09:38.0000000Z"
         },
         {
-          "title": "excel-mcp-server",
-          "subtitle": "@haris-musa",
-          "summary": "A Model Context Protocol server for Excel file manipulation A Model Context Protocol (MCP) server that lets you manipulate Excel files without needing Microsoft Excel installed.",
-          "url": "https://github.com/haris-musa/excel-mcp-server",
-          "category": "Python",
-          "metric": "3,668 stars",
-          "publishedAtUtc": "2026-04-12T06:08:11.0000000Z"
+          "title": "sceneview",
+          "subtitle": "@sceneview",
+          "summary": "3D & AR SDK for Android, iOS, Web, Desktop, TV, Flutter, React Native — Jetpack Compose, SwiftUI, Filament... SceneView 3D & AR for every platform.",
+          "url": "https://github.com/sceneview/sceneview",
+          "category": "TypeScript",
+          "metric": "1,156 stars",
+          "publishedAtUtc": "2026-04-12T14:09:29.0000000Z"
         },
         {
           "title": "openclaw",
@@ -108,26 +108,26 @@
           "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
           "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "355,132 stars",
-          "publishedAtUtc": "2026-04-12T06:10:34.0000000Z"
+          "metric": "355,421 stars",
+          "publishedAtUtc": "2026-04-12T14:11:06.0000000Z"
         },
         {
-          "title": "mempalace",
-          "subtitle": "@MemPalace",
-          "summary": "The highest-scoring AI memory system ever benchmarked. And it's free. MemPalace The highest-scoring AI memory system ever benchmarked.",
-          "url": "https://github.com/MemPalace/mempalace",
+          "title": "interview-coder-cn",
+          "subtitle": "@ooboqoo",
+          "summary": "AI 笔试助手，解题助手，在编码笔试或面试时，借助AI实时提供解题思路和答案。A interview assistant that leverages AI to provide real-time solutions during... 编码面试解题助手 项目简介 这是一个面向中文用户的编程解题助手，适配国内AI生态，简单易用。 软件适用场景...",
+          "url": "https://github.com/ooboqoo/interview-coder-cn",
+          "category": "TypeScript",
+          "metric": "526 stars",
+          "publishedAtUtc": "2026-04-12T14:08:42.0000000Z"
+        },
+        {
+          "title": "AstrBot",
+          "subtitle": "@AstrBotDevs",
+          "summary": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your... ｜ Email Support AstrBot is an open-source all-in-one...",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
           "category": "Python",
-          "metric": "42,070 stars",
-          "publishedAtUtc": "2026-04-12T06:11:22.0000000Z"
-        },
-        {
-          "title": "artcraft",
-          "subtitle": "@storytold",
-          "summary": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers - ArtCraft ======== ArtCraft is the IDE for interactive AI image and video creation.",
-          "url": "https://github.com/storytold/artcraft",
-          "category": "Rust",
-          "metric": "1,510 stars",
-          "publishedAtUtc": "2026-04-12T06:04:27.0000000Z"
+          "metric": "29,767 stars",
+          "publishedAtUtc": "2026-04-12T14:08:02.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "131,558 stars",
-      "publishedAtUtc": "2026-04-12T05:00:23.0000000Z"
+      "metric": "131,567 stars",
+      "publishedAtUtc": "2026-04-12T13:27:58.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "101,701 stars",
-      "publishedAtUtc": "2026-04-12T06:11:07.0000000Z"
+      "metric": "101,752 stars",
+      "publishedAtUtc": "2026-04-12T14:06:03.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "52,388 stars",
-      "publishedAtUtc": "2026-04-12T05:07:45.0000000Z"
+      "metric": "52,390 stars",
+      "publishedAtUtc": "2026-04-12T13:24:25.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "50,235 stars",
-      "publishedAtUtc": "2026-04-12T06:06:29.0000000Z"
+      "metric": "50,246 stars",
+      "publishedAtUtc": "2026-04-12T14:09:21.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "42,964 stars",
-      "publishedAtUtc": "2026-04-12T04:57:46.0000000Z"
+      "metric": "42,963 stars",
+      "publishedAtUtc": "2026-04-12T13:57:09.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,825 stars",
-      "publishedAtUtc": "2026-04-12T00:00:14.0000000Z"
+      "metric": "37,824 stars",
+      "publishedAtUtc": "2026-04-12T12:35:25.0000000Z"
     }
   ]
 }
