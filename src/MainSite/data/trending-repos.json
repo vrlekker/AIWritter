@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-04-14T06:19:48.7056623Z",
+  "generatedAtUtc": "2026-04-14T15:57:17.9786315Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "131,622 stars",
-          "publishedAtUtc": "2026-04-14T05:55:45.0000000Z"
+          "metric": "131,643 stars",
+          "publishedAtUtc": "2026-04-14T15:30:34.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "101,950 stars",
-          "publishedAtUtc": "2026-04-14T06:19:48.0000000Z"
+          "metric": "102,014 stars",
+          "publishedAtUtc": "2026-04-14T15:56:43.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "52,425 stars",
-          "publishedAtUtc": "2026-04-14T05:40:17.0000000Z"
+          "metric": "52,429 stars",
+          "publishedAtUtc": "2026-04-14T13:59:13.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "50,300 stars",
-          "publishedAtUtc": "2026-04-14T04:45:28.0000000Z"
+          "metric": "50,311 stars",
+          "publishedAtUtc": "2026-04-14T15:47:28.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "42,981 stars",
-          "publishedAtUtc": "2026-04-14T04:25:58.0000000Z"
+          "metric": "42,997 stars",
+          "publishedAtUtc": "2026-04-14T15:47:57.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,833 stars",
-          "publishedAtUtc": "2026-04-14T00:41:14.0000000Z"
+          "metric": "37,834 stars",
+          "publishedAtUtc": "2026-04-14T14:57:54.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "Folo",
-          "subtitle": "@RSSNext",
-          "summary": "\uD83E\uDDE1 Folo is the AI RSS Reader Folo &nbsp;&nbsp;&nbsp; --> As they say, your thoughts are what you read—and we’ve been consuming noisy feeds for too long!",
-          "url": "https://github.com/RSSNext/Folo",
+          "title": "daytona",
+          "subtitle": "@daytonaio",
+          "summary": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code Secure and Elastic Infrastructure for Running Your AI-Generated Code.",
+          "url": "https://github.com/daytonaio/daytona",
           "category": "TypeScript",
-          "metric": "38,042 stars",
-          "publishedAtUtc": "2026-04-14T06:19:40.0000000Z"
+          "metric": "72,324 stars",
+          "publishedAtUtc": "2026-04-14T15:56:57.0000000Z"
         },
         {
-          "title": "helix",
-          "subtitle": "@adrianhihi",
-          "summary": "Self-healing infrastructure for AI agent payments. 90.3% auto-recovery. Helix Self-healing runtime for autonomous agents.",
-          "url": "https://github.com/adrianhihi/helix",
-          "category": "TypeScript",
-          "metric": "298 stars",
-          "publishedAtUtc": "2026-04-14T06:19:28.0000000Z"
-        },
-        {
-          "title": "hermes-agent",
-          "subtitle": "@NousResearch",
-          "summary": "The agent that grows with you Hermes Agent ☤ The self-improving AI agent built by Nous Research.",
-          "url": "https://github.com/NousResearch/hermes-agent",
+          "title": "onnx",
+          "subtitle": "@onnx",
+          "summary": "Open standard for machine learning interoperability Open Neural Network Exchange (ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their...",
+          "url": "https://github.com/onnx/onnx",
           "category": "Python",
-          "metric": "79,735 stars",
-          "publishedAtUtc": "2026-04-14T06:19:45.0000000Z"
+          "metric": "20,654 stars",
+          "publishedAtUtc": "2026-04-14T15:56:54.0000000Z"
         },
         {
-          "title": "trpc-agent-go",
-          "subtitle": "@trpc-group",
-          "summary": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and... English 中文 tRPC-Agent-Go A powerful Go framework for...",
-          "url": "https://github.com/trpc-group/trpc-agent-go",
-          "category": "Go",
-          "metric": "1,094 stars",
-          "publishedAtUtc": "2026-04-14T06:19:18.0000000Z"
+          "title": "mito",
+          "subtitle": "@mito-ds",
+          "summary": "Jupyter extensions that help you write code faster: Context aware AI Chat, Autocomplete, and Spreadsheet Mito Email Jupyter extensions that make you work faster.",
+          "url": "https://github.com/mito-ds/mito",
+          "category": "Jupyter Notebook",
+          "metric": "2,625 stars",
+          "publishedAtUtc": "2026-04-14T15:56:36.0000000Z"
         },
         {
-          "title": "artcraft",
-          "subtitle": "@storytold",
-          "summary": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers - ArtCraft ======== ArtCraft is the IDE for interactive AI image and video creation.",
-          "url": "https://github.com/storytold/artcraft",
+          "title": "models",
+          "subtitle": "@arimxyer",
+          "summary": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers. models TUI and CLI for browsing AI models, benchmarks, coding agents, and provider...",
+          "url": "https://github.com/arimxyer/models",
           "category": "Rust",
-          "metric": "1,520 stars",
-          "publishedAtUtc": "2026-04-14T06:18:58.0000000Z"
+          "metric": "390 stars",
+          "publishedAtUtc": "2026-04-14T15:56:23.0000000Z"
         },
         {
-          "title": "aily-blockly",
-          "subtitle": "@ailyProject",
-          "summary": "AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x... aily blockly 中文 English About This Software Aily Project is a hardware development...",
-          "url": "https://github.com/ailyProject/aily-blockly",
-          "category": "TypeScript",
-          "metric": "2,013 stars",
-          "publishedAtUtc": "2026-04-14T06:18:36.0000000Z"
+          "title": "aidevops",
+          "subtitle": "@marcusquinn",
+          "summary": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and... AI DevOps Framework aidevops.sh — An OpenCode plugin and AI...",
+          "url": "https://github.com/marcusquinn/aidevops",
+          "category": "Shell",
+          "metric": "184 stars",
+          "publishedAtUtc": "2026-04-14T15:56:19.0000000Z"
+        },
+        {
+          "title": "PraisonAI",
+          "subtitle": "@MervinPraison",
+          "summary": "PraisonAI \uD83E\uDD9E — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous agents that research... PraisonAI \uD83E\uDD9E PraisonAI \uD83E\uDD9E — Hire a 24/7 AI Workforce.",
+          "url": "https://github.com/MervinPraison/PraisonAI",
+          "category": "Python",
+          "metric": "6,927 stars",
+          "publishedAtUtc": "2026-04-14T15:55:54.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "131,622 stars",
-      "publishedAtUtc": "2026-04-14T05:55:45.0000000Z"
+      "metric": "131,643 stars",
+      "publishedAtUtc": "2026-04-14T15:30:34.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "101,950 stars",
-      "publishedAtUtc": "2026-04-14T06:19:48.0000000Z"
+      "metric": "102,014 stars",
+      "publishedAtUtc": "2026-04-14T15:56:43.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "52,425 stars",
-      "publishedAtUtc": "2026-04-14T05:40:17.0000000Z"
+      "metric": "52,429 stars",
+      "publishedAtUtc": "2026-04-14T13:59:13.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "50,300 stars",
-      "publishedAtUtc": "2026-04-14T04:45:28.0000000Z"
+      "metric": "50,311 stars",
+      "publishedAtUtc": "2026-04-14T15:47:28.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "42,981 stars",
-      "publishedAtUtc": "2026-04-14T04:25:58.0000000Z"
+      "metric": "42,997 stars",
+      "publishedAtUtc": "2026-04-14T15:47:57.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,833 stars",
-      "publishedAtUtc": "2026-04-14T00:41:14.0000000Z"
+      "metric": "37,834 stars",
+      "publishedAtUtc": "2026-04-14T14:57:54.0000000Z"
     }
   ]
 }
