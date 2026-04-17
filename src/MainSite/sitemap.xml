@@ -55,19 +55,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=artcraft</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=figma-ui-mcp</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=dify</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=fim-one</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=loong</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=neuro-san-studio</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=claude-code-toolkit</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -79,13 +85,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=praisonai</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=agents</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=agno</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
