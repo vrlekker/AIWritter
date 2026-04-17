@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-04-16T16:57:03.1651057Z",
+  "generatedAtUtc": "2026-04-17T06:24:20.9471260Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-04-09 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-04-10 archived:false",
       "items": [
         {
           "title": "PowerToys",
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "131,734 stars",
-          "publishedAtUtc": "2026-04-16T16:46:37.0000000Z"
+          "metric": "131,755 stars",
+          "publishedAtUtc": "2026-04-17T06:20:49.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "102,288 stars",
-          "publishedAtUtc": "2026-04-16T16:55:29.0000000Z"
+          "metric": "102,330 stars",
+          "publishedAtUtc": "2026-04-17T06:22:55.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "52,468 stars",
-          "publishedAtUtc": "2026-04-16T16:51:02.0000000Z"
+          "metric": "52,472 stars",
+          "publishedAtUtc": "2026-04-17T06:19:43.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "50,352 stars",
-          "publishedAtUtc": "2026-04-16T16:41:15.0000000Z"
+          "metric": "50,361 stars",
+          "publishedAtUtc": "2026-04-17T04:36:31.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,020 stars",
-          "publishedAtUtc": "2026-04-16T15:27:37.0000000Z"
+          "metric": "43,030 stars",
+          "publishedAtUtc": "2026-04-17T04:06:41.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,843 stars",
-          "publishedAtUtc": "2026-04-16T15:43:29.0000000Z"
+          "metric": "37,842 stars",
+          "publishedAtUtc": "2026-04-17T05:19:53.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "aidevops",
-          "subtitle": "@marcusquinn",
-          "summary": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and... AI DevOps Framework aidevops.sh — An OpenCode plugin and AI...",
-          "url": "https://github.com/marcusquinn/aidevops",
-          "category": "Shell",
-          "metric": "190 stars",
-          "publishedAtUtc": "2026-04-16T16:56:31.0000000Z"
+          "title": "artcraft",
+          "subtitle": "@storytold",
+          "summary": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers - ArtCraft ======== ArtCraft is the IDE for interactive AI image and video creation.",
+          "url": "https://github.com/storytold/artcraft",
+          "category": "Rust",
+          "metric": "1,527 stars",
+          "publishedAtUtc": "2026-04-17T06:23:14.0000000Z"
         },
         {
-          "title": "archestra",
-          "subtitle": "@archestra-ai",
-          "summary": "Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator MCP-native Secure AI Platform Simplify AI usage in your company, providing user-friendly MCP toolbox...",
-          "url": "https://github.com/archestra-ai/archestra",
+          "title": "dify",
+          "subtitle": "@langgenius",
+          "summary": "Production-ready platform for agentic workflow development. · Dify is an open-source LLM app development platform.",
+          "url": "https://github.com/langgenius/dify",
           "category": "TypeScript",
-          "metric": "3,577 stars",
-          "publishedAtUtc": "2026-04-16T16:56:26.0000000Z"
+          "metric": "138,060 stars",
+          "publishedAtUtc": "2026-04-17T06:22:57.0000000Z"
         },
         {
-          "title": "firecrawl",
-          "subtitle": "@firecrawl",
-          "summary": "\uD83D\uDD25 The API to search, scrape, and interact with the web for AI - \uD83D\uDD25 Firecrawl Power AI agents with clean web data.",
-          "url": "https://github.com/firecrawl/firecrawl",
+          "title": "loong",
+          "subtitle": "@eastreams",
+          "summary": "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything \uD83D\uDC09 \uD83D\uDC09 Loong - Rust Base for Vertical AI Agents \"Originated from the East, here...",
+          "url": "https://github.com/eastreams/loong",
+          "category": "Rust",
+          "metric": "616 stars",
+          "publishedAtUtc": "2026-04-17T06:22:49.0000000Z"
+        },
+        {
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
+          "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "109,952 stars",
-          "publishedAtUtc": "2026-04-16T16:56:22.0000000Z"
+          "metric": "359,035 stars",
+          "publishedAtUtc": "2026-04-17T06:23:16.0000000Z"
         },
         {
-          "title": "Vision-Agents",
-          "subtitle": "@GetStream",
-          "summary": "Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's... Open Vision Agents by Stream Multi-modal AI agents that...",
-          "url": "https://github.com/GetStream/Vision-Agents",
+          "title": "PraisonAI",
+          "subtitle": "@MervinPraison",
+          "summary": "PraisonAI \uD83E\uDD9E — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous agents that research... PraisonAI \uD83E\uDD9E PraisonAI \uD83E\uDD9E — Hire a 24/7 AI Workforce.",
+          "url": "https://github.com/MervinPraison/PraisonAI",
           "category": "Python",
-          "metric": "7,657 stars",
-          "publishedAtUtc": "2026-04-16T16:56:05.0000000Z"
+          "metric": "6,946 stars",
+          "publishedAtUtc": "2026-04-17T06:21:53.0000000Z"
         },
         {
-          "title": "langchain",
-          "subtitle": "@langchain-ai",
-          "summary": "The agent engineering platform LangChain is a framework for building agents and LLM-powered applications.",
-          "url": "https://github.com/langchain-ai/langchain",
+          "title": "agents",
+          "subtitle": "@livekit",
+          "summary": "A framework for building realtime voice AI agents \uD83E\uDD16\uD83C\uDF99️\uD83D\uDCF9 Check out AgentsJS What is Agents?",
+          "url": "https://github.com/livekit/agents",
           "category": "Python",
-          "metric": "133,779 stars",
-          "publishedAtUtc": "2026-04-16T16:55:37.0000000Z"
-        },
-        {
-          "title": "eca",
-          "subtitle": "@editor-code-assistant",
-          "summary": "Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor :page_facing_up: Editor-agnostic: protocol for any editor to integrate.",
-          "url": "https://github.com/editor-code-assistant/eca",
-          "category": "Clojure",
-          "metric": "770 stars",
-          "publishedAtUtc": "2026-04-16T16:55:27.0000000Z"
+          "metric": "10,075 stars",
+          "publishedAtUtc": "2026-04-17T06:21:49.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "131,734 stars",
-      "publishedAtUtc": "2026-04-16T16:46:37.0000000Z"
+      "metric": "131,755 stars",
+      "publishedAtUtc": "2026-04-17T06:20:49.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "102,288 stars",
-      "publishedAtUtc": "2026-04-16T16:55:29.0000000Z"
+      "metric": "102,330 stars",
+      "publishedAtUtc": "2026-04-17T06:22:55.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "52,468 stars",
-      "publishedAtUtc": "2026-04-16T16:51:02.0000000Z"
+      "metric": "52,472 stars",
+      "publishedAtUtc": "2026-04-17T06:19:43.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "50,352 stars",
-      "publishedAtUtc": "2026-04-16T16:41:15.0000000Z"
+      "metric": "50,361 stars",
+      "publishedAtUtc": "2026-04-17T04:36:31.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,020 stars",
-      "publishedAtUtc": "2026-04-16T15:27:37.0000000Z"
+      "metric": "43,030 stars",
+      "publishedAtUtc": "2026-04-17T04:06:41.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,843 stars",
-      "publishedAtUtc": "2026-04-16T15:43:29.0000000Z"
+      "metric": "37,842 stars",
+      "publishedAtUtc": "2026-04-17T05:19:53.0000000Z"
     }
   ]
 }
