@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-04-17T15:41:18.0035237Z",
+  "generatedAtUtc": "2026-04-18T05:52:52.2378954Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-04-10 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-04-11 archived:false",
       "items": [
         {
           "title": "PowerToys",
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "131,780 stars",
-          "publishedAtUtc": "2026-04-17T15:31:11.0000000Z"
+          "metric": "131,792 stars",
+          "publishedAtUtc": "2026-04-18T04:29:33.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "102,390 stars",
-          "publishedAtUtc": "2026-04-17T15:40:20.0000000Z"
+          "metric": "102,448 stars",
+          "publishedAtUtc": "2026-04-18T05:50:30.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "52,477 stars",
-          "publishedAtUtc": "2026-04-17T14:23:05.0000000Z"
+          "metric": "52,485 stars",
+          "publishedAtUtc": "2026-04-18T05:02:20.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "50,375 stars",
-          "publishedAtUtc": "2026-04-17T15:27:37.0000000Z"
+          "metric": "50,390 stars",
+          "publishedAtUtc": "2026-04-18T05:24:02.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,035 stars",
-          "publishedAtUtc": "2026-04-17T15:06:28.0000000Z"
+          "metric": "43,042 stars",
+          "publishedAtUtc": "2026-04-18T05:51:30.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,844 stars",
-          "publishedAtUtc": "2026-04-17T15:36:20.0000000Z"
+          "metric": "37,843 stars",
+          "publishedAtUtc": "2026-04-18T03:21:15.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "figma-ui-mcp",
-          "subtitle": "@TranHoaiHung",
-          "summary": "AI can draw UI directly on the Figma canvas via JavaScript, and read existing designs back as structured data. Works... figma-ui-mcp Claude Code to Figma · Antigravity to Figma ·...",
-          "url": "https://github.com/TranHoaiHung/figma-ui-mcp",
-          "category": "JavaScript",
-          "metric": "160 stars",
-          "publishedAtUtc": "2026-04-17T15:41:09.0000000Z"
-        },
-        {
-          "title": "fim-one",
-          "subtitle": "@fim-ai",
-          "summary": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution \uD83C\uDF10 English \uD83C\uDDE8\uD83C\uDDF3 中文 \uD83C\uDDEF\uD83C\uDDF5 日本語 \uD83C\uDDF0\uD83C\uDDF7 한국어 \uD83C\uDDE9\uD83C\uDDEA Deutsch \uD83C\uDDEB\uD83C\uDDF7 Français Your systems don't talk to each other.",
-          "url": "https://github.com/fim-ai/fim-one",
-          "category": "Python",
-          "metric": "498 stars",
-          "publishedAtUtc": "2026-04-17T15:40:08.0000000Z"
-        },
-        {
-          "title": "neuro-san-studio",
-          "subtitle": "@cognizant-ai-lab",
-          "summary": "A playground for neuro-san Neuro SAN Studio Your launchpad for building intelligent multi-agent systems.",
-          "url": "https://github.com/cognizant-ai-lab/neuro-san-studio",
-          "category": "Python",
-          "metric": "467 stars",
-          "publishedAtUtc": "2026-04-17T15:39:52.0000000Z"
-        },
-        {
-          "title": "claude-code-toolkit",
-          "subtitle": "@notque",
-          "summary": "AI Agent System - Creator of the /do router Claude Code Toolkit Claude Code Toolkit is a complete agent-driven workflow system for Claude Code and Codex.",
-          "url": "https://github.com/notque/claude-code-toolkit",
-          "category": "Python",
-          "metric": "339 stars",
-          "publishedAtUtc": "2026-04-17T15:39:45.0000000Z"
-        },
-        {
           "title": "openclaw",
           "subtitle": "@openclaw",
           "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
           "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "359,343 stars",
-          "publishedAtUtc": "2026-04-17T15:40:10.0000000Z"
+          "metric": "359,623 stars",
+          "publishedAtUtc": "2026-04-18T05:52:40.0000000Z"
         },
         {
-          "title": "agno",
-          "subtitle": "@agno-agi",
-          "summary": "Build, run, manage agentic software at scale. Build, run, and manage agentic software at scale.",
-          "url": "https://github.com/agno-agi/agno",
+          "title": "photoprism",
+          "subtitle": "@photoprism",
+          "summary": "AI-Powered Photos App for the Decentralized Web \uD83C\uDF08\uD83D\uDC8E✨ PhotoPrism: Browse Your Life in Pictures ======================================== PhotoPrism® is an AI-Powered Photos App...",
+          "url": "https://github.com/photoprism/photoprism",
+          "category": "Go",
+          "metric": "39,551 stars",
+          "publishedAtUtc": "2026-04-18T05:52:13.0000000Z"
+        },
+        {
+          "title": "LunaBox",
+          "subtitle": "@Saramanda9988",
+          "summary": "Lightweight, fast, and feature-rich visual novel management and game statistics tool LunaBox Lightweight, fast, and feature-rich visual novel management and game statistics tool...",
+          "url": "https://github.com/Saramanda9988/LunaBox",
+          "category": "Go",
+          "metric": "220 stars",
+          "publishedAtUtc": "2026-04-18T05:51:56.0000000Z"
+        },
+        {
+          "title": "omi",
+          "subtitle": "@BasedHardware",
+          "summary": "AI that sees your screen, listens to your conversations and tells you what to do omi A 2nd brain you trust more than your 1st Omi captures your screen and conversations...",
+          "url": "https://github.com/BasedHardware/omi",
+          "category": "Dart",
+          "metric": "9,949 stars",
+          "publishedAtUtc": "2026-04-18T05:51:46.0000000Z"
+        },
+        {
+          "title": "aidevops",
+          "subtitle": "@marcusquinn",
+          "summary": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and... AI DevOps Framework aidevops.sh — An OpenCode plugin and AI...",
+          "url": "https://github.com/marcusquinn/aidevops",
+          "category": "Shell",
+          "metric": "191 stars",
+          "publishedAtUtc": "2026-04-18T05:50:46.0000000Z"
+        },
+        {
+          "title": "nanobot",
+          "subtitle": "@HKUDS",
+          "summary": "\"\uD83D\uDC08 nanobot: The Ultra-Lightweight Personal AI Agent\" nanobot: Ultra-Lightweight Personal AI Agent \uD83D\uDC08 nanobot is an ultra-lightweight personal AI agent inspired by OpenClaw.",
+          "url": "https://github.com/HKUDS/nanobot",
           "category": "Python",
-          "metric": "39,502 stars",
-          "publishedAtUtc": "2026-04-17T15:39:32.0000000Z"
+          "metric": "39,930 stars",
+          "publishedAtUtc": "2026-04-18T05:50:10.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "131,780 stars",
-      "publishedAtUtc": "2026-04-17T15:31:11.0000000Z"
+      "metric": "131,792 stars",
+      "publishedAtUtc": "2026-04-18T04:29:33.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "102,390 stars",
-      "publishedAtUtc": "2026-04-17T15:40:20.0000000Z"
+      "metric": "102,448 stars",
+      "publishedAtUtc": "2026-04-18T05:50:30.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "52,477 stars",
-      "publishedAtUtc": "2026-04-17T14:23:05.0000000Z"
+      "metric": "52,485 stars",
+      "publishedAtUtc": "2026-04-18T05:02:20.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "50,375 stars",
-      "publishedAtUtc": "2026-04-17T15:27:37.0000000Z"
+      "metric": "50,390 stars",
+      "publishedAtUtc": "2026-04-18T05:24:02.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,035 stars",
-      "publishedAtUtc": "2026-04-17T15:06:28.0000000Z"
+      "metric": "43,042 stars",
+      "publishedAtUtc": "2026-04-18T05:51:30.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,844 stars",
-      "publishedAtUtc": "2026-04-17T15:36:20.0000000Z"
+      "metric": "37,843 stars",
+      "publishedAtUtc": "2026-04-18T03:21:15.0000000Z"
     }
   ]
 }
