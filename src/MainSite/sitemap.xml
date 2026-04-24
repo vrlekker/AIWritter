@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vrlekker.github.io/AIWritter/</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=powertoys</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=v2rayn</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=powershell</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=jellyfin</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=files</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=aspnetcore</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=tt-metal</loc>
-    <lastmod>2026-04-23</lastmod>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=sdk-typescript</loc>
-    <lastmod>2026-04-23</lastmod>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=lealone</loc>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=aif-handoff</loc>
-    <lastmod>2026-04-23</lastmod>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=beatai</loc>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=marinara-engine</loc>
-    <lastmod>2026-04-23</lastmod>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=atom</loc>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=all-model-chat</loc>
-    <lastmod>2026-04-23</lastmod>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=hyperframes</loc>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=agentsys</loc>
-    <lastmod>2026-04-23</lastmod>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=run-gemini-cli</loc>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
