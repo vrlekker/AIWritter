@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-04-25T02:23:32.5381232Z",
+  "generatedAtUtc": "2026-04-25T13:02:12.9600391Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "132,009 stars",
-          "publishedAtUtc": "2026-04-25T02:10:30.0000000Z"
+          "metric": "132,023 stars",
+          "publishedAtUtc": "2026-04-25T12:50:04.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "103,333 stars",
-          "publishedAtUtc": "2026-04-25T02:16:43.0000000Z"
+          "metric": "103,403 stars",
+          "publishedAtUtc": "2026-04-25T12:46:07.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "52,910 stars",
-          "publishedAtUtc": "2026-04-25T00:07:56.0000000Z"
+          "metric": "52,942 stars",
+          "publishedAtUtc": "2026-04-25T13:00:29.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "50,687 stars",
-          "publishedAtUtc": "2026-04-25T01:56:09.0000000Z"
+          "metric": "50,718 stars",
+          "publishedAtUtc": "2026-04-25T11:48:13.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,147 stars",
-          "publishedAtUtc": "2026-04-24T22:02:05.0000000Z"
+          "metric": "43,155 stars",
+          "publishedAtUtc": "2026-04-25T12:38:57.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,863 stars",
-          "publishedAtUtc": "2026-04-24T22:36:44.0000000Z"
+          "metric": "37,864 stars",
+          "publishedAtUtc": "2026-04-25T10:51:06.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "daily_stock_analysis",
-          "subtitle": "@ZhuLinsen",
-          "summary": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. \uD83D\uDCC8 股票智能分析系统 \uD83E\uDD16 基于 AI 大模型的...",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "category": "Python",
-          "metric": "31,294 stars",
-          "publishedAtUtc": "2026-04-25T02:22:25.0000000Z"
+          "title": "OpenOmniBot",
+          "subtitle": "@omnimind-ai",
+          "summary": "你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务 Your on-device AI assistant, capable of operating terminals and performing a... Your On-Device AI Assistant Demo Quick Start English 简体中文...",
+          "url": "https://github.com/omnimind-ai/OpenOmniBot",
+          "category": "Kotlin",
+          "metric": "955 stars",
+          "publishedAtUtc": "2026-04-25T13:01:50.0000000Z"
         },
         {
-          "title": "free-llm-api-keys",
-          "subtitle": "@alistaitsacle",
-          "summary": "Free LLM API keys for GPT-5.4, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card... The easiest way to access LLM APIs for free — no credit...",
-          "url": "https://github.com/alistaitsacle/free-llm-api-keys",
-          "category": "Python",
-          "metric": "162 stars",
-          "publishedAtUtc": "2026-04-25T02:22:12.0000000Z"
-        },
-        {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
-          "url": "https://github.com/openclaw/openclaw",
-          "category": "TypeScript",
-          "metric": "363,478 stars",
-          "publishedAtUtc": "2026-04-25T02:23:06.0000000Z"
-        },
-        {
-          "title": "gobii-platform",
-          "subtitle": "@gobii-ai",
-          "summary": "Your easy to use, always-on AI workforce \uD83D\uDC7E Gobii Platform Always-on AI employees for teams.",
-          "url": "https://github.com/gobii-ai/gobii-platform",
-          "category": "Python",
-          "metric": "412 stars",
-          "publishedAtUtc": "2026-04-25T02:20:33.0000000Z"
-        },
-        {
-          "title": "AgentOS",
-          "subtitle": "@SpharxTeam",
-          "summary": "Airymax 极境 Agent OS with 200K+ context, 8~10M memory, 99.10% accuracy for 1000h tasks, 5x efficiency over mainstream... Agent OS Powered by OpenAirymax The seminal fourth...",
-          "url": "https://github.com/SpharxTeam/AgentOS",
-          "category": "C",
-          "metric": "616 stars",
-          "publishedAtUtc": "2026-04-25T02:20:39.0000000Z"
-        },
-        {
-          "title": "goose",
-          "subtitle": "@aaif-goose",
-          "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM This project has moved from block/goose to the Agentic AI...",
-          "url": "https://github.com/aaif-goose/goose",
+          "title": "ThinkWatch",
+          "subtitle": "@ThinkWatchProject",
+          "summary": "Enterprise AI bastion host for secure AI API and MCP access, with unified proxying, RBAC, audit logs, rate limiting... ThinkWatch English 中文 The enterprise-grade secure gateway...",
+          "url": "https://github.com/ThinkWatchProject/ThinkWatch",
           "category": "Rust",
-          "metric": "43,180 stars",
-          "publishedAtUtc": "2026-04-25T02:20:14.0000000Z"
+          "metric": "454 stars",
+          "publishedAtUtc": "2026-04-25T13:01:49.0000000Z"
+        },
+        {
+          "title": "netdata",
+          "subtitle": "@netdata",
+          "summary": "The fastest path to AI-powered full stack observability, even for lean teams. X-Ray Vision for your infrastructure!",
+          "url": "https://github.com/netdata/netdata",
+          "category": "C",
+          "metric": "78,588 stars",
+          "publishedAtUtc": "2026-04-25T13:01:50.0000000Z"
+        },
+        {
+          "title": "LlamaPen",
+          "subtitle": "@ImDarkTom",
+          "summary": "A no-install needed web-GUI for Ollama. LlamaPen A no-install needed GUI for Ollama.",
+          "url": "https://github.com/ImDarkTom/LlamaPen",
+          "category": "Vue",
+          "metric": "449 stars",
+          "publishedAtUtc": "2026-04-25T13:00:46.0000000Z"
+        },
+        {
+          "title": "lobehub",
+          "subtitle": "@lobehub",
+          "summary": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are... [![][image-banner]][vercel-link] LobeHub LobeHub is the...",
+          "url": "https://github.com/lobehub/lobehub",
+          "category": "TypeScript",
+          "metric": "75,625 stars",
+          "publishedAtUtc": "2026-04-25T13:00:43.0000000Z"
+        },
+        {
+          "title": "BOT-MMORPG-AI",
+          "subtitle": "@ruslanmv",
+          "summary": "BOT-MMORPG-AI is your personal gaming assistant that uses artificial intelligence to play your favorite MMORPG and RPG... BOT-MMORPG-AI \uD83C\uDFAE The Ultimate AI-Powered Bot for MMORPG...",
+          "url": "https://github.com/ruslanmv/BOT-MMORPG-AI",
+          "category": "Jupyter Notebook",
+          "metric": "212 stars",
+          "publishedAtUtc": "2026-04-25T13:00:42.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "132,009 stars",
-      "publishedAtUtc": "2026-04-25T02:10:30.0000000Z"
+      "metric": "132,023 stars",
+      "publishedAtUtc": "2026-04-25T12:50:04.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "103,333 stars",
-      "publishedAtUtc": "2026-04-25T02:16:43.0000000Z"
+      "metric": "103,403 stars",
+      "publishedAtUtc": "2026-04-25T12:46:07.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "52,910 stars",
-      "publishedAtUtc": "2026-04-25T00:07:56.0000000Z"
+      "metric": "52,942 stars",
+      "publishedAtUtc": "2026-04-25T13:00:29.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "50,687 stars",
-      "publishedAtUtc": "2026-04-25T01:56:09.0000000Z"
+      "metric": "50,718 stars",
+      "publishedAtUtc": "2026-04-25T11:48:13.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,147 stars",
-      "publishedAtUtc": "2026-04-24T22:02:05.0000000Z"
+      "metric": "43,155 stars",
+      "publishedAtUtc": "2026-04-25T12:38:57.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,863 stars",
-      "publishedAtUtc": "2026-04-24T22:36:44.0000000Z"
+      "metric": "37,864 stars",
+      "publishedAtUtc": "2026-04-25T10:51:06.0000000Z"
     }
   ]
 }
