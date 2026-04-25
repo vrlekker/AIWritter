@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-04-24T13:22:07.0084445Z",
+  "generatedAtUtc": "2026-04-25T02:23:32.5381232Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-04-17 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-04-18 archived:false",
       "items": [
         {
           "title": "PowerToys",
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "131,988 stars",
-          "publishedAtUtc": "2026-04-24T12:30:01.0000000Z"
+          "metric": "132,009 stars",
+          "publishedAtUtc": "2026-04-25T02:10:30.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "103,275 stars",
-          "publishedAtUtc": "2026-04-24T13:19:08.0000000Z"
+          "metric": "103,333 stars",
+          "publishedAtUtc": "2026-04-25T02:16:43.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "52,888 stars",
-          "publishedAtUtc": "2026-04-24T13:05:40.0000000Z"
+          "metric": "52,910 stars",
+          "publishedAtUtc": "2026-04-25T00:07:56.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "50,595 stars",
-          "publishedAtUtc": "2026-04-24T13:19:30.0000000Z"
+          "metric": "50,687 stars",
+          "publishedAtUtc": "2026-04-25T01:56:09.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,138 stars",
-          "publishedAtUtc": "2026-04-24T13:13:24.0000000Z"
+          "metric": "43,147 stars",
+          "publishedAtUtc": "2026-04-24T22:02:05.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,861 stars",
-          "publishedAtUtc": "2026-04-24T12:05:27.0000000Z"
+          "metric": "37,863 stars",
+          "publishedAtUtc": "2026-04-24T22:36:44.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "netdata",
-          "subtitle": "@netdata",
-          "summary": "The fastest path to AI-powered full stack observability, even for lean teams. X-Ray Vision for your infrastructure!",
-          "url": "https://github.com/netdata/netdata",
-          "category": "C",
-          "metric": "78,584 stars",
-          "publishedAtUtc": "2026-04-24T13:21:31.0000000Z"
-        },
-        {
-          "title": "mastra",
-          "subtitle": "@mastra-ai",
-          "summary": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern... Mastra Mastra is a framework for building AI-powered...",
-          "url": "https://github.com/mastra-ai/mastra",
-          "category": "TypeScript",
-          "metric": "23,282 stars",
-          "publishedAtUtc": "2026-04-24T13:21:39.0000000Z"
-        },
-        {
-          "title": "LLM-Hub",
-          "subtitle": "@timmyy123",
-          "summary": "Local AI Assistant on your phone LLM Hub \uD83E\uDD16 LLM Hub is an open-source mobile app for on-device LLM chat and image generation, available for both Android and iOS.",
-          "url": "https://github.com/timmyy123/LLM-Hub",
-          "category": "Kotlin",
-          "metric": "324 stars",
-          "publishedAtUtc": "2026-04-24T13:21:09.0000000Z"
-        },
-        {
-          "title": "dbeaver",
-          "subtitle": "@dbeaver",
-          "summary": "Free universal database tool and SQL client DBeaver Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.",
-          "url": "https://github.com/dbeaver/dbeaver",
-          "category": "Java",
-          "metric": "49,728 stars",
-          "publishedAtUtc": "2026-04-24T13:21:03.0000000Z"
-        },
-        {
-          "title": "supabase",
-          "subtitle": "@supabase",
-          "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI... Supabase Supabase is the Postgres development platform.",
-          "url": "https://github.com/supabase/supabase",
-          "category": "TypeScript",
-          "metric": "101,359 stars",
-          "publishedAtUtc": "2026-04-24T13:20:48.0000000Z"
-        },
-        {
-          "title": "langchain",
-          "subtitle": "@langchain-ai",
-          "summary": "The agent engineering platform LangChain is a framework for building agents and LLM-powered applications.",
-          "url": "https://github.com/langchain-ai/langchain",
+          "title": "daily_stock_analysis",
+          "subtitle": "@ZhuLinsen",
+          "summary": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. \uD83D\uDCC8 股票智能分析系统 \uD83E\uDD16 基于 AI 大模型的...",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
           "category": "Python",
-          "metric": "134,777 stars",
-          "publishedAtUtc": "2026-04-24T13:20:15.0000000Z"
+          "metric": "31,294 stars",
+          "publishedAtUtc": "2026-04-25T02:22:25.0000000Z"
+        },
+        {
+          "title": "free-llm-api-keys",
+          "subtitle": "@alistaitsacle",
+          "summary": "Free LLM API keys for GPT-5.4, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card... The easiest way to access LLM APIs for free — no credit...",
+          "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+          "category": "Python",
+          "metric": "162 stars",
+          "publishedAtUtc": "2026-04-25T02:22:12.0000000Z"
+        },
+        {
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
+          "url": "https://github.com/openclaw/openclaw",
+          "category": "TypeScript",
+          "metric": "363,478 stars",
+          "publishedAtUtc": "2026-04-25T02:23:06.0000000Z"
+        },
+        {
+          "title": "gobii-platform",
+          "subtitle": "@gobii-ai",
+          "summary": "Your easy to use, always-on AI workforce \uD83D\uDC7E Gobii Platform Always-on AI employees for teams.",
+          "url": "https://github.com/gobii-ai/gobii-platform",
+          "category": "Python",
+          "metric": "412 stars",
+          "publishedAtUtc": "2026-04-25T02:20:33.0000000Z"
+        },
+        {
+          "title": "AgentOS",
+          "subtitle": "@SpharxTeam",
+          "summary": "Airymax 极境 Agent OS with 200K+ context, 8~10M memory, 99.10% accuracy for 1000h tasks, 5x efficiency over mainstream... Agent OS Powered by OpenAirymax The seminal fourth...",
+          "url": "https://github.com/SpharxTeam/AgentOS",
+          "category": "C",
+          "metric": "616 stars",
+          "publishedAtUtc": "2026-04-25T02:20:39.0000000Z"
+        },
+        {
+          "title": "goose",
+          "subtitle": "@aaif-goose",
+          "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM This project has moved from block/goose to the Agentic AI...",
+          "url": "https://github.com/aaif-goose/goose",
+          "category": "Rust",
+          "metric": "43,180 stars",
+          "publishedAtUtc": "2026-04-25T02:20:14.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "131,988 stars",
-      "publishedAtUtc": "2026-04-24T12:30:01.0000000Z"
+      "metric": "132,009 stars",
+      "publishedAtUtc": "2026-04-25T02:10:30.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "103,275 stars",
-      "publishedAtUtc": "2026-04-24T13:19:08.0000000Z"
+      "metric": "103,333 stars",
+      "publishedAtUtc": "2026-04-25T02:16:43.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "52,888 stars",
-      "publishedAtUtc": "2026-04-24T13:05:40.0000000Z"
+      "metric": "52,910 stars",
+      "publishedAtUtc": "2026-04-25T00:07:56.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "50,595 stars",
-      "publishedAtUtc": "2026-04-24T13:19:30.0000000Z"
+      "metric": "50,687 stars",
+      "publishedAtUtc": "2026-04-25T01:56:09.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,138 stars",
-      "publishedAtUtc": "2026-04-24T13:13:24.0000000Z"
+      "metric": "43,147 stars",
+      "publishedAtUtc": "2026-04-24T22:02:05.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,861 stars",
-      "publishedAtUtc": "2026-04-24T12:05:27.0000000Z"
+      "metric": "37,863 stars",
+      "publishedAtUtc": "2026-04-24T22:36:44.0000000Z"
     }
   ]
 }
