@@ -55,25 +55,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=autocontext</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=unrealclaude</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=mastra</loc>
-    <lastmod>2026-04-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=rulesync</loc>
-    <lastmod>2026-04-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=goose</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=n8n</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -85,7 +73,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=deepagents</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=free-llm-api-keys</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=uzu</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=supabase</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
