@@ -55,19 +55,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=aidevops</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=free-llm-api-keys</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=fud-ai</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=countly-server</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=agixt</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=socraticode</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -79,13 +85,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=astron-agent</loc>
-    <lastmod>2026-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaude</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=opendataloader-pdf</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
