@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-05-06T14:08:20.6320849Z",
+  "generatedAtUtc": "2026-05-07T02:45:28.5139573Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-04-29 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-04-30 archived:false",
       "items": [
         {
           "title": "PowerToys",
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "132,878 stars",
-          "publishedAtUtc": "2026-05-06T12:50:56.0000000Z"
+          "metric": "132,892 stars",
+          "publishedAtUtc": "2026-05-07T02:00:23.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "104,663 stars",
-          "publishedAtUtc": "2026-05-06T14:00:02.0000000Z"
+          "metric": "104,713 stars",
+          "publishedAtUtc": "2026-05-07T02:44:33.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,306 stars",
-          "publishedAtUtc": "2026-05-06T11:51:09.0000000Z"
+          "metric": "53,319 stars",
+          "publishedAtUtc": "2026-05-07T01:27:43.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "51,304 stars",
-          "publishedAtUtc": "2026-05-06T13:40:45.0000000Z"
+          "metric": "51,317 stars",
+          "publishedAtUtc": "2026-05-07T02:24:32.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,299 stars",
-          "publishedAtUtc": "2026-05-06T09:46:46.0000000Z"
+          "metric": "43,301 stars",
+          "publishedAtUtc": "2026-05-07T01:51:06.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,901 stars",
-          "publishedAtUtc": "2026-05-06T13:05:49.0000000Z"
+          "metric": "37,904 stars",
+          "publishedAtUtc": "2026-05-07T01:33:24.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "free-llm-api-keys",
-          "subtitle": "@alistaitsacle",
-          "summary": "Free LLM API keys for GPT-5.4, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card... The easiest way to access LLM APIs for free — no credit...",
-          "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+          "title": "NanoResearch",
+          "subtitle": "@OpenRaiser",
+          "summary": "\uD83E\uDD9E+\uD83D\uDD2C: NanoResearch: The Autonomous AI Research Assistant NanoResearch 端到端自主 AI 科研引擎 — 从研究想法到完整论文，全程自动化 快速开始 · 效果展示 · 流水线 · Claude Code · 飞书机器人 -- \uD83D\uDD2C NanoResearch...",
+          "url": "https://github.com/OpenRaiser/NanoResearch",
           "category": "Python",
-          "metric": "233 stars",
-          "publishedAtUtc": "2026-05-06T13:54:29.0000000Z"
+          "metric": "806 stars",
+          "publishedAtUtc": "2026-05-07T02:45:17.0000000Z"
         },
         {
-          "title": "countly-server",
-          "subtitle": "@Countly",
-          "summary": "Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer... \uD83D\uDD17 Quick links Countly Website Countly Server installation...",
-          "url": "https://github.com/Countly/countly-server",
-          "category": "JavaScript",
-          "metric": "5,855 stars",
-          "publishedAtUtc": "2026-05-06T14:07:50.0000000Z"
-        },
-        {
-          "title": "SocratiCode",
-          "subtitle": "@giancarloerra",
-          "summary": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid... SocratiCode = 18\"> \"There is only one good, knowledge, and...",
-          "url": "https://github.com/giancarloerra/SocratiCode",
+          "title": "genkit",
+          "subtitle": "@genkit-ai",
+          "summary": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google Genkit is an open-source framework for building...",
+          "url": "https://github.com/genkit-ai/genkit",
           "category": "TypeScript",
-          "metric": "2,396 stars",
-          "publishedAtUtc": "2026-05-06T12:51:45.0000000Z"
+          "metric": "5,877 stars",
+          "publishedAtUtc": "2026-05-07T02:45:14.0000000Z"
         },
         {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
-          "url": "https://github.com/openclaw/openclaw",
-          "category": "TypeScript",
-          "metric": "368,935 stars",
-          "publishedAtUtc": "2026-05-06T14:06:06.0000000Z"
-        },
-        {
-          "title": "onyx",
-          "subtitle": "@onyx-dot-app",
-          "summary": "Open Source AI Platform - AI Chat with advanced features that works with every LLM Onyx - The Open Source AI Platform Onyx is the application layer for LLMs - bringing a...",
-          "url": "https://github.com/onyx-dot-app/onyx",
+          "title": "gac",
+          "subtitle": "@thomwebb",
+          "summary": "Intelligent LLM-powered git commit message generator that understands your code! \uD83D\uDE80 Git Auto Commit (gac) English 简体中文 繁體中文 日本語 한국어 हिन्दी Tiếng Việt Français Русский Español...",
+          "url": "https://github.com/thomwebb/gac",
           "category": "Python",
-          "metric": "29,055 stars",
-          "publishedAtUtc": "2026-05-06T14:06:27.0000000Z"
+          "metric": "309 stars",
+          "publishedAtUtc": "2026-05-07T02:45:02.0000000Z"
         },
         {
-          "title": "opendataloader-pdf",
-          "subtitle": "@opendataloader-project",
-          "summary": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. OpenDataLoader PDF PDF Parser for AI-ready data.",
-          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-          "category": "Java",
-          "metric": "20,450 stars",
-          "publishedAtUtc": "2026-05-06T14:06:54.0000000Z"
+          "title": "holaOS",
+          "subtitle": "@holaboss-ai",
+          "summary": "An Open Agent Computer for ANY digital work. ⭐ Help us reach more developers and grow the holaOS community.",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "category": "TypeScript",
+          "metric": "4,930 stars",
+          "publishedAtUtc": "2026-05-07T02:44:44.0000000Z"
+        },
+        {
+          "title": "lobe-icons",
+          "subtitle": "@lobehub",
+          "summary": "\uD83E\uDD68 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies. Lobe Icons Popular AI / LLM Model Brand SVG Logo and Icon...",
+          "url": "https://github.com/lobehub/lobe-icons",
+          "category": "TypeScript",
+          "metric": "1,897 stars",
+          "publishedAtUtc": "2026-05-07T02:44:05.0000000Z"
+        },
+        {
+          "title": "Decepticon",
+          "subtitle": "@PurpleAILAB",
+          "summary": "Autonomous Hacking Agent for Red Team Decepticon — Autonomous Red Team Agent \"Another AI hacker?",
+          "url": "https://github.com/PurpleAILAB/Decepticon",
+          "category": "Python",
+          "metric": "3,514 stars",
+          "publishedAtUtc": "2026-05-07T02:43:53.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "132,878 stars",
-      "publishedAtUtc": "2026-05-06T12:50:56.0000000Z"
+      "metric": "132,892 stars",
+      "publishedAtUtc": "2026-05-07T02:00:23.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "104,663 stars",
-      "publishedAtUtc": "2026-05-06T14:00:02.0000000Z"
+      "metric": "104,713 stars",
+      "publishedAtUtc": "2026-05-07T02:44:33.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,306 stars",
-      "publishedAtUtc": "2026-05-06T11:51:09.0000000Z"
+      "metric": "53,319 stars",
+      "publishedAtUtc": "2026-05-07T01:27:43.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "51,304 stars",
-      "publishedAtUtc": "2026-05-06T13:40:45.0000000Z"
+      "metric": "51,317 stars",
+      "publishedAtUtc": "2026-05-07T02:24:32.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,299 stars",
-      "publishedAtUtc": "2026-05-06T09:46:46.0000000Z"
+      "metric": "43,301 stars",
+      "publishedAtUtc": "2026-05-07T01:51:06.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,901 stars",
-      "publishedAtUtc": "2026-05-06T13:05:49.0000000Z"
+      "metric": "37,904 stars",
+      "publishedAtUtc": "2026-05-07T01:33:24.0000000Z"
     }
   ]
 }
