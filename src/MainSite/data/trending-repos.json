@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-05-09T13:15:30.2776650Z",
+  "generatedAtUtc": "2026-05-10T02:50:28.6612555Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-05-02 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-05-03 archived:false",
       "items": [
         {
           "title": "PowerToys",
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "132,964 stars",
-          "publishedAtUtc": "2026-05-09T12:51:40.0000000Z"
+          "metric": "132,986 stars",
+          "publishedAtUtc": "2026-05-10T02:16:35.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "104,977 stars",
-          "publishedAtUtc": "2026-05-09T13:07:45.0000000Z"
+          "metric": "105,040 stars",
+          "publishedAtUtc": "2026-05-10T02:09:49.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,347 stars",
-          "publishedAtUtc": "2026-05-09T13:04:21.0000000Z"
+          "metric": "53,349 stars",
+          "publishedAtUtc": "2026-05-10T00:19:23.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "51,412 stars",
-          "publishedAtUtc": "2026-05-09T12:42:44.0000000Z"
+          "metric": "51,428 stars",
+          "publishedAtUtc": "2026-05-10T02:37:41.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,316 stars",
-          "publishedAtUtc": "2026-05-09T13:07:07.0000000Z"
+          "metric": "43,319 stars",
+          "publishedAtUtc": "2026-05-10T02:47:55.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -63,7 +63,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "37,913 stars",
-          "publishedAtUtc": "2026-05-09T09:48:52.0000000Z"
+          "publishedAtUtc": "2026-05-09T19:58:37.0000000Z"
         }
       ]
     },
@@ -76,13 +76,13 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "lobehub",
-          "subtitle": "@lobehub",
-          "summary": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are... [![][image-banner]][vercel-link] LobeHub LobeHub is the...",
-          "url": "https://github.com/lobehub/lobehub",
-          "category": "TypeScript",
-          "metric": "76,730 stars",
-          "publishedAtUtc": "2026-05-09T13:15:09.0000000Z"
+          "title": "agentsh",
+          "subtitle": "@canyonroad",
+          "summary": "Execution-Layer Security (ELS) for AI agents — policy-enforced shell with audit. agentsh macOS note: Native macOS enforcement via ESF (Endpoint Security Framework) + NE (Network...",
+          "url": "https://github.com/canyonroad/agentsh",
+          "category": "Go",
+          "metric": "277 stars",
+          "publishedAtUtc": "2026-05-10T02:49:39.0000000Z"
         },
         {
           "title": "openclaw",
@@ -90,44 +90,44 @@
           "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
           "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "370,097 stars",
-          "publishedAtUtc": "2026-05-09T13:15:22.0000000Z"
+          "metric": "370,261 stars",
+          "publishedAtUtc": "2026-05-10T02:50:24.0000000Z"
         },
         {
-          "title": "openvino",
-          "subtitle": "@openvinotoolkit",
-          "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference Open-source software toolkit for optimizing and deploying deep learning models.",
-          "url": "https://github.com/openvinotoolkit/openvino",
-          "category": "C++",
-          "metric": "10,216 stars",
-          "publishedAtUtc": "2026-05-09T13:13:09.0000000Z"
+          "title": "googlegpt",
+          "subtitle": "@KudoAI",
+          "summary": "\uD83E\uDD16 AI chat & search summaries in Google Search, powered by the latest LLMs \uD83E\uDD16 Bring AI chat & search summaries to Google Search, powered by the latest LLMs Discuss / Get support...",
+          "url": "https://github.com/KudoAI/googlegpt",
+          "category": "JavaScript",
+          "metric": "183 stars",
+          "publishedAtUtc": "2026-05-10T02:48:19.0000000Z"
         },
         {
-          "title": "llmgateway",
-          "subtitle": "@theopenco",
-          "summary": "Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. LLM Gateway LLM Gateway is an open-source API gateway for Large Language...",
-          "url": "https://github.com/theopenco/llmgateway",
-          "category": "TypeScript",
-          "metric": "1,191 stars",
-          "publishedAtUtc": "2026-05-09T13:12:46.0000000Z"
+          "title": "chatgpt-infinity",
+          "subtitle": "@adamlui",
+          "summary": "∞ Generate endless answers from all-knowing ChatGPT (on any topic!) &nbsp;English 简体中文 日本語 \uD83D\uDCA1 About ChatGPT Infinity is your ultimate chat companion: a free (yet powerful) add-on...",
+          "url": "https://github.com/adamlui/chatgpt-infinity",
+          "category": "JavaScript",
+          "metric": "352 stars",
+          "publishedAtUtc": "2026-05-10T02:48:17.0000000Z"
         },
         {
-          "title": "NadirClaw",
-          "subtitle": "@NadirRouter",
-          "summary": "Open-source LLM router & AI cost optimizer. Routes simple prompts to cheap/local models, complex ones to premium —... NadirClaw Your simple prompts are burning premium tokens.",
-          "url": "https://github.com/NadirRouter/NadirClaw",
-          "category": "Python",
-          "metric": "465 stars",
-          "publishedAtUtc": "2026-05-09T13:12:11.0000000Z"
+          "title": "bravegpt",
+          "subtitle": "@KudoAI",
+          "summary": "\uD83E\uDD81 AI chat & search summaries in Brave Search, powered by the latest LLMs Enhance Brave Search w/ AI chat & search summaries, powered by the latest LLMs Discuss / Get support /...",
+          "url": "https://github.com/KudoAI/bravegpt",
+          "category": "JavaScript",
+          "metric": "209 stars",
+          "publishedAtUtc": "2026-05-10T02:48:17.0000000Z"
         },
         {
-          "title": "all-api-hub",
-          "subtitle": "@qixing-jk",
-          "summary": "​一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 All-in-one New-API/Sub2API account hub... 简体中文 English All API Hub – 你的全能 AI 资产管家 一站式管理 New API...",
-          "url": "https://github.com/qixing-jk/all-api-hub",
-          "category": "TypeScript",
-          "metric": "3,466 stars",
-          "publishedAtUtc": "2026-05-09T13:10:25.0000000Z"
+          "title": "duckduckgpt",
+          "subtitle": "@KudoAI",
+          "summary": "\uD83D\uDC24 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs Enhance DuckDuckGo w/ AI chat & search summaries, powered by the latest LLMs Discuss / Get support /...",
+          "url": "https://github.com/KudoAI/duckduckgpt",
+          "category": "JavaScript",
+          "metric": "271 stars",
+          "publishedAtUtc": "2026-05-10T02:48:16.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "132,964 stars",
-      "publishedAtUtc": "2026-05-09T12:51:40.0000000Z"
+      "metric": "132,986 stars",
+      "publishedAtUtc": "2026-05-10T02:16:35.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "104,977 stars",
-      "publishedAtUtc": "2026-05-09T13:07:45.0000000Z"
+      "metric": "105,040 stars",
+      "publishedAtUtc": "2026-05-10T02:09:49.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,347 stars",
-      "publishedAtUtc": "2026-05-09T13:04:21.0000000Z"
+      "metric": "53,349 stars",
+      "publishedAtUtc": "2026-05-10T00:19:23.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "51,412 stars",
-      "publishedAtUtc": "2026-05-09T12:42:44.0000000Z"
+      "metric": "51,428 stars",
+      "publishedAtUtc": "2026-05-10T02:37:41.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,316 stars",
-      "publishedAtUtc": "2026-05-09T13:07:07.0000000Z"
+      "metric": "43,319 stars",
+      "publishedAtUtc": "2026-05-10T02:47:55.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -185,7 +185,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "37,913 stars",
-      "publishedAtUtc": "2026-05-09T09:48:52.0000000Z"
+      "publishedAtUtc": "2026-05-09T19:58:37.0000000Z"
     }
   ]
 }
