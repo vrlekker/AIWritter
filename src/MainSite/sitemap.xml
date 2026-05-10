@@ -55,7 +55,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=agentsh</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=worldmonitor</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=chatgpt-js</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -67,25 +73,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=googlegpt</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=core</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=chatgpt-infinity</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openagents</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=bravegpt</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=duckduckgpt</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=hermes-agent</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
