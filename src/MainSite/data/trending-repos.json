@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-05-14T14:08:35.3805291Z",
+  "generatedAtUtc": "2026-05-15T02:59:02.2225339Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-05-07 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-05-08 archived:false",
       "items": [
         {
           "title": "PowerToys",
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "133,140 stars",
-          "publishedAtUtc": "2026-05-14T14:08:35.0000000Z"
+          "metric": "133,152 stars",
+          "publishedAtUtc": "2026-05-15T02:35:54.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "105,557 stars",
-          "publishedAtUtc": "2026-05-14T14:05:26.0000000Z"
+          "metric": "105,604 stars",
+          "publishedAtUtc": "2026-05-15T02:56:34.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,425 stars",
-          "publishedAtUtc": "2026-05-14T13:47:28.0000000Z"
+          "metric": "53,435 stars",
+          "publishedAtUtc": "2026-05-15T02:56:41.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "51,569 stars",
-          "publishedAtUtc": "2026-05-14T13:35:22.0000000Z"
+          "metric": "51,583 stars",
+          "publishedAtUtc": "2026-05-15T02:31:40.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,499 stars",
-          "publishedAtUtc": "2026-05-14T14:05:47.0000000Z"
+          "metric": "43,502 stars",
+          "publishedAtUtc": "2026-05-15T02:16:41.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,932 stars",
-          "publishedAtUtc": "2026-05-14T13:11:01.0000000Z"
+          "metric": "37,933 stars",
+          "publishedAtUtc": "2026-05-15T02:06:44.0000000Z"
         }
       ]
     },
@@ -76,49 +76,49 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
+          "title": "ragflow",
+          "subtitle": "@infiniflow",
+          "summary": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent... \uD83D\uDCD5 Table of Contents \uD83D\uDCA1 What is RAGFlow?",
+          "url": "https://github.com/infiniflow/ragflow",
+          "category": "Python",
+          "metric": "80,523 stars",
+          "publishedAtUtc": "2026-05-15T02:58:33.0000000Z"
+        },
+        {
           "title": "hermes-agent",
           "subtitle": "@NousResearch",
           "summary": "The agent that grows with you Hermes Agent ☤ The self-improving AI agent built by Nous Research.",
           "url": "https://github.com/NousResearch/hermes-agent",
           "category": "Python",
-          "metric": "149,785 stars",
-          "publishedAtUtc": "2026-05-14T14:08:19.0000000Z"
+          "metric": "150,536 stars",
+          "publishedAtUtc": "2026-05-15T02:58:27.0000000Z"
         },
         {
-          "title": "free-llm-api-keys",
-          "subtitle": "@alistaitsacle",
-          "summary": "Free LLM API keys for GPT-5.4, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card... The easiest way to access LLM APIs for free — no credit...",
-          "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+          "title": "dify",
+          "subtitle": "@langgenius",
+          "summary": "Production-ready platform for agentic workflow development. · Dify is an open-source LLM app development platform.",
+          "url": "https://github.com/langgenius/dify",
+          "category": "TypeScript",
+          "metric": "141,406 stars",
+          "publishedAtUtc": "2026-05-15T02:58:16.0000000Z"
+        },
+        {
+          "title": "cocoindex",
+          "subtitle": "@cocoindex-io",
+          "summary": "Incremental engine for long horizon agents \uD83C\uDF1F Star if you like it! Your agents deserve fresh context.",
+          "url": "https://github.com/cocoindex-io/cocoindex",
           "category": "Python",
-          "metric": "285 stars",
-          "publishedAtUtc": "2026-05-14T14:07:11.0000000Z"
+          "metric": "9,751 stars",
+          "publishedAtUtc": "2026-05-15T02:56:59.0000000Z"
         },
         {
-          "title": "dario",
-          "subtitle": "@askalf",
-          "summary": "Local LLM router. One endpoint for Claude Max/Pro, OpenAI, OpenRouter, Groq, Ollama, LiteLLM, any OpenAI-compat URL —... dario Use your Claude Pro/Max subscription with Cursor...",
-          "url": "https://github.com/askalf/dario",
-          "category": "JavaScript",
-          "metric": "198 stars",
-          "publishedAtUtc": "2026-05-14T14:07:07.0000000Z"
-        },
-        {
-          "title": "aihwkit",
-          "subtitle": "@IBM",
-          "summary": "IBM Analog Hardware Acceleration Kit :warning: This library is currently in beta and under active development.",
-          "url": "https://github.com/IBM/aihwkit",
-          "category": "Jupyter Notebook",
-          "metric": "480 stars",
-          "publishedAtUtc": "2026-05-14T14:06:25.0000000Z"
-        },
-        {
-          "title": "AGiXT",
-          "subtitle": "@Josh-XT",
-          "summary": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task... AGiXT AGiXT is a comprehensive AI automation platform that...",
-          "url": "https://github.com/Josh-XT/AGiXT",
+          "title": "OpenKB",
+          "subtitle": "@VectifyAI",
+          "summary": "OpenKB: Open LLM Knowledge Base OpenKB — Open LLM Knowledge Base Scale to long documents&nbsp; • &nbsp;Reasoning-based retrieval&nbsp; • &nbsp;Native multi-modality&nbsp...",
+          "url": "https://github.com/VectifyAI/OpenKB",
           "category": "Python",
-          "metric": "3,187 stars",
-          "publishedAtUtc": "2026-05-14T14:06:22.0000000Z"
+          "metric": "1,796 stars",
+          "publishedAtUtc": "2026-05-15T02:56:43.0000000Z"
         },
         {
           "title": "openclaw",
@@ -126,8 +126,8 @@
           "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
           "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "371,799 stars",
-          "publishedAtUtc": "2026-05-14T14:06:31.0000000Z"
+          "metric": "371,921 stars",
+          "publishedAtUtc": "2026-05-15T02:58:31.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "133,140 stars",
-      "publishedAtUtc": "2026-05-14T14:08:35.0000000Z"
+      "metric": "133,152 stars",
+      "publishedAtUtc": "2026-05-15T02:35:54.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "105,557 stars",
-      "publishedAtUtc": "2026-05-14T14:05:26.0000000Z"
+      "metric": "105,604 stars",
+      "publishedAtUtc": "2026-05-15T02:56:34.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,425 stars",
-      "publishedAtUtc": "2026-05-14T13:47:28.0000000Z"
+      "metric": "53,435 stars",
+      "publishedAtUtc": "2026-05-15T02:56:41.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "51,569 stars",
-      "publishedAtUtc": "2026-05-14T13:35:22.0000000Z"
+      "metric": "51,583 stars",
+      "publishedAtUtc": "2026-05-15T02:31:40.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,499 stars",
-      "publishedAtUtc": "2026-05-14T14:05:47.0000000Z"
+      "metric": "43,502 stars",
+      "publishedAtUtc": "2026-05-15T02:16:41.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,932 stars",
-      "publishedAtUtc": "2026-05-14T13:11:01.0000000Z"
+      "metric": "37,933 stars",
+      "publishedAtUtc": "2026-05-15T02:06:44.0000000Z"
     }
   ]
 }
