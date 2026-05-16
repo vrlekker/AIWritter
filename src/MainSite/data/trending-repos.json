@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-05-16T02:48:07.4129806Z",
+  "generatedAtUtc": "2026-05-16T13:19:32.9496767Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "133,187 stars",
-          "publishedAtUtc": "2026-05-16T02:31:48.0000000Z"
+          "metric": "133,196 stars",
+          "publishedAtUtc": "2026-05-16T12:39:14.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "105,723 stars",
-          "publishedAtUtc": "2026-05-16T02:47:09.0000000Z"
+          "metric": "105,769 stars",
+          "publishedAtUtc": "2026-05-16T13:09:56.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,445 stars",
-          "publishedAtUtc": "2026-05-16T02:04:07.0000000Z"
+          "metric": "53,451 stars",
+          "publishedAtUtc": "2026-05-16T12:45:46.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "51,607 stars",
-          "publishedAtUtc": "2026-05-16T01:59:59.0000000Z"
+          "metric": "51,619 stars",
+          "publishedAtUtc": "2026-05-16T12:42:22.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,512 stars",
-          "publishedAtUtc": "2026-05-16T02:15:30.0000000Z"
+          "metric": "43,517 stars",
+          "publishedAtUtc": "2026-05-16T13:02:29.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -76,13 +76,13 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "react-grab",
-          "subtitle": "@aidenybai",
-          "summary": "Copy any UI element for your agent React Grab points agents to the actual source behind each selection, so edits are 2× faster and more accurate.",
-          "url": "https://github.com/aidenybai/react-grab",
+          "title": "open-pencil",
+          "subtitle": "@open-pencil",
+          "summary": "AI-native design editor. Open-source Figma alternative. OpenPencil Open-source design editor.",
+          "url": "https://github.com/open-pencil/open-pencil",
           "category": "TypeScript",
-          "metric": "7,200 stars",
-          "publishedAtUtc": "2026-05-16T02:47:28.0000000Z"
+          "metric": "4,937 stars",
+          "publishedAtUtc": "2026-05-16T13:19:14.0000000Z"
         },
         {
           "title": "eliza",
@@ -91,43 +91,43 @@
           "url": "https://github.com/elizaOS/eliza",
           "category": "TypeScript",
           "metric": "18,377 stars",
-          "publishedAtUtc": "2026-05-16T02:47:08.0000000Z"
+          "publishedAtUtc": "2026-05-16T13:18:13.0000000Z"
         },
         {
-          "title": "Arkloop",
-          "subtitle": "@qqqqqf-q",
-          "summary": "干净、强大、属于你的 AI Agent 平台 --AI agents, without the clutter. Open-source / Clean / Powerful — Your AI Agent Platform -- Arkloop is a design-focused open-source AI Agent platform.",
-          "url": "https://github.com/qqqqqf-q/Arkloop",
-          "category": "Go",
-          "metric": "307 stars",
-          "publishedAtUtc": "2026-05-16T02:46:55.0000000Z"
+          "title": "CodexBar",
+          "subtitle": "@steipete",
+          "summary": "Show usage stats for OpenAI Codex and Claude Code, without having to login. CodexBar \uD83C\uDF9A️ — May your tokens never run out.",
+          "url": "https://github.com/steipete/CodexBar",
+          "category": "Swift",
+          "metric": "12,352 stars",
+          "publishedAtUtc": "2026-05-16T13:17:38.0000000Z"
         },
         {
-          "title": "openclaw",
+          "title": "Peekaboo",
           "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
-          "url": "https://github.com/openclaw/openclaw",
-          "category": "TypeScript",
-          "metric": "372,199 stars",
-          "publishedAtUtc": "2026-05-16T02:47:42.0000000Z"
+          "summary": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the... Peekaboo \uD83E\uDEE3 - Mac automation that sees the screen and does...",
+          "url": "https://github.com/openclaw/Peekaboo",
+          "category": "Swift",
+          "metric": "4,258 stars",
+          "publishedAtUtc": "2026-05-16T13:18:11.0000000Z"
         },
         {
-          "title": "qsv",
-          "subtitle": "@dathere",
-          "summary": "Blazing-fast Data-Wrangling toolkit qsv: Blazing-fast Data-Wrangling toolkit &nbsp; Table of Contents :-------------------------- :------------------------- _Hi-ho...",
-          "url": "https://github.com/dathere/qsv",
+          "title": "models",
+          "subtitle": "@reyamira",
+          "summary": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers. models TUI and CLI for browsing AI models, benchmarks, coding agents, and provider...",
+          "url": "https://github.com/reyamira/models",
           "category": "Rust",
-          "metric": "3,644 stars",
-          "publishedAtUtc": "2026-05-16T02:43:49.0000000Z"
+          "metric": "421 stars",
+          "publishedAtUtc": "2026-05-16T13:17:21.0000000Z"
         },
         {
-          "title": "hyperframes",
-          "subtitle": "@heygen-com",
-          "summary": "Write HTML. Render video. Built for agents. Hyperframes is an open-source video rendering framework that lets you create, preview, and render HTML-based video compositions —...",
-          "url": "https://github.com/heygen-com/hyperframes",
-          "category": "TypeScript",
-          "metric": "18,419 stars",
-          "publishedAtUtc": "2026-05-16T02:43:02.0000000Z"
+          "title": "cockpit-tools",
+          "subtitle": "@jlcodes99",
+          "summary": "\uD83D\uDE80 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli /... Cockpit Tools English · 简体中文 一款通用的 AI IDE 账号管理工具，目前支持...",
+          "url": "https://github.com/jlcodes99/cockpit-tools",
+          "category": "Rust",
+          "metric": "7,907 stars",
+          "publishedAtUtc": "2026-05-16T13:18:27.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "133,187 stars",
-      "publishedAtUtc": "2026-05-16T02:31:48.0000000Z"
+      "metric": "133,196 stars",
+      "publishedAtUtc": "2026-05-16T12:39:14.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "105,723 stars",
-      "publishedAtUtc": "2026-05-16T02:47:09.0000000Z"
+      "metric": "105,769 stars",
+      "publishedAtUtc": "2026-05-16T13:09:56.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,445 stars",
-      "publishedAtUtc": "2026-05-16T02:04:07.0000000Z"
+      "metric": "53,451 stars",
+      "publishedAtUtc": "2026-05-16T12:45:46.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "51,607 stars",
-      "publishedAtUtc": "2026-05-16T01:59:59.0000000Z"
+      "metric": "51,619 stars",
+      "publishedAtUtc": "2026-05-16T12:42:22.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,512 stars",
-      "publishedAtUtc": "2026-05-16T02:15:30.0000000Z"
+      "metric": "43,517 stars",
+      "publishedAtUtc": "2026-05-16T13:02:29.0000000Z"
     },
     {
       "title": "aspnetcore",
