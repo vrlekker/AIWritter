@@ -55,37 +55,37 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=awesome-hosting</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=codexbar</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=comfyui</loc>
     <lastmod>2026-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=lean-spec</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=supabase</loc>
     <lastmod>2026-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=midscene</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=oh-my-openagent</loc>
     <lastmod>2026-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=lobehub</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=thinkwatch</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=hermes-agent</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=goose</loc>
     <lastmod>2026-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
