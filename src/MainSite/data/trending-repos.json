@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-05-22T03:33:15.5320223Z",
+  "generatedAtUtc": "2026-05-22T14:36:34.2902120Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "133,364 stars",
-          "publishedAtUtc": "2026-05-22T03:13:56.0000000Z"
+          "metric": "133,375 stars",
+          "publishedAtUtc": "2026-05-22T14:03:58.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "106,364 stars",
-          "publishedAtUtc": "2026-05-22T03:31:30.0000000Z"
+          "metric": "106,457 stars",
+          "publishedAtUtc": "2026-05-22T14:27:11.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,529 stars",
-          "publishedAtUtc": "2026-05-22T01:11:10.0000000Z"
+          "metric": "53,541 stars",
+          "publishedAtUtc": "2026-05-22T13:22:15.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "51,869 stars",
-          "publishedAtUtc": "2026-05-22T03:01:47.0000000Z"
+          "metric": "51,890 stars",
+          "publishedAtUtc": "2026-05-22T13:55:49.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,584 stars",
-          "publishedAtUtc": "2026-05-22T03:06:21.0000000Z"
+          "metric": "43,586 stars",
+          "publishedAtUtc": "2026-05-22T11:58:21.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -63,7 +63,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "37,939 stars",
-          "publishedAtUtc": "2026-05-22T02:42:00.0000000Z"
+          "publishedAtUtc": "2026-05-22T13:18:49.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
+          "title": "E2B",
+          "subtitle": "@e2b-dev",
+          "summary": "Open-source, secure environment with real-world tools for enterprise-grade agents. E2B is an open-source infrastructure that allows you to run AI-generated code in secure...",
+          "url": "https://github.com/e2b-dev/E2B",
+          "category": "Python",
+          "metric": "12,322 stars",
+          "publishedAtUtc": "2026-05-22T14:36:35.0000000Z"
+        },
+        {
+          "title": "agent-native",
+          "subtitle": "@BuilderIO",
+          "summary": "A framework for building agent-native applications. Agent-Native Agentic applications you own.",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "category": "TypeScript",
+          "metric": "408 stars",
+          "publishedAtUtc": "2026-05-22T14:36:28.0000000Z"
+        },
+        {
+          "title": "goose",
+          "subtitle": "@aaif-goose",
+          "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM This project has moved from block/goose to the Agentic AI...",
+          "url": "https://github.com/aaif-goose/goose",
+          "category": "Rust",
+          "metric": "45,684 stars",
+          "publishedAtUtc": "2026-05-22T14:36:17.0000000Z"
+        },
+        {
+          "title": "dbeaver",
+          "subtitle": "@dbeaver",
+          "summary": "Free universal database tool and SQL client DBeaver Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.",
+          "url": "https://github.com/dbeaver/dbeaver",
+          "category": "Java",
+          "metric": "50,160 stars",
+          "publishedAtUtc": "2026-05-22T14:36:15.0000000Z"
+        },
+        {
           "title": "openclaw",
           "subtitle": "@openclaw",
           "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
           "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "373,788 stars",
-          "publishedAtUtc": "2026-05-22T03:32:59.0000000Z"
+          "metric": "373,923 stars",
+          "publishedAtUtc": "2026-05-22T14:35:53.0000000Z"
         },
         {
-          "title": "CyberStrikeAI",
-          "subtitle": "@Ed1s0nZ",
-          "summary": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent... CyberStrikeAI 中文 English Community: Join us on Discord...",
-          "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-          "category": "Go",
-          "metric": "3,894 stars",
-          "publishedAtUtc": "2026-05-22T03:32:45.0000000Z"
-        },
-        {
-          "title": "axonhub",
-          "subtitle": "@looplj",
-          "summary": "⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control &... AxonHub - All-in-one AI Development Platform Use any SDK.",
-          "url": "https://github.com/looplj/axonhub",
-          "category": "Go",
-          "metric": "3,911 stars",
-          "publishedAtUtc": "2026-05-22T03:31:59.0000000Z"
-        },
-        {
-          "title": "mastra",
-          "subtitle": "@mastra-ai",
-          "summary": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern... Mastra Mastra is a framework for building AI-powered...",
-          "url": "https://github.com/mastra-ai/mastra",
+          "title": "lobehub",
+          "subtitle": "@lobehub",
+          "summary": "\uD83E\uDD2F LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and... [![][image-banner]][vercel-link] LobeHub LobeHub organizes your...",
+          "url": "https://github.com/lobehub/lobehub",
           "category": "TypeScript",
-          "metric": "24,175 stars",
-          "publishedAtUtc": "2026-05-22T03:31:58.0000000Z"
-        },
-        {
-          "title": "ai-collection",
-          "subtitle": "@ai-collection",
-          "summary": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications AI Collection THE GENERATIVE AI LANDSCAPE A Collection of Awesome Generative AI Applications --...",
-          "url": "https://github.com/ai-collection/ai-collection",
-          "category": "Repository",
-          "metric": "8,943 stars",
-          "publishedAtUtc": "2026-05-22T03:30:30.0000000Z"
-        },
-        {
-          "title": "free-llm-api-keys",
-          "subtitle": "@alistaitsacle",
-          "summary": "Free LLM API keys for GPT-5.4, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card... The easiest way to access LLM APIs for free — no credit...",
-          "url": "https://github.com/alistaitsacle/free-llm-api-keys",
-          "category": "Python",
-          "metric": "348 stars",
-          "publishedAtUtc": "2026-05-22T03:30:24.0000000Z"
+          "metric": "77,525 stars",
+          "publishedAtUtc": "2026-05-22T14:35:41.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "133,364 stars",
-      "publishedAtUtc": "2026-05-22T03:13:56.0000000Z"
+      "metric": "133,375 stars",
+      "publishedAtUtc": "2026-05-22T14:03:58.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "106,364 stars",
-      "publishedAtUtc": "2026-05-22T03:31:30.0000000Z"
+      "metric": "106,457 stars",
+      "publishedAtUtc": "2026-05-22T14:27:11.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,529 stars",
-      "publishedAtUtc": "2026-05-22T01:11:10.0000000Z"
+      "metric": "53,541 stars",
+      "publishedAtUtc": "2026-05-22T13:22:15.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "51,869 stars",
-      "publishedAtUtc": "2026-05-22T03:01:47.0000000Z"
+      "metric": "51,890 stars",
+      "publishedAtUtc": "2026-05-22T13:55:49.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,584 stars",
-      "publishedAtUtc": "2026-05-22T03:06:21.0000000Z"
+      "metric": "43,586 stars",
+      "publishedAtUtc": "2026-05-22T11:58:21.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -185,7 +185,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "37,939 stars",
-      "publishedAtUtc": "2026-05-22T02:42:00.0000000Z"
+      "publishedAtUtc": "2026-05-22T13:18:49.0000000Z"
     }
   ]
 }
