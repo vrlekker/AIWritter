@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-05-23T13:22:40.9125030Z",
+  "generatedAtUtc": "2026-05-24T03:30:21.5917679Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-05-16 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-05-17 archived:false",
       "items": [
         {
           "title": "PowerToys",
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "133,397 stars",
-          "publishedAtUtc": "2026-05-23T13:15:55.0000000Z"
+          "metric": "133,418 stars",
+          "publishedAtUtc": "2026-05-24T01:20:58.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "106,566 stars",
-          "publishedAtUtc": "2026-05-23T13:04:33.0000000Z"
+          "metric": "106,606 stars",
+          "publishedAtUtc": "2026-05-24T03:27:20.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,563 stars",
-          "publishedAtUtc": "2026-05-23T12:18:38.0000000Z"
+          "metric": "53,579 stars",
+          "publishedAtUtc": "2026-05-24T03:01:37.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "51,926 stars",
-          "publishedAtUtc": "2026-05-23T13:17:01.0000000Z"
+          "metric": "51,985 stars",
+          "publishedAtUtc": "2026-05-24T03:22:28.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,595 stars",
-          "publishedAtUtc": "2026-05-23T12:02:37.0000000Z"
+          "metric": "43,600 stars",
+          "publishedAtUtc": "2026-05-24T03:20:09.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -63,7 +63,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "37,942 stars",
-          "publishedAtUtc": "2026-05-23T06:52:30.0000000Z"
+          "publishedAtUtc": "2026-05-24T03:10:55.0000000Z"
         }
       ]
     },
@@ -76,49 +76,13 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "all-in-rag",
-          "subtitle": "@datawhalechina",
-          "summary": "\uD83D\uDD0D大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址： All-in-RAG 大模型应用开发实战一：RAG技术全栈指南 \uD83D\uDD0D 检索增强生成 (RAG) 技术全栈指南 从理论到实践，从基础到进阶，构建你的RAG技术体系 \uD83C\uDFAF 系统化学习 完整的RAG技术体系 \uD83D\uDEE0️ 动手实践 丰富的项目案例 \uD83D\uDE80 生产就绪 工程化最佳实践 \uD83D\uDCCA...",
-          "url": "https://github.com/datawhalechina/all-in-rag",
-          "category": "Python",
-          "metric": "7,803 stars",
-          "publishedAtUtc": "2026-05-23T13:13:19.0000000Z"
-        },
-        {
-          "title": "pagible",
-          "subtitle": "@aimeos",
-          "summary": "Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with JSON:API, GraphQL API, templates, and... PagibleAI CMS - Simple as Wordpress, the power of...",
-          "url": "https://github.com/aimeos/pagible",
-          "category": "PHP",
-          "metric": "532 stars",
-          "publishedAtUtc": "2026-05-23T13:22:13.0000000Z"
-        },
-        {
-          "title": "free-llm-api-keys",
-          "subtitle": "@alistaitsacle",
-          "summary": "Free LLM API keys for GPT-5.4, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card... The easiest way to access LLM APIs for free — no credit...",
-          "url": "https://github.com/alistaitsacle/free-llm-api-keys",
-          "category": "Python",
-          "metric": "703 stars",
-          "publishedAtUtc": "2026-05-23T13:22:13.0000000Z"
-        },
-        {
-          "title": "Awesome-Plugins",
-          "subtitle": "@targed",
-          "summary": "Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for... \uD83D\uDCC8 Live Status: \uD83D\uDFE7 Partial outage More information and...",
-          "url": "https://github.com/targed/Awesome-Plugins",
-          "category": "JSON",
-          "metric": "151 stars",
-          "publishedAtUtc": "2026-05-23T13:21:57.0000000Z"
-        },
-        {
-          "title": "oh-my-openagent",
-          "subtitle": "@code-yeongyu",
-          "summary": "omo; the best agent harness - previously oh-my-opencode [!NOTE] Multi-Harness Agent OS Refactor in Progress We are restructuring the codebase to support multiple agent harnesses...",
-          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "title": "altimate-code",
+          "subtitle": "@AltimateAI",
+          "summary": "Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered. The open-source data engineering harness.",
+          "url": "https://github.com/AltimateAI/altimate-code",
           "category": "TypeScript",
-          "metric": "59,113 stars",
-          "publishedAtUtc": "2026-05-23T13:21:06.0000000Z"
+          "metric": "597 stars",
+          "publishedAtUtc": "2026-05-24T03:30:08.0000000Z"
         },
         {
           "title": "openclaw",
@@ -126,8 +90,44 @@
           "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
           "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "374,107 stars",
-          "publishedAtUtc": "2026-05-23T13:21:07.0000000Z"
+          "metric": "374,211 stars",
+          "publishedAtUtc": "2026-05-24T03:29:14.0000000Z"
+        },
+        {
+          "title": "AITreasureBox",
+          "subtitle": "@superiorlu",
+          "summary": "\uD83E\uDD16 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 \uD83D\uDC8E AI TreasureBox English 中文 Collect practical AI repos, tools, websites, papers and tutorials...",
+          "url": "https://github.com/superiorlu/AITreasureBox",
+          "category": "Ruby",
+          "metric": "806 stars",
+          "publishedAtUtc": "2026-05-24T03:28:30.0000000Z"
+        },
+        {
+          "title": "dxos",
+          "subtitle": "@dxos",
+          "summary": "TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer. DXOS DXOS is the Decentralized Operating System — a platform for building fully decentralized...",
+          "url": "https://github.com/dxos/dxos",
+          "category": "TypeScript",
+          "metric": "504 stars",
+          "publishedAtUtc": "2026-05-24T03:27:34.0000000Z"
+        },
+        {
+          "title": "free-llm-api-keys",
+          "subtitle": "@alistaitsacle",
+          "summary": "Free LLM API keys for GPT-5.4, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card... The easiest way to access LLM APIs for free — no credit...",
+          "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+          "category": "Python",
+          "metric": "832 stars",
+          "publishedAtUtc": "2026-05-24T03:22:43.0000000Z"
+        },
+        {
+          "title": "userscripts",
+          "subtitle": "@adamlui",
+          "summary": "\uD83D\uDC35 Greasemonkey userscripts &nbsp;English \uD83D\uDC35 adamlui / userscripts Block Quora Poe Blocks low-quality AI answers from appearing on Quora.",
+          "url": "https://github.com/adamlui/userscripts",
+          "category": "JavaScript",
+          "metric": "351 stars",
+          "publishedAtUtc": "2026-05-24T03:21:13.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "133,397 stars",
-      "publishedAtUtc": "2026-05-23T13:15:55.0000000Z"
+      "metric": "133,418 stars",
+      "publishedAtUtc": "2026-05-24T01:20:58.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "106,566 stars",
-      "publishedAtUtc": "2026-05-23T13:04:33.0000000Z"
+      "metric": "106,606 stars",
+      "publishedAtUtc": "2026-05-24T03:27:20.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,563 stars",
-      "publishedAtUtc": "2026-05-23T12:18:38.0000000Z"
+      "metric": "53,579 stars",
+      "publishedAtUtc": "2026-05-24T03:01:37.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "51,926 stars",
-      "publishedAtUtc": "2026-05-23T13:17:01.0000000Z"
+      "metric": "51,985 stars",
+      "publishedAtUtc": "2026-05-24T03:22:28.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,595 stars",
-      "publishedAtUtc": "2026-05-23T12:02:37.0000000Z"
+      "metric": "43,600 stars",
+      "publishedAtUtc": "2026-05-24T03:20:09.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -185,7 +185,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "37,942 stars",
-      "publishedAtUtc": "2026-05-23T06:52:30.0000000Z"
+      "publishedAtUtc": "2026-05-24T03:10:55.0000000Z"
     }
   ]
 }
