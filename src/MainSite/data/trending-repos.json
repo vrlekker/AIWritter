@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-05-28T03:29:02.7072110Z",
+  "generatedAtUtc": "2026-05-28T15:51:09.4721246Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "133,573 stars",
-          "publishedAtUtc": "2026-05-28T02:48:02.0000000Z"
+          "metric": "133,596 stars",
+          "publishedAtUtc": "2026-05-28T14:37:25.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "107,055 stars",
-          "publishedAtUtc": "2026-05-28T03:27:29.0000000Z"
+          "metric": "107,138 stars",
+          "publishedAtUtc": "2026-05-28T15:39:55.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,639 stars",
-          "publishedAtUtc": "2026-05-28T03:02:21.0000000Z"
+          "metric": "53,659 stars",
+          "publishedAtUtc": "2026-05-28T14:27:02.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "52,586 stars",
-          "publishedAtUtc": "2026-05-28T03:11:14.0000000Z"
+          "metric": "52,631 stars",
+          "publishedAtUtc": "2026-05-28T15:32:35.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,631 stars",
-          "publishedAtUtc": "2026-05-28T02:25:32.0000000Z"
+          "metric": "43,642 stars",
+          "publishedAtUtc": "2026-05-28T15:42:26.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,952 stars",
-          "publishedAtUtc": "2026-05-27T16:13:21.0000000Z"
+          "metric": "37,957 stars",
+          "publishedAtUtc": "2026-05-28T14:21:34.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "hyperframes",
-          "subtitle": "@heygen-com",
-          "summary": "Write HTML. Render video. Built for agents. Hyperframes is an open-source video rendering framework that lets you create, preview, and render HTML-based video compositions —...",
-          "url": "https://github.com/heygen-com/hyperframes",
+          "title": "OpenSpec",
+          "subtitle": "@Fission-AI",
+          "summary": "Spec-driven development (SDD) for AI coding assistants. Our philosophy: [!TIP] New workflow now available!",
+          "url": "https://github.com/Fission-AI/OpenSpec",
           "category": "TypeScript",
-          "metric": "21,744 stars",
-          "publishedAtUtc": "2026-05-28T03:28:45.0000000Z"
+          "metric": "51,380 stars",
+          "publishedAtUtc": "2026-05-28T15:50:33.0000000Z"
         },
         {
-          "title": "openai",
-          "subtitle": "@anasfik",
-          "summary": "Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..) \uD83D\uDE80 Dart OpenAI A comprehensive Dart/Flutter client for OpenAI's powerful AI models Quick Start • Documentation •...",
-          "url": "https://github.com/anasfik/openai",
-          "category": "Dart",
-          "metric": "665 stars",
-          "publishedAtUtc": "2026-05-28T03:28:25.0000000Z"
+          "title": "golem",
+          "subtitle": "@golemcloud",
+          "summary": "Golem Cloud is the agent-native platform for building AI agents and distributed applications that never lose state... Golem This repository contains Golem - a set of services...",
+          "url": "https://github.com/golemcloud/golem",
+          "category": "Rust",
+          "metric": "1,595 stars",
+          "publishedAtUtc": "2026-05-28T15:49:37.0000000Z"
         },
         {
-          "title": "medical-research-skills",
-          "subtitle": "@aipoch",
-          "summary": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and... Medical Research Agent Skills Add Skills.",
-          "url": "https://github.com/aipoch/medical-research-skills",
+          "title": "Archon",
+          "subtitle": "@coleam00",
+          "summary": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. Archon The first open-source harness builder for AI coding.",
+          "url": "https://github.com/coleam00/Archon",
+          "category": "TypeScript",
+          "metric": "21,951 stars",
+          "publishedAtUtc": "2026-05-28T15:50:46.0000000Z"
+        },
+        {
+          "title": "mochi",
+          "subtitle": "@mochilang",
+          "summary": "Mochi is a small, fast, embeddable programming language designed for agents, data, and AI. It combines functional... \uD83C\uDF61 Mochi Programming Language Mochi is a small, statically...",
+          "url": "https://github.com/mochilang/mochi",
+          "category": "Scheme",
+          "metric": "328 stars",
+          "publishedAtUtc": "2026-05-28T15:49:06.0000000Z"
+        },
+        {
+          "title": "kaapana",
+          "subtitle": "@kaapana",
+          "summary": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis... Kaapana is an open-source toolkit for state-of-the-art...",
+          "url": "https://github.com/kaapana/kaapana",
           "category": "Python",
-          "metric": "866 stars",
-          "publishedAtUtc": "2026-05-28T03:27:40.0000000Z"
+          "metric": "262 stars",
+          "publishedAtUtc": "2026-05-28T15:49:07.0000000Z"
         },
         {
-          "title": "pipeshub-ai",
-          "subtitle": "@pipeshub-ai",
-          "summary": "PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation The Open-Source Workplace AI Platform PipesHub - Explainable &...",
-          "url": "https://github.com/pipeshub-ai/pipeshub-ai",
-          "category": "Python",
-          "metric": "2,911 stars",
-          "publishedAtUtc": "2026-05-28T03:25:11.0000000Z"
-        },
-        {
-          "title": "studio",
-          "subtitle": "@decocms",
-          "summary": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar Deco CMS Open-source · TypeScript-first · Deploy anywhere Open-source...",
-          "url": "https://github.com/decocms/studio",
+          "title": "OpenConstructionERP",
+          "subtitle": "@datadrivenconstruction",
+          "summary": "Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching. 42 regional catalogues, 21 languages, 71... OpenConstructionERP The #1 open-source workspace for...",
+          "url": "https://github.com/datadrivenconstruction/OpenConstructionERP",
           "category": "TypeScript",
-          "metric": "375 stars",
-          "publishedAtUtc": "2026-05-28T03:24:10.0000000Z"
-        },
-        {
-          "title": "learn-harness-engineering",
-          "subtitle": "@walkinglabs",
-          "summary": "Harness engineering official style beginner tutorial, from 0 to 1 Learn Harness Engineering A project-based course on building the environment, state management, verification...",
-          "url": "https://github.com/walkinglabs/learn-harness-engineering",
-          "category": "TypeScript",
-          "metric": "6,859 stars",
-          "publishedAtUtc": "2026-05-28T03:23:56.0000000Z"
+          "metric": "281 stars",
+          "publishedAtUtc": "2026-05-28T15:49:12.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "133,573 stars",
-      "publishedAtUtc": "2026-05-28T02:48:02.0000000Z"
+      "metric": "133,596 stars",
+      "publishedAtUtc": "2026-05-28T14:37:25.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "107,055 stars",
-      "publishedAtUtc": "2026-05-28T03:27:29.0000000Z"
+      "metric": "107,138 stars",
+      "publishedAtUtc": "2026-05-28T15:39:55.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,639 stars",
-      "publishedAtUtc": "2026-05-28T03:02:21.0000000Z"
+      "metric": "53,659 stars",
+      "publishedAtUtc": "2026-05-28T14:27:02.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "52,586 stars",
-      "publishedAtUtc": "2026-05-28T03:11:14.0000000Z"
+      "metric": "52,631 stars",
+      "publishedAtUtc": "2026-05-28T15:32:35.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,631 stars",
-      "publishedAtUtc": "2026-05-28T02:25:32.0000000Z"
+      "metric": "43,642 stars",
+      "publishedAtUtc": "2026-05-28T15:42:26.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,952 stars",
-      "publishedAtUtc": "2026-05-27T16:13:21.0000000Z"
+      "metric": "37,957 stars",
+      "publishedAtUtc": "2026-05-28T14:21:34.0000000Z"
     }
   ]
 }
