@@ -55,37 +55,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=geoflow</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=zerostack</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=hermes-agent</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=unity-cli-loop</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=inferencex</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=tokentracker</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=soulforge</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=free-llm-api-keys</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=react-grab</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=frigate</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
