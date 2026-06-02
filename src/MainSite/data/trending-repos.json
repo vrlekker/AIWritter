@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-06-02T03:51:33.0953420Z",
+  "generatedAtUtc": "2026-06-02T16:22:01.7343284Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "133,697 stars",
-          "publishedAtUtc": "2026-06-02T03:41:08.0000000Z"
+          "metric": "133,704 stars",
+          "publishedAtUtc": "2026-06-02T16:11:20.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "107,601 stars",
-          "publishedAtUtc": "2026-06-02T03:27:01.0000000Z"
+          "metric": "107,684 stars",
+          "publishedAtUtc": "2026-06-02T16:01:37.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,719 stars",
-          "publishedAtUtc": "2026-06-02T00:53:12.0000000Z"
+          "metric": "53,732 stars",
+          "publishedAtUtc": "2026-06-02T15:15:52.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "52,806 stars",
-          "publishedAtUtc": "2026-06-02T02:51:01.0000000Z"
+          "metric": "52,814 stars",
+          "publishedAtUtc": "2026-06-02T16:19:16.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,731 stars",
-          "publishedAtUtc": "2026-06-02T02:48:53.0000000Z"
+          "metric": "43,739 stars",
+          "publishedAtUtc": "2026-06-02T15:39:43.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,952 stars",
-          "publishedAtUtc": "2026-06-02T02:25:05.0000000Z"
+          "metric": "37,955 stars",
+          "publishedAtUtc": "2026-06-02T15:49:48.0000000Z"
         }
       ]
     },
@@ -76,22 +76,13 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "Rustchain",
-          "subtitle": "@Scottcjn",
-          "summary": "DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware... RustChain DePIN for Vintage Hardware — AI-Augmented Proof...",
-          "url": "https://github.com/Scottcjn/Rustchain",
+          "title": "mini-swe-agent",
+          "subtitle": "@SWE-agent",
+          "summary": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs... The minimal AI software engineering agent \uD83D\uDCE3 Run...",
+          "url": "https://github.com/SWE-agent/mini-swe-agent",
           "category": "Python",
-          "metric": "382 stars",
-          "publishedAtUtc": "2026-06-02T03:51:09.0000000Z"
-        },
-        {
-          "title": "autocontext",
-          "subtitle": "@greyhaven-ai",
-          "summary": "a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any... a recursive self-improving harness designed to help your...",
-          "url": "https://github.com/greyhaven-ai/autocontext",
-          "category": "Python",
-          "metric": "1,169 stars",
-          "publishedAtUtc": "2026-06-02T03:50:59.0000000Z"
+          "metric": "4,823 stars",
+          "publishedAtUtc": "2026-06-02T16:22:04.0000000Z"
         },
         {
           "title": "openclaw",
@@ -99,35 +90,44 @@
           "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
           "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "376,098 stars",
-          "publishedAtUtc": "2026-06-02T03:51:00.0000000Z"
+          "metric": "376,224 stars",
+          "publishedAtUtc": "2026-06-02T16:21:59.0000000Z"
         },
         {
-          "title": "ComfyUI",
-          "subtitle": "@Comfy-Org",
-          "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. ComfyUI The most powerful and modular AI engine for content creation.",
-          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "title": "hyperframes",
+          "subtitle": "@heygen-com",
+          "summary": "Write HTML. Render video. Built for agents. HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos.",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "category": "TypeScript",
+          "metric": "23,490 stars",
+          "publishedAtUtc": "2026-06-02T16:20:14.0000000Z"
+        },
+        {
+          "title": "agentscope-java",
+          "subtitle": "@agentscope-ai",
+          "summary": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications Build Production-Ready AI Agents in Java &nbsp; &nbsp; 中文 &nbsp; &nbsp; -- AgentScope Java is an...",
+          "url": "https://github.com/agentscope-ai/agentscope-java",
+          "category": "Java",
+          "metric": "3,431 stars",
+          "publishedAtUtc": "2026-06-02T16:21:35.0000000Z"
+        },
+        {
+          "title": "mcp-context-forge",
+          "subtitle": "@IBM",
+          "summary": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint... ContextForge An open source registry and proxy that...",
+          "url": "https://github.com/IBM/mcp-context-forge",
           "category": "Python",
-          "metric": "115,324 stars",
-          "publishedAtUtc": "2026-06-02T03:50:42.0000000Z"
+          "metric": "3,803 stars",
+          "publishedAtUtc": "2026-06-02T16:19:03.0000000Z"
         },
         {
-          "title": "mastra",
-          "subtitle": "@mastra-ai",
-          "summary": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern... Mastra Mastra is a framework for building AI-powered...",
-          "url": "https://github.com/mastra-ai/mastra",
+          "title": "manifest",
+          "subtitle": "@mnfst",
+          "summary": "Smart Model Routing for Agents. Cut Costs up to 70% \uD83E\uDD9A Reduce your AI costs &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What is Manifest?",
+          "url": "https://github.com/mnfst/manifest",
           "category": "TypeScript",
-          "metric": "24,641 stars",
-          "publishedAtUtc": "2026-06-02T03:48:14.0000000Z"
-        },
-        {
-          "title": "dify",
-          "subtitle": "@langgenius",
-          "summary": "Production-ready platform for agentic workflow development. · Dify is an open-source LLM app development platform.",
-          "url": "https://github.com/langgenius/dify",
-          "category": "TypeScript",
-          "metric": "143,462 stars",
-          "publishedAtUtc": "2026-06-02T03:48:15.0000000Z"
+          "metric": "6,761 stars",
+          "publishedAtUtc": "2026-06-02T16:19:47.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "133,697 stars",
-      "publishedAtUtc": "2026-06-02T03:41:08.0000000Z"
+      "metric": "133,704 stars",
+      "publishedAtUtc": "2026-06-02T16:11:20.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "107,601 stars",
-      "publishedAtUtc": "2026-06-02T03:27:01.0000000Z"
+      "metric": "107,684 stars",
+      "publishedAtUtc": "2026-06-02T16:01:37.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,719 stars",
-      "publishedAtUtc": "2026-06-02T00:53:12.0000000Z"
+      "metric": "53,732 stars",
+      "publishedAtUtc": "2026-06-02T15:15:52.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "52,806 stars",
-      "publishedAtUtc": "2026-06-02T02:51:01.0000000Z"
+      "metric": "52,814 stars",
+      "publishedAtUtc": "2026-06-02T16:19:16.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,731 stars",
-      "publishedAtUtc": "2026-06-02T02:48:53.0000000Z"
+      "metric": "43,739 stars",
+      "publishedAtUtc": "2026-06-02T15:39:43.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,952 stars",
-      "publishedAtUtc": "2026-06-02T02:25:05.0000000Z"
+      "metric": "37,955 stars",
+      "publishedAtUtc": "2026-06-02T15:49:48.0000000Z"
     }
   ]
 }
