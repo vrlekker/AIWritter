@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-06-02T16:22:01.7343284Z",
+  "generatedAtUtc": "2026-06-03T03:58:10.1457587Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-05-26 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-05-27 archived:false",
       "items": [
         {
           "title": "PowerToys",
@@ -17,8 +17,8 @@
           "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "133,704 stars",
-          "publishedAtUtc": "2026-06-02T16:11:20.0000000Z"
+          "metric": "133,717 stars",
+          "publishedAtUtc": "2026-06-03T03:43:50.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "107,684 stars",
-          "publishedAtUtc": "2026-06-02T16:01:37.0000000Z"
+          "metric": "107,726 stars",
+          "publishedAtUtc": "2026-06-03T03:53:05.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,732 stars",
-          "publishedAtUtc": "2026-06-02T15:15:52.0000000Z"
+          "metric": "53,748 stars",
+          "publishedAtUtc": "2026-06-03T03:49:53.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "52,814 stars",
-          "publishedAtUtc": "2026-06-02T16:19:16.0000000Z"
+          "metric": "52,830 stars",
+          "publishedAtUtc": "2026-06-03T03:41:31.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,739 stars",
-          "publishedAtUtc": "2026-06-02T15:39:43.0000000Z"
+          "metric": "43,750 stars",
+          "publishedAtUtc": "2026-06-03T03:45:17.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "37,955 stars",
-          "publishedAtUtc": "2026-06-02T15:49:48.0000000Z"
+          "metric": "37,956 stars",
+          "publishedAtUtc": "2026-06-02T22:34:28.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "mini-swe-agent",
-          "subtitle": "@SWE-agent",
-          "summary": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs... The minimal AI software engineering agent \uD83D\uDCE3 Run...",
-          "url": "https://github.com/SWE-agent/mini-swe-agent",
+          "title": "databend",
+          "subtitle": "@databendlabs",
+          "summary": "Data Agent Ready Warehouse : One for Analytics, Search, AI, Python Sandbox. — rebuilt from scratch. Unified... Databend Enterprise Data Warehouse for AI Agents Large-scale...",
+          "url": "https://github.com/databendlabs/databend",
+          "category": "Rust",
+          "metric": "9,307 stars",
+          "publishedAtUtc": "2026-06-03T03:57:58.0000000Z"
+        },
+        {
+          "title": "CopilotKit",
+          "subtitle": "@CopilotKit",
+          "summary": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol CopilotKit Docs · Examples · Enterprise Intelligence Platform · Discord Build...",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "category": "TypeScript",
+          "metric": "31,911 stars",
+          "publishedAtUtc": "2026-06-03T03:56:39.0000000Z"
+        },
+        {
+          "title": "dify",
+          "subtitle": "@langgenius",
+          "summary": "Production-ready platform for agentic workflow development. · Dify is an open-source LLM app development platform.",
+          "url": "https://github.com/langgenius/dify",
+          "category": "TypeScript",
+          "metric": "143,604 stars",
+          "publishedAtUtc": "2026-06-03T03:58:02.0000000Z"
+        },
+        {
+          "title": "supabase",
+          "subtitle": "@supabase",
+          "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI... Supabase Supabase is the Postgres development platform.",
+          "url": "https://github.com/supabase/supabase",
+          "category": "TypeScript",
+          "metric": "103,357 stars",
+          "publishedAtUtc": "2026-06-03T03:56:28.0000000Z"
+        },
+        {
+          "title": "onnx",
+          "subtitle": "@onnx",
+          "summary": "Open standard for machine learning interoperability Open Neural Network Exchange (ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their...",
+          "url": "https://github.com/onnx/onnx",
           "category": "Python",
-          "metric": "4,823 stars",
-          "publishedAtUtc": "2026-06-02T16:22:04.0000000Z"
+          "metric": "20,930 stars",
+          "publishedAtUtc": "2026-06-03T03:56:20.0000000Z"
         },
         {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
-          "url": "https://github.com/openclaw/openclaw",
-          "category": "TypeScript",
-          "metric": "376,224 stars",
-          "publishedAtUtc": "2026-06-02T16:21:59.0000000Z"
-        },
-        {
-          "title": "hyperframes",
-          "subtitle": "@heygen-com",
-          "summary": "Write HTML. Render video. Built for agents. HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos.",
-          "url": "https://github.com/heygen-com/hyperframes",
-          "category": "TypeScript",
-          "metric": "23,490 stars",
-          "publishedAtUtc": "2026-06-02T16:20:14.0000000Z"
-        },
-        {
-          "title": "agentscope-java",
-          "subtitle": "@agentscope-ai",
-          "summary": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications Build Production-Ready AI Agents in Java &nbsp; &nbsp; 中文 &nbsp; &nbsp; -- AgentScope Java is an...",
-          "url": "https://github.com/agentscope-ai/agentscope-java",
-          "category": "Java",
-          "metric": "3,431 stars",
-          "publishedAtUtc": "2026-06-02T16:21:35.0000000Z"
-        },
-        {
-          "title": "mcp-context-forge",
-          "subtitle": "@IBM",
-          "summary": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint... ContextForge An open source registry and proxy that...",
-          "url": "https://github.com/IBM/mcp-context-forge",
-          "category": "Python",
-          "metric": "3,803 stars",
-          "publishedAtUtc": "2026-06-02T16:19:03.0000000Z"
-        },
-        {
-          "title": "manifest",
-          "subtitle": "@mnfst",
-          "summary": "Smart Model Routing for Agents. Cut Costs up to 70% \uD83E\uDD9A Reduce your AI costs &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What is Manifest?",
-          "url": "https://github.com/mnfst/manifest",
-          "category": "TypeScript",
-          "metric": "6,761 stars",
-          "publishedAtUtc": "2026-06-02T16:19:47.0000000Z"
+          "title": "electerm",
+          "subtitle": "@electerm",
+          "summary": "\uD83D\uDCFBTerminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win) electerm &url=https%3A%2F%2Fgithub.com%2Felecterm%2Felecterm&hashtags=electerm,ssh,terminal,sftp)...",
+          "url": "https://github.com/electerm/electerm",
+          "category": "JavaScript",
+          "metric": "14,207 stars",
+          "publishedAtUtc": "2026-06-03T03:55:22.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "133,704 stars",
-      "publishedAtUtc": "2026-06-02T16:11:20.0000000Z"
+      "metric": "133,717 stars",
+      "publishedAtUtc": "2026-06-03T03:43:50.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "107,684 stars",
-      "publishedAtUtc": "2026-06-02T16:01:37.0000000Z"
+      "metric": "107,726 stars",
+      "publishedAtUtc": "2026-06-03T03:53:05.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,732 stars",
-      "publishedAtUtc": "2026-06-02T15:15:52.0000000Z"
+      "metric": "53,748 stars",
+      "publishedAtUtc": "2026-06-03T03:49:53.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "52,814 stars",
-      "publishedAtUtc": "2026-06-02T16:19:16.0000000Z"
+      "metric": "52,830 stars",
+      "publishedAtUtc": "2026-06-03T03:41:31.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,739 stars",
-      "publishedAtUtc": "2026-06-02T15:39:43.0000000Z"
+      "metric": "43,750 stars",
+      "publishedAtUtc": "2026-06-03T03:45:17.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "37,955 stars",
-      "publishedAtUtc": "2026-06-02T15:49:48.0000000Z"
+      "metric": "37,956 stars",
+      "publishedAtUtc": "2026-06-02T22:34:28.0000000Z"
     }
   ]
 }
