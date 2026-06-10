@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-06-10T03:36:23.2234865Z",
+  "generatedAtUtc": "2026-06-10T15:31:40.2847160Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -14,11 +14,11 @@
         {
           "title": "PowerToys",
           "subtitle": "@microsoft",
-          "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
+          "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "133,973 stars",
-          "publishedAtUtc": "2026-06-10T03:29:27.0000000Z"
+          "metric": "134,004 stars",
+          "publishedAtUtc": "2026-06-10T15:17:30.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "108,512 stars",
-          "publishedAtUtc": "2026-06-10T03:31:12.0000000Z"
+          "metric": "108,592 stars",
+          "publishedAtUtc": "2026-06-10T14:51:22.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,848 stars",
-          "publishedAtUtc": "2026-06-10T03:03:16.0000000Z"
+          "metric": "53,855 stars",
+          "publishedAtUtc": "2026-06-10T14:37:35.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,085 stars",
-          "publishedAtUtc": "2026-06-10T03:22:13.0000000Z"
+          "metric": "53,093 stars",
+          "publishedAtUtc": "2026-06-10T15:13:28.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,836 stars",
-          "publishedAtUtc": "2026-06-10T03:26:23.0000000Z"
+          "metric": "43,844 stars",
+          "publishedAtUtc": "2026-06-10T15:24:04.0000000Z"
         },
         {
           "title": "ShareX",
@@ -62,8 +62,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,026 stars",
-          "publishedAtUtc": "2026-06-10T01:55:40.0000000Z"
+          "metric": "38,033 stars",
+          "publishedAtUtc": "2026-06-10T14:32:51.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "helmor",
-          "subtitle": "@dohooo",
-          "summary": "Open-source local workbench for multi-agent software development. Helmor is about finishing the rest of the loop.",
-          "url": "https://github.com/dohooo/helmor",
+          "title": "grida",
+          "subtitle": "@gridaco",
+          "summary": "Grida — Open Design Grida Grida is an open-source canvas editor & rendering engine (Rust + Skia + WASM) — plus an SVG editor, Database/CMS and Forms.",
+          "url": "https://github.com/gridaco/grida",
           "category": "TypeScript",
-          "metric": "1,200 stars",
-          "publishedAtUtc": "2026-06-10T03:36:15.0000000Z"
+          "metric": "2,521 stars",
+          "publishedAtUtc": "2026-06-10T15:16:19.0000000Z"
         },
         {
-          "title": "kilocode",
-          "subtitle": "@Kilo-Org",
-          "summary": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source... Kilo is the all-in-one agentic engineering platform.",
-          "url": "https://github.com/Kilo-Org/kilocode",
+          "title": "sonarqube-cli",
+          "subtitle": "@SonarSource",
+          "summary": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality... SonarQube CLI Catch code quality and security issues in...",
+          "url": "https://github.com/SonarSource/sonarqube-cli",
           "category": "TypeScript",
-          "metric": "19,969 stars",
-          "publishedAtUtc": "2026-06-10T03:36:15.0000000Z"
+          "metric": "186 stars",
+          "publishedAtUtc": "2026-06-10T12:40:54.0000000Z"
         },
         {
-          "title": "airunner",
-          "subtitle": "@Capsize-Games",
-          "summary": "Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows AI Runner Edge AI inference engine with a web GUI — LLMs, image...",
-          "url": "https://github.com/Capsize-Games/airunner",
+          "title": "agent-scan",
+          "subtitle": "@snyk",
+          "summary": "Security scanner for AI agents, MCP servers and agent skills. Snyk Agent Scan Discover and scan agent components on your machine for prompt injections and vulnerabilities...",
+          "url": "https://github.com/snyk/agent-scan",
           "category": "Python",
-          "metric": "1,315 stars",
-          "publishedAtUtc": "2026-06-10T03:36:07.0000000Z"
+          "metric": "2,548 stars",
+          "publishedAtUtc": "2026-06-10T13:09:42.0000000Z"
         },
         {
-          "title": "summarize",
-          "subtitle": "@steipete",
-          "summary": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. Summarize \uD83D\uDCDD — Chrome Side Panel + CLI Fast summaries from URLs, files, and media.",
-          "url": "https://github.com/steipete/summarize",
+          "title": "agent-native",
+          "subtitle": "@BuilderIO",
+          "summary": "A framework for building agent-native applications. Agent-Native Agentic applications you own.",
+          "url": "https://github.com/BuilderIO/agent-native",
           "category": "TypeScript",
-          "metric": "6,133 stars",
-          "publishedAtUtc": "2026-06-10T03:35:58.0000000Z"
+          "metric": "471 stars",
+          "publishedAtUtc": "2026-06-10T08:58:24.0000000Z"
         },
         {
-          "title": "dify",
-          "subtitle": "@langgenius",
-          "summary": "Production-ready platform for agentic workflow development. · Dify is an open-source LLM app development platform.",
-          "url": "https://github.com/langgenius/dify",
+          "title": "TokenTracker",
+          "subtitle": "@mm7894215",
+          "summary": "Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more)... Token Tracker English · 简体中文 · 日本語 · 한국어 Know exactly...",
+          "url": "https://github.com/mm7894215/TokenTracker",
+          "category": "JavaScript",
+          "metric": "683 stars",
+          "publishedAtUtc": "2026-06-10T14:16:27.0000000Z"
+        },
+        {
+          "title": "LibreChat",
+          "subtitle": "@danny-avila",
+          "summary": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq... English · 中文 ✨ Features \uD83D\uDDA5️ UI & Experience inspired by...",
+          "url": "https://github.com/danny-avila/LibreChat",
           "category": "TypeScript",
-          "metric": "144,617 stars",
-          "publishedAtUtc": "2026-06-10T03:36:18.0000000Z"
-        },
-        {
-          "title": "arcade-mcp",
-          "subtitle": "@ArcadeAI",
-          "summary": "MCP Server Framework and Tool Development library for building custom capabilities into agents. Arcade MCP Open-source Python framework for building MCP servers and tools.",
-          "url": "https://github.com/ArcadeAI/arcade-mcp",
-          "category": "Python",
-          "metric": "918 stars",
-          "publishedAtUtc": "2026-06-10T03:35:28.0000000Z"
+          "metric": "38,808 stars",
+          "publishedAtUtc": "2026-06-10T15:29:29.0000000Z"
         }
       ]
     }
@@ -136,11 +136,11 @@
     {
       "title": "PowerToys",
       "subtitle": "@microsoft",
-      "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
+      "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "133,973 stars",
-      "publishedAtUtc": "2026-06-10T03:29:27.0000000Z"
+      "metric": "134,004 stars",
+      "publishedAtUtc": "2026-06-10T15:17:30.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "108,512 stars",
-      "publishedAtUtc": "2026-06-10T03:31:12.0000000Z"
+      "metric": "108,592 stars",
+      "publishedAtUtc": "2026-06-10T14:51:22.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,848 stars",
-      "publishedAtUtc": "2026-06-10T03:03:16.0000000Z"
+      "metric": "53,855 stars",
+      "publishedAtUtc": "2026-06-10T14:37:35.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,085 stars",
-      "publishedAtUtc": "2026-06-10T03:22:13.0000000Z"
+      "metric": "53,093 stars",
+      "publishedAtUtc": "2026-06-10T15:13:28.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,836 stars",
-      "publishedAtUtc": "2026-06-10T03:26:23.0000000Z"
+      "metric": "43,844 stars",
+      "publishedAtUtc": "2026-06-10T15:24:04.0000000Z"
     },
     {
       "title": "ShareX",
@@ -184,8 +184,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,026 stars",
-      "publishedAtUtc": "2026-06-10T01:55:40.0000000Z"
+      "metric": "38,033 stars",
+      "publishedAtUtc": "2026-06-10T14:32:51.0000000Z"
     }
   ]
 }
