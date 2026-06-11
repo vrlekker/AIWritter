@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-06-10T15:31:40.2847160Z",
+  "generatedAtUtc": "2026-06-11T03:51:50.1898269Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,16 +9,16 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-03 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-04 archived:false",
       "items": [
         {
           "title": "PowerToys",
           "subtitle": "@microsoft",
-          "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+          "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
           "url": "https://github.com/microsoft/PowerToys",
           "category": "C#",
-          "metric": "134,004 stars",
-          "publishedAtUtc": "2026-06-10T15:17:30.0000000Z"
+          "metric": "134,053 stars",
+          "publishedAtUtc": "2026-06-11T03:49:44.0000000Z"
         },
         {
           "title": "v2rayN",
@@ -26,8 +26,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "108,592 stars",
-          "publishedAtUtc": "2026-06-10T14:51:22.0000000Z"
+          "metric": "108,618 stars",
+          "publishedAtUtc": "2026-06-11T03:46:06.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,855 stars",
-          "publishedAtUtc": "2026-06-10T14:37:35.0000000Z"
+          "metric": "53,862 stars",
+          "publishedAtUtc": "2026-06-11T03:44:32.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -44,8 +44,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,093 stars",
-          "publishedAtUtc": "2026-06-10T15:13:28.0000000Z"
+          "metric": "53,121 stars",
+          "publishedAtUtc": "2026-06-11T03:47:38.0000000Z"
         },
         {
           "title": "Files",
@@ -53,8 +53,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,844 stars",
-          "publishedAtUtc": "2026-06-10T15:24:04.0000000Z"
+          "metric": "43,848 stars",
+          "publishedAtUtc": "2026-06-11T03:09:23.0000000Z"
         },
         {
           "title": "ShareX",
@@ -62,8 +62,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,033 stars",
-          "publishedAtUtc": "2026-06-10T14:32:51.0000000Z"
+          "metric": "38,045 stars",
+          "publishedAtUtc": "2026-06-11T03:15:35.0000000Z"
         }
       ]
     },
@@ -76,49 +76,31 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "grida",
-          "subtitle": "@gridaco",
-          "summary": "Grida — Open Design Grida Grida is an open-source canvas editor & rendering engine (Rust + Skia + WASM) — plus an SVG editor, Database/CMS and Forms.",
-          "url": "https://github.com/gridaco/grida",
-          "category": "TypeScript",
-          "metric": "2,521 stars",
-          "publishedAtUtc": "2026-06-10T15:16:19.0000000Z"
+          "title": "CyberStrikeAI",
+          "subtitle": "@Ed1s0nZ",
+          "summary": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent... CyberStrikeAI 中文 English Community: Join us on Discord...",
+          "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+          "category": "Go",
+          "metric": "4,388 stars",
+          "publishedAtUtc": "2026-06-11T03:50:41.0000000Z"
         },
         {
-          "title": "sonarqube-cli",
-          "subtitle": "@SonarSource",
-          "summary": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality... SonarQube CLI Catch code quality and security issues in...",
-          "url": "https://github.com/SonarSource/sonarqube-cli",
-          "category": "TypeScript",
-          "metric": "186 stars",
-          "publishedAtUtc": "2026-06-10T12:40:54.0000000Z"
-        },
-        {
-          "title": "agent-scan",
-          "subtitle": "@snyk",
-          "summary": "Security scanner for AI agents, MCP servers and agent skills. Snyk Agent Scan Discover and scan agent components on your machine for prompt injections and vulnerabilities...",
-          "url": "https://github.com/snyk/agent-scan",
+          "title": "fojin",
+          "subtitle": "@xr843",
+          "summary": "Buddhist Digital Text Platform — 9,200+ texts, 500+ sources, 8 UI languages, AI Q&A (RAG), knowledge graph, full-text... FoJin 佛津 The World's Encyclopedic Buddhist Digital Text...",
+          "url": "https://github.com/xr843/fojin",
           "category": "Python",
-          "metric": "2,548 stars",
-          "publishedAtUtc": "2026-06-10T13:09:42.0000000Z"
+          "metric": "310 stars",
+          "publishedAtUtc": "2026-06-11T03:49:11.0000000Z"
         },
         {
-          "title": "agent-native",
-          "subtitle": "@BuilderIO",
-          "summary": "A framework for building agent-native applications. Agent-Native Agentic applications you own.",
-          "url": "https://github.com/BuilderIO/agent-native",
+          "title": "comet",
+          "subtitle": "@rpamis",
+          "summary": "Comet: agent skill harness phase-guarded automation from idea to archive @rpamis/comet 中文版：README-zh.md Bilibili video DouYin OpenSpec + Superpowers dual-star development...",
+          "url": "https://github.com/rpamis/comet",
           "category": "TypeScript",
-          "metric": "471 stars",
-          "publishedAtUtc": "2026-06-10T08:58:24.0000000Z"
-        },
-        {
-          "title": "TokenTracker",
-          "subtitle": "@mm7894215",
-          "summary": "Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more)... Token Tracker English · 简体中文 · 日本語 · 한국어 Know exactly...",
-          "url": "https://github.com/mm7894215/TokenTracker",
-          "category": "JavaScript",
-          "metric": "683 stars",
-          "publishedAtUtc": "2026-06-10T14:16:27.0000000Z"
+          "metric": "1,081 stars",
+          "publishedAtUtc": "2026-06-11T03:49:14.0000000Z"
         },
         {
           "title": "LibreChat",
@@ -126,8 +108,26 @@
           "summary": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq... English · 中文 ✨ Features \uD83D\uDDA5️ UI & Experience inspired by...",
           "url": "https://github.com/danny-avila/LibreChat",
           "category": "TypeScript",
-          "metric": "38,808 stars",
-          "publishedAtUtc": "2026-06-10T15:29:29.0000000Z"
+          "metric": "38,857 stars",
+          "publishedAtUtc": "2026-06-11T03:48:30.0000000Z"
+        },
+        {
+          "title": "hyperframes",
+          "subtitle": "@heygen-com",
+          "summary": "Write HTML. Render video. Built for agents. HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos.",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "category": "TypeScript",
+          "metric": "26,578 stars",
+          "publishedAtUtc": "2026-06-11T03:49:38.0000000Z"
+        },
+        {
+          "title": "clawsweeper",
+          "subtitle": "@openclaw",
+          "summary": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week. \uD83E\uDD9E\uD83E\uDDF9 ClawSweeper ClawSweeper is the conservative maintenance...",
+          "url": "https://github.com/openclaw/clawsweeper",
+          "category": "TypeScript",
+          "metric": "1,839 stars",
+          "publishedAtUtc": "2026-06-11T03:48:03.0000000Z"
         }
       ]
     }
@@ -136,11 +136,11 @@
     {
       "title": "PowerToys",
       "subtitle": "@microsoft",
-      "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows Microsoft PowerToys Microsoft PowerToys is a collection of utilities...",
       "url": "https://github.com/microsoft/PowerToys",
       "category": "C#",
-      "metric": "134,004 stars",
-      "publishedAtUtc": "2026-06-10T15:17:30.0000000Z"
+      "metric": "134,053 stars",
+      "publishedAtUtc": "2026-06-11T03:49:44.0000000Z"
     },
     {
       "title": "v2rayN",
@@ -148,8 +148,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "108,592 stars",
-      "publishedAtUtc": "2026-06-10T14:51:22.0000000Z"
+      "metric": "108,618 stars",
+      "publishedAtUtc": "2026-06-11T03:46:06.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,855 stars",
-      "publishedAtUtc": "2026-06-10T14:37:35.0000000Z"
+      "metric": "53,862 stars",
+      "publishedAtUtc": "2026-06-11T03:44:32.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -166,8 +166,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,093 stars",
-      "publishedAtUtc": "2026-06-10T15:13:28.0000000Z"
+      "metric": "53,121 stars",
+      "publishedAtUtc": "2026-06-11T03:47:38.0000000Z"
     },
     {
       "title": "Files",
@@ -175,8 +175,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,844 stars",
-      "publishedAtUtc": "2026-06-10T15:24:04.0000000Z"
+      "metric": "43,848 stars",
+      "publishedAtUtc": "2026-06-11T03:09:23.0000000Z"
     },
     {
       "title": "ShareX",
@@ -184,8 +184,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,033 stars",
-      "publishedAtUtc": "2026-06-10T14:32:51.0000000Z"
+      "metric": "38,045 stars",
+      "publishedAtUtc": "2026-06-11T03:15:35.0000000Z"
     }
   ]
 }
