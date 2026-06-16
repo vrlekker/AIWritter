@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-06-15T17:13:22.5064631Z",
+  "generatedAtUtc": "2026-06-16T03:59:04.4564852Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-08 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-09 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "109,093 stars",
-          "publishedAtUtc": "2026-06-15T16:42:36.0000000Z"
+          "metric": "109,123 stars",
+          "publishedAtUtc": "2026-06-16T03:49:57.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,931 stars",
-          "publishedAtUtc": "2026-06-15T15:14:25.0000000Z"
+          "metric": "53,934 stars",
+          "publishedAtUtc": "2026-06-16T02:47:26.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,314 stars",
-          "publishedAtUtc": "2026-06-15T17:10:48.0000000Z"
+          "metric": "53,320 stars",
+          "publishedAtUtc": "2026-06-16T03:50:10.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,913 stars",
-          "publishedAtUtc": "2026-06-15T17:09:47.0000000Z"
+          "metric": "43,921 stars",
+          "publishedAtUtc": "2026-06-16T03:55:24.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,110 stars",
-          "publishedAtUtc": "2026-06-15T14:35:01.0000000Z"
+          "metric": "38,117 stars",
+          "publishedAtUtc": "2026-06-16T03:37:41.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,047 stars",
-          "publishedAtUtc": "2026-06-15T17:11:05.0000000Z"
+          "metric": "38,051 stars",
+          "publishedAtUtc": "2026-06-16T02:16:17.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "lobehub",
-          "subtitle": "@lobehub",
-          "summary": "\uD83E\uDD2F LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and... [![][image-banner]][vercel-link] LobeHub LobeHub organizes your...",
-          "url": "https://github.com/lobehub/lobehub",
+          "title": "dify",
+          "subtitle": "@langgenius",
+          "summary": "Production-ready platform for agentic workflow development. · Dify is an open-source LLM app development platform.",
+          "url": "https://github.com/langgenius/dify",
           "category": "TypeScript",
-          "metric": "78,698 stars",
-          "publishedAtUtc": "2026-06-15T17:13:12.0000000Z"
+          "metric": "145,378 stars",
+          "publishedAtUtc": "2026-06-16T03:58:31.0000000Z"
         },
         {
-          "title": "agentfield",
-          "subtitle": "@Agent-Field",
-          "summary": "Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one. AgentField — The AI Backend Build and scale AI agents like APIs.",
-          "url": "https://github.com/Agent-Field/agentfield",
-          "category": "Go",
-          "metric": "2,166 stars",
-          "publishedAtUtc": "2026-06-15T17:13:01.0000000Z"
-        },
-        {
-          "title": "bytechef",
-          "subtitle": "@bytechefhq",
-          "summary": "Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one... The open-source platform that unifies AI agent orchestration...",
-          "url": "https://github.com/bytechefhq/bytechef",
-          "category": "Java",
-          "metric": "774 stars",
-          "publishedAtUtc": "2026-06-15T17:12:35.0000000Z"
-        },
-        {
-          "title": "civitai",
-          "subtitle": "@civitai",
-          "summary": "A repository of models, textual inversions, and more [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url]...",
-          "url": "https://github.com/civitai/civitai",
+          "title": "hyperframes",
+          "subtitle": "@heygen-com",
+          "summary": "Write HTML. Render video. Built for agents. HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos.",
+          "url": "https://github.com/heygen-com/hyperframes",
           "category": "TypeScript",
-          "metric": "7,149 stars",
-          "publishedAtUtc": "2026-06-15T17:12:29.0000000Z"
+          "metric": "27,941 stars",
+          "publishedAtUtc": "2026-06-16T03:58:19.0000000Z"
         },
         {
-          "title": "sonarqube-cli",
-          "subtitle": "@SonarSource",
-          "summary": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality... SonarQube CLI Catch code quality and security issues in...",
-          "url": "https://github.com/SonarSource/sonarqube-cli",
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
+          "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "189 stars",
-          "publishedAtUtc": "2026-06-15T17:12:02.0000000Z"
+          "metric": "378,914 stars",
+          "publishedAtUtc": "2026-06-16T03:58:47.0000000Z"
         },
         {
-          "title": "bit",
-          "subtitle": "@teambit",
-          "summary": "AI-powered development workspaces with reusable components, architectural clarity and zero overhead. Your contribution, no matter how big or small, is much appreciated.",
-          "url": "https://github.com/teambit/bit",
-          "category": "TypeScript",
-          "metric": "18,408 stars",
-          "publishedAtUtc": "2026-06-15T17:13:02.0000000Z"
+          "title": "OpenSandbox",
+          "subtitle": "@opensandbox-group",
+          "summary": "Secure, Fast, and Extensible Sandbox runtime for AI agents. OpenSandbox Documentation 中文文档 OpenSandbox is a general-purpose sandbox platform for AI applications, offering...",
+          "url": "https://github.com/opensandbox-group/OpenSandbox",
+          "category": "Python",
+          "metric": "11,540 stars",
+          "publishedAtUtc": "2026-06-16T03:57:04.0000000Z"
+        },
+        {
+          "title": "awesome-mcp-servers",
+          "subtitle": "@punkpeye",
+          "summary": "A collection of MCP servers. [!IMPORTANT] Awesome MCP Servers web directory.",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "category": "Repository",
+          "metric": "89,232 stars",
+          "publishedAtUtc": "2026-06-16T03:56:48.0000000Z"
+        },
+        {
+          "title": "Stirrup",
+          "subtitle": "@ArtificialAnalysis",
+          "summary": "The lightweight framework for building agents The lightweight foundation for building agents &nbsp; &nbsp; Stirrup is a lightweight framework, or starting point template, for...",
+          "url": "https://github.com/ArtificialAnalysis/Stirrup",
+          "category": "Python",
+          "metric": "442 stars",
+          "publishedAtUtc": "2026-06-16T03:57:08.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "109,093 stars",
-      "publishedAtUtc": "2026-06-15T16:42:36.0000000Z"
+      "metric": "109,123 stars",
+      "publishedAtUtc": "2026-06-16T03:49:57.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,931 stars",
-      "publishedAtUtc": "2026-06-15T15:14:25.0000000Z"
+      "metric": "53,934 stars",
+      "publishedAtUtc": "2026-06-16T02:47:26.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,314 stars",
-      "publishedAtUtc": "2026-06-15T17:10:48.0000000Z"
+      "metric": "53,320 stars",
+      "publishedAtUtc": "2026-06-16T03:50:10.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,913 stars",
-      "publishedAtUtc": "2026-06-15T17:09:47.0000000Z"
+      "metric": "43,921 stars",
+      "publishedAtUtc": "2026-06-16T03:55:24.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,110 stars",
-      "publishedAtUtc": "2026-06-15T14:35:01.0000000Z"
+      "metric": "38,117 stars",
+      "publishedAtUtc": "2026-06-16T03:37:41.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,047 stars",
-      "publishedAtUtc": "2026-06-15T17:11:05.0000000Z"
+      "metric": "38,051 stars",
+      "publishedAtUtc": "2026-06-16T02:16:17.0000000Z"
     }
   ]
 }
