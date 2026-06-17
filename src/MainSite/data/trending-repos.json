@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-06-17T04:00:18.9648876Z",
+  "generatedAtUtc": "2026-06-17T15:25:18.0683383Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "109,208 stars",
-          "publishedAtUtc": "2026-06-17T03:55:39.0000000Z"
+          "metric": "109,272 stars",
+          "publishedAtUtc": "2026-06-17T15:22:42.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,953 stars",
-          "publishedAtUtc": "2026-06-17T03:09:46.0000000Z"
+          "metric": "53,958 stars",
+          "publishedAtUtc": "2026-06-17T13:42:50.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,358 stars",
-          "publishedAtUtc": "2026-06-17T03:36:46.0000000Z"
+          "metric": "53,376 stars",
+          "publishedAtUtc": "2026-06-17T14:54:39.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,932 stars",
-          "publishedAtUtc": "2026-06-17T03:11:18.0000000Z"
+          "metric": "43,938 stars",
+          "publishedAtUtc": "2026-06-17T14:10:12.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,146 stars",
-          "publishedAtUtc": "2026-06-17T03:29:05.0000000Z"
+          "metric": "38,160 stars",
+          "publishedAtUtc": "2026-06-17T15:18:10.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,051 stars",
-          "publishedAtUtc": "2026-06-17T03:09:17.0000000Z"
+          "metric": "38,053 stars",
+          "publishedAtUtc": "2026-06-17T14:46:26.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "Xime",
-          "subtitle": "@ximeiorg",
-          "summary": "我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。 Xime（曦码） - 五笔/拼音输入法 Xime 输入法 (Windows 版) Xime 输入法 (Linux 版) 联想词预测模型 手写输入法模型 一款基于 本输入法支持五笔/拼音输入，只是本人以五笔为主，拼音为辅，因此资源会倾向于五笔为主。...",
-          "url": "https://github.com/ximeiorg/Xime",
-          "category": "Kotlin",
-          "metric": "443 stars",
-          "publishedAtUtc": "2026-06-17T04:00:08.0000000Z"
+          "title": "ChineseResearchLaTeX",
+          "subtitle": "@huangwb8",
+          "summary": "中国科研常用LaTeX模板集 中国科研常用 LaTeX 模板集 -- \uD83E\uDD1D 打造最适合中国研究者的科研文档 AI Agent，让天下没有难写的国自然标书、SCI 论文、毕业论文、学术简历！\uD83D\uDE80 我们备受关注：...",
+          "url": "https://github.com/huangwb8/ChineseResearchLaTeX",
+          "category": "Python",
+          "metric": "2,354 stars",
+          "publishedAtUtc": "2026-06-17T13:46:20.0000000Z"
         },
         {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
-          "url": "https://github.com/openclaw/openclaw",
+          "title": "supabase",
+          "subtitle": "@supabase",
+          "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI... Supabase Supabase is the Postgres development platform.",
+          "url": "https://github.com/supabase/supabase",
           "category": "TypeScript",
-          "metric": "379,082 stars",
-          "publishedAtUtc": "2026-06-17T04:00:06.0000000Z"
+          "metric": "104,375 stars",
+          "publishedAtUtc": "2026-06-17T15:24:15.0000000Z"
         },
         {
-          "title": "Memoh",
-          "subtitle": "@memohai",
-          "summary": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. [ English ] [ 简体中文 ] [ 日本語 ] Memoh The open-source multi-agent...",
-          "url": "https://github.com/memohai/Memoh",
+          "title": "n8n",
+          "subtitle": "@n8n-io",
+          "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code... n8n - Secure Workflow Automation for Technical Teams n8n is a...",
+          "url": "https://github.com/n8n-io/n8n",
+          "category": "TypeScript",
+          "metric": "192,926 stars",
+          "publishedAtUtc": "2026-06-17T15:24:29.0000000Z"
+        },
+        {
+          "title": "lemonade",
+          "subtitle": "@lemonade-sdk",
+          "summary": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join... \uD83C\uDF4B Lemonade: Refreshingly fast local AI Lemonade is the...",
+          "url": "https://github.com/lemonade-sdk/lemonade",
+          "category": "C++",
+          "metric": "4,490 stars",
+          "publishedAtUtc": "2026-06-17T15:24:46.0000000Z"
+        },
+        {
+          "title": "sonarqube-cli",
+          "subtitle": "@SonarSource",
+          "summary": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality... SonarQube CLI Catch code quality and security issues in...",
+          "url": "https://github.com/SonarSource/sonarqube-cli",
+          "category": "TypeScript",
+          "metric": "192 stars",
+          "publishedAtUtc": "2026-06-17T14:51:55.0000000Z"
+        },
+        {
+          "title": "trainer",
+          "subtitle": "@kubeflow",
+          "summary": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes Kubeflow Trainer Latest News \uD83D\uDD25 [2026/03] Kubeflow Trainer v2.2 is officially released with support for JAX and...",
+          "url": "https://github.com/kubeflow/trainer",
           "category": "Go",
-          "metric": "1,907 stars",
-          "publishedAtUtc": "2026-06-17T03:57:59.0000000Z"
-        },
-        {
-          "title": "pdd",
-          "subtitle": "@promptdriven",
-          "summary": "Prompt Driven Development (PDD): The Last Programming Language™. Prompt files are source; code is generated output. PDD: The Last Programming Language™ Introduction PDD...",
-          "url": "https://github.com/promptdriven/pdd",
-          "category": "Python",
-          "metric": "760 stars",
-          "publishedAtUtc": "2026-06-17T03:57:47.0000000Z"
-        },
-        {
-          "title": "nyro",
-          "subtitle": "@nyroway",
-          "summary": "Self-hosted AI Gateway — connect Claude Code, Codex, Gemini CLI and any SDK to any model provider with protocol... Nyro AI Gateway Run your AI coding tools on any model, from any...",
-          "url": "https://github.com/nyroway/nyro",
-          "category": "Rust",
-          "metric": "164 stars",
-          "publishedAtUtc": "2026-06-17T03:57:44.0000000Z"
-        },
-        {
-          "title": "ComfyUI",
-          "subtitle": "@Comfy-Org",
-          "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. ComfyUI The most powerful and modular AI engine for content creation.",
-          "url": "https://github.com/Comfy-Org/ComfyUI",
-          "category": "Python",
-          "metric": "117,281 stars",
-          "publishedAtUtc": "2026-06-17T03:58:12.0000000Z"
+          "metric": "2,115 stars",
+          "publishedAtUtc": "2026-06-17T15:22:23.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "109,208 stars",
-      "publishedAtUtc": "2026-06-17T03:55:39.0000000Z"
+      "metric": "109,272 stars",
+      "publishedAtUtc": "2026-06-17T15:22:42.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,953 stars",
-      "publishedAtUtc": "2026-06-17T03:09:46.0000000Z"
+      "metric": "53,958 stars",
+      "publishedAtUtc": "2026-06-17T13:42:50.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,358 stars",
-      "publishedAtUtc": "2026-06-17T03:36:46.0000000Z"
+      "metric": "53,376 stars",
+      "publishedAtUtc": "2026-06-17T14:54:39.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,932 stars",
-      "publishedAtUtc": "2026-06-17T03:11:18.0000000Z"
+      "metric": "43,938 stars",
+      "publishedAtUtc": "2026-06-17T14:10:12.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,146 stars",
-      "publishedAtUtc": "2026-06-17T03:29:05.0000000Z"
+      "metric": "38,160 stars",
+      "publishedAtUtc": "2026-06-17T15:18:10.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,051 stars",
-      "publishedAtUtc": "2026-06-17T03:09:17.0000000Z"
+      "metric": "38,053 stars",
+      "publishedAtUtc": "2026-06-17T14:46:26.0000000Z"
     }
   ]
 }
