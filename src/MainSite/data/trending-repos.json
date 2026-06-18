@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-06-18T03:50:56.5691775Z",
+  "generatedAtUtc": "2026-06-18T15:20:40.7814901Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "109,295 stars",
-          "publishedAtUtc": "2026-06-18T03:50:35.0000000Z"
+          "metric": "109,341 stars",
+          "publishedAtUtc": "2026-06-18T15:12:09.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "53,962 stars",
-          "publishedAtUtc": "2026-06-18T00:28:35.0000000Z"
+          "metric": "53,971 stars",
+          "publishedAtUtc": "2026-06-18T14:34:11.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,395 stars",
-          "publishedAtUtc": "2026-06-18T03:11:34.0000000Z"
+          "metric": "53,415 stars",
+          "publishedAtUtc": "2026-06-18T15:11:49.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,940 stars",
-          "publishedAtUtc": "2026-06-18T02:58:23.0000000Z"
+          "metric": "43,949 stars",
+          "publishedAtUtc": "2026-06-18T15:08:14.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,167 stars",
-          "publishedAtUtc": "2026-06-18T03:30:26.0000000Z"
+          "metric": "38,173 stars",
+          "publishedAtUtc": "2026-06-18T15:05:27.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,060 stars",
-          "publishedAtUtc": "2026-06-18T01:06:32.0000000Z"
+          "metric": "38,073 stars",
+          "publishedAtUtc": "2026-06-18T15:18:44.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "CodeRAG",
-          "subtitle": "@Neverdecel",
-          "summary": "Local-first, zero-key semantic code search for large and custom codebases — hybrid vector + keyword retrieval with... CodeRAG A standalone, local-first semantic code-search...",
-          "url": "https://github.com/Neverdecel/CodeRAG",
-          "category": "Python",
-          "metric": "214 stars",
-          "publishedAtUtc": "2026-06-18T03:50:38.0000000Z"
+          "title": "opendataloader-pdf",
+          "subtitle": "@opendataloader-project",
+          "summary": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. OpenDataLoader PDF PDF Parser for AI-ready data.",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "category": "Java",
+          "metric": "25,295 stars",
+          "publishedAtUtc": "2026-06-18T15:20:33.0000000Z"
         },
         {
-          "title": "hermes-desktop",
-          "subtitle": "@fathah",
-          "summary": "Desktop Companion for Hermes Agent English · 简体中文 · 日本語 · Español (LATAM) This project is in active development.",
-          "url": "https://github.com/fathah/hermes-desktop",
+          "title": "eliza",
+          "subtitle": "@elizaOS",
+          "summary": "Open source agentic operating system elizaOS An open-source framework for building autonomous AI agents.",
+          "url": "https://github.com/elizaOS/eliza",
           "category": "TypeScript",
-          "metric": "12,364 stars",
-          "publishedAtUtc": "2026-06-18T03:49:59.0000000Z"
+          "metric": "18,600 stars",
+          "publishedAtUtc": "2026-06-18T15:20:27.0000000Z"
         },
         {
-          "title": "tt-metal",
-          "subtitle": "@tenstorrent",
-          "summary": ":metal: TT-NN operator library, and TT-Metalium low level kernel programming model. Hardware Install Discord Join Us Bounty $ TT-NN is a Python & C++ Neural Network OP library.",
-          "url": "https://github.com/tenstorrent/tt-metal",
-          "category": "C++",
-          "metric": "1,531 stars",
-          "publishedAtUtc": "2026-06-18T03:49:45.0000000Z"
-        },
-        {
-          "title": "fairlearn",
-          "subtitle": "@fairlearn",
-          "summary": "A Python package to assess and improve fairness of machine learning models. MIT license PyPI Discord StackOverflow Fairlearn ========= Fairlearn is a Python package that empowers...",
-          "url": "https://github.com/fairlearn/fairlearn",
-          "category": "Python",
-          "metric": "2,252 stars",
-          "publishedAtUtc": "2026-06-18T03:49:11.0000000Z"
-        },
-        {
-          "title": "omnigent",
-          "subtitle": "@omnigent-ai",
-          "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom... Omnigent The open-source AI agent framework and...",
-          "url": "https://github.com/omnigent-ai/omnigent",
-          "category": "Python",
-          "metric": "3,566 stars",
-          "publishedAtUtc": "2026-06-18T03:49:58.0000000Z"
-        },
-        {
-          "title": "models",
-          "subtitle": "@reyamira",
-          "summary": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers. TUI and CLI for browsing AI models, benchmarks, coding agents, and provider statuses.",
-          "url": "https://github.com/reyamira/models",
+          "title": "screenpipe",
+          "subtitle": "@screenpipe",
+          "summary": "YC (S26) AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private... [ screenpipe YC S26 ] AI that knows what you've seen, said...",
+          "url": "https://github.com/screenpipe/screenpipe",
           "category": "Rust",
-          "metric": "447 stars",
-          "publishedAtUtc": "2026-06-18T03:48:43.0000000Z"
+          "metric": "19,357 stars",
+          "publishedAtUtc": "2026-06-18T15:20:23.0000000Z"
+        },
+        {
+          "title": "sonarqube-cli",
+          "subtitle": "@SonarSource",
+          "summary": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality... SonarQube CLI Catch code quality and security issues in...",
+          "url": "https://github.com/SonarSource/sonarqube-cli",
+          "category": "TypeScript",
+          "metric": "195 stars",
+          "publishedAtUtc": "2026-06-18T15:19:46.0000000Z"
+        },
+        {
+          "title": "repomix",
+          "subtitle": "@yamadashy",
+          "summary": "\uD83D\uDCE6 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you... Special thanks to: Warp, built for coding with multiple...",
+          "url": "https://github.com/yamadashy/repomix",
+          "category": "TypeScript",
+          "metric": "26,381 stars",
+          "publishedAtUtc": "2026-06-18T15:19:51.0000000Z"
+        },
+        {
+          "title": "lean-ctx",
+          "subtitle": "@yvgude",
+          "summary": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust... ██╗ ███████╗ █████╗ ███╗ ██╗ ██████╗████████╗██╗ ██╗ ██║...",
+          "url": "https://github.com/yvgude/lean-ctx",
+          "category": "Rust",
+          "metric": "2,767 stars",
+          "publishedAtUtc": "2026-06-18T15:20:24.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "109,295 stars",
-      "publishedAtUtc": "2026-06-18T03:50:35.0000000Z"
+      "metric": "109,341 stars",
+      "publishedAtUtc": "2026-06-18T15:12:09.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "53,962 stars",
-      "publishedAtUtc": "2026-06-18T00:28:35.0000000Z"
+      "metric": "53,971 stars",
+      "publishedAtUtc": "2026-06-18T14:34:11.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,395 stars",
-      "publishedAtUtc": "2026-06-18T03:11:34.0000000Z"
+      "metric": "53,415 stars",
+      "publishedAtUtc": "2026-06-18T15:11:49.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,940 stars",
-      "publishedAtUtc": "2026-06-18T02:58:23.0000000Z"
+      "metric": "43,949 stars",
+      "publishedAtUtc": "2026-06-18T15:08:14.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,167 stars",
-      "publishedAtUtc": "2026-06-18T03:30:26.0000000Z"
+      "metric": "38,173 stars",
+      "publishedAtUtc": "2026-06-18T15:05:27.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,060 stars",
-      "publishedAtUtc": "2026-06-18T01:06:32.0000000Z"
+      "metric": "38,073 stars",
+      "publishedAtUtc": "2026-06-18T15:18:44.0000000Z"
     }
   ]
 }
