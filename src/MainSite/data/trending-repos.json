@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-06-20T14:00:01.7448036Z",
+  "generatedAtUtc": "2026-06-21T04:05:07.7298808Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-13 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-14 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "109,513 stars",
-          "publishedAtUtc": "2026-06-20T13:56:13.0000000Z"
+          "metric": "109,539 stars",
+          "publishedAtUtc": "2026-06-21T03:54:13.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,010 stars",
-          "publishedAtUtc": "2026-06-20T12:19:01.0000000Z"
+          "metric": "54,028 stars",
+          "publishedAtUtc": "2026-06-21T02:48:52.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,497 stars",
-          "publishedAtUtc": "2026-06-20T13:08:44.0000000Z"
+          "metric": "53,509 stars",
+          "publishedAtUtc": "2026-06-20T22:22:14.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "43,973 stars",
-          "publishedAtUtc": "2026-06-20T12:57:12.0000000Z"
+          "metric": "43,976 stars",
+          "publishedAtUtc": "2026-06-21T04:00:52.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,198 stars",
-          "publishedAtUtc": "2026-06-20T11:23:42.0000000Z"
+          "metric": "38,201 stars",
+          "publishedAtUtc": "2026-06-21T03:06:14.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,137 stars",
-          "publishedAtUtc": "2026-06-20T12:32:53.0000000Z"
+          "metric": "38,138 stars",
+          "publishedAtUtc": "2026-06-21T03:53:38.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "repowise",
-          "subtitle": "@repowise-dev",
-          "summary": "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection... The codebase intelligence layer for the AI era.",
-          "url": "https://github.com/repowise-dev/repowise",
-          "category": "Python",
-          "metric": "2,459 stars",
-          "publishedAtUtc": "2026-06-20T13:59:28.0000000Z"
+          "title": "td",
+          "subtitle": "@marcus",
+          "summary": "A minimalist CLI for tracking tasks across AI coding sessions. When your context window ends, your agent's memory ends—td is the external memory that lets the next session pick...",
+          "url": "https://github.com/marcus/td",
+          "category": "Go",
+          "metric": "227 stars",
+          "publishedAtUtc": "2026-06-21T04:04:47.0000000Z"
         },
         {
-          "title": "RedBox",
-          "subtitle": "@Jamailar",
-          "summary": "用AI创作高质量内容，用gpt-image-2创作的最佳生图工具，AI图片自动编排，小红书版Openclaw，自媒体创作者的AI工作台，小红书创作AI工具RedClaw，支持小红书图文下载、创作风格学习、小红书AI创作｜\uD83C\uDF1F Star... &nbsp; &nbsp; -- 面向小红书创作者的本地化 AI 创作工作台 评论区采集 选题洞察 笔记封面生成...",
-          "url": "https://github.com/Jamailar/RedBox",
+          "title": "RustyML",
+          "subtitle": "@SomeB1oody",
+          "summary": "A high-performance machine learning library in pure Rust, offering statistical utilities, ML algorithms and neural... 简体中文 English RustyML A high-performance machine learning and...",
+          "url": "https://github.com/SomeB1oody/RustyML",
+          "category": "Rust",
+          "metric": "341 stars",
+          "publishedAtUtc": "2026-06-21T04:03:35.0000000Z"
+        },
+        {
+          "title": "lobehub",
+          "subtitle": "@lobehub",
+          "summary": "\uD83E\uDD2F LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and... [![][image-banner]][vercel-link] LobeHub LobeHub organizes your...",
+          "url": "https://github.com/lobehub/lobehub",
           "category": "TypeScript",
-          "metric": "1,088 stars",
-          "publishedAtUtc": "2026-06-20T13:58:41.0000000Z"
+          "metric": "78,909 stars",
+          "publishedAtUtc": "2026-06-21T04:05:08.0000000Z"
         },
         {
-          "title": "jat",
-          "subtitle": "@joewinke",
-          "summary": "The World's First Agentic IDE. Visual dashboard: live sessions, task management, code editor, terminal. Epic Swarm... JAT — Autonomous Agents, Supervised or Not Agents ship...",
-          "url": "https://github.com/joewinke/jat",
-          "category": "Svelte",
-          "metric": "244 stars",
-          "publishedAtUtc": "2026-06-20T13:58:24.0000000Z"
+          "title": "OfficeCLI",
+          "subtitle": "@iOfficeAI",
+          "summary": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and... OfficeCLI OfficeCLI is the world's first and the best...",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "category": "C#",
+          "metric": "7,536 stars",
+          "publishedAtUtc": "2026-06-21T04:04:29.0000000Z"
         },
         {
-          "title": "aipath",
-          "subtitle": "@buynao",
-          "summary": "Interactive AI General Education Course — 30 Lessons, Zero Math AI 通识课 · AI Essentials English · 中文 ▶ Live site — ↑ The homepage hero (Lesson 15 · the next-token game): an LLM...",
-          "url": "https://github.com/buynao/aipath",
-          "category": "JavaScript",
-          "metric": "335 stars",
-          "publishedAtUtc": "2026-06-20T13:57:53.0000000Z"
+          "title": "CodexBar",
+          "subtitle": "@steipete",
+          "summary": "Show usage stats for OpenAI Codex and Claude Code, without having to login. CodexBar \uD83C\uDF9A️ — May your tokens never run out.",
+          "url": "https://github.com/steipete/CodexBar",
+          "category": "Swift",
+          "metric": "15,116 stars",
+          "publishedAtUtc": "2026-06-21T04:04:19.0000000Z"
         },
         {
-          "title": "awesome-kubernetes",
-          "subtitle": "@nubenetes",
-          "summary": "A curated list of awesome references collected since 2018. Nubenetes: The Intelligent Cloud Native Archive Nubenetes is a high-density, curated archive of the Kubernetes, Cloud...",
-          "url": "https://github.com/nubenetes/awesome-kubernetes",
-          "category": "HTML",
-          "metric": "663 stars",
-          "publishedAtUtc": "2026-06-20T13:57:42.0000000Z"
-        },
-        {
-          "title": "neo",
-          "subtitle": "@neomjs",
-          "summary": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm... Neo.mjs Neo.mjs is a self-evolving software organism — a...",
-          "url": "https://github.com/neomjs/neo",
-          "category": "JavaScript",
-          "metric": "3,207 stars",
-          "publishedAtUtc": "2026-06-20T13:57:11.0000000Z"
+          "title": "llm-d",
+          "subtitle": "@llm-d",
+          "summary": "Achieve state of the art inference performance with modern accelerators on Kubernetes Achieve SOTA Inference Performance On Any Accelerator llm-d is a high-performance...",
+          "url": "https://github.com/llm-d/llm-d",
+          "category": "Shell",
+          "metric": "3,407 stars",
+          "publishedAtUtc": "2026-06-21T04:02:26.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS, support Xray and sing-box and others How to use...",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "109,513 stars",
-      "publishedAtUtc": "2026-06-20T13:56:13.0000000Z"
+      "metric": "109,539 stars",
+      "publishedAtUtc": "2026-06-21T03:54:13.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,010 stars",
-      "publishedAtUtc": "2026-06-20T12:19:01.0000000Z"
+      "metric": "54,028 stars",
+      "publishedAtUtc": "2026-06-21T02:48:52.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,497 stars",
-      "publishedAtUtc": "2026-06-20T13:08:44.0000000Z"
+      "metric": "53,509 stars",
+      "publishedAtUtc": "2026-06-20T22:22:14.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "43,973 stars",
-      "publishedAtUtc": "2026-06-20T12:57:12.0000000Z"
+      "metric": "43,976 stars",
+      "publishedAtUtc": "2026-06-21T04:00:52.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,198 stars",
-      "publishedAtUtc": "2026-06-20T11:23:42.0000000Z"
+      "metric": "38,201 stars",
+      "publishedAtUtc": "2026-06-21T03:06:14.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,137 stars",
-      "publishedAtUtc": "2026-06-20T12:32:53.0000000Z"
+      "metric": "38,138 stars",
+      "publishedAtUtc": "2026-06-21T03:53:38.0000000Z"
     }
   ]
 }
