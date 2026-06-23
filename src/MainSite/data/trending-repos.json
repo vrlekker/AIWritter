@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-06-23T03:27:11.6954024Z",
+  "generatedAtUtc": "2026-06-23T14:45:15.5597815Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -14,11 +14,11 @@
         {
           "title": "v2rayN",
           "subtitle": "@2dust",
-          "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others Telegram Channel github_2dust GPG 签名校验 (GPG Verification) 为了预防镜像站、运营商或 CDN 劫持，本项目发布的 Release 文件已使用...",
+          "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "109,699 stars",
-          "publishedAtUtc": "2026-06-23T03:14:20.0000000Z"
+          "metric": "109,749 stars",
+          "publishedAtUtc": "2026-06-23T14:41:23.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,072 stars",
-          "publishedAtUtc": "2026-06-23T03:14:42.0000000Z"
+          "metric": "54,094 stars",
+          "publishedAtUtc": "2026-06-23T14:42:12.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,565 stars",
-          "publishedAtUtc": "2026-06-23T03:21:36.0000000Z"
+          "metric": "53,586 stars",
+          "publishedAtUtc": "2026-06-23T14:40:20.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,001 stars",
-          "publishedAtUtc": "2026-06-23T03:10:18.0000000Z"
+          "metric": "44,008 stars",
+          "publishedAtUtc": "2026-06-23T14:22:17.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,235 stars",
-          "publishedAtUtc": "2026-06-23T02:46:17.0000000Z"
+          "metric": "38,241 stars",
+          "publishedAtUtc": "2026-06-23T14:18:18.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,143 stars",
-          "publishedAtUtc": "2026-06-23T01:51:06.0000000Z"
+          "metric": "38,146 stars",
+          "publishedAtUtc": "2026-06-23T14:08:14.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "InferenceX",
-          "subtitle": "@SemiAnalysisAI",
-          "summary": "Open Source Continuous Inference Benchmark Research Platform — Kimi K2.7-Code, MiniMax M3, DeepSeekv4, GLM5 - GB200... InferenceX™, Open Source Continuous Inference Standard and...",
-          "url": "https://github.com/SemiAnalysisAI/InferenceX",
+          "title": "databend",
+          "subtitle": "@databendlabs",
+          "summary": "Data Agent Ready Warehouse : One for Analytics, Search, AI, Python Sandbox. — rebuilt from scratch. Unified... Databend Enterprise Data Warehouse for AI Agents Large-scale...",
+          "url": "https://github.com/databendlabs/databend",
+          "category": "Rust",
+          "metric": "9,351 stars",
+          "publishedAtUtc": "2026-06-23T14:44:32.0000000Z"
+        },
+        {
+          "title": "macro",
+          "subtitle": "@macro-inc",
+          "summary": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together... · · Feature requests · Contribute · Hiring Why Macro Macro...",
+          "url": "https://github.com/macro-inc/macro",
+          "category": "Rust",
+          "metric": "287 stars",
+          "publishedAtUtc": "2026-06-23T14:44:15.0000000Z"
+        },
+        {
+          "title": "clawcodex",
+          "subtitle": "@agentforce314",
+          "summary": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving! English 中文 Français Русский हिन्दी العربية Português ClawCodex A...",
+          "url": "https://github.com/agentforce314/clawcodex",
           "category": "Python",
-          "metric": "1,129 stars",
-          "publishedAtUtc": "2026-06-23T03:27:02.0000000Z"
+          "metric": "652 stars",
+          "publishedAtUtc": "2026-06-23T14:43:58.0000000Z"
         },
         {
-          "title": "studio",
-          "subtitle": "@decocms",
-          "summary": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar Deco CMS Open-source · TypeScript-first · Deploy anywhere Open-source...",
-          "url": "https://github.com/decocms/studio",
+          "title": "ClickHouse",
+          "subtitle": "@ClickHouse",
+          "summary": "ClickHouse® is a real-time analytics database management system ClickHouse® is an open-source column-oriented database management system that allows generating analytical data...",
+          "url": "https://github.com/ClickHouse/ClickHouse",
+          "category": "C++",
+          "metric": "48,243 stars",
+          "publishedAtUtc": "2026-06-23T14:45:09.0000000Z"
+        },
+        {
+          "title": "agent-native",
+          "subtitle": "@BuilderIO",
+          "summary": "A framework for building agent-native applications. Agent-Native The framework for agent-native apps Agent-Native is an open-source framework for building robust agents that act...",
+          "url": "https://github.com/BuilderIO/agent-native",
           "category": "TypeScript",
-          "metric": "381 stars",
-          "publishedAtUtc": "2026-06-23T03:27:00.0000000Z"
+          "metric": "1,835 stars",
+          "publishedAtUtc": "2026-06-23T14:44:17.0000000Z"
         },
         {
-          "title": "ai-web-extensions",
-          "subtitle": "@adamlui",
-          "summary": "\uD83E\uDD16 AI browser extensions & userscripts to augment your web experience &nbsp;English 简体中文 [ AI browser extensions & userscripts to enhance your web experience [ Add AI chat &...",
-          "url": "https://github.com/adamlui/ai-web-extensions",
+          "title": "neo",
+          "subtitle": "@neomjs",
+          "summary": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm... Neo.mjs Neo.mjs is a self-evolving software organism — a...",
+          "url": "https://github.com/neomjs/neo",
           "category": "JavaScript",
-          "metric": "544 stars",
-          "publishedAtUtc": "2026-06-23T03:26:57.0000000Z"
-        },
-        {
-          "title": "chatgpt-infinity",
-          "subtitle": "@adamlui",
-          "summary": "∞ Generate endless answers from all-knowing ChatGPT (on any topic!) &nbsp;English 简体中文 日本語 \uD83D\uDCA1 About ChatGPT Infinity is your ultimate chat companion: a free (yet powerful) add-on...",
-          "url": "https://github.com/adamlui/chatgpt-infinity",
-          "category": "JavaScript",
-          "metric": "352 stars",
-          "publishedAtUtc": "2026-06-23T03:26:54.0000000Z"
-        },
-        {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
-          "url": "https://github.com/openclaw/openclaw",
-          "category": "TypeScript",
-          "metric": "379,999 stars",
-          "publishedAtUtc": "2026-06-23T03:26:53.0000000Z"
-        },
-        {
-          "title": "dify",
-          "subtitle": "@langgenius",
-          "summary": "Production-ready platform for agentic workflow development. · Dify is an open-source LLM app development platform.",
-          "url": "https://github.com/langgenius/dify",
-          "category": "TypeScript",
-          "metric": "146,189 stars",
-          "publishedAtUtc": "2026-06-23T03:25:46.0000000Z"
+          "metric": "3,208 stars",
+          "publishedAtUtc": "2026-06-23T14:43:24.0000000Z"
         }
       ]
     }
@@ -136,11 +136,11 @@
     {
       "title": "v2rayN",
       "subtitle": "@2dust",
-      "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others Telegram Channel github_2dust GPG 签名校验 (GPG Verification) 为了预防镜像站、运营商或 CDN 劫持，本项目发布的 Release 文件已使用...",
+      "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "109,699 stars",
-      "publishedAtUtc": "2026-06-23T03:14:20.0000000Z"
+      "metric": "109,749 stars",
+      "publishedAtUtc": "2026-06-23T14:41:23.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,072 stars",
-      "publishedAtUtc": "2026-06-23T03:14:42.0000000Z"
+      "metric": "54,094 stars",
+      "publishedAtUtc": "2026-06-23T14:42:12.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,565 stars",
-      "publishedAtUtc": "2026-06-23T03:21:36.0000000Z"
+      "metric": "53,586 stars",
+      "publishedAtUtc": "2026-06-23T14:40:20.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,001 stars",
-      "publishedAtUtc": "2026-06-23T03:10:18.0000000Z"
+      "metric": "44,008 stars",
+      "publishedAtUtc": "2026-06-23T14:22:17.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,235 stars",
-      "publishedAtUtc": "2026-06-23T02:46:17.0000000Z"
+      "metric": "38,241 stars",
+      "publishedAtUtc": "2026-06-23T14:18:18.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,143 stars",
-      "publishedAtUtc": "2026-06-23T01:51:06.0000000Z"
+      "metric": "38,146 stars",
+      "publishedAtUtc": "2026-06-23T14:08:14.0000000Z"
     }
   ]
 }
