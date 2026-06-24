@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-06-23T14:45:15.5597815Z",
+  "generatedAtUtc": "2026-06-24T03:28:54.5971855Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-16 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-17 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "109,749 stars",
-          "publishedAtUtc": "2026-06-23T14:41:23.0000000Z"
+          "metric": "109,777 stars",
+          "publishedAtUtc": "2026-06-24T03:28:40.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,094 stars",
-          "publishedAtUtc": "2026-06-23T14:42:12.0000000Z"
+          "metric": "54,106 stars",
+          "publishedAtUtc": "2026-06-24T02:47:37.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,586 stars",
-          "publishedAtUtc": "2026-06-23T14:40:20.0000000Z"
+          "metric": "53,608 stars",
+          "publishedAtUtc": "2026-06-24T03:12:03.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,008 stars",
-          "publishedAtUtc": "2026-06-23T14:22:17.0000000Z"
+          "metric": "44,009 stars",
+          "publishedAtUtc": "2026-06-23T23:57:33.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,241 stars",
-          "publishedAtUtc": "2026-06-23T14:18:18.0000000Z"
+          "metric": "38,246 stars",
+          "publishedAtUtc": "2026-06-24T02:22:14.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -63,7 +63,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "38,146 stars",
-          "publishedAtUtc": "2026-06-23T14:08:14.0000000Z"
+          "publishedAtUtc": "2026-06-24T03:25:34.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "databend",
-          "subtitle": "@databendlabs",
-          "summary": "Data Agent Ready Warehouse : One for Analytics, Search, AI, Python Sandbox. — rebuilt from scratch. Unified... Databend Enterprise Data Warehouse for AI Agents Large-scale...",
-          "url": "https://github.com/databendlabs/databend",
-          "category": "Rust",
-          "metric": "9,351 stars",
-          "publishedAtUtc": "2026-06-23T14:44:32.0000000Z"
-        },
-        {
-          "title": "macro",
-          "subtitle": "@macro-inc",
-          "summary": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together... · · Feature requests · Contribute · Hiring Why Macro Macro...",
-          "url": "https://github.com/macro-inc/macro",
-          "category": "Rust",
-          "metric": "287 stars",
-          "publishedAtUtc": "2026-06-23T14:44:15.0000000Z"
-        },
-        {
-          "title": "clawcodex",
-          "subtitle": "@agentforce314",
-          "summary": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving! English 中文 Français Русский हिन्दी العربية Português ClawCodex A...",
-          "url": "https://github.com/agentforce314/clawcodex",
-          "category": "Python",
-          "metric": "652 stars",
-          "publishedAtUtc": "2026-06-23T14:43:58.0000000Z"
-        },
-        {
-          "title": "ClickHouse",
-          "subtitle": "@ClickHouse",
-          "summary": "ClickHouse® is a real-time analytics database management system ClickHouse® is an open-source column-oriented database management system that allows generating analytical data...",
-          "url": "https://github.com/ClickHouse/ClickHouse",
-          "category": "C++",
-          "metric": "48,243 stars",
-          "publishedAtUtc": "2026-06-23T14:45:09.0000000Z"
-        },
-        {
-          "title": "agent-native",
-          "subtitle": "@BuilderIO",
-          "summary": "A framework for building agent-native applications. Agent-Native The framework for agent-native apps Agent-Native is an open-source framework for building robust agents that act...",
-          "url": "https://github.com/BuilderIO/agent-native",
+          "title": "worldmonitor",
+          "subtitle": "@koala73",
+          "summary": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure... World Monitor Real-time global intelligence dashboard —...",
+          "url": "https://github.com/koala73/worldmonitor",
           "category": "TypeScript",
-          "metric": "1,835 stars",
-          "publishedAtUtc": "2026-06-23T14:44:17.0000000Z"
+          "metric": "59,188 stars",
+          "publishedAtUtc": "2026-06-24T03:28:55.0000000Z"
         },
         {
-          "title": "neo",
-          "subtitle": "@neomjs",
-          "summary": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm... Neo.mjs Neo.mjs is a self-evolving software organism — a...",
-          "url": "https://github.com/neomjs/neo",
-          "category": "JavaScript",
-          "metric": "3,208 stars",
-          "publishedAtUtc": "2026-06-23T14:43:24.0000000Z"
+          "title": "eliza",
+          "subtitle": "@elizaOS",
+          "summary": "Open source agentic operating system elizaOS An open-source framework for building autonomous AI agents.",
+          "url": "https://github.com/elizaOS/eliza",
+          "category": "TypeScript",
+          "metric": "18,629 stars",
+          "publishedAtUtc": "2026-06-24T03:28:46.0000000Z"
+        },
+        {
+          "title": "cocoindex",
+          "subtitle": "@cocoindex-io",
+          "summary": "Incremental engine for long horizon agents \uD83C\uDF1F Star if you like it! Your agents deserve fresh context.",
+          "url": "https://github.com/cocoindex-io/cocoindex",
+          "category": "Rust",
+          "metric": "10,477 stars",
+          "publishedAtUtc": "2026-06-24T03:28:37.0000000Z"
+        },
+        {
+          "title": "omi",
+          "subtitle": "@BasedHardware",
+          "summary": "AI that sees your screen, listens to your conversations and tells you what to do omi A 2nd brain you trust more than your 1st Omi captures your screen and conversations...",
+          "url": "https://github.com/BasedHardware/omi",
+          "category": "Dart",
+          "metric": "12,872 stars",
+          "publishedAtUtc": "2026-06-24T03:28:29.0000000Z"
+        },
+        {
+          "title": "markstream-vue",
+          "subtitle": "@Simon-He95",
+          "summary": "Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid... Markstream Markstream is a streaming Markdown renderer...",
+          "url": "https://github.com/Simon-He95/markstream-vue",
+          "category": "Vue",
+          "metric": "2,604 stars",
+          "publishedAtUtc": "2026-06-24T03:28:19.0000000Z"
+        },
+        {
+          "title": "iwe",
+          "subtitle": "@iwe-org",
+          "summary": "Markdown memory system for you and your AI agent IWE - Memory system for you and your AI agents Turn your thinking into queryable context IWE turns a directory of markdown files...",
+          "url": "https://github.com/iwe-org/iwe",
+          "category": "Rust",
+          "metric": "1,135 stars",
+          "publishedAtUtc": "2026-06-24T03:28:09.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "109,749 stars",
-      "publishedAtUtc": "2026-06-23T14:41:23.0000000Z"
+      "metric": "109,777 stars",
+      "publishedAtUtc": "2026-06-24T03:28:40.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,094 stars",
-      "publishedAtUtc": "2026-06-23T14:42:12.0000000Z"
+      "metric": "54,106 stars",
+      "publishedAtUtc": "2026-06-24T02:47:37.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,586 stars",
-      "publishedAtUtc": "2026-06-23T14:40:20.0000000Z"
+      "metric": "53,608 stars",
+      "publishedAtUtc": "2026-06-24T03:12:03.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,008 stars",
-      "publishedAtUtc": "2026-06-23T14:22:17.0000000Z"
+      "metric": "44,009 stars",
+      "publishedAtUtc": "2026-06-23T23:57:33.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,241 stars",
-      "publishedAtUtc": "2026-06-23T14:18:18.0000000Z"
+      "metric": "38,246 stars",
+      "publishedAtUtc": "2026-06-24T02:22:14.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -185,7 +185,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "38,146 stars",
-      "publishedAtUtc": "2026-06-23T14:08:14.0000000Z"
+      "publishedAtUtc": "2026-06-24T03:25:34.0000000Z"
     }
   ]
 }
