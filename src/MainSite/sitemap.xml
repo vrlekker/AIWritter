@@ -55,37 +55,37 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=atom</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=eliza</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=wegent</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=iaga-sentinel</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=deepagents</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ha-mcp</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=rig</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=zeroclaw</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=deer-flow</loc>
-    <lastmod>2026-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openconstructionerp</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=harness-sdk</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
