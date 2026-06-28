@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-06-28T03:40:03.2064580Z",
+  "generatedAtUtc": "2026-06-28T13:43:33.4383284Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "110,059 stars",
-          "publishedAtUtc": "2026-06-28T03:34:30.0000000Z"
+          "metric": "110,101 stars",
+          "publishedAtUtc": "2026-06-28T13:15:33.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,228 stars",
-          "publishedAtUtc": "2026-06-27T23:14:13.0000000Z"
+          "metric": "54,236 stars",
+          "publishedAtUtc": "2026-06-28T10:57:56.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,749 stars",
-          "publishedAtUtc": "2026-06-28T02:57:54.0000000Z"
+          "metric": "53,764 stars",
+          "publishedAtUtc": "2026-06-28T13:43:13.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,070 stars",
-          "publishedAtUtc": "2026-06-28T02:49:25.0000000Z"
+          "metric": "44,071 stars",
+          "publishedAtUtc": "2026-06-28T12:12:25.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,294 stars",
-          "publishedAtUtc": "2026-06-28T03:00:50.0000000Z"
+          "metric": "38,300 stars",
+          "publishedAtUtc": "2026-06-28T12:54:45.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -63,7 +63,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "38,156 stars",
-          "publishedAtUtc": "2026-06-28T03:18:34.0000000Z"
+          "publishedAtUtc": "2026-06-28T07:32:16.0000000Z"
         }
       ]
     },
@@ -76,31 +76,13 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "YokiFrame",
-          "subtitle": "@HinataYoki",
-          "summary": "YokiFrame 是一个面向 Unity 与 Godot 的跨引擎游戏开发框架，提供架构分层、事件系统、状态机、对象池、资源管理、UI 工具和编辑器扩展，帮助开发者构建更清晰的游戏项目。 YokiFrame 跨引擎游戏 Kit 框架 + AI 原生通信层 + Tauri 可视化工作台 用统一的 C# Kit API 承载运行时能力，用文件协议让...",
-          "url": "https://github.com/HinataYoki/YokiFrame",
-          "category": "C#",
-          "metric": "208 stars",
-          "publishedAtUtc": "2026-06-28T03:39:47.0000000Z"
-        },
-        {
-          "title": "wardrowbe",
-          "subtitle": "@Anyesh",
-          "summary": "Put your wardrobe in rows. Self-hosted AI-powered wardrobe management app. wardrowbe Put your wardrobe in rows.",
-          "url": "https://github.com/Anyesh/wardrowbe",
+          "title": "Wegent",
+          "subtitle": "@wecode-ai",
+          "summary": "An open-source AI-native operating system to define, organize, and run intelligent agent teams Wegent A self-hostable AI workspace for chat, coding, knowledge bases, automation...",
+          "url": "https://github.com/wecode-ai/Wegent",
           "category": "Python",
-          "metric": "407 stars",
-          "publishedAtUtc": "2026-06-28T03:39:45.0000000Z"
-        },
-        {
-          "title": "dxos",
-          "subtitle": "@dxos",
-          "summary": "TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer. DXOS DXOS is the Decentralized Operating System — a platform for building fully decentralized...",
-          "url": "https://github.com/dxos/dxos",
-          "category": "TypeScript",
-          "metric": "509 stars",
-          "publishedAtUtc": "2026-06-28T03:39:41.0000000Z"
+          "metric": "598 stars",
+          "publishedAtUtc": "2026-06-28T13:43:28.0000000Z"
         },
         {
           "title": "zeroclaw",
@@ -108,26 +90,44 @@
           "summary": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap... \uD83E\uDD80 ZeroClaw — Personal AI Assistant You own the agent.",
           "url": "https://github.com/zeroclaw-labs/zeroclaw",
           "category": "Rust",
-          "metric": "32,074 stars",
-          "publishedAtUtc": "2026-06-28T03:38:36.0000000Z"
+          "metric": "32,079 stars",
+          "publishedAtUtc": "2026-06-28T13:43:21.0000000Z"
         },
         {
-          "title": "omi",
-          "subtitle": "@BasedHardware",
-          "summary": "AI that sees your screen, listens to your conversations and tells you what to do omi A 2nd brain you trust more than your 1st Omi captures your screen and conversations...",
-          "url": "https://github.com/BasedHardware/omi",
-          "category": "Dart",
-          "metric": "12,892 stars",
-          "publishedAtUtc": "2026-06-28T03:38:32.0000000Z"
+          "title": "Nomi",
+          "subtitle": "@aqm857886159",
+          "summary": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a... Nomi 把你脑子里的画面，精确传达给 AI。 本地优先、开源的 AI 导演工作台——3D...",
+          "url": "https://github.com/aqm857886159/Nomi",
+          "category": "TypeScript",
+          "metric": "210 stars",
+          "publishedAtUtc": "2026-06-28T13:42:14.0000000Z"
         },
         {
-          "title": "clawcodex",
-          "subtitle": "@agentforce314",
-          "summary": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving! English 中文 Français Русский हिन्दी العربية Português ClawCodex A...",
-          "url": "https://github.com/agentforce314/clawcodex",
+          "title": "free-llm-api-keys",
+          "subtitle": "@alistaitsacle",
+          "summary": "Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card... The easiest way to access LLM APIs for free — no credit...",
+          "url": "https://github.com/alistaitsacle/free-llm-api-keys",
           "category": "Python",
-          "metric": "558 stars",
-          "publishedAtUtc": "2026-06-28T03:38:24.0000000Z"
+          "metric": "2,886 stars",
+          "publishedAtUtc": "2026-06-28T13:41:58.0000000Z"
+        },
+        {
+          "title": "aft",
+          "subtitle": "@cortexkit",
+          "summary": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit... AFT Give your agent a proper IDE and OS.",
+          "url": "https://github.com/cortexkit/aft",
+          "category": "Rust",
+          "metric": "172 stars",
+          "publishedAtUtc": "2026-06-28T13:41:42.0000000Z"
+        },
+        {
+          "title": "omnigent",
+          "subtitle": "@omnigent-ai",
+          "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom... Omnigent The open-source meta-harness for all your AI...",
+          "url": "https://github.com/omnigent-ai/omnigent",
+          "category": "Python",
+          "metric": "5,213 stars",
+          "publishedAtUtc": "2026-06-28T13:41:32.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "110,059 stars",
-      "publishedAtUtc": "2026-06-28T03:34:30.0000000Z"
+      "metric": "110,101 stars",
+      "publishedAtUtc": "2026-06-28T13:15:33.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,228 stars",
-      "publishedAtUtc": "2026-06-27T23:14:13.0000000Z"
+      "metric": "54,236 stars",
+      "publishedAtUtc": "2026-06-28T10:57:56.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,749 stars",
-      "publishedAtUtc": "2026-06-28T02:57:54.0000000Z"
+      "metric": "53,764 stars",
+      "publishedAtUtc": "2026-06-28T13:43:13.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,070 stars",
-      "publishedAtUtc": "2026-06-28T02:49:25.0000000Z"
+      "metric": "44,071 stars",
+      "publishedAtUtc": "2026-06-28T12:12:25.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,294 stars",
-      "publishedAtUtc": "2026-06-28T03:00:50.0000000Z"
+      "metric": "38,300 stars",
+      "publishedAtUtc": "2026-06-28T12:54:45.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -185,7 +185,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "38,156 stars",
-      "publishedAtUtc": "2026-06-28T03:18:34.0000000Z"
+      "publishedAtUtc": "2026-06-28T07:32:16.0000000Z"
     }
   ]
 }
