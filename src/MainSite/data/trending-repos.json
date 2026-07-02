@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-07-01T14:31:59.8519718Z",
+  "generatedAtUtc": "2026-07-02T03:27:21.9485009Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-24 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-25 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "110,312 stars",
-          "publishedAtUtc": "2026-07-01T14:32:01.0000000Z"
+          "metric": "110,355 stars",
+          "publishedAtUtc": "2026-07-02T03:25:54.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,265 stars",
-          "publishedAtUtc": "2026-07-01T13:34:13.0000000Z"
+          "metric": "54,268 stars",
+          "publishedAtUtc": "2026-07-02T01:57:35.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,866 stars",
-          "publishedAtUtc": "2026-07-01T14:12:55.0000000Z"
+          "metric": "53,879 stars",
+          "publishedAtUtc": "2026-07-02T02:41:43.0000000Z"
         },
         {
           "title": "Files",
@@ -45,7 +45,7 @@
           "url": "https://github.com/files-community/Files",
           "category": "C#",
           "metric": "44,110 stars",
-          "publishedAtUtc": "2026-07-01T14:28:52.0000000Z"
+          "publishedAtUtc": "2026-07-02T03:09:18.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,360 stars",
-          "publishedAtUtc": "2026-07-01T14:14:15.0000000Z"
+          "metric": "38,364 stars",
+          "publishedAtUtc": "2026-07-02T02:29:50.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,109 stars",
-          "publishedAtUtc": "2026-07-01T13:26:48.0000000Z"
+          "metric": "38,110 stars",
+          "publishedAtUtc": "2026-07-02T01:08:24.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "doris",
-          "subtitle": "@apache",
-          "summary": "Apache Doris is an easy-to-use, high performance and unified analytics database. \uD83C\uDF0D Read this in other language English • العربية • বাংলা • Deutsch • Español • فارسی • Français •...",
-          "url": "https://github.com/apache/doris",
-          "category": "Java",
-          "metric": "15,563 stars",
-          "publishedAtUtc": "2026-07-01T14:31:56.0000000Z"
-        },
-        {
-          "title": "comark",
-          "subtitle": "@comarkdown",
-          "summary": "A high-performance Markdown parser and renderer for Vue, React, Svelte, HTML and ANSI. comark A high-performance markdown parser and renderer with Vue, React, Svelte, Angular...",
-          "url": "https://github.com/comarkdown/comark",
+          "title": "logixlysia",
+          "subtitle": "@PunGrumpy",
+          "summary": "\uD83E\uDD8A Logixlysia is a logger for ElysiaJS \uD83E\uDD8A Logixlysia Logixlysia is a logging library for ElysiaJS \uD83D\uDCE9 Installation \uD83D\uDCDD Usage \uD83D\uDCDA Documentation Check out the website for more...",
+          "url": "https://github.com/PunGrumpy/logixlysia",
           "category": "TypeScript",
-          "metric": "798 stars",
-          "publishedAtUtc": "2026-07-01T14:31:31.0000000Z"
+          "metric": "257 stars",
+          "publishedAtUtc": "2026-07-02T03:26:59.0000000Z"
         },
         {
-          "title": "mastra",
-          "subtitle": "@mastra-ai",
-          "summary": "Mastra is the modern TypeScript framework for AI-powered applications and agents. Mastra Mastra is a framework for building AI-powered applications and agents with a modern...",
-          "url": "https://github.com/mastra-ai/mastra",
+          "title": "ClawX",
+          "subtitle": "@ValueCell-ai",
+          "summary": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration... ClawX The Desktop Interface for OpenClaw AI Agents...",
+          "url": "https://github.com/ValueCell-ai/ClawX",
           "category": "TypeScript",
-          "metric": "25,659 stars",
-          "publishedAtUtc": "2026-07-01T14:31:19.0000000Z"
+          "metric": "7,469 stars",
+          "publishedAtUtc": "2026-07-02T03:25:14.0000000Z"
         },
         {
-          "title": "deer-flow",
-          "subtitle": "@bytedance",
-          "summary": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes... \uD83E\uDD8C DeerFlow - 2.0 English 中文 日本語 Français Русский On February...",
-          "url": "https://github.com/bytedance/deer-flow",
-          "category": "Python",
-          "metric": "75,730 stars",
-          "publishedAtUtc": "2026-07-01T14:31:14.0000000Z"
+          "title": "skillflaw",
+          "subtitle": "@cwinux",
+          "summary": "面向企业业务、面向企业数字员工与Agent的企业智能体平台，构建企业业务技能操作系统。 English 简体中文 SkillFlaw SkillFlaw is an enterprise-oriented visual platform for designing, testing, deploying, and operating AI agents...",
+          "url": "https://github.com/cwinux/skillflaw",
+          "category": "TypeScript",
+          "metric": "406 stars",
+          "publishedAtUtc": "2026-07-02T03:25:10.0000000Z"
         },
         {
-          "title": "biomcp",
-          "subtitle": "@genomoncology",
-          "summary": "BioMCP: Biomedical Model Context Protocol Evidence from the biomedical sources you already trust.",
-          "url": "https://github.com/genomoncology/biomcp",
-          "category": "Rust",
-          "metric": "535 stars",
-          "publishedAtUtc": "2026-07-01T14:31:05.0000000Z"
+          "title": "clawd.rip",
+          "subtitle": "@maria-rcks",
+          "summary": "Everything that went wrong with Claude. Not affiliated with, endorsed by, or sponsored by Anthropic PBC.",
+          "url": "https://github.com/maria-rcks/clawd.rip",
+          "category": "TypeScript",
+          "metric": "218 stars",
+          "publishedAtUtc": "2026-07-02T03:25:04.0000000Z"
         },
         {
-          "title": "aghub",
-          "subtitle": "@AkaraChen",
-          "summary": "One hub for every AI coding agent. Unified configuration management for 22+ assistants. One hub for every AI coding agent.",
-          "url": "https://github.com/AkaraChen/aghub",
-          "category": "Rust",
-          "metric": "261 stars",
-          "publishedAtUtc": "2026-07-01T14:30:38.0000000Z"
+          "title": "eliza",
+          "subtitle": "@elizaOS",
+          "summary": "Open source agentic operating system elizaOS Your agentic operating system.",
+          "url": "https://github.com/elizaOS/eliza",
+          "category": "TypeScript",
+          "metric": "18,671 stars",
+          "publishedAtUtc": "2026-07-02T03:25:01.0000000Z"
+        },
+        {
+          "title": "AITreasureBox",
+          "subtitle": "@superiorlu",
+          "summary": "\uD83E\uDD16 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 \uD83D\uDC8E AI TreasureBox English 中文 Collect practical AI repos, tools, websites, papers and tutorials...",
+          "url": "https://github.com/superiorlu/AITreasureBox",
+          "category": "Ruby",
+          "metric": "824 stars",
+          "publishedAtUtc": "2026-07-02T03:24:50.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "110,312 stars",
-      "publishedAtUtc": "2026-07-01T14:32:01.0000000Z"
+      "metric": "110,355 stars",
+      "publishedAtUtc": "2026-07-02T03:25:54.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,265 stars",
-      "publishedAtUtc": "2026-07-01T13:34:13.0000000Z"
+      "metric": "54,268 stars",
+      "publishedAtUtc": "2026-07-02T01:57:35.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,866 stars",
-      "publishedAtUtc": "2026-07-01T14:12:55.0000000Z"
+      "metric": "53,879 stars",
+      "publishedAtUtc": "2026-07-02T02:41:43.0000000Z"
     },
     {
       "title": "Files",
@@ -167,7 +167,7 @@
       "url": "https://github.com/files-community/Files",
       "category": "C#",
       "metric": "44,110 stars",
-      "publishedAtUtc": "2026-07-01T14:28:52.0000000Z"
+      "publishedAtUtc": "2026-07-02T03:09:18.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,360 stars",
-      "publishedAtUtc": "2026-07-01T14:14:15.0000000Z"
+      "metric": "38,364 stars",
+      "publishedAtUtc": "2026-07-02T02:29:50.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,109 stars",
-      "publishedAtUtc": "2026-07-01T13:26:48.0000000Z"
+      "metric": "38,110 stars",
+      "publishedAtUtc": "2026-07-02T01:08:24.0000000Z"
     }
   ]
 }
