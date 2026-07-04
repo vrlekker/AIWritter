@@ -55,25 +55,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=inferencex</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=eliza</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=fojin</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=lean-ctx</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=zeroclaw</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -85,7 +79,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=avibe</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=aidevops</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=wind-comic</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

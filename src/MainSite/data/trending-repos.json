@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-07-04T02:46:15.7166152Z",
+  "generatedAtUtc": "2026-07-04T13:21:45.4297141Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "110,504 stars",
-          "publishedAtUtc": "2026-07-04T02:45:39.0000000Z"
+          "metric": "110,536 stars",
+          "publishedAtUtc": "2026-07-04T12:52:28.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,293 stars",
-          "publishedAtUtc": "2026-07-03T23:59:54.0000000Z"
+          "metric": "54,294 stars",
+          "publishedAtUtc": "2026-07-04T12:57:01.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,926 stars",
-          "publishedAtUtc": "2026-07-04T02:19:29.0000000Z"
+          "metric": "53,938 stars",
+          "publishedAtUtc": "2026-07-04T12:24:03.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,127 stars",
-          "publishedAtUtc": "2026-07-04T02:20:34.0000000Z"
+          "metric": "44,130 stars",
+          "publishedAtUtc": "2026-07-04T12:21:41.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,398 stars",
-          "publishedAtUtc": "2026-07-04T02:39:41.0000000Z"
+          "metric": "38,410 stars",
+          "publishedAtUtc": "2026-07-04T12:34:52.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,169 stars",
-          "publishedAtUtc": "2026-07-04T00:35:03.0000000Z"
+          "metric": "38,170 stars",
+          "publishedAtUtc": "2026-07-04T10:56:40.0000000Z"
         }
       ]
     },
@@ -76,40 +76,31 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "InferenceX",
-          "subtitle": "@SemiAnalysisAI",
-          "summary": "Open Source Continuous Inference Benchmark Research Platform — Kimi K2.7-Code, MiniMax M3, DeepSeekv4, GLM5 - GB200... InferenceX™, Open Source Continuous Inference Standard and...",
-          "url": "https://github.com/SemiAnalysisAI/InferenceX",
-          "category": "Python",
-          "metric": "1,204 stars",
-          "publishedAtUtc": "2026-07-04T02:46:01.0000000Z"
-        },
-        {
           "title": "eliza",
           "subtitle": "@elizaOS",
           "summary": "Open source agentic operating system elizaOS Your agentic operating system.",
           "url": "https://github.com/elizaOS/eliza",
           "category": "TypeScript",
-          "metric": "18,683 stars",
-          "publishedAtUtc": "2026-07-04T02:45:40.0000000Z"
+          "metric": "18,689 stars",
+          "publishedAtUtc": "2026-07-04T13:21:38.0000000Z"
         },
         {
-          "title": "fojin",
-          "subtitle": "@xr843",
-          "summary": "Buddhist Digital Text Platform — 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph... FoJin 佛津 Ask the Buddhist canon — get cited, verifiable...",
-          "url": "https://github.com/xr843/fojin",
-          "category": "Python",
-          "metric": "321 stars",
-          "publishedAtUtc": "2026-07-04T02:44:49.0000000Z"
+          "title": "lean-ctx",
+          "subtitle": "@yvgude",
+          "summary": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust... ██╗ ███████╗ █████╗ ███╗ ██╗ ██████╗████████╗██╗ ██╗ ██║...",
+          "url": "https://github.com/yvgude/lean-ctx",
+          "category": "Rust",
+          "metric": "3,080 stars",
+          "publishedAtUtc": "2026-07-04T13:21:30.0000000Z"
         },
         {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
-          "url": "https://github.com/openclaw/openclaw",
-          "category": "TypeScript",
-          "metric": "381,607 stars",
-          "publishedAtUtc": "2026-07-04T02:44:58.0000000Z"
+          "title": "zeroclaw",
+          "subtitle": "@zeroclaw-labs",
+          "summary": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap... \uD83E\uDD80 ZeroClaw — Personal AI Assistant You own the agent.",
+          "url": "https://github.com/zeroclaw-labs/zeroclaw",
+          "category": "Rust",
+          "metric": "32,145 stars",
+          "publishedAtUtc": "2026-07-04T13:21:29.0000000Z"
         },
         {
           "title": "ironclaw-ai-vision",
@@ -118,16 +109,25 @@
           "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
           "category": "HTML",
           "metric": "151 stars",
-          "publishedAtUtc": "2026-07-04T02:43:19.0000000Z"
+          "publishedAtUtc": "2026-07-04T13:20:43.0000000Z"
         },
         {
-          "title": "avibe",
-          "subtitle": "@avibe-bot",
-          "summary": "The local-first Agent OS — your AI partner lives on your own machine. Drive the official Claude Code, Codex & OpenCode... Avibe The local-first Agent OS — your AI partner lives...",
-          "url": "https://github.com/avibe-bot/avibe",
-          "category": "Python",
-          "metric": "480 stars",
-          "publishedAtUtc": "2026-07-04T02:41:57.0000000Z"
+          "title": "aidevops",
+          "subtitle": "@marcusquinn",
+          "summary": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and... AI DevOps Framework aidevops.sh is an OpenCode plugin and...",
+          "url": "https://github.com/marcusquinn/aidevops",
+          "category": "Shell",
+          "metric": "279 stars",
+          "publishedAtUtc": "2026-07-04T13:20:00.0000000Z"
+        },
+        {
+          "title": "wind-comic",
+          "subtitle": "@ChrisChen667788",
+          "summary": "Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards... \uD83C\uDF2C️ Wind Comic v12.39 One sentence in.",
+          "url": "https://github.com/ChrisChen667788/wind-comic",
+          "category": "TypeScript",
+          "metric": "315 stars",
+          "publishedAtUtc": "2026-07-04T13:19:54.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "110,504 stars",
-      "publishedAtUtc": "2026-07-04T02:45:39.0000000Z"
+      "metric": "110,536 stars",
+      "publishedAtUtc": "2026-07-04T12:52:28.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,293 stars",
-      "publishedAtUtc": "2026-07-03T23:59:54.0000000Z"
+      "metric": "54,294 stars",
+      "publishedAtUtc": "2026-07-04T12:57:01.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,926 stars",
-      "publishedAtUtc": "2026-07-04T02:19:29.0000000Z"
+      "metric": "53,938 stars",
+      "publishedAtUtc": "2026-07-04T12:24:03.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,127 stars",
-      "publishedAtUtc": "2026-07-04T02:20:34.0000000Z"
+      "metric": "44,130 stars",
+      "publishedAtUtc": "2026-07-04T12:21:41.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,398 stars",
-      "publishedAtUtc": "2026-07-04T02:39:41.0000000Z"
+      "metric": "38,410 stars",
+      "publishedAtUtc": "2026-07-04T12:34:52.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,169 stars",
-      "publishedAtUtc": "2026-07-04T00:35:03.0000000Z"
+      "metric": "38,170 stars",
+      "publishedAtUtc": "2026-07-04T10:56:40.0000000Z"
     }
   ]
 }
