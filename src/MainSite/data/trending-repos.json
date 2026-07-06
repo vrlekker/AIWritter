@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-07-05T13:27:39.0378453Z",
+  "generatedAtUtc": "2026-07-06T03:23:36.3536735Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-28 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-29 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,17 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "110,611 stars",
-          "publishedAtUtc": "2026-07-05T13:23:09.0000000Z"
-        },
-        {
-          "title": "PowerShell",
-          "subtitle": "@PowerShell",
-          "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
-          "url": "https://github.com/PowerShell/PowerShell",
-          "category": "C#",
-          "metric": "54,296 stars",
-          "publishedAtUtc": "2026-07-05T08:21:06.0000000Z"
+          "metric": "110,645 stars",
+          "publishedAtUtc": "2026-07-06T03:22:35.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,961 stars",
-          "publishedAtUtc": "2026-07-05T13:11:15.0000000Z"
+          "metric": "53,986 stars",
+          "publishedAtUtc": "2026-07-06T03:13:19.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +35,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,139 stars",
-          "publishedAtUtc": "2026-07-05T13:26:29.0000000Z"
+          "metric": "44,146 stars",
+          "publishedAtUtc": "2026-07-06T02:45:38.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +44,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,420 stars",
-          "publishedAtUtc": "2026-07-05T11:57:09.0000000Z"
+          "metric": "38,430 stars",
+          "publishedAtUtc": "2026-07-06T01:38:31.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +53,17 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,172 stars",
-          "publishedAtUtc": "2026-07-05T03:08:43.0000000Z"
+          "metric": "38,174 stars",
+          "publishedAtUtc": "2026-07-05T18:55:47.0000000Z"
+        },
+        {
+          "title": "Avalonia",
+          "subtitle": "@AvaloniaUI",
+          "summary": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI \uD83D\uDCD6 About Avalonia is a cross-platform UI framework for dotnet, providing a flexible...",
+          "url": "https://github.com/AvaloniaUI/Avalonia",
+          "category": "C#",
+          "metric": "31,113 stars",
+          "publishedAtUtc": "2026-07-05T21:10:47.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "hermes-agent",
-          "subtitle": "@NousResearch",
-          "summary": "The agent that grows with you Hermes Agent ☤ The self-improving AI agent built by Nous Research.",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "category": "Python",
-          "metric": "209,466 stars",
-          "publishedAtUtc": "2026-07-05T13:27:31.0000000Z"
+          "title": "suna",
+          "subtitle": "@kortix-ai",
+          "summary": "The Company AI Command Center Kortix The AI command center for your company One repo.",
+          "url": "https://github.com/kortix-ai/suna",
+          "category": "TypeScript",
+          "metric": "19,919 stars",
+          "publishedAtUtc": "2026-07-06T03:23:26.0000000Z"
         },
         {
-          "title": "autonomous-computer",
-          "subtitle": "@autonomous-ai",
-          "summary": "Build your own Personal AI Computer Everyone knows how that movie ends.",
-          "url": "https://github.com/autonomous-ai/autonomous-computer",
-          "category": "Repository",
-          "metric": "621 stars",
-          "publishedAtUtc": "2026-07-05T13:26:43.0000000Z"
+          "title": "eliza",
+          "subtitle": "@elizaOS",
+          "summary": "Open source agentic operating system elizaOS Your agentic operating system.",
+          "url": "https://github.com/elizaOS/eliza",
+          "category": "TypeScript",
+          "metric": "18,700 stars",
+          "publishedAtUtc": "2026-07-06T03:22:57.0000000Z"
         },
         {
-          "title": "ironclaw-ai-vision",
-          "subtitle": "@shadowlzt",
-          "summary": "Ultimate AI Fitness Coach PWA 2026: Iron Mike Workout & Smart Recipe Agent ReflexForge \uD83E\uDDE0⚡ Personal Cognitive Resilience Architect — Offline-First Agentic Mindset Training &...",
-          "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
-          "category": "HTML",
+          "title": "lemonade",
+          "subtitle": "@lemonade-sdk",
+          "summary": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join... \uD83C\uDF4B Lemonade: Refreshingly fast local AI Lemonade is the...",
+          "url": "https://github.com/lemonade-sdk/lemonade",
+          "category": "C++",
+          "metric": "4,768 stars",
+          "publishedAtUtc": "2026-07-06T03:22:49.0000000Z"
+        },
+        {
+          "title": "openscience",
+          "subtitle": "@synthetic-sciences",
+          "summary": "The open-source AI workbench for scientific research It reads the literature, writes and runs code, runs the experiments, and writes up what it found.",
+          "url": "https://github.com/synthetic-sciences/openscience",
+          "category": "TypeScript",
           "metric": "151 stars",
-          "publishedAtUtc": "2026-07-05T13:26:34.0000000Z"
+          "publishedAtUtc": "2026-07-06T03:23:32.0000000Z"
         },
         {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
-          "url": "https://github.com/openclaw/openclaw",
-          "category": "TypeScript",
-          "metric": "381,798 stars",
-          "publishedAtUtc": "2026-07-05T13:25:41.0000000Z"
+          "title": "free-llm-api-keys",
+          "subtitle": "@alistaitsacle",
+          "summary": "Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card... The easiest way to access LLM APIs for free — no credit...",
+          "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+          "category": "Python",
+          "metric": "3,114 stars",
+          "publishedAtUtc": "2026-07-06T03:22:10.0000000Z"
         },
         {
-          "title": "openclaude",
-          "subtitle": "@Gitlawb",
-          "summary": "runs anywhere. uses anything OpenClaude OpenClaude is an open-source coding-agent CLI for cloud and local model providers.",
-          "url": "https://github.com/Gitlawb/openclaude",
+          "title": "agent-native",
+          "subtitle": "@BuilderIO",
+          "summary": "A framework for building agent-native applications. Agent-Native The framework for agent-native apps Agent-Native is an open-source framework for apps where agents and UI share...",
+          "url": "https://github.com/BuilderIO/agent-native",
           "category": "TypeScript",
-          "metric": "29,781 stars",
-          "publishedAtUtc": "2026-07-05T13:24:18.0000000Z"
-        },
-        {
-          "title": "civitai",
-          "subtitle": "@civitai",
-          "summary": "A repository of models, textual inversions, and more [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url]...",
-          "url": "https://github.com/civitai/civitai",
-          "category": "TypeScript",
-          "metric": "7,170 stars",
-          "publishedAtUtc": "2026-07-05T13:23:58.0000000Z"
+          "metric": "3,478 stars",
+          "publishedAtUtc": "2026-07-06T03:20:34.0000000Z"
         }
       ]
     }
@@ -139,17 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "110,611 stars",
-      "publishedAtUtc": "2026-07-05T13:23:09.0000000Z"
-    },
-    {
-      "title": "PowerShell",
-      "subtitle": "@PowerShell",
-      "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
-      "url": "https://github.com/PowerShell/PowerShell",
-      "category": "C#",
-      "metric": "54,296 stars",
-      "publishedAtUtc": "2026-07-05T08:21:06.0000000Z"
+      "metric": "110,645 stars",
+      "publishedAtUtc": "2026-07-06T03:22:35.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,961 stars",
-      "publishedAtUtc": "2026-07-05T13:11:15.0000000Z"
+      "metric": "53,986 stars",
+      "publishedAtUtc": "2026-07-06T03:13:19.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +157,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,139 stars",
-      "publishedAtUtc": "2026-07-05T13:26:29.0000000Z"
+      "metric": "44,146 stars",
+      "publishedAtUtc": "2026-07-06T02:45:38.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +166,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,420 stars",
-      "publishedAtUtc": "2026-07-05T11:57:09.0000000Z"
+      "metric": "38,430 stars",
+      "publishedAtUtc": "2026-07-06T01:38:31.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +175,17 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,172 stars",
-      "publishedAtUtc": "2026-07-05T03:08:43.0000000Z"
+      "metric": "38,174 stars",
+      "publishedAtUtc": "2026-07-05T18:55:47.0000000Z"
+    },
+    {
+      "title": "Avalonia",
+      "subtitle": "@AvaloniaUI",
+      "summary": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI \uD83D\uDCD6 About Avalonia is a cross-platform UI framework for dotnet, providing a flexible...",
+      "url": "https://github.com/AvaloniaUI/Avalonia",
+      "category": "C#",
+      "metric": "31,113 stars",
+      "publishedAtUtc": "2026-07-05T21:10:47.0000000Z"
     }
   ]
 }
