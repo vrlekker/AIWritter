@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-07-06T03:23:36.3536735Z",
+  "generatedAtUtc": "2026-07-06T15:28:58.8324731Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "110,645 stars",
-          "publishedAtUtc": "2026-07-06T03:22:35.0000000Z"
+          "metric": "110,700 stars",
+          "publishedAtUtc": "2026-07-06T15:15:44.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "53,986 stars",
-          "publishedAtUtc": "2026-07-06T03:13:19.0000000Z"
+          "metric": "54,014 stars",
+          "publishedAtUtc": "2026-07-06T15:24:21.0000000Z"
         },
         {
           "title": "Files",
@@ -35,8 +35,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,146 stars",
-          "publishedAtUtc": "2026-07-06T02:45:38.0000000Z"
+          "metric": "44,150 stars",
+          "publishedAtUtc": "2026-07-06T15:25:02.0000000Z"
         },
         {
           "title": "ShareX",
@@ -44,8 +44,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,430 stars",
-          "publishedAtUtc": "2026-07-06T01:38:31.0000000Z"
+          "metric": "38,442 stars",
+          "publishedAtUtc": "2026-07-06T15:03:14.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -54,7 +54,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "38,174 stars",
-          "publishedAtUtc": "2026-07-05T18:55:47.0000000Z"
+          "publishedAtUtc": "2026-07-06T13:15:52.0000000Z"
         },
         {
           "title": "Avalonia",
@@ -62,8 +62,8 @@
           "summary": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI \uD83D\uDCD6 About Avalonia is a cross-platform UI framework for dotnet, providing a flexible...",
           "url": "https://github.com/AvaloniaUI/Avalonia",
           "category": "C#",
-          "metric": "31,113 stars",
-          "publishedAtUtc": "2026-07-05T21:10:47.0000000Z"
+          "metric": "31,123 stars",
+          "publishedAtUtc": "2026-07-06T15:25:09.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "suna",
-          "subtitle": "@kortix-ai",
-          "summary": "The Company AI Command Center Kortix The AI command center for your company One repo.",
-          "url": "https://github.com/kortix-ai/suna",
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
+          "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "19,919 stars",
-          "publishedAtUtc": "2026-07-06T03:23:26.0000000Z"
+          "metric": "381,929 stars",
+          "publishedAtUtc": "2026-07-06T15:28:50.0000000Z"
         },
         {
-          "title": "eliza",
-          "subtitle": "@elizaOS",
-          "summary": "Open source agentic operating system elizaOS Your agentic operating system.",
-          "url": "https://github.com/elizaOS/eliza",
+          "title": "ds-ml-bootcamp",
+          "subtitle": "@goobolabs",
+          "summary": "Data Science and Machine Learning Bootcamp. (Jun - 2026) \uD83D\uDCCA DS-ML Bootcamp Welcome to the Data Science & Machine Learning Bootcamp repository!",
+          "url": "https://github.com/goobolabs/ds-ml-bootcamp",
+          "category": "Jupyter Notebook",
+          "metric": "159 stars",
+          "publishedAtUtc": "2026-07-06T15:28:26.0000000Z"
+        },
+        {
+          "title": "comp",
+          "subtitle": "@trycompai",
+          "summary": "AI Native platform to get companies compliant - Vanta & Drata Alternative Comp AI The open-source compliance platform.",
+          "url": "https://github.com/trycompai/comp",
           "category": "TypeScript",
-          "metric": "18,700 stars",
-          "publishedAtUtc": "2026-07-06T03:22:57.0000000Z"
+          "metric": "1,674 stars",
+          "publishedAtUtc": "2026-07-06T15:28:22.0000000Z"
         },
         {
-          "title": "lemonade",
-          "subtitle": "@lemonade-sdk",
-          "summary": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join... \uD83C\uDF4B Lemonade: Refreshingly fast local AI Lemonade is the...",
-          "url": "https://github.com/lemonade-sdk/lemonade",
-          "category": "C++",
-          "metric": "4,768 stars",
-          "publishedAtUtc": "2026-07-06T03:22:49.0000000Z"
-        },
-        {
-          "title": "openscience",
-          "subtitle": "@synthetic-sciences",
-          "summary": "The open-source AI workbench for scientific research It reads the literature, writes and runs code, runs the experiments, and writes up what it found.",
-          "url": "https://github.com/synthetic-sciences/openscience",
+          "title": "oracle",
+          "subtitle": "@steipete",
+          "summary": "Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files. oracle \uD83E\uDDFF — Whispering your tokens to the silicon sage Oracle bundles your prompt and files so...",
+          "url": "https://github.com/steipete/oracle",
           "category": "TypeScript",
-          "metric": "151 stars",
-          "publishedAtUtc": "2026-07-06T03:23:32.0000000Z"
+          "metric": "3,203 stars",
+          "publishedAtUtc": "2026-07-06T15:28:52.0000000Z"
         },
         {
-          "title": "free-llm-api-keys",
-          "subtitle": "@alistaitsacle",
-          "summary": "Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card... The easiest way to access LLM APIs for free — no credit...",
-          "url": "https://github.com/alistaitsacle/free-llm-api-keys",
-          "category": "Python",
-          "metric": "3,114 stars",
-          "publishedAtUtc": "2026-07-06T03:22:10.0000000Z"
+          "title": "AITreasureBox",
+          "subtitle": "@superiorlu",
+          "summary": "\uD83E\uDD16 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 \uD83D\uDC8E AI TreasureBox English 中文 Collect practical AI repos, tools, websites, papers and tutorials...",
+          "url": "https://github.com/superiorlu/AITreasureBox",
+          "category": "Ruby",
+          "metric": "826 stars",
+          "publishedAtUtc": "2026-07-06T15:28:09.0000000Z"
         },
         {
-          "title": "agent-native",
-          "subtitle": "@BuilderIO",
-          "summary": "A framework for building agent-native applications. Agent-Native The framework for agent-native apps Agent-Native is an open-source framework for apps where agents and UI share...",
-          "url": "https://github.com/BuilderIO/agent-native",
+          "title": "sonarqube-cli",
+          "subtitle": "@SonarSource",
+          "summary": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality... SonarQube CLI Catch code quality and security issues in...",
+          "url": "https://github.com/SonarSource/sonarqube-cli",
           "category": "TypeScript",
-          "metric": "3,478 stars",
-          "publishedAtUtc": "2026-07-06T03:20:34.0000000Z"
+          "metric": "205 stars",
+          "publishedAtUtc": "2026-07-06T08:42:05.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "110,645 stars",
-      "publishedAtUtc": "2026-07-06T03:22:35.0000000Z"
+      "metric": "110,700 stars",
+      "publishedAtUtc": "2026-07-06T15:15:44.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "53,986 stars",
-      "publishedAtUtc": "2026-07-06T03:13:19.0000000Z"
+      "metric": "54,014 stars",
+      "publishedAtUtc": "2026-07-06T15:24:21.0000000Z"
     },
     {
       "title": "Files",
@@ -157,8 +157,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,146 stars",
-      "publishedAtUtc": "2026-07-06T02:45:38.0000000Z"
+      "metric": "44,150 stars",
+      "publishedAtUtc": "2026-07-06T15:25:02.0000000Z"
     },
     {
       "title": "ShareX",
@@ -166,8 +166,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,430 stars",
-      "publishedAtUtc": "2026-07-06T01:38:31.0000000Z"
+      "metric": "38,442 stars",
+      "publishedAtUtc": "2026-07-06T15:03:14.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -176,7 +176,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "38,174 stars",
-      "publishedAtUtc": "2026-07-05T18:55:47.0000000Z"
+      "publishedAtUtc": "2026-07-06T13:15:52.0000000Z"
     },
     {
       "title": "Avalonia",
@@ -184,8 +184,8 @@
       "summary": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI \uD83D\uDCD6 About Avalonia is a cross-platform UI framework for dotnet, providing a flexible...",
       "url": "https://github.com/AvaloniaUI/Avalonia",
       "category": "C#",
-      "metric": "31,113 stars",
-      "publishedAtUtc": "2026-07-05T21:10:47.0000000Z"
+      "metric": "31,123 stars",
+      "publishedAtUtc": "2026-07-06T15:25:09.0000000Z"
     }
   ]
 }
