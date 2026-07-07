@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-07-06T15:28:58.8324731Z",
+  "generatedAtUtc": "2026-07-07T02:56:46.6483485Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-29 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-06-30 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,17 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "110,700 stars",
-          "publishedAtUtc": "2026-07-06T15:15:44.0000000Z"
+          "metric": "110,728 stars",
+          "publishedAtUtc": "2026-07-07T02:43:21.0000000Z"
+        },
+        {
+          "title": "PowerShell",
+          "subtitle": "@PowerShell",
+          "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
+          "url": "https://github.com/PowerShell/PowerShell",
+          "category": "C#",
+          "metric": "54,308 stars",
+          "publishedAtUtc": "2026-07-06T23:30:18.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "54,014 stars",
-          "publishedAtUtc": "2026-07-06T15:24:21.0000000Z"
+          "metric": "54,031 stars",
+          "publishedAtUtc": "2026-07-07T02:21:09.0000000Z"
         },
         {
           "title": "Files",
@@ -35,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,150 stars",
-          "publishedAtUtc": "2026-07-06T15:25:02.0000000Z"
+          "metric": "44,160 stars",
+          "publishedAtUtc": "2026-07-07T02:55:15.0000000Z"
         },
         {
           "title": "ShareX",
@@ -44,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,442 stars",
-          "publishedAtUtc": "2026-07-06T15:03:14.0000000Z"
+          "metric": "38,446 stars",
+          "publishedAtUtc": "2026-07-07T01:44:32.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -54,16 +63,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "38,174 stars",
-          "publishedAtUtc": "2026-07-06T13:15:52.0000000Z"
-        },
-        {
-          "title": "Avalonia",
-          "subtitle": "@AvaloniaUI",
-          "summary": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI \uD83D\uDCD6 About Avalonia is a cross-platform UI framework for dotnet, providing a flexible...",
-          "url": "https://github.com/AvaloniaUI/Avalonia",
-          "category": "C#",
-          "metric": "31,123 stars",
-          "publishedAtUtc": "2026-07-06T15:25:09.0000000Z"
+          "publishedAtUtc": "2026-07-06T18:58:41.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
-          "url": "https://github.com/openclaw/openclaw",
+          "title": "alien",
+          "subtitle": "@alienplatform",
+          "summary": "Infrastructure for managed self-hosting Alien Alien provides infrastructure to deploy and operate software inside your users' environments, while retaining centralized control...",
+          "url": "https://github.com/alienplatform/alien",
+          "category": "Rust",
+          "metric": "180 stars",
+          "publishedAtUtc": "2026-07-07T02:56:31.0000000Z"
+        },
+        {
+          "title": "openbrowser-ai",
+          "subtitle": "@billy-enrizky",
+          "summary": "OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent... OpenBrowser AI browser automation, powered by code.",
+          "url": "https://github.com/billy-enrizky/openbrowser-ai",
+          "category": "Python",
+          "metric": "235 stars",
+          "publishedAtUtc": "2026-07-07T02:55:59.0000000Z"
+        },
+        {
+          "title": "csghub-server",
+          "subtitle": "@OpenCSGs",
+          "summary": "csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model... English ∙ 简体中文 ∙ 日本語 CSGHub Server is a part of the open source...",
+          "url": "https://github.com/OpenCSGs/csghub-server",
+          "category": "Go",
+          "metric": "1,071 stars",
+          "publishedAtUtc": "2026-07-07T02:55:42.0000000Z"
+        },
+        {
+          "title": "eliza",
+          "subtitle": "@elizaOS",
+          "summary": "Open source agentic operating system elizaOS Your agentic operating system.",
+          "url": "https://github.com/elizaOS/eliza",
           "category": "TypeScript",
-          "metric": "381,929 stars",
-          "publishedAtUtc": "2026-07-06T15:28:50.0000000Z"
+          "metric": "18,705 stars",
+          "publishedAtUtc": "2026-07-07T02:55:20.0000000Z"
         },
         {
-          "title": "ds-ml-bootcamp",
-          "subtitle": "@goobolabs",
-          "summary": "Data Science and Machine Learning Bootcamp. (Jun - 2026) \uD83D\uDCCA DS-ML Bootcamp Welcome to the Data Science & Machine Learning Bootcamp repository!",
-          "url": "https://github.com/goobolabs/ds-ml-bootcamp",
-          "category": "Jupyter Notebook",
-          "metric": "159 stars",
-          "publishedAtUtc": "2026-07-06T15:28:26.0000000Z"
-        },
-        {
-          "title": "comp",
-          "subtitle": "@trycompai",
-          "summary": "AI Native platform to get companies compliant - Vanta & Drata Alternative Comp AI The open-source compliance platform.",
-          "url": "https://github.com/trycompai/comp",
+          "title": "codealmanac",
+          "subtitle": "@AlmanacCode",
+          "summary": "A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas. CodeAlmanac CodeAlmanac is a local codebase wiki maintained by AI...",
+          "url": "https://github.com/AlmanacCode/codealmanac",
           "category": "TypeScript",
-          "metric": "1,674 stars",
-          "publishedAtUtc": "2026-07-06T15:28:22.0000000Z"
+          "metric": "153 stars",
+          "publishedAtUtc": "2026-07-07T02:55:18.0000000Z"
         },
         {
-          "title": "oracle",
-          "subtitle": "@steipete",
-          "summary": "Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files. oracle \uD83E\uDDFF — Whispering your tokens to the silicon sage Oracle bundles your prompt and files so...",
-          "url": "https://github.com/steipete/oracle",
-          "category": "TypeScript",
-          "metric": "3,203 stars",
-          "publishedAtUtc": "2026-07-06T15:28:52.0000000Z"
-        },
-        {
-          "title": "AITreasureBox",
-          "subtitle": "@superiorlu",
-          "summary": "\uD83E\uDD16 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 \uD83D\uDC8E AI TreasureBox English 中文 Collect practical AI repos, tools, websites, papers and tutorials...",
-          "url": "https://github.com/superiorlu/AITreasureBox",
-          "category": "Ruby",
-          "metric": "826 stars",
-          "publishedAtUtc": "2026-07-06T15:28:09.0000000Z"
-        },
-        {
-          "title": "sonarqube-cli",
-          "subtitle": "@SonarSource",
-          "summary": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality... SonarQube CLI Catch code quality and security issues in...",
-          "url": "https://github.com/SonarSource/sonarqube-cli",
-          "category": "TypeScript",
-          "metric": "205 stars",
-          "publishedAtUtc": "2026-07-06T08:42:05.0000000Z"
+          "title": "Awesome-Plugins",
+          "subtitle": "@targed",
+          "summary": "Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for... \uD83D\uDCC8 Live Status: \uD83D\uDFE7 Partial outage More information and...",
+          "url": "https://github.com/targed/Awesome-Plugins",
+          "category": "JSON",
+          "metric": "152 stars",
+          "publishedAtUtc": "2026-07-07T02:54:36.0000000Z"
         }
       ]
     }
@@ -139,8 +139,17 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "110,700 stars",
-      "publishedAtUtc": "2026-07-06T15:15:44.0000000Z"
+      "metric": "110,728 stars",
+      "publishedAtUtc": "2026-07-07T02:43:21.0000000Z"
+    },
+    {
+      "title": "PowerShell",
+      "subtitle": "@PowerShell",
+      "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "category": "C#",
+      "metric": "54,308 stars",
+      "publishedAtUtc": "2026-07-06T23:30:18.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "54,014 stars",
-      "publishedAtUtc": "2026-07-06T15:24:21.0000000Z"
+      "metric": "54,031 stars",
+      "publishedAtUtc": "2026-07-07T02:21:09.0000000Z"
     },
     {
       "title": "Files",
@@ -157,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,150 stars",
-      "publishedAtUtc": "2026-07-06T15:25:02.0000000Z"
+      "metric": "44,160 stars",
+      "publishedAtUtc": "2026-07-07T02:55:15.0000000Z"
     },
     {
       "title": "ShareX",
@@ -166,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,442 stars",
-      "publishedAtUtc": "2026-07-06T15:03:14.0000000Z"
+      "metric": "38,446 stars",
+      "publishedAtUtc": "2026-07-07T01:44:32.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -176,16 +185,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "38,174 stars",
-      "publishedAtUtc": "2026-07-06T13:15:52.0000000Z"
-    },
-    {
-      "title": "Avalonia",
-      "subtitle": "@AvaloniaUI",
-      "summary": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI \uD83D\uDCD6 About Avalonia is a cross-platform UI framework for dotnet, providing a flexible...",
-      "url": "https://github.com/AvaloniaUI/Avalonia",
-      "category": "C#",
-      "metric": "31,123 stars",
-      "publishedAtUtc": "2026-07-06T15:25:09.0000000Z"
+      "publishedAtUtc": "2026-07-06T18:58:41.0000000Z"
     }
   ]
 }
