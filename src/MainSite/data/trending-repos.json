@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-07-09T14:55:23.5583182Z",
+  "generatedAtUtc": "2026-07-10T02:53:50.5318174Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-02 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-03 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "110,931 stars",
-          "publishedAtUtc": "2026-07-09T14:52:03.0000000Z"
+          "metric": "110,956 stars",
+          "publishedAtUtc": "2026-07-10T02:52:46.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,319 stars",
-          "publishedAtUtc": "2026-07-09T10:10:46.0000000Z"
+          "metric": "54,336 stars",
+          "publishedAtUtc": "2026-07-10T02:27:09.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "54,139 stars",
-          "publishedAtUtc": "2026-07-09T14:21:58.0000000Z"
+          "metric": "54,159 stars",
+          "publishedAtUtc": "2026-07-10T01:07:30.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,205 stars",
-          "publishedAtUtc": "2026-07-09T14:26:01.0000000Z"
+          "metric": "44,214 stars",
+          "publishedAtUtc": "2026-07-10T01:48:44.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,536 stars",
-          "publishedAtUtc": "2026-07-09T14:41:09.0000000Z"
+          "metric": "38,564 stars",
+          "publishedAtUtc": "2026-07-10T02:39:44.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,187 stars",
-          "publishedAtUtc": "2026-07-09T12:34:48.0000000Z"
+          "metric": "38,204 stars",
+          "publishedAtUtc": "2026-07-09T23:49:00.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "local-studio",
-          "subtitle": "@sybil-solutions",
-          "summary": "Control panel for VLLM, Sglang, llama.cpp, exllamav3 Local Studio Local Studio is a local-first workstation for running, managing, and using self-hosted LLM backends.",
-          "url": "https://github.com/sybil-solutions/local-studio",
-          "category": "TypeScript",
-          "metric": "1,331 stars",
-          "publishedAtUtc": "2026-07-09T14:54:40.0000000Z"
+          "title": "lionagi",
+          "subtitle": "@ohdearquant",
+          "summary": "An intelligence orchestra lionagi lionagi is a governed multi-agent orchestration framework.",
+          "url": "https://github.com/ohdearquant/lionagi",
+          "category": "Python",
+          "metric": "399 stars",
+          "publishedAtUtc": "2026-07-10T02:53:34.0000000Z"
         },
         {
           "title": "openclaw",
           "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant EXFOLIATE!",
+          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant OpenClaw is a _personal AI assistant_ you run on your own devices.",
           "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "382,312 stars",
-          "publishedAtUtc": "2026-07-09T14:54:36.0000000Z"
+          "metric": "382,371 stars",
+          "publishedAtUtc": "2026-07-10T02:53:24.0000000Z"
         },
         {
-          "title": "mcp-client-for-ollama",
-          "subtitle": "@jonigl",
-          "summary": "Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools... A simple yet powerful Python client for interacting with Model...",
-          "url": "https://github.com/jonigl/mcp-client-for-ollama",
+          "title": "neo",
+          "subtitle": "@neomjs",
+          "summary": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm... Neo.mjs Neo.mjs is a self-evolving software organism — a...",
+          "url": "https://github.com/neomjs/neo",
+          "category": "JavaScript",
+          "metric": "3,228 stars",
+          "publishedAtUtc": "2026-07-10T02:53:17.0000000Z"
+        },
+        {
+          "title": "Peekaboo",
+          "subtitle": "@openclaw",
+          "summary": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the... Peekaboo \uD83E\uDEE3 - Mac automation that sees the screen and does...",
+          "url": "https://github.com/openclaw/Peekaboo",
+          "category": "Swift",
+          "metric": "4,842 stars",
+          "publishedAtUtc": "2026-07-10T02:52:23.0000000Z"
+        },
+        {
+          "title": "headroom",
+          "subtitle": "@headroomlabs-ai",
+          "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers... ██╗ ██╗███████╗ █████╗ ██████╗ ██████╗ ██████╗ ██████╗ ███╗...",
+          "url": "https://github.com/headroomlabs-ai/headroom",
           "category": "Python",
-          "metric": "772 stars",
-          "publishedAtUtc": "2026-07-09T14:54:54.0000000Z"
+          "metric": "58,196 stars",
+          "publishedAtUtc": "2026-07-10T02:53:25.0000000Z"
         },
         {
-          "title": "manifest",
-          "subtitle": "@mnfst",
-          "summary": "Connect Your Agents And Harnesses With Any Provider \uD83E\uDD9A Plug your AI agents into any provider &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What is Manifest?",
-          "url": "https://github.com/mnfst/manifest",
+          "title": "eliza",
+          "subtitle": "@elizaOS",
+          "summary": "Open source agentic operating system elizaOS Your agentic operating system.",
+          "url": "https://github.com/elizaOS/eliza",
           "category": "TypeScript",
-          "metric": "7,224 stars",
-          "publishedAtUtc": "2026-07-09T14:54:33.0000000Z"
-        },
-        {
-          "title": "mastra",
-          "subtitle": "@mastra-ai",
-          "summary": "Mastra is the modern TypeScript framework for AI-powered applications and agents. Mastra Mastra is a framework for building AI-powered applications and agents with a modern...",
-          "url": "https://github.com/mastra-ai/mastra",
-          "category": "TypeScript",
-          "metric": "25,988 stars",
-          "publishedAtUtc": "2026-07-09T14:55:12.0000000Z"
-        },
-        {
-          "title": "macro",
-          "subtitle": "@macro-inc",
-          "summary": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together... · · Feature requests · Contribute · Hiring Macro is the...",
-          "url": "https://github.com/macro-inc/macro",
-          "category": "Rust",
-          "metric": "403 stars",
-          "publishedAtUtc": "2026-07-09T14:54:47.0000000Z"
+          "metric": "18,718 stars",
+          "publishedAtUtc": "2026-07-10T02:52:07.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "110,931 stars",
-      "publishedAtUtc": "2026-07-09T14:52:03.0000000Z"
+      "metric": "110,956 stars",
+      "publishedAtUtc": "2026-07-10T02:52:46.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,319 stars",
-      "publishedAtUtc": "2026-07-09T10:10:46.0000000Z"
+      "metric": "54,336 stars",
+      "publishedAtUtc": "2026-07-10T02:27:09.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "54,139 stars",
-      "publishedAtUtc": "2026-07-09T14:21:58.0000000Z"
+      "metric": "54,159 stars",
+      "publishedAtUtc": "2026-07-10T01:07:30.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,205 stars",
-      "publishedAtUtc": "2026-07-09T14:26:01.0000000Z"
+      "metric": "44,214 stars",
+      "publishedAtUtc": "2026-07-10T01:48:44.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,536 stars",
-      "publishedAtUtc": "2026-07-09T14:41:09.0000000Z"
+      "metric": "38,564 stars",
+      "publishedAtUtc": "2026-07-10T02:39:44.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,187 stars",
-      "publishedAtUtc": "2026-07-09T12:34:48.0000000Z"
+      "metric": "38,204 stars",
+      "publishedAtUtc": "2026-07-09T23:49:00.0000000Z"
     }
   ]
 }
