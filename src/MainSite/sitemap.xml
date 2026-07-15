@@ -55,37 +55,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=meme-search</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=dify</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openagentd</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=cockpit-tools</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=agentfield</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=kelos</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=lanhu-mcp</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=hermes-agent</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=sonarqube-cli</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=llmtrim</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
