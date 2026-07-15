@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-07-14T13:39:46.5658248Z",
+  "generatedAtUtc": "2026-07-15T02:20:47.4028726Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-07 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-08 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "111,335 stars",
-          "publishedAtUtc": "2026-07-14T13:36:17.0000000Z"
+          "metric": "111,362 stars",
+          "publishedAtUtc": "2026-07-15T02:01:41.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,405 stars",
-          "publishedAtUtc": "2026-07-14T13:17:03.0000000Z"
+          "metric": "54,408 stars",
+          "publishedAtUtc": "2026-07-15T00:53:00.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "54,261 stars",
-          "publishedAtUtc": "2026-07-14T13:37:47.0000000Z"
+          "metric": "54,280 stars",
+          "publishedAtUtc": "2026-07-15T01:57:14.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,297 stars",
-          "publishedAtUtc": "2026-07-14T13:36:21.0000000Z"
+          "metric": "44,301 stars",
+          "publishedAtUtc": "2026-07-15T01:56:01.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,641 stars",
-          "publishedAtUtc": "2026-07-14T13:01:26.0000000Z"
+          "metric": "38,649 stars",
+          "publishedAtUtc": "2026-07-15T02:13:16.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,344 stars",
-          "publishedAtUtc": "2026-07-14T13:18:01.0000000Z"
+          "metric": "38,338 stars",
+          "publishedAtUtc": "2026-07-15T00:30:27.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "AutoGPT",
-          "subtitle": "@Significant-Gravitas",
-          "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so... AutoGPT: Build, Deploy, and Run AI Agents &ensp; &ensp...",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "category": "Python",
-          "metric": "185,530 stars",
-          "publishedAtUtc": "2026-07-14T13:39:40.0000000Z"
+          "title": "meme-search",
+          "subtitle": "@neonwatty",
+          "summary": "The open source Meme Search Engine and Finder. Free and built to self-host locally with Python, Ruby, and Docker. A Meme Search Engine built to self-host in Python, Ruby, and...",
+          "url": "https://github.com/neonwatty/meme-search",
+          "category": "Ruby",
+          "metric": "691 stars",
+          "publishedAtUtc": "2026-07-15T02:19:54.0000000Z"
         },
         {
-          "title": "agent-native",
-          "subtitle": "@BuilderIO",
-          "summary": "A framework for building agent-native applications. Agent-Native The framework for agentic apps Agent-Native is an open-source framework for rapidly building robust applications...",
-          "url": "https://github.com/BuilderIO/agent-native",
+          "title": "dify",
+          "subtitle": "@langgenius",
+          "summary": "Production-ready platform for agentic workflow development. · Dify is an open-source LLM app development platform.",
+          "url": "https://github.com/langgenius/dify",
           "category": "TypeScript",
-          "metric": "3,652 stars",
-          "publishedAtUtc": "2026-07-14T13:39:06.0000000Z"
+          "metric": "148,849 stars",
+          "publishedAtUtc": "2026-07-15T02:19:51.0000000Z"
         },
         {
-          "title": "n8n",
-          "subtitle": "@n8n-io",
-          "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code... n8n – The Platform for AI Agents and Workflow Automation Fair-code...",
-          "url": "https://github.com/n8n-io/n8n",
-          "category": "TypeScript",
-          "metric": "196,400 stars",
-          "publishedAtUtc": "2026-07-14T13:39:10.0000000Z"
-        },
-        {
-          "title": "mcp-context-forge",
-          "subtitle": "@IBM",
-          "summary": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint... ContextForge An open source registry and proxy that...",
-          "url": "https://github.com/IBM/mcp-context-forge",
+          "title": "OpenAgentd",
+          "subtitle": "@lthoangg",
+          "summary": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your... OpenAgentd The desktop cockpit for local AI agents.",
+          "url": "https://github.com/lthoangg/OpenAgentd",
           "category": "Python",
-          "metric": "4,089 stars",
-          "publishedAtUtc": "2026-07-14T13:38:36.0000000Z"
+          "metric": "205 stars",
+          "publishedAtUtc": "2026-07-15T02:19:17.0000000Z"
         },
         {
-          "title": "codewalk",
-          "subtitle": "@verseles",
-          "summary": "A native (really fast!!) cross-platform client for OpenCode Built with Flutter, it provides a conversational interface for session-based AI coding interactions over HTTP APIs and...",
-          "url": "https://github.com/verseles/codewalk",
-          "category": "Dart",
-          "metric": "176 stars",
-          "publishedAtUtc": "2026-07-14T13:38:22.0000000Z"
+          "title": "cockpit-tools",
+          "subtitle": "@jlcodes99",
+          "summary": "\uD83D\uDE80 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli /... Cockpit Tools English · Portuguese (BR) · 简体中文 一款通用的 AI IDE 账号管理工具，目前支持...",
+          "url": "https://github.com/jlcodes99/cockpit-tools",
+          "category": "Rust",
+          "metric": "13,436 stars",
+          "publishedAtUtc": "2026-07-15T02:19:09.0000000Z"
         },
         {
-          "title": "kagent",
-          "subtitle": "@kagent-dev",
-          "summary": "Cloud Native Agentic AI Discord: - kagent is a Kubernetes native framework for building AI agents.",
-          "url": "https://github.com/kagent-dev/kagent",
+          "title": "agentfield",
+          "subtitle": "@Agent-Field",
+          "summary": "Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one. AgentField — The AI Backend Build agents like APIs.",
+          "url": "https://github.com/Agent-Field/agentfield",
           "category": "Go",
-          "metric": "3,298 stars",
-          "publishedAtUtc": "2026-07-14T13:38:51.0000000Z"
+          "metric": "2,349 stars",
+          "publishedAtUtc": "2026-07-15T02:18:29.0000000Z"
+        },
+        {
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant OpenClaw is a _personal AI assistant_ you run on your own devices.",
+          "url": "https://github.com/openclaw/openclaw",
+          "category": "TypeScript",
+          "metric": "382,950 stars",
+          "publishedAtUtc": "2026-07-15T02:18:37.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "111,335 stars",
-      "publishedAtUtc": "2026-07-14T13:36:17.0000000Z"
+      "metric": "111,362 stars",
+      "publishedAtUtc": "2026-07-15T02:01:41.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,405 stars",
-      "publishedAtUtc": "2026-07-14T13:17:03.0000000Z"
+      "metric": "54,408 stars",
+      "publishedAtUtc": "2026-07-15T00:53:00.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "54,261 stars",
-      "publishedAtUtc": "2026-07-14T13:37:47.0000000Z"
+      "metric": "54,280 stars",
+      "publishedAtUtc": "2026-07-15T01:57:14.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,297 stars",
-      "publishedAtUtc": "2026-07-14T13:36:21.0000000Z"
+      "metric": "44,301 stars",
+      "publishedAtUtc": "2026-07-15T01:56:01.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,641 stars",
-      "publishedAtUtc": "2026-07-14T13:01:26.0000000Z"
+      "metric": "38,649 stars",
+      "publishedAtUtc": "2026-07-15T02:13:16.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,344 stars",
-      "publishedAtUtc": "2026-07-14T13:18:01.0000000Z"
+      "metric": "38,338 stars",
+      "publishedAtUtc": "2026-07-15T00:30:27.0000000Z"
     }
   ]
 }
