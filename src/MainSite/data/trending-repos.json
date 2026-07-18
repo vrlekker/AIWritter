@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-07-18T02:21:40.7034401Z",
+  "generatedAtUtc": "2026-07-18T13:11:06.1993354Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "111,618 stars",
-          "publishedAtUtc": "2026-07-18T02:14:43.0000000Z"
+          "metric": "111,661 stars",
+          "publishedAtUtc": "2026-07-18T12:55:48.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -26,8 +26,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,405 stars",
-          "publishedAtUtc": "2026-07-18T01:54:11.0000000Z"
+          "metric": "54,413 stars",
+          "publishedAtUtc": "2026-07-18T12:47:44.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -35,8 +35,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "54,372 stars",
-          "publishedAtUtc": "2026-07-18T01:41:24.0000000Z"
+          "metric": "54,388 stars",
+          "publishedAtUtc": "2026-07-18T12:57:41.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,337 stars",
-          "publishedAtUtc": "2026-07-18T01:18:59.0000000Z"
+          "metric": "44,346 stars",
+          "publishedAtUtc": "2026-07-18T12:29:27.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,691 stars",
-          "publishedAtUtc": "2026-07-18T01:44:08.0000000Z"
+          "metric": "38,698 stars",
+          "publishedAtUtc": "2026-07-18T13:03:56.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,209 stars",
-          "publishedAtUtc": "2026-07-17T23:18:30.0000000Z"
+          "metric": "38,211 stars",
+          "publishedAtUtc": "2026-07-18T12:55:02.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
+          "title": "bunqueue",
+          "subtitle": "@egeominotti",
+          "summary": "⚡ High-performance job queue for Bun. SQLite persistence, DLQ, cron jobs, S3 backups. Built for AI agents and automation High-performance job queue for Bun.",
+          "url": "https://github.com/egeominotti/bunqueue",
+          "category": "TypeScript",
+          "metric": "507 stars",
+          "publishedAtUtc": "2026-07-18T13:11:06.0000000Z"
+        },
+        {
+          "title": "aft",
+          "subtitle": "@cortexkit",
+          "summary": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit... AFT Give your agent a proper IDE and OS.",
+          "url": "https://github.com/cortexkit/aft",
+          "category": "Rust",
+          "metric": "203 stars",
+          "publishedAtUtc": "2026-07-18T13:10:54.0000000Z"
+        },
+        {
+          "title": "archestra",
+          "subtitle": "@archestra-ai",
+          "summary": "Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator The all-in-one open-source enterprise AI platform.",
+          "url": "https://github.com/archestra-ai/archestra",
+          "category": "TypeScript",
+          "metric": "3,973 stars",
+          "publishedAtUtc": "2026-07-18T13:10:22.0000000Z"
+        },
+        {
           "title": "Trading-Bot",
           "subtitle": "@MIgHTy-alIeN",
           "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. Arbitrage Bot with Built-in Python Automation An arbitrage bot is a...",
           "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
           "category": "Solidity",
-          "metric": "179 stars",
-          "publishedAtUtc": "2026-07-18T02:21:19.0000000Z"
+          "metric": "239 stars",
+          "publishedAtUtc": "2026-07-18T13:10:23.0000000Z"
         },
         {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant OpenClaw is a _personal AI assistant_ you run on your own devices.",
-          "url": "https://github.com/openclaw/openclaw",
+          "title": "OpenConstructionERP",
+          "subtitle": "@datadrivenconstruction",
+          "summary": "Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching. 42 regional catalogues, 21 languages, 71... OpenConstructionERP A leading open-source workspace for...",
+          "url": "https://github.com/datadrivenconstruction/OpenConstructionERP",
           "category": "TypeScript",
-          "metric": "383,294 stars",
-          "publishedAtUtc": "2026-07-18T02:21:13.0000000Z"
+          "metric": "518 stars",
+          "publishedAtUtc": "2026-07-18T13:10:19.0000000Z"
         },
         {
-          "title": "crush",
-          "subtitle": "@charmbracelet",
-          "summary": "Glamourous agentic coding for all \uD83D\uDC98 Crush Your new coding bestie, now available in your favourite terminal.",
-          "url": "https://github.com/charmbracelet/crush",
+          "title": "konflux-ci",
+          "subtitle": "@konflux-ci",
+          "summary": "Trusted builds made easy! A cloud-native software factory for building, testing, and releasing trusted software... Trusted builds made easy A cloud-native software factory for...",
+          "url": "https://github.com/konflux-ci/konflux-ci",
           "category": "Go",
-          "metric": "26,597 stars",
-          "publishedAtUtc": "2026-07-18T02:20:36.0000000Z"
-        },
-        {
-          "title": "ramalama",
-          "subtitle": "@containers",
-          "summary": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and... RamaLama strives to make working with AI simple, straightforward...",
-          "url": "https://github.com/containers/ramalama",
-          "category": "Python",
-          "metric": "2,960 stars",
-          "publishedAtUtc": "2026-07-18T02:20:31.0000000Z"
-        },
-        {
-          "title": "trainer",
-          "subtitle": "@kubeflow",
-          "summary": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes Kubeflow Trainer Latest News \uD83D\uDD25 [2026/03] Kubeflow Trainer v2.2 is officially released with support for JAX and...",
-          "url": "https://github.com/kubeflow/trainer",
-          "category": "Go",
-          "metric": "2,151 stars",
-          "publishedAtUtc": "2026-07-18T02:20:23.0000000Z"
-        },
-        {
-          "title": "models",
-          "subtitle": "@reyamira",
-          "summary": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers. TUI and CLI for browsing AI models, benchmarks, coding agents, and provider statuses.",
-          "url": "https://github.com/reyamira/models",
-          "category": "Rust",
-          "metric": "473 stars",
-          "publishedAtUtc": "2026-07-18T02:18:00.0000000Z"
+          "metric": "166 stars",
+          "publishedAtUtc": "2026-07-18T13:09:50.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "111,618 stars",
-      "publishedAtUtc": "2026-07-18T02:14:43.0000000Z"
+      "metric": "111,661 stars",
+      "publishedAtUtc": "2026-07-18T12:55:48.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -148,8 +148,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,405 stars",
-      "publishedAtUtc": "2026-07-18T01:54:11.0000000Z"
+      "metric": "54,413 stars",
+      "publishedAtUtc": "2026-07-18T12:47:44.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -157,8 +157,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "54,372 stars",
-      "publishedAtUtc": "2026-07-18T01:41:24.0000000Z"
+      "metric": "54,388 stars",
+      "publishedAtUtc": "2026-07-18T12:57:41.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,337 stars",
-      "publishedAtUtc": "2026-07-18T01:18:59.0000000Z"
+      "metric": "44,346 stars",
+      "publishedAtUtc": "2026-07-18T12:29:27.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,691 stars",
-      "publishedAtUtc": "2026-07-18T01:44:08.0000000Z"
+      "metric": "38,698 stars",
+      "publishedAtUtc": "2026-07-18T13:03:56.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,209 stars",
-      "publishedAtUtc": "2026-07-17T23:18:30.0000000Z"
+      "metric": "38,211 stars",
+      "publishedAtUtc": "2026-07-18T12:55:02.0000000Z"
     }
   ]
 }
