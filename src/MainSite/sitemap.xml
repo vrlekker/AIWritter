@@ -55,25 +55,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=mev-arbitrage-bot</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=iaga-sentinel</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=awesome-openprice</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ragflow</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=officecli</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ironclaw-ai-vision</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -85,7 +73,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=dify</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=haystack-core-integrations</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=dbx</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openspec</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
