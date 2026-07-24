@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-07-23T13:53:48.9954489Z",
+  "generatedAtUtc": "2026-07-24T02:32:26.7069995Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-16 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-17 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "112,043 stars",
-          "publishedAtUtc": "2026-07-23T13:42:09.0000000Z"
+          "metric": "112,071 stars",
+          "publishedAtUtc": "2026-07-24T02:23:05.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "54,616 stars",
-          "publishedAtUtc": "2026-07-23T13:38:57.0000000Z"
+          "metric": "54,751 stars",
+          "publishedAtUtc": "2026-07-24T02:08:37.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,511 stars",
-          "publishedAtUtc": "2026-07-23T13:33:58.0000000Z"
+          "metric": "54,517 stars",
+          "publishedAtUtc": "2026-07-24T02:11:45.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,402 stars",
-          "publishedAtUtc": "2026-07-23T13:29:11.0000000Z"
+          "metric": "44,410 stars",
+          "publishedAtUtc": "2026-07-24T01:25:55.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,774 stars",
-          "publishedAtUtc": "2026-07-23T13:32:39.0000000Z"
+          "metric": "38,783 stars",
+          "publishedAtUtc": "2026-07-24T02:03:29.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -63,7 +63,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "38,232 stars",
-          "publishedAtUtc": "2026-07-23T13:51:11.0000000Z"
+          "publishedAtUtc": "2026-07-23T22:29:23.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "IAGA-Sentinel",
-          "subtitle": "@IAGA-TEAM",
-          "summary": "IAGA Sentinel sits next to your AI agents and answers the one question the agent itself cannot. IAGA Sentinel The EU AI Act conformity evidence layer for AI agents.",
-          "url": "https://github.com/IAGA-TEAM/IAGA-Sentinel",
-          "category": "Rust",
-          "metric": "174 stars",
-          "publishedAtUtc": "2026-07-23T13:36:56.0000000Z"
+          "title": "cocoon",
+          "subtitle": "@cocoonstack",
+          "summary": "Lightweight MicroVM engine built on Cloud Hypervisor. Features include OCI and cloud image support, instant snapshot... Cocoon Lightweight MicroVM engine with dual hypervisor...",
+          "url": "https://github.com/cocoonstack/cocoon",
+          "category": "Go",
+          "metric": "175 stars",
+          "publishedAtUtc": "2026-07-24T02:32:24.0000000Z"
         },
         {
-          "title": "ironclaw-ai-vision",
-          "subtitle": "@shadowlzt",
-          "summary": "Ultimate AI Fitness Coach PWA 2026: Iron Mike Workout & Smart Recipe Agent ReflexForge \uD83E\uDDE0⚡ Personal Cognitive Resilience Architect — Offline-First Agentic Mindset Training &...",
-          "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
-          "category": "HTML",
-          "metric": "152 stars",
-          "publishedAtUtc": "2026-07-23T13:52:57.0000000Z"
-        },
-        {
-          "title": "mastra",
-          "subtitle": "@mastra-ai",
-          "summary": "Mastra is the modern TypeScript framework for AI-powered applications and agents. Mastra Mastra is a framework for building AI-powered applications and agents with a modern...",
-          "url": "https://github.com/mastra-ai/mastra",
+          "title": "lobehub",
+          "subtitle": "@lobehub",
+          "summary": "\uD83E\uDD2F LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and... [![][image-banner]][vercel-link] LobeHub LobeHub organizes your...",
+          "url": "https://github.com/lobehub/lobehub",
           "category": "TypeScript",
-          "metric": "26,488 stars",
-          "publishedAtUtc": "2026-07-23T13:53:33.0000000Z"
+          "metric": "80,745 stars",
+          "publishedAtUtc": "2026-07-24T02:32:20.0000000Z"
         },
         {
-          "title": "haystack-core-integrations",
-          "subtitle": "@deepset-ai",
-          "summary": "Additional packages (components, document stores and the likes) to extend the capabilities of Haystack Haystack Core Integrations This repository contains integrations to extend...",
-          "url": "https://github.com/deepset-ai/haystack-core-integrations",
+          "title": "suna",
+          "subtitle": "@kortix-ai",
+          "summary": "The Company AI Command Center Kortix The AI command center for your company One repo.",
+          "url": "https://github.com/kortix-ai/suna",
+          "category": "TypeScript",
+          "metric": "20,024 stars",
+          "publishedAtUtc": "2026-07-24T02:32:17.0000000Z"
+        },
+        {
+          "title": "omi",
+          "subtitle": "@BasedHardware",
+          "summary": "AI that sees your screen, listens to your conversations and tells you what to do omi A 2nd brain you trust more than your 1st Omi captures your screen and conversations...",
+          "url": "https://github.com/BasedHardware/omi",
+          "category": "Dart",
+          "metric": "13,054 stars",
+          "publishedAtUtc": "2026-07-24T02:31:54.0000000Z"
+        },
+        {
+          "title": "OpenContracts",
+          "subtitle": "@Open-Source-Legal",
+          "summary": "The open document intelligence platform for builders and hackers - DMS for the agentic world OpenContracts (Demo) Open-source document intelligence you can build on.",
+          "url": "https://github.com/Open-Source-Legal/OpenContracts",
           "category": "Python",
-          "metric": "200 stars",
-          "publishedAtUtc": "2026-07-23T13:53:13.0000000Z"
+          "metric": "1,405 stars",
+          "publishedAtUtc": "2026-07-24T02:31:48.0000000Z"
         },
         {
-          "title": "dbx",
-          "subtitle": "@t8y2",
-          "summary": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis... Desktop, Docker, CLI, built-in AI assistant, and MCP Server.",
-          "url": "https://github.com/t8y2/dbx",
-          "category": "Rust",
-          "metric": "11,424 stars",
-          "publishedAtUtc": "2026-07-23T13:53:04.0000000Z"
-        },
-        {
-          "title": "OpenSpec",
-          "subtitle": "@Fission-AI",
-          "summary": "Spec-driven development (SDD) for AI coding assistants. Our philosophy: [!TIP] New workflow now available!",
-          "url": "https://github.com/Fission-AI/OpenSpec",
-          "category": "TypeScript",
-          "metric": "62,264 stars",
-          "publishedAtUtc": "2026-07-23T13:52:43.0000000Z"
+          "title": "MEV-Arbitrage-Bot",
+          "subtitle": "@MIgHTy-alIeN",
+          "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation.",
+          "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+          "category": "Solidity",
+          "metric": "1,195 stars",
+          "publishedAtUtc": "2026-07-24T02:31:32.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "112,043 stars",
-      "publishedAtUtc": "2026-07-23T13:42:09.0000000Z"
+      "metric": "112,071 stars",
+      "publishedAtUtc": "2026-07-24T02:23:05.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "54,616 stars",
-      "publishedAtUtc": "2026-07-23T13:38:57.0000000Z"
+      "metric": "54,751 stars",
+      "publishedAtUtc": "2026-07-24T02:08:37.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,511 stars",
-      "publishedAtUtc": "2026-07-23T13:33:58.0000000Z"
+      "metric": "54,517 stars",
+      "publishedAtUtc": "2026-07-24T02:11:45.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,402 stars",
-      "publishedAtUtc": "2026-07-23T13:29:11.0000000Z"
+      "metric": "44,410 stars",
+      "publishedAtUtc": "2026-07-24T01:25:55.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,774 stars",
-      "publishedAtUtc": "2026-07-23T13:32:39.0000000Z"
+      "metric": "38,783 stars",
+      "publishedAtUtc": "2026-07-24T02:03:29.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -185,7 +185,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "38,232 stars",
-      "publishedAtUtc": "2026-07-23T13:51:11.0000000Z"
+      "publishedAtUtc": "2026-07-23T22:29:23.0000000Z"
     }
   ]
 }
