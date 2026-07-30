@@ -55,37 +55,37 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openant</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ethereum-flashloan-mev-bot</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=stacks</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=hermes-agent</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=career-ops</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=zep</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=lanhu-mcp</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=obsidian-mcp-plugin</loc>
-    <lastmod>2026-07-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=mev-arbitrage-bot</loc>
-    <lastmod>2026-07-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=domd</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=dify</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
