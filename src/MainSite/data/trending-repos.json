@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-07-29T14:06:17.9160080Z",
+  "generatedAtUtc": "2026-07-30T02:11:22.4984597Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-22 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-23 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "112,509 stars",
-          "publishedAtUtc": "2026-07-29T14:02:25.0000000Z"
+          "metric": "112,535 stars",
+          "publishedAtUtc": "2026-07-30T02:08:18.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "55,124 stars",
-          "publishedAtUtc": "2026-07-29T13:41:11.0000000Z"
+          "metric": "55,143 stars",
+          "publishedAtUtc": "2026-07-30T02:04:33.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,586 stars",
-          "publishedAtUtc": "2026-07-29T13:22:22.0000000Z"
+          "metric": "54,591 stars",
+          "publishedAtUtc": "2026-07-30T01:09:19.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,466 stars",
-          "publishedAtUtc": "2026-07-29T14:03:26.0000000Z"
+          "metric": "44,471 stars",
+          "publishedAtUtc": "2026-07-30T01:24:41.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,17 +53,17 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,862 stars",
-          "publishedAtUtc": "2026-07-29T13:15:13.0000000Z"
+          "metric": "38,870 stars",
+          "publishedAtUtc": "2026-07-30T01:18:01.0000000Z"
         },
         {
-          "title": "aspnetcore",
-          "subtitle": "@dotnet",
-          "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
-          "url": "https://github.com/dotnet/aspnetcore",
+          "title": "RevokeMsgPatcher",
+          "subtitle": "@huiyadanli",
+          "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
+          "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
           "category": "C#",
-          "metric": "38,246 stars",
-          "publishedAtUtc": "2026-07-29T12:50:54.0000000Z"
+          "metric": "38,294 stars",
+          "publishedAtUtc": "2026-07-30T00:34:22.0000000Z"
         }
       ]
     },
@@ -76,13 +76,40 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "goai",
-          "subtitle": "@zendev-sh",
-          "summary": "Go AI SDK, the Go way. One unified API across 21+ providers. Streaming, structured output, MCP support, stdlib only... Go SDK for building AI applications.",
-          "url": "https://github.com/zendev-sh/goai",
-          "category": "Go",
-          "metric": "170 stars",
-          "publishedAtUtc": "2026-07-29T14:03:50.0000000Z"
+          "title": "stacks",
+          "subtitle": "@stacksjs",
+          "summary": "Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster. Rapid App & Library Development [!NOTE] Stacks is in active...",
+          "url": "https://github.com/stacksjs/stacks",
+          "category": "TypeScript",
+          "metric": "620 stars",
+          "publishedAtUtc": "2026-07-30T02:11:16.0000000Z"
+        },
+        {
+          "title": "hermes-agent",
+          "subtitle": "@NousResearch",
+          "summary": "The agent that grows with you Hermes Agent ☤ The self-improving AI agent built by Nous Research.",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "category": "Python",
+          "metric": "222,377 stars",
+          "publishedAtUtc": "2026-07-30T02:11:23.0000000Z"
+        },
+        {
+          "title": "zep",
+          "subtitle": "@getzep",
+          "summary": "Zep Examples, Integrations, & More Zep Cloud: Examples & Integrations About This Repository This repository is not Zep's product or service.",
+          "url": "https://github.com/getzep/zep",
+          "category": "Python",
+          "metric": "4,792 stars",
+          "publishedAtUtc": "2026-07-30T02:11:00.0000000Z"
+        },
+        {
+          "title": "obsidian-mcp-plugin",
+          "subtitle": "@aaronsb",
+          "summary": "High-performance Model Context Protocol (MCP) server for Obsidian that provides AI tools with direct vault access... Semantic Notes Vault MCP \uD83D\uDCE6 Available in the Obsidian...",
+          "url": "https://github.com/aaronsb/obsidian-mcp-plugin",
+          "category": "TypeScript",
+          "metric": "448 stars",
+          "publishedAtUtc": "2026-07-30T02:10:39.0000000Z"
         },
         {
           "title": "MEV-Arbitrage-Bot",
@@ -90,44 +117,17 @@
           "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation.",
           "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
           "category": "Solidity",
-          "metric": "1,610 stars",
-          "publishedAtUtc": "2026-07-29T14:05:58.0000000Z"
+          "metric": "1,757 stars",
+          "publishedAtUtc": "2026-07-30T02:10:36.0000000Z"
         },
         {
-          "title": "ha-mcp",
-          "subtitle": "@homeassistant-ai",
-          "summary": "The Unofficial and Awesome Home Assistant MCP Server Breaking change (v7.3.0): ha_config_set_yaml has been moved to beta.",
-          "url": "https://github.com/homeassistant-ai/ha-mcp",
-          "category": "Python",
-          "metric": "4,157 stars",
-          "publishedAtUtc": "2026-07-29T11:18:31.0000000Z"
-        },
-        {
-          "title": "langwatch",
-          "subtitle": "@langwatch",
-          "summary": "The platform for LLM evaluations and AI agent testing We help teams test, simulate, evaluate, and monitor LLM-powered agents end-to-end — before release and in production.",
-          "url": "https://github.com/langwatch/langwatch",
+          "title": "domd",
+          "subtitle": "@do-md",
+          "summary": "20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and... DOMD A WYSIWYG Markdown editor powered by a from-scratch...",
+          "url": "https://github.com/do-md/domd",
           "category": "TypeScript",
-          "metric": "3,426 stars",
-          "publishedAtUtc": "2026-07-29T14:04:54.0000000Z"
-        },
-        {
-          "title": "lanhu-mcp",
-          "subtitle": "@dsphper",
-          "summary": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图 \uD83C\uDFA8 Lanhu MCP Server 蓝湖MCP服务器2.0 让所有 AI 助手共享团队知识，打破 AI IDE 孤岛 lanhumcp 蓝湖mcp lanhu-mcp 蓝湖AI助手 蓝湖skills Lanhu AI...",
-          "url": "https://github.com/dsphper/lanhu-mcp",
-          "category": "Python",
-          "metric": "2,058 stars",
-          "publishedAtUtc": "2026-07-29T10:36:20.0000000Z"
-        },
-        {
-          "title": "JioNLP",
-          "subtitle": "@dongrixinyu",
-          "summary": "中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com &emsp;&emsp; JioNLP：中文 NLP 预处理、解析工具包 A Python Lib for Chinese NLP Preprocessing & Parsing...",
-          "url": "https://github.com/dongrixinyu/JioNLP",
-          "category": "Python",
-          "metric": "3,857 stars",
-          "publishedAtUtc": "2026-07-29T14:06:02.0000000Z"
+          "metric": "445 stars",
+          "publishedAtUtc": "2026-07-30T02:10:28.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "112,509 stars",
-      "publishedAtUtc": "2026-07-29T14:02:25.0000000Z"
+      "metric": "112,535 stars",
+      "publishedAtUtc": "2026-07-30T02:08:18.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "55,124 stars",
-      "publishedAtUtc": "2026-07-29T13:41:11.0000000Z"
+      "metric": "55,143 stars",
+      "publishedAtUtc": "2026-07-30T02:04:33.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,586 stars",
-      "publishedAtUtc": "2026-07-29T13:22:22.0000000Z"
+      "metric": "54,591 stars",
+      "publishedAtUtc": "2026-07-30T01:09:19.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,466 stars",
-      "publishedAtUtc": "2026-07-29T14:03:26.0000000Z"
+      "metric": "44,471 stars",
+      "publishedAtUtc": "2026-07-30T01:24:41.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,17 +175,17 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,862 stars",
-      "publishedAtUtc": "2026-07-29T13:15:13.0000000Z"
+      "metric": "38,870 stars",
+      "publishedAtUtc": "2026-07-30T01:18:01.0000000Z"
     },
     {
-      "title": "aspnetcore",
-      "subtitle": "@dotnet",
-      "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
-      "url": "https://github.com/dotnet/aspnetcore",
+      "title": "RevokeMsgPatcher",
+      "subtitle": "@huiyadanli",
+      "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
+      "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
       "category": "C#",
-      "metric": "38,246 stars",
-      "publishedAtUtc": "2026-07-29T12:50:54.0000000Z"
+      "metric": "38,294 stars",
+      "publishedAtUtc": "2026-07-30T00:34:22.0000000Z"
     }
   ]
 }
