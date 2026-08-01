@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vrlekker.github.io/AIWritter/</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=v2rayn</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=jellyfin</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=powershell</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=files</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=sharex</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=aspnetcore</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=raven</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ethereum-flashloan-mev-bot</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openai-agents-python</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=canvas-editor</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openbidkit-yibiao</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=stash</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=lanhu-mcp</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ethereum-flashloan-mev-bot</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=sandcat</loc>
-    <lastmod>2026-07-31</lastmod>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=pipecat</loc>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
