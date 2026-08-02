@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-08-01T13:16:25.1363800Z",
+  "generatedAtUtc": "2026-08-02T02:37:20.3310556Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-25 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-26 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "112,764 stars",
-          "publishedAtUtc": "2026-08-01T13:14:05.0000000Z"
+          "metric": "112,789 stars",
+          "publishedAtUtc": "2026-08-02T02:04:28.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "55,244 stars",
-          "publishedAtUtc": "2026-08-01T12:36:34.0000000Z"
+          "metric": "55,265 stars",
+          "publishedAtUtc": "2026-08-02T01:58:35.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,627 stars",
-          "publishedAtUtc": "2026-08-01T12:56:10.0000000Z"
+          "metric": "54,636 stars",
+          "publishedAtUtc": "2026-08-02T01:10:39.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,510 stars",
-          "publishedAtUtc": "2026-08-01T10:52:05.0000000Z"
+          "metric": "44,513 stars",
+          "publishedAtUtc": "2026-08-01T21:38:59.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,924 stars",
-          "publishedAtUtc": "2026-08-01T12:57:10.0000000Z"
+          "metric": "38,931 stars",
+          "publishedAtUtc": "2026-08-01T19:21:45.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,337 stars",
-          "publishedAtUtc": "2026-08-01T09:57:09.0000000Z"
+          "metric": "38,338 stars",
+          "publishedAtUtc": "2026-08-02T00:59:50.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "Nomi",
-          "subtitle": "@aqm857886159",
-          "summary": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a... Nomi 把你脑子里的画面，精确传达给 AI。 本地优先、开源的 AI 导演工作台——3D...",
-          "url": "https://github.com/aqm857886159/Nomi",
-          "category": "TypeScript",
-          "metric": "383 stars",
-          "publishedAtUtc": "2026-08-01T13:16:19.0000000Z"
-        },
-        {
-          "title": "mobilecli",
-          "subtitle": "@mobile-next",
-          "summary": "Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps Features \uD83D\uDE80 Device Management: List, manage, interactive with connected mobile...",
-          "url": "https://github.com/mobile-next/mobilecli",
-          "category": "Go",
+          "title": "decapod",
+          "subtitle": "@DecapodLabs",
+          "summary": "Repo-native governance kernel that turns natural-language intent into enriched context, bounded execution, and... \uD83E\uDD80 cargo binstall decapod && decapod init Decapod Repo-native...",
+          "url": "https://github.com/DecapodLabs/decapod",
+          "category": "Rust",
           "metric": "231 stars",
-          "publishedAtUtc": "2026-08-01T13:16:09.0000000Z"
+          "publishedAtUtc": "2026-08-02T02:37:10.0000000Z"
         },
         {
-          "title": "omnigent",
-          "subtitle": "@omnigent-ai",
-          "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom... Omnigent The open-source meta-harness for all your AI...",
-          "url": "https://github.com/omnigent-ai/omnigent",
-          "category": "Python",
-          "metric": "7,999 stars",
-          "publishedAtUtc": "2026-08-01T13:15:39.0000000Z"
-        },
-        {
-          "title": "Ethereum-Flashloan-Mev-Bot",
+          "title": "Ethereum-Trading-Bot",
           "subtitle": "@MIgHTy-alIeN",
           "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation.",
-          "url": "https://github.com/MIgHTy-alIeN/Ethereum-Flashloan-Mev-Bot",
+          "url": "https://github.com/MIgHTy-alIeN/Ethereum-Trading-Bot",
           "category": "Solidity",
-          "metric": "1,760 stars",
-          "publishedAtUtc": "2026-08-01T13:15:26.0000000Z"
+          "metric": "1,844 stars",
+          "publishedAtUtc": "2026-08-02T02:37:09.0000000Z"
         },
         {
-          "title": "ironclaw-ai-vision",
-          "subtitle": "@shadowlzt",
-          "summary": "Ultimate AI Fitness Coach PWA 2026: Iron Mike Workout & Smart Recipe Agent ReflexForge \uD83E\uDDE0⚡ Personal Cognitive Resilience Architect — Offline-First Agentic Mindset Training &...",
-          "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
-          "category": "HTML",
-          "metric": "152 stars",
-          "publishedAtUtc": "2026-08-01T13:15:27.0000000Z"
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant OpenClaw is a _personal AI assistant_ that learns and grows with...",
+          "url": "https://github.com/openclaw/openclaw",
+          "category": "TypeScript",
+          "metric": "384,855 stars",
+          "publishedAtUtc": "2026-08-02T02:35:52.0000000Z"
         },
         {
-          "title": "markstream-vue",
-          "subtitle": "@Simon-He95",
-          "summary": "Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid... Markstream — Streaming Markdown renderers for AI chat...",
-          "url": "https://github.com/Simon-He95/markstream-vue",
-          "category": "Vue",
-          "metric": "2,850 stars",
-          "publishedAtUtc": "2026-08-01T13:14:55.0000000Z"
+          "title": "natively-cluely-ai-assistant",
+          "subtitle": "@Natively-AI-assistant",
+          "summary": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely... Sponsored by Recall AI - API for desktop recording If...",
+          "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant",
+          "category": "TypeScript",
+          "metric": "2,094 stars",
+          "publishedAtUtc": "2026-08-02T02:34:58.0000000Z"
+        },
+        {
+          "title": "dbx",
+          "subtitle": "@t8y2",
+          "summary": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis... Desktop, Docker, CLI, built-in AI assistant, and MCP Server.",
+          "url": "https://github.com/t8y2/dbx",
+          "category": "Rust",
+          "metric": "12,923 stars",
+          "publishedAtUtc": "2026-08-02T02:36:08.0000000Z"
+        },
+        {
+          "title": "claude-mem",
+          "subtitle": "@thedotmack",
+          "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses... \uD83C\uDDE8\uD83C\uDDF3 中文 • \uD83C\uDDF9\uD83C\uDDFC 繁體中文 • \uD83C\uDDEF\uD83C\uDDF5 日本語 • \uD83C\uDDF5\uD83C\uDDF9 Português • \uD83C\uDDE7\uD83C\uDDF7...",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "category": "JavaScript",
+          "metric": "89,266 stars",
+          "publishedAtUtc": "2026-08-02T02:35:53.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "112,764 stars",
-      "publishedAtUtc": "2026-08-01T13:14:05.0000000Z"
+      "metric": "112,789 stars",
+      "publishedAtUtc": "2026-08-02T02:04:28.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "55,244 stars",
-      "publishedAtUtc": "2026-08-01T12:36:34.0000000Z"
+      "metric": "55,265 stars",
+      "publishedAtUtc": "2026-08-02T01:58:35.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,627 stars",
-      "publishedAtUtc": "2026-08-01T12:56:10.0000000Z"
+      "metric": "54,636 stars",
+      "publishedAtUtc": "2026-08-02T01:10:39.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,510 stars",
-      "publishedAtUtc": "2026-08-01T10:52:05.0000000Z"
+      "metric": "44,513 stars",
+      "publishedAtUtc": "2026-08-01T21:38:59.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,924 stars",
-      "publishedAtUtc": "2026-08-01T12:57:10.0000000Z"
+      "metric": "38,931 stars",
+      "publishedAtUtc": "2026-08-01T19:21:45.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,337 stars",
-      "publishedAtUtc": "2026-08-01T09:57:09.0000000Z"
+      "metric": "38,338 stars",
+      "publishedAtUtc": "2026-08-02T00:59:50.0000000Z"
     }
   ]
 }
