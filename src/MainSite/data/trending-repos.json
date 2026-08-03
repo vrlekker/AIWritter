@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-08-02T13:16:49.4499661Z",
+  "generatedAtUtc": "2026-08-03T02:39:01.3328956Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-26 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-07-27 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "112,835 stars",
-          "publishedAtUtc": "2026-08-02T12:52:25.0000000Z"
+          "metric": "112,868 stars",
+          "publishedAtUtc": "2026-08-03T02:36:21.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "55,278 stars",
-          "publishedAtUtc": "2026-08-02T12:05:30.0000000Z"
+          "metric": "55,302 stars",
+          "publishedAtUtc": "2026-08-03T01:59:38.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,643 stars",
-          "publishedAtUtc": "2026-08-02T09:19:43.0000000Z"
+          "metric": "54,651 stars",
+          "publishedAtUtc": "2026-08-03T00:36:56.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,518 stars",
-          "publishedAtUtc": "2026-08-02T12:20:18.0000000Z"
+          "metric": "44,523 stars",
+          "publishedAtUtc": "2026-08-03T02:33:49.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "38,937 stars",
-          "publishedAtUtc": "2026-08-02T13:16:24.0000000Z"
+          "metric": "38,942 stars",
+          "publishedAtUtc": "2026-08-03T02:01:21.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,340 stars",
-          "publishedAtUtc": "2026-08-02T10:29:19.0000000Z"
+          "metric": "38,341 stars",
+          "publishedAtUtc": "2026-08-03T00:38:33.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "Ethereum-Trading-Bot",
+          "title": "MEV-Ethereum-Trading-Bot",
           "subtitle": "@MIgHTy-alIeN",
           "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation.",
-          "url": "https://github.com/MIgHTy-alIeN/Ethereum-Trading-Bot",
+          "url": "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
           "category": "Solidity",
-          "metric": "1,849 stars",
-          "publishedAtUtc": "2026-08-02T13:16:39.0000000Z"
+          "metric": "1,932 stars",
+          "publishedAtUtc": "2026-08-03T02:38:19.0000000Z"
         },
         {
-          "title": "heoster-jarvis-ai-assistant",
-          "subtitle": "@LTripleP",
-          "summary": "Heoster AI 2026: Intelligent Personal Assistant Powered by LangChain & Transformers HARMONICUS \uD83E\uDDE0✨ Your Echelon of Cognitive Architecture – Where Thought Meets Resonance...",
-          "url": "https://github.com/LTripleP/heoster-jarvis-ai-assistant",
-          "category": "HTML",
-          "metric": "152 stars",
-          "publishedAtUtc": "2026-08-02T13:16:28.0000000Z"
-        },
-        {
-          "title": "lanhu-mcp",
-          "subtitle": "@dsphper",
-          "summary": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图 \uD83C\uDFA8 Lanhu MCP Server 蓝湖MCP服务器2.0 让所有 AI 助手共享团队知识，打破 AI IDE 孤岛 lanhumcp 蓝湖mcp lanhu-mcp 蓝湖AI助手 蓝湖skills Lanhu AI...",
-          "url": "https://github.com/dsphper/lanhu-mcp",
-          "category": "Python",
-          "metric": "2,086 stars",
-          "publishedAtUtc": "2026-08-02T13:15:10.0000000Z"
-        },
-        {
-          "title": "aidevops",
-          "subtitle": "@marcusquinn",
-          "summary": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and... AI DevOps Framework aidevops.sh is an OpenCode plugin and...",
-          "url": "https://github.com/marcusquinn/aidevops",
-          "category": "Shell",
-          "metric": "351 stars",
-          "publishedAtUtc": "2026-08-02T13:15:17.0000000Z"
-        },
-        {
-          "title": "open-kritt",
-          "subtitle": "@Kritt-ai",
-          "summary": "Orchestrate AI agents to find real vulnerabilities in code. An open-source, self-hosted security research platform that turns focused AI analysis into de-duplicated, ranked...",
-          "url": "https://github.com/Kritt-ai/open-kritt",
-          "category": "JavaScript",
-          "metric": "710 stars",
-          "publishedAtUtc": "2026-08-02T13:14:59.0000000Z"
-        },
-        {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E \uD83E\uDD9E OpenClaw — Personal AI Assistant OpenClaw is a _personal AI assistant_ that learns and grows with...",
-          "url": "https://github.com/openclaw/openclaw",
+          "title": "pentest-copilot",
+          "subtitle": "@bugbasesecurity",
+          "summary": "Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting... Pentest Copilot An open-source, AI-driven penetration testing...",
+          "url": "https://github.com/bugbasesecurity/pentest-copilot",
           "category": "TypeScript",
-          "metric": "384,903 stars",
-          "publishedAtUtc": "2026-08-02T13:14:25.0000000Z"
+          "metric": "1,155 stars",
+          "publishedAtUtc": "2026-08-03T02:38:07.0000000Z"
+        },
+        {
+          "title": "uteke",
+          "subtitle": "@codecoradev",
+          "summary": "\uD83E\uDDE0 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic... Uteke Give your AI a memory that never leaves your machine.",
+          "url": "https://github.com/codecoradev/uteke",
+          "category": "Rust",
+          "metric": "171 stars",
+          "publishedAtUtc": "2026-08-03T02:37:52.0000000Z"
+        },
+        {
+          "title": "superpowers",
+          "subtitle": "@obra",
+          "summary": "An agentic skills framework & software development methodology that works. Superpowers Superpowers is a complete software development methodology for your coding agents, built on...",
+          "url": "https://github.com/obra/superpowers",
+          "category": "Shell",
+          "metric": "265,193 stars",
+          "publishedAtUtc": "2026-08-03T02:38:49.0000000Z"
+        },
+        {
+          "title": "databend",
+          "subtitle": "@databendlabs",
+          "summary": "Data Agent Ready Warehouse : One for Analytics, Search, AI, Python Sandbox. — rebuilt from scratch. Unified... Databend Enterprise Data Warehouse for AI Agents Large-scale...",
+          "url": "https://github.com/databendlabs/databend",
+          "category": "Rust",
+          "metric": "9,407 stars",
+          "publishedAtUtc": "2026-08-03T02:37:50.0000000Z"
+        },
+        {
+          "title": "zeroclaw",
+          "subtitle": "@zeroclaw-labs",
+          "summary": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap... \uD83E\uDD80 ZeroClaw — Personal AI Assistant You own the agent.",
+          "url": "https://github.com/zeroclaw-labs/zeroclaw",
+          "category": "Rust",
+          "metric": "32,484 stars",
+          "publishedAtUtc": "2026-08-03T02:36:20.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "112,835 stars",
-      "publishedAtUtc": "2026-08-02T12:52:25.0000000Z"
+      "metric": "112,868 stars",
+      "publishedAtUtc": "2026-08-03T02:36:21.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "55,278 stars",
-      "publishedAtUtc": "2026-08-02T12:05:30.0000000Z"
+      "metric": "55,302 stars",
+      "publishedAtUtc": "2026-08-03T01:59:38.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,643 stars",
-      "publishedAtUtc": "2026-08-02T09:19:43.0000000Z"
+      "metric": "54,651 stars",
+      "publishedAtUtc": "2026-08-03T00:36:56.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,518 stars",
-      "publishedAtUtc": "2026-08-02T12:20:18.0000000Z"
+      "metric": "44,523 stars",
+      "publishedAtUtc": "2026-08-03T02:33:49.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "38,937 stars",
-      "publishedAtUtc": "2026-08-02T13:16:24.0000000Z"
+      "metric": "38,942 stars",
+      "publishedAtUtc": "2026-08-03T02:01:21.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,340 stars",
-      "publishedAtUtc": "2026-08-02T10:29:19.0000000Z"
+      "metric": "38,341 stars",
+      "publishedAtUtc": "2026-08-03T00:38:33.0000000Z"
     }
   ]
 }
