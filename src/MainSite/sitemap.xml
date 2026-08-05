@@ -55,25 +55,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=mesh-llm</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=headroom</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=prism-insight</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=hyperframes</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -85,7 +67,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=agentfield</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=autogpt</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=lanhu-mcp</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=world-forge-ai</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=eca</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
