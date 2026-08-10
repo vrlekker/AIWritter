@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-08-10T01:39:41.0202590Z",
+  "generatedAtUtc": "2026-08-10T13:02:58.7260356Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "113,480 stars",
-          "publishedAtUtc": "2026-08-10T01:33:18.0000000Z"
+          "metric": "113,524 stars",
+          "publishedAtUtc": "2026-08-10T13:02:43.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "55,586 stars",
-          "publishedAtUtc": "2026-08-10T01:37:24.0000000Z"
+          "metric": "55,605 stars",
+          "publishedAtUtc": "2026-08-10T12:08:11.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,768 stars",
-          "publishedAtUtc": "2026-08-10T01:13:23.0000000Z"
+          "metric": "54,770 stars",
+          "publishedAtUtc": "2026-08-10T12:43:28.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,581 stars",
-          "publishedAtUtc": "2026-08-10T01:27:00.0000000Z"
+          "metric": "44,587 stars",
+          "publishedAtUtc": "2026-08-10T12:16:05.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,049 stars",
-          "publishedAtUtc": "2026-08-10T01:16:53.0000000Z"
+          "metric": "39,060 stars",
+          "publishedAtUtc": "2026-08-10T11:47:13.0000000Z"
         },
         {
           "title": "RevokeMsgPatcher",
@@ -62,8 +62,8 @@
           "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
           "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
           "category": "C#",
-          "metric": "38,404 stars",
-          "publishedAtUtc": "2026-08-09T18:05:02.0000000Z"
+          "metric": "38,408 stars",
+          "publishedAtUtc": "2026-08-10T06:11:16.0000000Z"
         }
       ]
     },
@@ -76,13 +76,13 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "Xime",
-          "subtitle": "@ximeiorg",
-          "summary": "我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。 Xime - Wubi / Pinyin Input Method for Android 简体中文 · 繁體中文 Windows Version Linux Version Predictive Text Model Handwriting...",
-          "url": "https://github.com/ximeiorg/Xime",
-          "category": "Kotlin",
-          "metric": "748 stars",
-          "publishedAtUtc": "2026-08-10T01:39:24.0000000Z"
+          "title": "studio",
+          "subtitle": "@decocms",
+          "summary": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar deco Studio Open-source · TypeScript-first · Deploy anywhere Open-source...",
+          "url": "https://github.com/decocms/studio",
+          "category": "TypeScript",
+          "metric": "396 stars",
+          "publishedAtUtc": "2026-08-10T13:02:05.0000000Z"
         },
         {
           "title": "ai-trader-bot",
@@ -91,43 +91,43 @@
           "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot",
           "category": "Solidity",
           "metric": "2,674 stars",
-          "publishedAtUtc": "2026-08-10T01:39:15.0000000Z"
+          "publishedAtUtc": "2026-08-10T13:01:49.0000000Z"
         },
         {
-          "title": "awesome-copilot",
-          "subtitle": "@github",
-          "summary": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. \uD83E\uDD16 Awesome GitHub Copilot A community-created collection of...",
-          "url": "https://github.com/github/awesome-copilot",
+          "title": "n8n",
+          "subtitle": "@n8n-io",
+          "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code... n8n – The Platform for AI Agents and Workflow Automation Fair-code...",
+          "url": "https://github.com/n8n-io/n8n",
+          "category": "TypeScript",
+          "metric": "200,077 stars",
+          "publishedAtUtc": "2026-08-10T13:02:35.0000000Z"
+        },
+        {
+          "title": "lanhu-mcp",
+          "subtitle": "@dsphper",
+          "summary": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图 \uD83C\uDFA8 Lanhu MCP Server 蓝湖MCP服务器2.0 让所有 AI 助手共享团队知识，打破 AI IDE 孤岛 lanhumcp 蓝湖mcp lanhu-mcp 蓝湖AI助手 蓝湖skills Lanhu AI...",
+          "url": "https://github.com/dsphper/lanhu-mcp",
           "category": "Python",
-          "metric": "37,618 stars",
-          "publishedAtUtc": "2026-08-10T01:38:58.0000000Z"
+          "metric": "2,147 stars",
+          "publishedAtUtc": "2026-08-10T13:02:21.0000000Z"
         },
         {
-          "title": "doris",
-          "subtitle": "@apache",
-          "summary": "Apache Doris is a real-time analytics and hybrid search database for AI agents. \uD83C\uDF0D Read this in other language English • العربية • বাংলা • Deutsch • Español • فارسی • Français •...",
-          "url": "https://github.com/apache/doris",
-          "category": "Java",
-          "metric": "15,746 stars",
-          "publishedAtUtc": "2026-08-10T01:38:52.0000000Z"
+          "title": "agentfield",
+          "subtitle": "@Agent-Field",
+          "summary": "Build, run and scale AI agents like API and microservices AgentField — The AI Backend Build agents like APIs.",
+          "url": "https://github.com/Agent-Field/agentfield",
+          "category": "Go",
+          "metric": "2,496 stars",
+          "publishedAtUtc": "2026-08-10T13:02:00.0000000Z"
         },
         {
-          "title": "OpenSandbox",
-          "subtitle": "@opensandbox-group",
-          "summary": "Secure, Fast, and Extensible Sandbox runtime for AI agents. OpenSandbox OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs...",
-          "url": "https://github.com/opensandbox-group/OpenSandbox",
-          "category": "Python",
-          "metric": "12,421 stars",
-          "publishedAtUtc": "2026-08-10T01:38:44.0000000Z"
-        },
-        {
-          "title": "ironclaw-ai-vision",
-          "subtitle": "@shadowlzt",
-          "summary": "Ultimate AI Fitness Coach PWA 2026: Iron Mike Workout & Smart Recipe Agent ReflexForge \uD83E\uDDE0⚡ Personal Cognitive Resilience Architect — Offline-First Agentic Mindset Training &...",
-          "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
+          "title": "world-forge-ai",
+          "subtitle": "@gunawan1996",
+          "summary": "AI World Generator 2026: Create Self-Evolving Maps & Stories NarrativeDust \uD83C\uDF0C Where words become worlds, and worlds grow stories on their own.",
+          "url": "https://github.com/gunawan1996/world-forge-ai",
           "category": "HTML",
-          "metric": "152 stars",
-          "publishedAtUtc": "2026-08-10T01:38:16.0000000Z"
+          "metric": "153 stars",
+          "publishedAtUtc": "2026-08-10T13:02:05.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "113,480 stars",
-      "publishedAtUtc": "2026-08-10T01:33:18.0000000Z"
+      "metric": "113,524 stars",
+      "publishedAtUtc": "2026-08-10T13:02:43.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "55,586 stars",
-      "publishedAtUtc": "2026-08-10T01:37:24.0000000Z"
+      "metric": "55,605 stars",
+      "publishedAtUtc": "2026-08-10T12:08:11.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,768 stars",
-      "publishedAtUtc": "2026-08-10T01:13:23.0000000Z"
+      "metric": "54,770 stars",
+      "publishedAtUtc": "2026-08-10T12:43:28.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,581 stars",
-      "publishedAtUtc": "2026-08-10T01:27:00.0000000Z"
+      "metric": "44,587 stars",
+      "publishedAtUtc": "2026-08-10T12:16:05.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,049 stars",
-      "publishedAtUtc": "2026-08-10T01:16:53.0000000Z"
+      "metric": "39,060 stars",
+      "publishedAtUtc": "2026-08-10T11:47:13.0000000Z"
     },
     {
       "title": "RevokeMsgPatcher",
@@ -184,8 +184,8 @@
       "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
       "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
       "category": "C#",
-      "metric": "38,404 stars",
-      "publishedAtUtc": "2026-08-09T18:05:02.0000000Z"
+      "metric": "38,408 stars",
+      "publishedAtUtc": "2026-08-10T06:11:16.0000000Z"
     }
   ]
 }
