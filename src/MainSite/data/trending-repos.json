@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-08-16T12:34:40.6381198Z",
+  "generatedAtUtc": "2026-08-17T01:09:02.7018523Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-08-09 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-08-10 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "113,962 stars",
-          "publishedAtUtc": "2026-08-16T12:25:23.0000000Z"
+          "metric": "113,990 stars",
+          "publishedAtUtc": "2026-08-17T01:08:26.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "55,829 stars",
-          "publishedAtUtc": "2026-08-16T12:20:31.0000000Z"
+          "metric": "55,851 stars",
+          "publishedAtUtc": "2026-08-16T23:36:48.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "54,889 stars",
-          "publishedAtUtc": "2026-08-16T11:52:19.0000000Z"
+          "metric": "54,908 stars",
+          "publishedAtUtc": "2026-08-17T00:51:35.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,636 stars",
-          "publishedAtUtc": "2026-08-16T12:06:31.0000000Z"
+          "metric": "44,641 stars",
+          "publishedAtUtc": "2026-08-17T01:00:38.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,158 stars",
-          "publishedAtUtc": "2026-08-16T11:27:19.0000000Z"
+          "metric": "39,165 stars",
+          "publishedAtUtc": "2026-08-17T00:52:35.0000000Z"
         },
         {
           "title": "RevokeMsgPatcher",
@@ -62,8 +62,8 @@
           "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
           "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
           "category": "C#",
-          "metric": "38,478 stars",
-          "publishedAtUtc": "2026-08-16T12:33:02.0000000Z"
+          "metric": "38,480 stars",
+          "publishedAtUtc": "2026-08-17T01:03:28.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "harbor",
-          "subtitle": "@av",
-          "summary": "Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of... Setup your local LLM stack effortlessly.",
-          "url": "https://github.com/av/harbor",
-          "category": "Python",
-          "metric": "3,169 stars",
-          "publishedAtUtc": "2026-08-15T15:12:54.0000000Z"
-        },
-        {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is a personal AI assistant that...",
-          "url": "https://github.com/openclaw/openclaw",
+          "title": "google-workspace-mcp",
+          "subtitle": "@aaronsb",
+          "summary": "A Model Context Protocol (MCP) server that provides authenticated access to Google Workspace APIs, offering integrated... Google Workspace MCP Server Give your AI agent real...",
+          "url": "https://github.com/aaronsb/google-workspace-mcp",
           "category": "TypeScript",
-          "metric": "386,430 stars",
-          "publishedAtUtc": "2026-08-16T12:34:30.0000000Z"
+          "metric": "165 stars",
+          "publishedAtUtc": "2026-08-17T01:08:50.0000000Z"
         },
         {
-          "title": "Wegent",
-          "subtitle": "@wecode-ai",
-          "summary": "An open-source AI-native operating system to define, organize, and run intelligent agent teams Wegent An open-source, self-hostable platform for building and running AI agent...",
-          "url": "https://github.com/wecode-ai/Wegent",
+          "title": "awesome-vibe-coding-resources",
+          "subtitle": "@acvnace",
+          "summary": "A curated list of awesome resources for vibe coding Awesome Vibe Coding Resources :clipboard: A curated list about vibe coding tools, resources and news Contents What is Vibe...",
+          "url": "https://github.com/acvnace/awesome-vibe-coding-resources",
+          "category": "Repository",
+          "metric": "266 stars",
+          "publishedAtUtc": "2026-08-17T01:08:55.0000000Z"
+        },
+        {
+          "title": "eliza",
+          "subtitle": "@elizaOS",
+          "summary": "Open source agentic operating system elizaOS Your agentic operating system.",
+          "url": "https://github.com/elizaOS/eliza",
           "category": "TypeScript",
-          "metric": "708 stars",
-          "publishedAtUtc": "2026-08-16T12:34:38.0000000Z"
+          "metric": "19,072 stars",
+          "publishedAtUtc": "2026-08-17T01:08:26.0000000Z"
         },
         {
-          "title": "unsloth",
-          "subtitle": "@unslothai",
-          "summary": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4... Unsloth is the first desktop app to run and train models.",
-          "url": "https://github.com/unslothai/unsloth",
+          "title": "modern-llm-notebook",
+          "subtitle": "@walkinglabs",
+          "summary": "A hands-on course for building modern LLMs from scratch in PyTorch, with 26 runnable Jupyter Notebooks covering... Modern LLM Notebook A from-scratch, notebook-first course for...",
+          "url": "https://github.com/walkinglabs/modern-llm-notebook",
+          "category": "Jupyter Notebook",
+          "metric": "166 stars",
+          "publishedAtUtc": "2026-08-17T01:07:59.0000000Z"
+        },
+        {
+          "title": "MiniSearch",
+          "subtitle": "@felladrin",
+          "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: MiniSearch Private AI search that runs in your browser.",
+          "url": "https://github.com/felladrin/MiniSearch",
+          "category": "TypeScript",
+          "metric": "581 stars",
+          "publishedAtUtc": "2026-08-17T01:07:33.0000000Z"
+        },
+        {
+          "title": "hermes-agent",
+          "subtitle": "@NousResearch",
+          "summary": "The agent that grows with you Hermes Agent ☤ The self-improving AI agent built by Nous Research.",
+          "url": "https://github.com/NousResearch/hermes-agent",
           "category": "Python",
-          "metric": "72,265 stars",
-          "publishedAtUtc": "2026-08-16T12:34:05.0000000Z"
-        },
-        {
-          "title": "lanhu-mcp",
-          "subtitle": "@dsphper",
-          "summary": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图 \uD83C\uDFA8 Lanhu MCP Server 蓝湖MCP服务器2.0 让所有 AI 助手共享团队知识，打破 AI IDE 孤岛 lanhumcp 蓝湖mcp lanhu-mcp 蓝湖AI助手 蓝湖skills Lanhu AI...",
-          "url": "https://github.com/dsphper/lanhu-mcp",
-          "category": "Python",
-          "metric": "2,183 stars",
-          "publishedAtUtc": "2026-08-16T12:33:30.0000000Z"
-        },
-        {
-          "title": "linnix",
-          "subtitle": "@linnix-os",
-          "summary": "eBPF-powered Linux observability with AI incident detection. AGPL-3.0 licensed. Linnix Find which process is hurting your SLOs — not just who's using CPU, but who's causing stalls.",
-          "url": "https://github.com/linnix-os/linnix",
-          "category": "Rust",
-          "metric": "248 stars",
-          "publishedAtUtc": "2026-08-16T12:33:05.0000000Z"
+          "metric": "231,521 stars",
+          "publishedAtUtc": "2026-08-17T01:08:17.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "113,962 stars",
-      "publishedAtUtc": "2026-08-16T12:25:23.0000000Z"
+      "metric": "113,990 stars",
+      "publishedAtUtc": "2026-08-17T01:08:26.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "55,829 stars",
-      "publishedAtUtc": "2026-08-16T12:20:31.0000000Z"
+      "metric": "55,851 stars",
+      "publishedAtUtc": "2026-08-16T23:36:48.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "54,889 stars",
-      "publishedAtUtc": "2026-08-16T11:52:19.0000000Z"
+      "metric": "54,908 stars",
+      "publishedAtUtc": "2026-08-17T00:51:35.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,636 stars",
-      "publishedAtUtc": "2026-08-16T12:06:31.0000000Z"
+      "metric": "44,641 stars",
+      "publishedAtUtc": "2026-08-17T01:00:38.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,158 stars",
-      "publishedAtUtc": "2026-08-16T11:27:19.0000000Z"
+      "metric": "39,165 stars",
+      "publishedAtUtc": "2026-08-17T00:52:35.0000000Z"
     },
     {
       "title": "RevokeMsgPatcher",
@@ -184,8 +184,8 @@
       "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
       "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
       "category": "C#",
-      "metric": "38,478 stars",
-      "publishedAtUtc": "2026-08-16T12:33:02.0000000Z"
+      "metric": "38,480 stars",
+      "publishedAtUtc": "2026-08-17T01:03:28.0000000Z"
     }
   ]
 }
