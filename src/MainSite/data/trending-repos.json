@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-08-20T01:07:08.5409870Z",
+  "generatedAtUtc": "2026-08-20T12:43:54.0925557Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "114,237 stars",
-          "publishedAtUtc": "2026-08-20T01:01:23.0000000Z"
+          "metric": "114,287 stars",
+          "publishedAtUtc": "2026-08-20T12:40:08.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "55,964 stars",
-          "publishedAtUtc": "2026-08-20T00:09:25.0000000Z"
+          "metric": "55,984 stars",
+          "publishedAtUtc": "2026-08-20T12:04:12.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,000 stars",
-          "publishedAtUtc": "2026-08-20T00:46:12.0000000Z"
+          "metric": "55,016 stars",
+          "publishedAtUtc": "2026-08-20T12:27:04.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,680 stars",
-          "publishedAtUtc": "2026-08-20T00:49:58.0000000Z"
+          "metric": "44,681 stars",
+          "publishedAtUtc": "2026-08-20T11:20:50.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,206 stars",
-          "publishedAtUtc": "2026-08-20T00:46:12.0000000Z"
+          "metric": "39,215 stars",
+          "publishedAtUtc": "2026-08-20T11:30:48.0000000Z"
         },
         {
           "title": "RevokeMsgPatcher",
@@ -62,8 +62,8 @@
           "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
           "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
           "category": "C#",
-          "metric": "38,528 stars",
-          "publishedAtUtc": "2026-08-20T00:29:54.0000000Z"
+          "metric": "38,535 stars",
+          "publishedAtUtc": "2026-08-20T11:32:29.0000000Z"
         }
       ]
     },
@@ -76,40 +76,13 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "ai-trader-bot",
-          "subtitle": "@MIgHTy-alIeN",
-          "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation.",
-          "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot",
-          "category": "Solidity",
-          "metric": "2,686 stars",
-          "publishedAtUtc": "2026-08-20T01:06:13.0000000Z"
-        },
-        {
-          "title": "screenpipe",
-          "subtitle": "@screenpipe",
-          "summary": "YC (S26) Open Computer History Record your screen continuously locally and provide context to your agents (Claude... [ screenpipe YC S26 ] Screenpipe remembers how you actually...",
-          "url": "https://github.com/screenpipe/screenpipe",
-          "category": "Rust",
-          "metric": "21,117 stars",
-          "publishedAtUtc": "2026-08-20T01:06:02.0000000Z"
-        },
-        {
-          "title": "cc-skills-golang",
-          "subtitle": "@samber",
-          "summary": "\uD83E\uDDD1‍\uD83C\uDFA8 A collection of Golang agentic skills that works Agent Skills for production-ready Golang projects AI agent skills are reusable instruction sets that extend your coding...",
-          "url": "https://github.com/samber/cc-skills-golang",
-          "category": "Go",
-          "metric": "3,000 stars",
-          "publishedAtUtc": "2026-08-20T01:05:46.0000000Z"
-        },
-        {
-          "title": "adk-python",
-          "subtitle": "@google",
-          "summary": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with... Agent Development Kit (ADK) 2.0 An open-source, code-first...",
-          "url": "https://github.com/google/adk-python",
-          "category": "Python",
-          "metric": "21,194 stars",
-          "publishedAtUtc": "2026-08-20T01:06:15.0000000Z"
+          "title": "ResearchClawBench",
+          "subtitle": "@InternScience",
+          "summary": "\uD83E\uDD9E ResearchClawBench: Evaluating AI Agents for Automated Research from Re-Discovery to New-Discovery ResearchClawBench &#160; &#160; &#160; &#160; &#160; Evaluating AI Agents for...",
+          "url": "https://github.com/InternScience/ResearchClawBench",
+          "category": "Jupyter Notebook",
+          "metric": "243 stars",
+          "publishedAtUtc": "2026-08-19T10:38:01.0000000Z"
         },
         {
           "title": "lanhu-mcp",
@@ -117,17 +90,44 @@
           "summary": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图 \uD83C\uDFA8 Lanhu MCP Server 蓝湖MCP服务器2.0 让所有 AI 助手共享团队知识，打破 AI IDE 孤岛 lanhumcp 蓝湖mcp lanhu-mcp 蓝湖AI助手 蓝湖skills Lanhu AI...",
           "url": "https://github.com/dsphper/lanhu-mcp",
           "category": "Python",
-          "metric": "2,205 stars",
-          "publishedAtUtc": "2026-08-20T01:04:49.0000000Z"
+          "metric": "2,211 stars",
+          "publishedAtUtc": "2026-08-20T10:36:09.0000000Z"
         },
         {
-          "title": "hermes-agent",
-          "subtitle": "@NousResearch",
-          "summary": "The agent that grows with you Hermes Agent ☤ The self-improving AI agent built by Nous Research.",
-          "url": "https://github.com/NousResearch/hermes-agent",
+          "title": "homebutler",
+          "subtitle": "@Higangssh",
+          "summary": "\uD83C\uDFE0 Manage your homelab from chat. Single binary, zero dependencies. HomeButler Know what changed before you fix it.",
+          "url": "https://github.com/Higangssh/homebutler",
+          "category": "Go",
+          "metric": "188 stars",
+          "publishedAtUtc": "2026-08-20T11:32:45.0000000Z"
+        },
+        {
+          "title": "ai-trader-bot",
+          "subtitle": "@MIgHTy-alIeN",
+          "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation.",
+          "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot",
+          "category": "Solidity",
+          "metric": "2,686 stars",
+          "publishedAtUtc": "2026-08-20T12:41:47.0000000Z"
+        },
+        {
+          "title": "haystack",
+          "subtitle": "@deepset-ai",
+          "summary": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design... ------...",
+          "url": "https://github.com/deepset-ai/haystack",
           "category": "Python",
-          "metric": "233,062 stars",
-          "publishedAtUtc": "2026-08-20T01:05:31.0000000Z"
+          "metric": "26,258 stars",
+          "publishedAtUtc": "2026-08-20T12:41:32.0000000Z"
+        },
+        {
+          "title": "maka",
+          "subtitle": "@apache",
+          "summary": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission... Maka A local-first Agent workspace built for real work.",
+          "url": "https://github.com/apache/maka",
+          "category": "TypeScript",
+          "metric": "1,778 stars",
+          "publishedAtUtc": "2026-08-20T12:42:56.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "114,237 stars",
-      "publishedAtUtc": "2026-08-20T01:01:23.0000000Z"
+      "metric": "114,287 stars",
+      "publishedAtUtc": "2026-08-20T12:40:08.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "55,964 stars",
-      "publishedAtUtc": "2026-08-20T00:09:25.0000000Z"
+      "metric": "55,984 stars",
+      "publishedAtUtc": "2026-08-20T12:04:12.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,000 stars",
-      "publishedAtUtc": "2026-08-20T00:46:12.0000000Z"
+      "metric": "55,016 stars",
+      "publishedAtUtc": "2026-08-20T12:27:04.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,680 stars",
-      "publishedAtUtc": "2026-08-20T00:49:58.0000000Z"
+      "metric": "44,681 stars",
+      "publishedAtUtc": "2026-08-20T11:20:50.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,206 stars",
-      "publishedAtUtc": "2026-08-20T00:46:12.0000000Z"
+      "metric": "39,215 stars",
+      "publishedAtUtc": "2026-08-20T11:30:48.0000000Z"
     },
     {
       "title": "RevokeMsgPatcher",
@@ -184,8 +184,8 @@
       "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
       "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
       "category": "C#",
-      "metric": "38,528 stars",
-      "publishedAtUtc": "2026-08-20T00:29:54.0000000Z"
+      "metric": "38,535 stars",
+      "publishedAtUtc": "2026-08-20T11:32:29.0000000Z"
     }
   ]
 }
