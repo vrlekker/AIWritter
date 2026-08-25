@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-08-25T01:08:40.0814653Z",
+  "generatedAtUtc": "2026-08-25T12:42:28.3866239Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "114,588 stars",
-          "publishedAtUtc": "2026-08-25T00:36:35.0000000Z"
+          "metric": "114,634 stars",
+          "publishedAtUtc": "2026-08-25T12:42:09.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "56,141 stars",
-          "publishedAtUtc": "2026-08-25T00:52:29.0000000Z"
+          "metric": "56,165 stars",
+          "publishedAtUtc": "2026-08-25T12:38:53.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,104 stars",
-          "publishedAtUtc": "2026-08-25T00:38:21.0000000Z"
+          "metric": "55,118 stars",
+          "publishedAtUtc": "2026-08-25T12:39:23.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,746 stars",
-          "publishedAtUtc": "2026-08-25T00:56:28.0000000Z"
+          "metric": "44,752 stars",
+          "publishedAtUtc": "2026-08-25T11:22:00.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,285 stars",
-          "publishedAtUtc": "2026-08-25T00:22:35.0000000Z"
+          "metric": "39,294 stars",
+          "publishedAtUtc": "2026-08-25T12:40:17.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,391 stars",
-          "publishedAtUtc": "2026-08-24T22:45:37.0000000Z"
+          "metric": "38,390 stars",
+          "publishedAtUtc": "2026-08-25T12:26:49.0000000Z"
         }
       ]
     },
@@ -82,25 +82,7 @@
           "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot",
           "category": "Solidity",
           "metric": "2,688 stars",
-          "publishedAtUtc": "2026-08-25T01:08:11.0000000Z"
-        },
-        {
-          "title": "InferenceX",
-          "subtitle": "@SemiAnalysisAI",
-          "summary": "Open Source Continuous Inference Benchmark Research Platform — Kimi K3 2.8T, MiniMax M3, DeepSeekv4, GLM5 - GB200... InferenceX™, Open Source Continuous Inference Standard and...",
-          "url": "https://github.com/SemiAnalysisAI/InferenceX",
-          "category": "Python",
-          "metric": "1,487 stars",
-          "publishedAtUtc": "2026-08-25T01:07:23.0000000Z"
-        },
-        {
-          "title": "maka",
-          "subtitle": "@apache",
-          "summary": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission... Apache Maka (Incubating) Incubating at The Apache Software...",
-          "url": "https://github.com/apache/maka",
-          "category": "TypeScript",
-          "metric": "2,909 stars",
-          "publishedAtUtc": "2026-08-25T01:07:51.0000000Z"
+          "publishedAtUtc": "2026-08-25T12:41:45.0000000Z"
         },
         {
           "title": "lanhu-mcp",
@@ -108,26 +90,44 @@
           "summary": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图 \uD83C\uDFA8 Lanhu MCP Server 蓝湖MCP服务器2.0 让所有 AI 助手共享团队知识，打破 AI IDE 孤岛 lanhumcp 蓝湖mcp lanhu-mcp 蓝湖AI助手 蓝湖skills Lanhu AI...",
           "url": "https://github.com/dsphper/lanhu-mcp",
           "category": "Python",
-          "metric": "2,228 stars",
-          "publishedAtUtc": "2026-08-25T01:06:57.0000000Z"
+          "metric": "2,242 stars",
+          "publishedAtUtc": "2026-08-25T12:15:46.0000000Z"
         },
         {
-          "title": "unity-cli-loop",
-          "subtitle": "@hatayama",
-          "summary": "Let AI Drive Unity, from Editor to Play Mode. Unity CLI Loop 日本語 (Logo inspired by Daft Punk's Discovery album art) Let an AI agent compile, test, and operate your Unity project...",
-          "url": "https://github.com/hatayama/unity-cli-loop",
-          "category": "C#",
-          "metric": "517 stars",
-          "publishedAtUtc": "2026-08-25T01:06:38.0000000Z"
+          "title": "nexent",
+          "subtitle": "@ModelEngine-Group",
+          "summary": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles —... Nexent is a zero-code platform for auto-generating...",
+          "url": "https://github.com/ModelEngine-Group/nexent",
+          "category": "Python",
+          "metric": "5,835 stars",
+          "publishedAtUtc": "2026-08-25T12:40:39.0000000Z"
         },
         {
-          "title": "civitai",
-          "subtitle": "@civitai",
-          "summary": "A repository of models, textual inversions, and more [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url]...",
-          "url": "https://github.com/civitai/civitai",
+          "title": "n8n",
+          "subtitle": "@n8n-io",
+          "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code... n8n – The Platform for AI Agents and Workflow Automation Fair-code...",
+          "url": "https://github.com/n8n-io/n8n",
           "category": "TypeScript",
-          "metric": "7,233 stars",
-          "publishedAtUtc": "2026-08-25T01:06:11.0000000Z"
+          "metric": "202,370 stars",
+          "publishedAtUtc": "2026-08-25T12:40:02.0000000Z"
+        },
+        {
+          "title": "awesome-gemini-3-prompts",
+          "subtitle": "@YouMind-OpenLab",
+          "summary": "♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt... \uD83D\uDE80 Awesome Gemini 3 Prompts \uD83C\uDFA8 A curated collection of...",
+          "url": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
+          "category": "TypeScript",
+          "metric": "514 stars",
+          "publishedAtUtc": "2026-08-25T08:37:39.0000000Z"
+        },
+        {
+          "title": "hash",
+          "subtitle": "@hashintel",
+          "summary": "\uD83D\uDE80 The open-source, multi-tenant platform for self-building knowledge graphs and simulation [create an account]: [development roadmap]: [hiring]: [sign in]: [use cases]: [awesome...",
+          "url": "https://github.com/hashintel/hash",
+          "category": "TypeScript",
+          "metric": "1,647 stars",
+          "publishedAtUtc": "2026-08-25T12:41:46.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "114,588 stars",
-      "publishedAtUtc": "2026-08-25T00:36:35.0000000Z"
+      "metric": "114,634 stars",
+      "publishedAtUtc": "2026-08-25T12:42:09.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "56,141 stars",
-      "publishedAtUtc": "2026-08-25T00:52:29.0000000Z"
+      "metric": "56,165 stars",
+      "publishedAtUtc": "2026-08-25T12:38:53.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,104 stars",
-      "publishedAtUtc": "2026-08-25T00:38:21.0000000Z"
+      "metric": "55,118 stars",
+      "publishedAtUtc": "2026-08-25T12:39:23.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,746 stars",
-      "publishedAtUtc": "2026-08-25T00:56:28.0000000Z"
+      "metric": "44,752 stars",
+      "publishedAtUtc": "2026-08-25T11:22:00.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,285 stars",
-      "publishedAtUtc": "2026-08-25T00:22:35.0000000Z"
+      "metric": "39,294 stars",
+      "publishedAtUtc": "2026-08-25T12:40:17.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,391 stars",
-      "publishedAtUtc": "2026-08-24T22:45:37.0000000Z"
+      "metric": "38,390 stars",
+      "publishedAtUtc": "2026-08-25T12:26:49.0000000Z"
     }
   ]
 }
