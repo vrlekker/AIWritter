@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-09-01T16:04:29.3032300Z",
+  "generatedAtUtc": "2026-09-02T02:56:53.6247101Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-08-25 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-08-26 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "115,160 stars",
-          "publishedAtUtc": "2026-09-01T16:03:44.0000000Z"
+          "metric": "115,193 stars",
+          "publishedAtUtc": "2026-09-02T02:50:33.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "56,436 stars",
-          "publishedAtUtc": "2026-09-01T16:00:29.0000000Z"
+          "metric": "56,447 stars",
+          "publishedAtUtc": "2026-09-02T02:14:24.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,216 stars",
-          "publishedAtUtc": "2026-09-01T15:29:53.0000000Z"
+          "metric": "55,215 stars",
+          "publishedAtUtc": "2026-09-01T23:59:41.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,845 stars",
-          "publishedAtUtc": "2026-09-01T15:28:02.0000000Z"
+          "metric": "44,852 stars",
+          "publishedAtUtc": "2026-09-02T01:39:09.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,410 stars",
-          "publishedAtUtc": "2026-09-01T15:04:40.0000000Z"
+          "metric": "39,414 stars",
+          "publishedAtUtc": "2026-09-02T02:23:30.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,411 stars",
-          "publishedAtUtc": "2026-09-01T15:18:54.0000000Z"
+          "metric": "38,412 stars",
+          "publishedAtUtc": "2026-09-02T02:51:15.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "lanhu-mcp",
-          "subtitle": "@dsphper",
-          "summary": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图 \uD83C\uDFA8 Lanhu MCP Server 蓝湖MCP服务器2.0 让所有 AI 助手共享团队知识，打破 AI IDE 孤岛 lanhumcp 蓝湖mcp lanhu-mcp 蓝湖AI助手 蓝湖skills Lanhu AI...",
-          "url": "https://github.com/dsphper/lanhu-mcp",
-          "category": "Python",
-          "metric": "2,280 stars",
-          "publishedAtUtc": "2026-09-01T10:17:02.0000000Z"
+          "title": "luvus",
+          "subtitle": "@RizRiyz",
+          "summary": "Mission control for your AI agents Luvus Mission control for your AI coding agents.",
+          "url": "https://github.com/RizRiyz/luvus",
+          "category": "Rust",
+          "metric": "648 stars",
+          "publishedAtUtc": "2026-09-02T02:56:39.0000000Z"
         },
         {
-          "title": "unsloth",
-          "subtitle": "@unslothai",
-          "summary": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX... Unsloth is the first desktop app to run and train models.",
-          "url": "https://github.com/unslothai/unsloth",
-          "category": "Python",
-          "metric": "75,423 stars",
-          "publishedAtUtc": "2026-09-01T16:01:38.0000000Z"
+          "title": "ai-trader-bot",
+          "subtitle": "@MIgHTy-alIeN",
+          "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation.",
+          "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot",
+          "category": "Solidity",
+          "metric": "2,693 stars",
+          "publishedAtUtc": "2026-09-02T02:55:54.0000000Z"
         },
         {
-          "title": "tidb",
-          "subtitle": "@pingcap",
-          "summary": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions... - TiDB TiDB (/’taɪdiːbi:/, \"Ti\" stands for Titanium) is...",
-          "url": "https://github.com/pingcap/tidb",
+          "title": "mcp-toolbox",
+          "subtitle": "@googleapis",
+          "summary": "MCP Toolbox for Databases is an open source MCP server for databases. MCP Toolbox for Databases MCP Toolbox for Databases is an open source Model Context Protocol (MCP) server...",
+          "url": "https://github.com/googleapis/mcp-toolbox",
           "category": "Go",
-          "metric": "40,479 stars",
-          "publishedAtUtc": "2026-09-01T16:02:11.0000000Z"
+          "metric": "16,293 stars",
+          "publishedAtUtc": "2026-09-02T02:56:03.0000000Z"
         },
         {
-          "title": "ClickHouse",
-          "subtitle": "@ClickHouse",
-          "summary": "ClickHouse® is a real-time analytics database management system ClickHouse® is an open-source column-oriented database management system that allows generating analytical data...",
-          "url": "https://github.com/ClickHouse/ClickHouse",
-          "category": "C++",
-          "metric": "49,594 stars",
-          "publishedAtUtc": "2026-09-01T16:01:34.0000000Z"
-        },
-        {
-          "title": "awesome-gemini-3-prompts",
-          "subtitle": "@YouMind-OpenLab",
-          "summary": "♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt... \uD83D\uDE80 Awesome Gemini 3 Prompts \uD83C\uDFA8 A curated collection of...",
-          "url": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
+          "title": "qwen-code",
+          "subtitle": "@QwenLM",
+          "summary": "An open-source AI coding agent that lives in your terminal. The open-source AI coding agent that lives in your terminal.",
+          "url": "https://github.com/QwenLM/qwen-code",
           "category": "TypeScript",
-          "metric": "514 stars",
-          "publishedAtUtc": "2026-09-01T09:16:46.0000000Z"
+          "metric": "27,562 stars",
+          "publishedAtUtc": "2026-09-02T02:55:45.0000000Z"
         },
         {
-          "title": "VoiceStudio",
-          "subtitle": "@debpalash",
-          "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing... VoiceStudio Previously OmniVoice-Studio Local voice cloning...",
-          "url": "https://github.com/debpalash/VoiceStudio",
+          "title": "unity-cli-loop",
+          "subtitle": "@hatayama",
+          "summary": "Let AI Drive Unity, from Editor to Play Mode. Unity CLI Loop English 日本語 (Logo inspired by Daft Punk's Human After All album art) Let an AI agent compile, test, and operate your...",
+          "url": "https://github.com/hatayama/unity-cli-loop",
+          "category": "C#",
+          "metric": "535 stars",
+          "publishedAtUtc": "2026-09-02T02:54:34.0000000Z"
+        },
+        {
+          "title": "omi",
+          "subtitle": "@BasedHardware",
+          "summary": "AI that sees your screen, listens to your conversations and tells you what to do omi A 2nd brain you trust more than your 1st Omi captures your screen and conversations...",
+          "url": "https://github.com/BasedHardware/omi",
           "category": "Python",
-          "metric": "13,413 stars",
-          "publishedAtUtc": "2026-09-01T16:03:45.0000000Z"
+          "metric": "13,367 stars",
+          "publishedAtUtc": "2026-09-02T02:55:01.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "115,160 stars",
-      "publishedAtUtc": "2026-09-01T16:03:44.0000000Z"
+      "metric": "115,193 stars",
+      "publishedAtUtc": "2026-09-02T02:50:33.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "56,436 stars",
-      "publishedAtUtc": "2026-09-01T16:00:29.0000000Z"
+      "metric": "56,447 stars",
+      "publishedAtUtc": "2026-09-02T02:14:24.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,216 stars",
-      "publishedAtUtc": "2026-09-01T15:29:53.0000000Z"
+      "metric": "55,215 stars",
+      "publishedAtUtc": "2026-09-01T23:59:41.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,845 stars",
-      "publishedAtUtc": "2026-09-01T15:28:02.0000000Z"
+      "metric": "44,852 stars",
+      "publishedAtUtc": "2026-09-02T01:39:09.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,410 stars",
-      "publishedAtUtc": "2026-09-01T15:04:40.0000000Z"
+      "metric": "39,414 stars",
+      "publishedAtUtc": "2026-09-02T02:23:30.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,411 stars",
-      "publishedAtUtc": "2026-09-01T15:18:54.0000000Z"
+      "metric": "38,412 stars",
+      "publishedAtUtc": "2026-09-02T02:51:15.0000000Z"
     }
   ]
 }
