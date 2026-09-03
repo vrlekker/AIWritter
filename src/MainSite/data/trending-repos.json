@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-09-03T02:59:55.8520442Z",
+  "generatedAtUtc": "2026-09-03T15:48:06.0547346Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "115,283 stars",
-          "publishedAtUtc": "2026-09-03T02:51:33.0000000Z"
+          "metric": "115,337 stars",
+          "publishedAtUtc": "2026-09-03T15:44:23.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "56,483 stars",
-          "publishedAtUtc": "2026-09-03T01:49:25.0000000Z"
+          "metric": "56,501 stars",
+          "publishedAtUtc": "2026-09-03T14:42:52.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,243 stars",
-          "publishedAtUtc": "2026-09-03T02:23:32.0000000Z"
+          "metric": "55,241 stars",
+          "publishedAtUtc": "2026-09-03T15:43:49.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,863 stars",
-          "publishedAtUtc": "2026-09-02T20:31:31.0000000Z"
+          "metric": "44,871 stars",
+          "publishedAtUtc": "2026-09-03T15:36:02.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,428 stars",
-          "publishedAtUtc": "2026-09-03T02:15:19.0000000Z"
+          "metric": "39,435 stars",
+          "publishedAtUtc": "2026-09-03T14:44:58.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,414 stars",
-          "publishedAtUtc": "2026-09-02T21:59:32.0000000Z"
+          "metric": "38,417 stars",
+          "publishedAtUtc": "2026-09-03T15:35:35.0000000Z"
         }
       ]
     },
@@ -76,13 +76,40 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "astrbot_plugin_self_learning",
-          "subtitle": "@NickCharlie",
-          "summary": "AstrBot 自主学习插件 — 让 AI 聊天机器人自主学习对话风格、理解群组黑话、管理社交关系与好感度、自适应人格演化，像真人一样自然对话。 English 中文 AstrBot 自主学习插件 让 AstrBot 在群聊中持续采集、学习、审查并注入上下文，使 Bot 逐步具备表达风格、群组黑话、社交关系、长期记忆和人格演化能力。 功能 · 架构 ·...",
-          "url": "https://github.com/NickCharlie/astrbot_plugin_self_learning",
+          "title": "deepagentsjs",
+          "subtitle": "@langchain-ai",
+          "summary": "The batteries included agent harness. The batteries-included agent harness.",
+          "url": "https://github.com/langchain-ai/deepagentsjs",
+          "category": "TypeScript",
+          "metric": "1,534 stars",
+          "publishedAtUtc": "2026-09-03T15:47:47.0000000Z"
+        },
+        {
+          "title": "atom",
+          "subtitle": "@rush86999",
+          "summary": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation ATOM Platform The governed agent platform — autonomy, earned.",
+          "url": "https://github.com/rush86999/atom",
           "category": "Python",
-          "metric": "399 stars",
-          "publishedAtUtc": "2026-09-03T02:59:28.0000000Z"
+          "metric": "882 stars",
+          "publishedAtUtc": "2026-09-03T15:48:09.0000000Z"
+        },
+        {
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is an AI assistant that runs on...",
+          "url": "https://github.com/openclaw/openclaw",
+          "category": "TypeScript",
+          "metric": "388,737 stars",
+          "publishedAtUtc": "2026-09-03T15:47:37.0000000Z"
+        },
+        {
+          "title": "suna",
+          "subtitle": "@kortix-ai",
+          "summary": "The open-source AI Management System Website · Documentation · Cloud · Manifesto -- Agents that deliver finished work — reports, decks, code, replies, deployed changes — are...",
+          "url": "https://github.com/kortix-ai/suna",
+          "category": "TypeScript",
+          "metric": "20,169 stars",
+          "publishedAtUtc": "2026-09-03T15:48:00.0000000Z"
         },
         {
           "title": "ai-trader-bot",
@@ -90,44 +117,17 @@
           "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation.",
           "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot",
           "category": "Solidity",
-          "metric": "2,693 stars",
-          "publishedAtUtc": "2026-09-03T02:59:40.0000000Z"
+          "metric": "2,694 stars",
+          "publishedAtUtc": "2026-09-03T15:47:26.0000000Z"
         },
         {
-          "title": "doris",
-          "subtitle": "@apache",
-          "summary": "Apache Doris is a real-time analytics and hybrid search database for AI agents. \uD83C\uDF0D Read this in other language English • العربية • বাংলা • Deutsch • Español • فارسی • Français •...",
-          "url": "https://github.com/apache/doris",
-          "category": "C++",
-          "metric": "15,851 stars",
-          "publishedAtUtc": "2026-09-03T02:58:57.0000000Z"
-        },
-        {
-          "title": "dify",
-          "subtitle": "@langgenius",
-          "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on... · Dify is an open-source LLM app development platform.",
-          "url": "https://github.com/langgenius/dify",
-          "category": "TypeScript",
-          "metric": "154,267 stars",
-          "publishedAtUtc": "2026-09-03T02:59:24.0000000Z"
-        },
-        {
-          "title": "nanocodex",
-          "subtitle": "@gakonst",
-          "summary": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere. Nanocodex The coding agent is the library.",
-          "url": "https://github.com/gakonst/nanocodex",
+          "title": "stochastic-rs",
+          "subtitle": "@rust-dd",
+          "summary": "High-performance quantitative finance in Rust — 120+ stochastic processes, option pricing, calibration, fixed income... stochastic-rs Quantitative finance in Rust — a...",
+          "url": "https://github.com/rust-dd/stochastic-rs",
           "category": "Rust",
-          "metric": "457 stars",
-          "publishedAtUtc": "2026-09-03T02:58:44.0000000Z"
-        },
-        {
-          "title": "pipecat",
-          "subtitle": "@pipecat-ai",
-          "summary": "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community. \uD83C\uDF99️ Pipecat: Real-Time Voice & Multimodal AI Agents Pipecat is an...",
-          "url": "https://github.com/pipecat-ai/pipecat",
-          "category": "Python",
-          "metric": "15,151 stars",
-          "publishedAtUtc": "2026-09-03T02:57:59.0000000Z"
+          "metric": "180 stars",
+          "publishedAtUtc": "2026-09-03T15:47:02.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "115,283 stars",
-      "publishedAtUtc": "2026-09-03T02:51:33.0000000Z"
+      "metric": "115,337 stars",
+      "publishedAtUtc": "2026-09-03T15:44:23.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "56,483 stars",
-      "publishedAtUtc": "2026-09-03T01:49:25.0000000Z"
+      "metric": "56,501 stars",
+      "publishedAtUtc": "2026-09-03T14:42:52.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,243 stars",
-      "publishedAtUtc": "2026-09-03T02:23:32.0000000Z"
+      "metric": "55,241 stars",
+      "publishedAtUtc": "2026-09-03T15:43:49.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,863 stars",
-      "publishedAtUtc": "2026-09-02T20:31:31.0000000Z"
+      "metric": "44,871 stars",
+      "publishedAtUtc": "2026-09-03T15:36:02.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,428 stars",
-      "publishedAtUtc": "2026-09-03T02:15:19.0000000Z"
+      "metric": "39,435 stars",
+      "publishedAtUtc": "2026-09-03T14:44:58.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,414 stars",
-      "publishedAtUtc": "2026-09-02T21:59:32.0000000Z"
+      "metric": "38,417 stars",
+      "publishedAtUtc": "2026-09-03T15:35:35.0000000Z"
     }
   ]
 }
