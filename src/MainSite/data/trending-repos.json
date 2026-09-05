@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-09-04T15:46:31.6819530Z",
+  "generatedAtUtc": "2026-09-05T03:00:26.3853323Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-08-28 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-08-29 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "115,421 stars",
-          "publishedAtUtc": "2026-09-04T15:38:52.0000000Z"
+          "metric": "115,452 stars",
+          "publishedAtUtc": "2026-09-05T02:48:47.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "56,532 stars",
-          "publishedAtUtc": "2026-09-04T15:42:31.0000000Z"
+          "metric": "56,539 stars",
+          "publishedAtUtc": "2026-09-05T02:54:23.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,246 stars",
-          "publishedAtUtc": "2026-09-04T14:00:09.0000000Z"
+          "metric": "55,257 stars",
+          "publishedAtUtc": "2026-09-05T01:53:38.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "44,883 stars",
-          "publishedAtUtc": "2026-09-04T15:19:32.0000000Z"
+          "metric": "44,886 stars",
+          "publishedAtUtc": "2026-09-05T01:37:52.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,443 stars",
-          "publishedAtUtc": "2026-09-04T15:00:14.0000000Z"
+          "metric": "39,448 stars",
+          "publishedAtUtc": "2026-09-05T02:52:02.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,419 stars",
-          "publishedAtUtc": "2026-09-04T15:42:56.0000000Z"
+          "metric": "38,421 stars",
+          "publishedAtUtc": "2026-09-05T02:04:09.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "stenoai",
-          "subtitle": "@stenolabs",
-          "summary": "StenoAI is the secure privacy-first AI notepad & notetaker for confidential conversations in government & defence... Steno Your private stenographer Steno is the privacy-first AI...",
-          "url": "https://github.com/stenolabs/stenoai",
+          "title": "Hyper-Extract",
+          "subtitle": "@yifanfeng97",
+          "summary": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and... Smart Knowledge Extraction CLI Transform documents into...",
+          "url": "https://github.com/yifanfeng97/Hyper-Extract",
           "category": "Python",
-          "metric": "1,302 stars",
-          "publishedAtUtc": "2026-09-04T15:46:32.0000000Z"
+          "metric": "3,910 stars",
+          "publishedAtUtc": "2026-09-05T03:00:18.0000000Z"
         },
         {
-          "title": "casbin-gateway",
-          "subtitle": "@apache",
-          "summary": "Casbin AI & MCP security gateway for HTTP, online demo: \uD83D\uDCE6⚡️ Casbin Gateway An open-source gateway for the AI coding agents on your machine, developed by Go and React.",
-          "url": "https://github.com/apache/casbin-gateway",
-          "category": "Go",
-          "metric": "573 stars",
-          "publishedAtUtc": "2026-09-04T15:46:16.0000000Z"
+          "title": "ai-trader-bot",
+          "subtitle": "@MIgHTy-alIeN",
+          "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation.",
+          "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot",
+          "category": "Solidity",
+          "metric": "2,695 stars",
+          "publishedAtUtc": "2026-09-05T03:00:06.0000000Z"
         },
         {
-          "title": "lobehub",
-          "subtitle": "@lobehub",
-          "summary": "\uD83E\uDD2F LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and... [![][image-banner]][vercel-link] LobeHub LobeHub organizes your...",
-          "url": "https://github.com/lobehub/lobehub",
+          "title": "chat",
+          "subtitle": "@vercel",
+          "summary": "A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more. Chat SDK Unified TypeScript SDK for building chat bots across...",
+          "url": "https://github.com/vercel/chat",
           "category": "TypeScript",
-          "metric": "82,236 stars",
-          "publishedAtUtc": "2026-09-04T15:46:04.0000000Z"
+          "metric": "2,342 stars",
+          "publishedAtUtc": "2026-09-05T02:59:37.0000000Z"
         },
         {
-          "title": "OpenInstinct",
-          "subtitle": "@Merit-Systems",
-          "summary": "iMessage personal assistant + password vault A personal iMessage assistant that can use a browser like you.",
-          "url": "https://github.com/Merit-Systems/OpenInstinct",
+          "title": "dxos",
+          "subtitle": "@dxos",
+          "summary": "TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer. DXOS DXOS is the Decentralized Operating System — a platform for building fully decentralized...",
+          "url": "https://github.com/dxos/dxos",
           "category": "TypeScript",
-          "metric": "269 stars",
-          "publishedAtUtc": "2026-09-04T15:45:33.0000000Z"
+          "metric": "518 stars",
+          "publishedAtUtc": "2026-09-05T02:59:20.0000000Z"
         },
         {
-          "title": "ai.robots.txt",
-          "subtitle": "@ai-robots-txt",
-          "summary": "A list of AI agents and robots to block. ai.robots.txt This list contains AI-related crawlers of all types, regardless of purpose.",
-          "url": "https://github.com/ai-robots-txt/ai.robots.txt",
-          "category": "Python",
-          "metric": "4,097 stars",
-          "publishedAtUtc": "2026-09-04T15:45:36.0000000Z"
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is an AI assistant that runs on...",
+          "url": "https://github.com/openclaw/openclaw",
+          "category": "TypeScript",
+          "metric": "388,880 stars",
+          "publishedAtUtc": "2026-09-05T02:59:19.0000000Z"
         },
         {
-          "title": "lanhu-mcp",
-          "subtitle": "@dsphper",
-          "summary": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图 \uD83C\uDFA8 Lanhu MCP Server 蓝湖MCP服务器2.0 让所有 AI 助手共享团队知识，打破 AI IDE 孤岛 lanhumcp 蓝湖mcp lanhu-mcp 蓝湖AI助手 蓝湖skills Lanhu AI...",
-          "url": "https://github.com/dsphper/lanhu-mcp",
-          "category": "Python",
-          "metric": "2,320 stars",
-          "publishedAtUtc": "2026-09-04T09:57:37.0000000Z"
+          "title": "cotabby",
+          "subtitle": "@FuJacob",
+          "summary": "Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type. Cotabby [beta] Open-source, local-first AI autocomplete for macOS.",
+          "url": "https://github.com/FuJacob/cotabby",
+          "category": "Swift",
+          "metric": "995 stars",
+          "publishedAtUtc": "2026-09-05T02:58:59.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "115,421 stars",
-      "publishedAtUtc": "2026-09-04T15:38:52.0000000Z"
+      "metric": "115,452 stars",
+      "publishedAtUtc": "2026-09-05T02:48:47.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "56,532 stars",
-      "publishedAtUtc": "2026-09-04T15:42:31.0000000Z"
+      "metric": "56,539 stars",
+      "publishedAtUtc": "2026-09-05T02:54:23.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,246 stars",
-      "publishedAtUtc": "2026-09-04T14:00:09.0000000Z"
+      "metric": "55,257 stars",
+      "publishedAtUtc": "2026-09-05T01:53:38.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "44,883 stars",
-      "publishedAtUtc": "2026-09-04T15:19:32.0000000Z"
+      "metric": "44,886 stars",
+      "publishedAtUtc": "2026-09-05T01:37:52.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,443 stars",
-      "publishedAtUtc": "2026-09-04T15:00:14.0000000Z"
+      "metric": "39,448 stars",
+      "publishedAtUtc": "2026-09-05T02:52:02.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,419 stars",
-      "publishedAtUtc": "2026-09-04T15:42:56.0000000Z"
+      "metric": "38,421 stars",
+      "publishedAtUtc": "2026-09-05T02:04:09.0000000Z"
     }
   ]
 }
