@@ -55,12 +55,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ai-trader-bot</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
@@ -73,19 +67,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=qwen-code</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=modal-client</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ragflow</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=copilotkit</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=agent-framework</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=n8n</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=lanhu-mcp</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
