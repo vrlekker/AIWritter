@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-09-17T03:30:04.4997380Z",
+  "generatedAtUtc": "2026-09-17T16:15:59.9423774Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "116,329 stars",
-          "publishedAtUtc": "2026-09-17T03:30:03.0000000Z"
+          "metric": "116,379 stars",
+          "publishedAtUtc": "2026-09-17T16:14:18.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "57,220 stars",
-          "publishedAtUtc": "2026-09-17T02:54:39.0000000Z"
+          "metric": "57,240 stars",
+          "publishedAtUtc": "2026-09-17T16:12:18.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,431 stars",
-          "publishedAtUtc": "2026-09-17T03:08:18.0000000Z"
+          "metric": "55,438 stars",
+          "publishedAtUtc": "2026-09-17T16:06:36.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "45,479 stars",
-          "publishedAtUtc": "2026-09-17T03:01:23.0000000Z"
+          "metric": "45,495 stars",
+          "publishedAtUtc": "2026-09-17T15:38:46.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,604 stars",
-          "publishedAtUtc": "2026-09-17T03:05:41.0000000Z"
+          "metric": "39,613 stars",
+          "publishedAtUtc": "2026-09-17T15:40:45.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -63,7 +63,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "38,442 stars",
-          "publishedAtUtc": "2026-09-17T00:52:18.0000000Z"
+          "publishedAtUtc": "2026-09-17T15:58:59.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "ragflow",
-          "subtitle": "@infiniflow",
-          "summary": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent... \uD83D\uDCD5 Table of Contents \uD83D\uDCA1 What is RAGFlow?",
-          "url": "https://github.com/infiniflow/ragflow",
-          "category": "Go",
-          "metric": "90,844 stars",
-          "publishedAtUtc": "2026-09-17T03:29:17.0000000Z"
-        },
-        {
-          "title": "deepchat",
-          "subtitle": "@ThinkInAIXYZ",
-          "summary": "\uD83D\uDC2CDeepChat - A smart assistant that connects powerful AI to your personal world DeepChat - Open-Source Local-First AI Agent Desktop Client DeepChat is an open-source, local-first...",
-          "url": "https://github.com/ThinkInAIXYZ/deepchat",
+          "title": "n8n",
+          "subtitle": "@n8n-io",
+          "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code... n8n – The Platform for AI Agents and Workflow Automation Fair-code...",
+          "url": "https://github.com/n8n-io/n8n",
           "category": "TypeScript",
-          "metric": "6,327 stars",
-          "publishedAtUtc": "2026-09-17T03:29:13.0000000Z"
+          "metric": "204,918 stars",
+          "publishedAtUtc": "2026-09-17T16:15:49.0000000Z"
         },
         {
-          "title": "onyx",
-          "subtitle": "@onyx-dot-app",
-          "summary": "Open Source AI Platform - AI Chat with advanced features that works with every LLM Onyx - The Open Source AI Platform Onyx is the application layer for LLMs - bringing a...",
-          "url": "https://github.com/onyx-dot-app/onyx",
+          "title": "agent-native",
+          "subtitle": "@BuilderIO",
+          "summary": "A framework for building agentic apps Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI.",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "category": "TypeScript",
+          "metric": "4,802 stars",
+          "publishedAtUtc": "2026-09-17T16:15:38.0000000Z"
+        },
+        {
+          "title": "penguin-harness",
+          "subtitle": "@Prism-Shadow",
+          "summary": "\uD83D\uDC27 Harness for RSI. Let AI Build AI. Multi-Agent Auto-Dev Platform. Everything is Transparent. PenguinHarness Open-source, local-first multi-agent app development platform Fully...",
+          "url": "https://github.com/Prism-Shadow/penguin-harness",
+          "category": "TypeScript",
+          "metric": "2,265 stars",
+          "publishedAtUtc": "2026-09-17T16:15:17.0000000Z"
+        },
+        {
+          "title": "OpenAgentd",
+          "subtitle": "@lthoangg",
+          "summary": "The open-source, local-first alternative to Claude Code & Claude Cowork. Run multi-agent AI workflows locally with... OpenAgentd A coding-first workspace for a local coding agent.",
+          "url": "https://github.com/lthoangg/OpenAgentd",
           "category": "Python",
-          "metric": "32,138 stars",
-          "publishedAtUtc": "2026-09-17T03:29:01.0000000Z"
+          "metric": "211 stars",
+          "publishedAtUtc": "2026-09-17T16:15:13.0000000Z"
         },
         {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant...",
-          "url": "https://github.com/openclaw/openclaw",
+          "title": "Yohaku",
+          "subtitle": "@Innei",
+          "summary": "余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. 余白 / Yohaku _留白也是写作的一部分。_ 在线体验 · 设计系统 · iOS 源码 · 获取 Web...",
+          "url": "https://github.com/Innei/Yohaku",
           "category": "TypeScript",
-          "metric": "389,913 stars",
-          "publishedAtUtc": "2026-09-17T03:29:01.0000000Z"
+          "metric": "186 stars",
+          "publishedAtUtc": "2026-09-17T16:14:49.0000000Z"
         },
         {
-          "title": "dbx",
-          "subtitle": "@t8y2",
-          "summary": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis... Desktop, Docker, CLI, built-in AI assistant, and MCP Server.",
-          "url": "https://github.com/t8y2/dbx",
-          "category": "Rust",
-          "metric": "19,843 stars",
-          "publishedAtUtc": "2026-09-17T03:28:55.0000000Z"
-        },
-        {
-          "title": "rulesync",
-          "subtitle": "@dyoshikawa",
-          "summary": "A Utility CLI for AI Coding Agents Rulesync Documentation npm A Node.js CLI tool that automatically generates configuration files for various AI development tools from...",
-          "url": "https://github.com/dyoshikawa/rulesync",
+          "title": "screenpipe",
+          "subtitle": "@screenpipe",
+          "summary": "YC (S26) Open Computer History Record your screen continuously locally and provide context to your agents (Claude... [ screenpipe YC S26 ] Screenpipe remembers how you actually...",
+          "url": "https://github.com/screenpipe/screenpipe",
           "category": "TypeScript",
-          "metric": "1,428 stars",
-          "publishedAtUtc": "2026-09-17T03:28:16.0000000Z"
+          "metric": "21,609 stars",
+          "publishedAtUtc": "2026-09-17T16:14:37.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "116,329 stars",
-      "publishedAtUtc": "2026-09-17T03:30:03.0000000Z"
+      "metric": "116,379 stars",
+      "publishedAtUtc": "2026-09-17T16:14:18.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "57,220 stars",
-      "publishedAtUtc": "2026-09-17T02:54:39.0000000Z"
+      "metric": "57,240 stars",
+      "publishedAtUtc": "2026-09-17T16:12:18.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,431 stars",
-      "publishedAtUtc": "2026-09-17T03:08:18.0000000Z"
+      "metric": "55,438 stars",
+      "publishedAtUtc": "2026-09-17T16:06:36.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "45,479 stars",
-      "publishedAtUtc": "2026-09-17T03:01:23.0000000Z"
+      "metric": "45,495 stars",
+      "publishedAtUtc": "2026-09-17T15:38:46.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,604 stars",
-      "publishedAtUtc": "2026-09-17T03:05:41.0000000Z"
+      "metric": "39,613 stars",
+      "publishedAtUtc": "2026-09-17T15:40:45.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -185,7 +185,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "38,442 stars",
-      "publishedAtUtc": "2026-09-17T00:52:18.0000000Z"
+      "publishedAtUtc": "2026-09-17T15:58:59.0000000Z"
     }
   ]
 }
