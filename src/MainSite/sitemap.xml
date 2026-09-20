@@ -55,37 +55,37 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=zillionare</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ragent</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=forge</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ai-trader-bot</loc>
     <lastmod>2026-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=vtcode</loc>
     <lastmod>2026-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=dify</loc>
-    <lastmod>2026-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=mockserver-monorepo</loc>
-    <lastmod>2026-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=persona</loc>
-    <lastmod>2026-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openflowkit</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=agent-native</loc>
     <lastmod>2026-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
