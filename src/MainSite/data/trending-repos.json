@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-09-24T16:31:41.0779817Z",
+  "generatedAtUtc": "2026-09-25T03:30:47.3555611Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-09-17 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-09-18 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "116,876 stars",
-          "publishedAtUtc": "2026-09-24T16:16:18.0000000Z"
+          "metric": "116,921 stars",
+          "publishedAtUtc": "2026-09-25T03:21:18.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "57,461 stars",
-          "publishedAtUtc": "2026-09-24T15:54:28.0000000Z"
+          "metric": "57,476 stars",
+          "publishedAtUtc": "2026-09-25T03:06:27.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,511 stars",
-          "publishedAtUtc": "2026-09-24T16:29:39.0000000Z"
+          "metric": "55,515 stars",
+          "publishedAtUtc": "2026-09-25T02:03:52.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "45,654 stars",
-          "publishedAtUtc": "2026-09-24T16:05:21.0000000Z"
+          "metric": "45,659 stars",
+          "publishedAtUtc": "2026-09-25T03:16:18.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,730 stars",
-          "publishedAtUtc": "2026-09-24T15:43:11.0000000Z"
+          "metric": "39,735 stars",
+          "publishedAtUtc": "2026-09-25T01:41:41.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -63,7 +63,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "38,460 stars",
-          "publishedAtUtc": "2026-09-24T16:05:56.0000000Z"
+          "publishedAtUtc": "2026-09-25T01:50:08.0000000Z"
         }
       ]
     },
@@ -76,40 +76,40 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "Cotal",
-          "subtitle": "@Cotal-AI",
-          "summary": "The open standard for agent coordination The open pub/sub standard for AI agents.",
-          "url": "https://github.com/Cotal-AI/Cotal",
+          "title": "OneBox",
+          "subtitle": "@wangzhishou",
+          "summary": "A free AI agent & toolbox for Android 一站式安卓 AI 智能体 & 工具箱 OneBox (万宝盒) English 简体中文 A free AI agent & toolbox for Android: say what you need and the built-in agent drives 90+...",
+          "url": "https://github.com/wangzhishou/OneBox",
+          "category": "Kotlin",
+          "metric": "432 stars",
+          "publishedAtUtc": "2026-09-25T03:30:38.0000000Z"
+        },
+        {
+          "title": "agent-native",
+          "subtitle": "@BuilderIO",
+          "summary": "A framework for building agentic apps Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI.",
+          "url": "https://github.com/BuilderIO/agent-native",
           "category": "TypeScript",
-          "metric": "300 stars",
-          "publishedAtUtc": "2026-09-24T16:31:40.0000000Z"
+          "metric": "6,787 stars",
+          "publishedAtUtc": "2026-09-25T03:30:33.0000000Z"
         },
         {
-          "title": "tt-metal",
-          "subtitle": "@tenstorrent",
-          "summary": ":metal: TT-NN operator library, and TT-Metalium low level kernel programming model. Hardware Install Discord Join Us Bounty $ TT-NN is a Python & C++ Neural Network OP library.",
-          "url": "https://github.com/tenstorrent/tt-metal",
-          "category": "C++",
-          "metric": "1,685 stars",
-          "publishedAtUtc": "2026-09-24T16:31:36.0000000Z"
+          "title": "AstrBot",
+          "subtitle": "@AstrBotDevs",
+          "summary": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can... ｜ Email Support AstrBot is an open-source all-in-one...",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "category": "Python",
+          "metric": "40,980 stars",
+          "publishedAtUtc": "2026-09-25T03:30:33.0000000Z"
         },
         {
-          "title": "token-monitor",
-          "subtitle": "@Javis603",
-          "summary": "Local-first desktop widget for tracking token usage, costs, and limits across 40+ AI coding tools—including Claude... EN 简 繁 KO JA Token Monitor One live dashboard for every AI...",
-          "url": "https://github.com/Javis603/token-monitor",
-          "category": "JavaScript",
-          "metric": "2,352 stars",
-          "publishedAtUtc": "2026-09-24T16:31:21.0000000Z"
-        },
-        {
-          "title": "hybridclaw",
-          "subtitle": "@HybridAIOne",
-          "summary": "Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory HybridClaw Business Skills That Work On Smaller Models...",
-          "url": "https://github.com/HybridAIOne/hybridclaw",
-          "category": "TypeScript",
-          "metric": "155 stars",
-          "publishedAtUtc": "2026-09-24T16:31:17.0000000Z"
+          "title": "vox",
+          "subtitle": "@rtk-ai",
+          "summary": "A universal AI toolkit for high-performance Speech-to-Text (STT) and Text-to-Speech (TTS) processing, designed for... vox Cross-platform TTS CLI with seven backends and MCP...",
+          "url": "https://github.com/rtk-ai/vox",
+          "category": "Rust",
+          "metric": "160 stars",
+          "publishedAtUtc": "2026-09-25T03:30:25.0000000Z"
         },
         {
           "title": "ai-trader-bot",
@@ -118,16 +118,16 @@
           "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot",
           "category": "Solidity",
           "metric": "2,711 stars",
-          "publishedAtUtc": "2026-09-24T16:31:16.0000000Z"
+          "publishedAtUtc": "2026-09-25T03:30:22.0000000Z"
         },
         {
-          "title": "AITreasureBox",
-          "subtitle": "@superiorlu",
-          "summary": "\uD83E\uDD16 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 \uD83D\uDC8E AI TreasureBox English 中文 Collect practical AI repos, tools, websites, papers and tutorials...",
-          "url": "https://github.com/superiorlu/AITreasureBox",
-          "category": "Ruby",
-          "metric": "868 stars",
-          "publishedAtUtc": "2026-09-24T16:31:06.0000000Z"
+          "title": "loushang",
+          "subtitle": "@zhnt",
+          "summary": "AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool... Loushang English 中文 Loushang is a method-native AI work system...",
+          "url": "https://github.com/zhnt/loushang",
+          "category": "Python",
+          "metric": "1,551 stars",
+          "publishedAtUtc": "2026-09-25T03:30:11.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "116,876 stars",
-      "publishedAtUtc": "2026-09-24T16:16:18.0000000Z"
+      "metric": "116,921 stars",
+      "publishedAtUtc": "2026-09-25T03:21:18.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "57,461 stars",
-      "publishedAtUtc": "2026-09-24T15:54:28.0000000Z"
+      "metric": "57,476 stars",
+      "publishedAtUtc": "2026-09-25T03:06:27.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,511 stars",
-      "publishedAtUtc": "2026-09-24T16:29:39.0000000Z"
+      "metric": "55,515 stars",
+      "publishedAtUtc": "2026-09-25T02:03:52.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "45,654 stars",
-      "publishedAtUtc": "2026-09-24T16:05:21.0000000Z"
+      "metric": "45,659 stars",
+      "publishedAtUtc": "2026-09-25T03:16:18.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,730 stars",
-      "publishedAtUtc": "2026-09-24T15:43:11.0000000Z"
+      "metric": "39,735 stars",
+      "publishedAtUtc": "2026-09-25T01:41:41.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -185,7 +185,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "38,460 stars",
-      "publishedAtUtc": "2026-09-24T16:05:56.0000000Z"
+      "publishedAtUtc": "2026-09-25T01:50:08.0000000Z"
     }
   ]
 }
