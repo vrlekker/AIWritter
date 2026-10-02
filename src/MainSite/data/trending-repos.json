@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-10-01T18:02:54.4636386Z",
+  "generatedAtUtc": "2026-10-02T04:08:04.1108050Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-09-24 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-09-25 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "117,432 stars",
-          "publishedAtUtc": "2026-10-01T17:51:06.0000000Z"
+          "metric": "117,458 stars",
+          "publishedAtUtc": "2026-10-02T03:53:42.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "57,696 stars",
-          "publishedAtUtc": "2026-10-01T17:15:13.0000000Z"
+          "metric": "57,702 stars",
+          "publishedAtUtc": "2026-10-02T03:09:58.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,566 stars",
-          "publishedAtUtc": "2026-10-01T17:24:23.0000000Z"
+          "metric": "55,568 stars",
+          "publishedAtUtc": "2026-10-01T20:34:08.0000000Z"
         },
         {
           "title": "ShareX",
@@ -44,8 +44,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,831 stars",
-          "publishedAtUtc": "2026-10-01T17:55:08.0000000Z"
+          "metric": "39,834 stars",
+          "publishedAtUtc": "2026-10-02T00:16:35.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -54,7 +54,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "38,464 stars",
-          "publishedAtUtc": "2026-10-01T17:57:05.0000000Z"
+          "publishedAtUtc": "2026-10-01T19:23:54.0000000Z"
         },
         {
           "title": "DevToys",
@@ -62,8 +62,8 @@
           "summary": "A Swiss Army knife for developers. Introduction DevToys helps with daily development tasks by offering a bundle of tiny tools designed to do quick, specific tiny tasks.",
           "url": "https://github.com/DevToys-app/DevToys",
           "category": "C#",
-          "metric": "32,048 stars",
-          "publishedAtUtc": "2026-10-01T17:06:57.0000000Z"
+          "metric": "32,051 stars",
+          "publishedAtUtc": "2026-10-02T03:06:25.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "civitai",
-          "subtitle": "@civitai",
-          "summary": "A repository of models, textual inversions, and more [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url]...",
-          "url": "https://github.com/civitai/civitai",
-          "category": "TypeScript",
-          "metric": "7,267 stars",
-          "publishedAtUtc": "2026-10-01T18:02:08.0000000Z"
-        },
-        {
-          "title": "aidevops",
-          "subtitle": "@marcusquinn",
-          "summary": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and... AI DevOps Framework aidevops.sh is an OpenCode plugin and...",
-          "url": "https://github.com/marcusquinn/aidevops",
-          "category": "Shell",
-          "metric": "404 stars",
-          "publishedAtUtc": "2026-10-01T18:01:56.0000000Z"
-        },
-        {
-          "title": "mockserver-monorepo",
-          "subtitle": "@mock-server",
-          "summary": "MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic... MockServer...",
-          "url": "https://github.com/mock-server/mockserver-monorepo",
-          "category": "Java",
-          "metric": "4,980 stars",
-          "publishedAtUtc": "2026-10-01T18:01:56.0000000Z"
-        },
-        {
-          "title": "archestra",
-          "subtitle": "@archestra-ai",
-          "summary": "Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator The all-in-one open-source enterprise AI platform.",
-          "url": "https://github.com/archestra-ai/archestra",
-          "category": "TypeScript",
-          "metric": "4,336 stars",
-          "publishedAtUtc": "2026-10-01T18:01:44.0000000Z"
-        },
-        {
-          "title": "omnigent",
-          "subtitle": "@omnigent-ai",
-          "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom... Omnigent The open-source meta-harness for all your AI...",
-          "url": "https://github.com/omnigent-ai/omnigent",
+          "title": "omi",
+          "subtitle": "@BasedHardware",
+          "summary": "AI that sees your screen, listens to your conversations and tells you what to do omi A 2nd brain you trust more than your 1st Omi captures your screen and conversations...",
+          "url": "https://github.com/BasedHardware/omi",
           "category": "Python",
-          "metric": "10,400 stars",
-          "publishedAtUtc": "2026-10-01T18:01:45.0000000Z"
+          "metric": "13,621 stars",
+          "publishedAtUtc": "2026-10-02T04:08:00.0000000Z"
         },
         {
-          "title": "suna",
-          "subtitle": "@kortix-ai",
-          "summary": "The open-source AI Management System Website · Documentation · Cloud · Manifesto -- Agents that deliver finished work — reports, decks, code, replies, deployed changes — are...",
-          "url": "https://github.com/kortix-ai/suna",
+          "title": "lemma-platform",
+          "subtitle": "@lemma-work",
+          "summary": "The open-source workspace where humans and AI agents work as one team. Your team, your agents, one context layer, scoped to each person.",
+          "url": "https://github.com/lemma-work/lemma-platform",
+          "category": "Python",
+          "metric": "475 stars",
+          "publishedAtUtc": "2026-10-02T04:08:00.0000000Z"
+        },
+        {
+          "title": "onnx",
+          "subtitle": "@onnx",
+          "summary": "Open standard for machine learning interoperability Open Neural Network Exchange (ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their...",
+          "url": "https://github.com/onnx/onnx",
+          "category": "Python",
+          "metric": "21,552 stars",
+          "publishedAtUtc": "2026-10-02T04:07:47.0000000Z"
+        },
+        {
+          "title": "awesome-langchain",
+          "subtitle": "@kyrolabs",
+          "summary": "\uD83D\uDE0E Awesome list of tools and projects with the awesome LangChain framework \uD83E\uDD9C\uD83D\uDD17 Awesome LangChain Curated list of tools and projects using LangChain.",
+          "url": "https://github.com/kyrolabs/awesome-langchain",
+          "category": "Repository",
+          "metric": "9,555 stars",
+          "publishedAtUtc": "2026-10-02T04:07:49.0000000Z"
+        },
+        {
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant...",
+          "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "20,240 stars",
-          "publishedAtUtc": "2026-10-01T18:01:34.0000000Z"
+          "metric": "391,179 stars",
+          "publishedAtUtc": "2026-10-02T04:07:31.0000000Z"
+        },
+        {
+          "title": "unsloth",
+          "subtitle": "@unslothai",
+          "summary": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4... Unsloth is the first desktop app to run and train models.",
+          "url": "https://github.com/unslothai/unsloth",
+          "category": "Python",
+          "metric": "77,122 stars",
+          "publishedAtUtc": "2026-10-02T04:07:14.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "117,432 stars",
-      "publishedAtUtc": "2026-10-01T17:51:06.0000000Z"
+      "metric": "117,458 stars",
+      "publishedAtUtc": "2026-10-02T03:53:42.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "57,696 stars",
-      "publishedAtUtc": "2026-10-01T17:15:13.0000000Z"
+      "metric": "57,702 stars",
+      "publishedAtUtc": "2026-10-02T03:09:58.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,566 stars",
-      "publishedAtUtc": "2026-10-01T17:24:23.0000000Z"
+      "metric": "55,568 stars",
+      "publishedAtUtc": "2026-10-01T20:34:08.0000000Z"
     },
     {
       "title": "ShareX",
@@ -166,8 +166,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,831 stars",
-      "publishedAtUtc": "2026-10-01T17:55:08.0000000Z"
+      "metric": "39,834 stars",
+      "publishedAtUtc": "2026-10-02T00:16:35.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -176,7 +176,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "38,464 stars",
-      "publishedAtUtc": "2026-10-01T17:57:05.0000000Z"
+      "publishedAtUtc": "2026-10-01T19:23:54.0000000Z"
     },
     {
       "title": "DevToys",
@@ -184,8 +184,8 @@
       "summary": "A Swiss Army knife for developers. Introduction DevToys helps with daily development tasks by offering a bundle of tiny tools designed to do quick, specific tiny tasks.",
       "url": "https://github.com/DevToys-app/DevToys",
       "category": "C#",
-      "metric": "32,048 stars",
-      "publishedAtUtc": "2026-10-01T17:06:57.0000000Z"
+      "metric": "32,051 stars",
+      "publishedAtUtc": "2026-10-02T03:06:25.0000000Z"
     }
   ]
 }
