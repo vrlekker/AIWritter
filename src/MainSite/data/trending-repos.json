@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-10-04T04:22:52.0290680Z",
+  "generatedAtUtc": "2026-10-04T16:28:05.8527764Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "117,573 stars",
-          "publishedAtUtc": "2026-10-04T03:50:20.0000000Z"
+          "metric": "117,610 stars",
+          "publishedAtUtc": "2026-10-04T16:11:12.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "57,750 stars",
-          "publishedAtUtc": "2026-10-04T03:44:07.0000000Z"
+          "metric": "57,766 stars",
+          "publishedAtUtc": "2026-10-04T16:21:03.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,585 stars",
-          "publishedAtUtc": "2026-10-04T04:06:30.0000000Z"
+          "metric": "55,594 stars",
+          "publishedAtUtc": "2026-10-04T15:33:31.0000000Z"
         },
         {
           "title": "ShareX",
@@ -44,8 +44,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,862 stars",
-          "publishedAtUtc": "2026-10-04T04:18:32.0000000Z"
+          "metric": "39,876 stars",
+          "publishedAtUtc": "2026-10-04T15:21:10.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -54,7 +54,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "38,465 stars",
-          "publishedAtUtc": "2026-10-04T03:13:49.0000000Z"
+          "publishedAtUtc": "2026-10-04T14:21:36.0000000Z"
         },
         {
           "title": "DevToys",
@@ -62,8 +62,8 @@
           "summary": "A Swiss Army knife for developers. Introduction DevToys helps with daily development tasks by offering a bundle of tiny tools designed to do quick, specific tiny tasks.",
           "url": "https://github.com/DevToys-app/DevToys",
           "category": "C#",
-          "metric": "32,060 stars",
-          "publishedAtUtc": "2026-10-04T02:02:15.0000000Z"
+          "metric": "32,063 stars",
+          "publishedAtUtc": "2026-10-04T15:37:03.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "claude-code-best-practice",
-          "subtitle": "@shanraisshan",
-          "summary": "from vibe coding to agentic engineering - practice makes claude perfect \uD83E\uDDE0 CONCEPTS Feature Location Description --------- ---------- ------------- Subagents .claude/agents/ .md...",
-          "url": "https://github.com/shanraisshan/claude-code-best-practice",
-          "category": "HTML",
-          "metric": "67,044 stars",
-          "publishedAtUtc": "2026-10-04T04:00:51.0000000Z"
+          "title": "CozyClay",
+          "subtitle": "@NomaDamas",
+          "summary": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take... Block a scene, pose the cast, cut the camera — in a browser...",
+          "url": "https://github.com/NomaDamas/CozyClay",
+          "category": "JavaScript",
+          "metric": "753 stars",
+          "publishedAtUtc": "2026-10-04T16:28:04.0000000Z"
         },
         {
-          "title": "Cotal",
-          "subtitle": "@Cotal-AI",
-          "summary": "The open standard for agent coordination The open pub/sub standard for AI agents.",
-          "url": "https://github.com/Cotal-AI/Cotal",
+          "title": "ClickHouse",
+          "subtitle": "@ClickHouse",
+          "summary": "ClickHouse® is a real-time analytics database management system ClickHouse® is an open-source column-oriented database management system that allows generating analytical data...",
+          "url": "https://github.com/ClickHouse/ClickHouse",
+          "category": "C++",
+          "metric": "50,238 stars",
+          "publishedAtUtc": "2026-10-04T16:27:15.0000000Z"
+        },
+        {
+          "title": "CopilotKit",
+          "subtitle": "@CopilotKit",
+          "summary": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol CopilotKit Docs · Examples · CopilotKit Intelligence ·...",
+          "url": "https://github.com/CopilotKit/CopilotKit",
           "category": "TypeScript",
-          "metric": "307 stars",
-          "publishedAtUtc": "2026-10-04T04:22:37.0000000Z"
+          "metric": "37,741 stars",
+          "publishedAtUtc": "2026-10-04T16:27:09.0000000Z"
         },
         {
-          "title": "macro",
-          "subtitle": "@macro-inc",
-          "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with... · · Feature requests · Contribute · Hiring Macro is the...",
-          "url": "https://github.com/macro-inc/macro",
+          "title": "Archon",
+          "subtitle": "@coleam00",
+          "summary": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. Archon The first open-source harness builder for AI coding.",
+          "url": "https://github.com/coleam00/Archon",
+          "category": "TypeScript",
+          "metric": "23,613 stars",
+          "publishedAtUtc": "2026-10-04T16:27:08.0000000Z"
+        },
+        {
+          "title": "code-graph-rag",
+          "subtitle": "@vitali87",
+          "summary": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and... Code-Graph-RAG Code-Graph-RAG parses a multi-language...",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "category": "Python",
+          "metric": "5,230 stars",
+          "publishedAtUtc": "2026-10-04T16:26:39.0000000Z"
+        },
+        {
+          "title": "qsv",
+          "subtitle": "@dathere",
+          "summary": "Blazing-fast Data-Wrangling toolkit qsv: Blazing-fast Data-Wrangling toolkit &nbsp; Table of Contents :-------------------------- :------------------------- _Hi-ho...",
+          "url": "https://github.com/dathere/qsv",
           "category": "Rust",
-          "metric": "4,544 stars",
-          "publishedAtUtc": "2026-10-04T04:22:21.0000000Z"
-        },
-        {
-          "title": "claude-mem",
-          "subtitle": "@thedotmack",
-          "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses... &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; \uD83C\uDDE8\uD83C\uDDF3 中文 • \uD83C\uDDF9\uD83C\uDDFC 繁體中文...",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "category": "TypeScript",
-          "metric": "95,658 stars",
-          "publishedAtUtc": "2026-10-04T04:22:33.0000000Z"
-        },
-        {
-          "title": "DeskcommCRM",
-          "subtitle": "@melgarafael",
-          "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk... \uD83C\uDDE7\uD83C\uDDF7 Português · \uD83C\uDDFA\uD83C\uDDF8 English · \uD83C\uDDEA\uD83C\uDDF8 Español \uD83D\uDEE0️...",
-          "url": "https://github.com/melgarafael/DeskcommCRM",
-          "category": "TypeScript",
-          "metric": "4,399 stars",
-          "publishedAtUtc": "2026-10-04T04:22:15.0000000Z"
-        },
-        {
-          "title": "stacks",
-          "subtitle": "@stacksjs",
-          "summary": "Modern, performant, optimized for DX/AX. Develop powerful apps, clouds & framework-agnostic libraries—faster. Rapid App & Library Development [!NOTE] Stacks is in active...",
-          "url": "https://github.com/stacksjs/stacks",
-          "category": "TypeScript",
-          "metric": "631 stars",
-          "publishedAtUtc": "2026-10-04T04:22:13.0000000Z"
+          "metric": "3,802 stars",
+          "publishedAtUtc": "2026-10-04T16:26:35.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "117,573 stars",
-      "publishedAtUtc": "2026-10-04T03:50:20.0000000Z"
+      "metric": "117,610 stars",
+      "publishedAtUtc": "2026-10-04T16:11:12.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "57,750 stars",
-      "publishedAtUtc": "2026-10-04T03:44:07.0000000Z"
+      "metric": "57,766 stars",
+      "publishedAtUtc": "2026-10-04T16:21:03.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,585 stars",
-      "publishedAtUtc": "2026-10-04T04:06:30.0000000Z"
+      "metric": "55,594 stars",
+      "publishedAtUtc": "2026-10-04T15:33:31.0000000Z"
     },
     {
       "title": "ShareX",
@@ -166,8 +166,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,862 stars",
-      "publishedAtUtc": "2026-10-04T04:18:32.0000000Z"
+      "metric": "39,876 stars",
+      "publishedAtUtc": "2026-10-04T15:21:10.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -176,7 +176,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "38,465 stars",
-      "publishedAtUtc": "2026-10-04T03:13:49.0000000Z"
+      "publishedAtUtc": "2026-10-04T14:21:36.0000000Z"
     },
     {
       "title": "DevToys",
@@ -184,8 +184,8 @@
       "summary": "A Swiss Army knife for developers. Introduction DevToys helps with daily development tasks by offering a bundle of tiny tools designed to do quick, specific tiny tasks.",
       "url": "https://github.com/DevToys-app/DevToys",
       "category": "C#",
-      "metric": "32,060 stars",
-      "publishedAtUtc": "2026-10-04T02:02:15.0000000Z"
+      "metric": "32,063 stars",
+      "publishedAtUtc": "2026-10-04T15:37:03.0000000Z"
     }
   ]
 }
