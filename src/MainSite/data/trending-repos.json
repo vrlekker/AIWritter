@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-10-03T15:44:30.7001845Z",
+  "generatedAtUtc": "2026-10-04T04:22:52.0290680Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-09-26 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-09-27 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "117,558 stars",
-          "publishedAtUtc": "2026-10-03T15:40:16.0000000Z"
+          "metric": "117,573 stars",
+          "publishedAtUtc": "2026-10-04T03:50:20.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "57,735 stars",
-          "publishedAtUtc": "2026-10-03T15:39:07.0000000Z"
+          "metric": "57,750 stars",
+          "publishedAtUtc": "2026-10-04T03:44:07.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,580 stars",
-          "publishedAtUtc": "2026-10-03T15:04:30.0000000Z"
+          "metric": "55,585 stars",
+          "publishedAtUtc": "2026-10-04T04:06:30.0000000Z"
         },
         {
           "title": "ShareX",
@@ -44,8 +44,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,856 stars",
-          "publishedAtUtc": "2026-10-03T15:37:44.0000000Z"
+          "metric": "39,862 stars",
+          "publishedAtUtc": "2026-10-04T04:18:32.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -53,8 +53,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,464 stars",
-          "publishedAtUtc": "2026-10-03T13:09:44.0000000Z"
+          "metric": "38,465 stars",
+          "publishedAtUtc": "2026-10-04T03:13:49.0000000Z"
         },
         {
           "title": "DevToys",
@@ -62,8 +62,8 @@
           "summary": "A Swiss Army knife for developers. Introduction DevToys helps with daily development tasks by offering a bundle of tiny tools designed to do quick, specific tiny tasks.",
           "url": "https://github.com/DevToys-app/DevToys",
           "category": "C#",
-          "metric": "32,055 stars",
-          "publishedAtUtc": "2026-10-03T13:25:35.0000000Z"
+          "metric": "32,060 stars",
+          "publishedAtUtc": "2026-10-04T02:02:15.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "pr-agent",
-          "subtitle": "@The-PR-Agent",
-          "summary": "\uD83D\uDE80 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. The Original Open-Source PR Reviewer -- This repository contains the open-source PR...",
-          "url": "https://github.com/The-PR-Agent/pr-agent",
-          "category": "Python",
-          "metric": "13,252 stars",
-          "publishedAtUtc": "2026-10-03T15:44:20.0000000Z"
+          "title": "claude-code-best-practice",
+          "subtitle": "@shanraisshan",
+          "summary": "from vibe coding to agentic engineering - practice makes claude perfect \uD83E\uDDE0 CONCEPTS Feature Location Description --------- ---------- ------------- Subagents .claude/agents/ .md...",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "category": "HTML",
+          "metric": "67,044 stars",
+          "publishedAtUtc": "2026-10-04T04:00:51.0000000Z"
         },
         {
-          "title": "aeon",
-          "subtitle": "@aeonfun",
-          "summary": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code... Star us&nbsp;❤️&nbsp;→ &nbsp;&nbsp; &nbsp;&nbsp...",
-          "url": "https://github.com/aeonfun/aeon",
-          "category": "Shell",
-          "metric": "759 stars",
-          "publishedAtUtc": "2026-10-03T15:44:11.0000000Z"
-        },
-        {
-          "title": "unsloth",
-          "subtitle": "@unslothai",
-          "summary": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4... Unsloth is the first desktop app to run and train models.",
-          "url": "https://github.com/unslothai/unsloth",
-          "category": "Python",
-          "metric": "77,167 stars",
-          "publishedAtUtc": "2026-10-03T15:43:57.0000000Z"
-        },
-        {
-          "title": "hyperframes",
-          "subtitle": "@heygen-com",
-          "summary": "Write HTML. Render video. Built for agents. HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos.",
-          "url": "https://github.com/heygen-com/hyperframes",
+          "title": "Cotal",
+          "subtitle": "@Cotal-AI",
+          "summary": "The open standard for agent coordination The open pub/sub standard for AI agents.",
+          "url": "https://github.com/Cotal-AI/Cotal",
           "category": "TypeScript",
-          "metric": "56,182 stars",
-          "publishedAtUtc": "2026-10-03T15:44:20.0000000Z"
+          "metric": "307 stars",
+          "publishedAtUtc": "2026-10-04T04:22:37.0000000Z"
         },
         {
-          "title": "Raven",
-          "subtitle": "@EverMind-AI",
-          "summary": "The Harness of Harnesses • built for RSI: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain... Website · Documentation · 中文 What is Raven One Surface, All...",
-          "url": "https://github.com/EverMind-AI/Raven",
-          "category": "Python",
-          "metric": "5,105 stars",
-          "publishedAtUtc": "2026-10-03T15:43:08.0000000Z"
+          "title": "macro",
+          "subtitle": "@macro-inc",
+          "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with... · · Feature requests · Contribute · Hiring Macro is the...",
+          "url": "https://github.com/macro-inc/macro",
+          "category": "Rust",
+          "metric": "4,544 stars",
+          "publishedAtUtc": "2026-10-04T04:22:21.0000000Z"
         },
         {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant...",
-          "url": "https://github.com/openclaw/openclaw",
+          "title": "claude-mem",
+          "subtitle": "@thedotmack",
+          "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses... &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; \uD83C\uDDE8\uD83C\uDDF3 中文 • \uD83C\uDDF9\uD83C\uDDFC 繁體中文...",
+          "url": "https://github.com/thedotmack/claude-mem",
           "category": "TypeScript",
-          "metric": "391,229 stars",
-          "publishedAtUtc": "2026-10-03T15:43:06.0000000Z"
+          "metric": "95,658 stars",
+          "publishedAtUtc": "2026-10-04T04:22:33.0000000Z"
+        },
+        {
+          "title": "DeskcommCRM",
+          "subtitle": "@melgarafael",
+          "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk... \uD83C\uDDE7\uD83C\uDDF7 Português · \uD83C\uDDFA\uD83C\uDDF8 English · \uD83C\uDDEA\uD83C\uDDF8 Español \uD83D\uDEE0️...",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "category": "TypeScript",
+          "metric": "4,399 stars",
+          "publishedAtUtc": "2026-10-04T04:22:15.0000000Z"
+        },
+        {
+          "title": "stacks",
+          "subtitle": "@stacksjs",
+          "summary": "Modern, performant, optimized for DX/AX. Develop powerful apps, clouds & framework-agnostic libraries—faster. Rapid App & Library Development [!NOTE] Stacks is in active...",
+          "url": "https://github.com/stacksjs/stacks",
+          "category": "TypeScript",
+          "metric": "631 stars",
+          "publishedAtUtc": "2026-10-04T04:22:13.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "117,558 stars",
-      "publishedAtUtc": "2026-10-03T15:40:16.0000000Z"
+      "metric": "117,573 stars",
+      "publishedAtUtc": "2026-10-04T03:50:20.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "57,735 stars",
-      "publishedAtUtc": "2026-10-03T15:39:07.0000000Z"
+      "metric": "57,750 stars",
+      "publishedAtUtc": "2026-10-04T03:44:07.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,580 stars",
-      "publishedAtUtc": "2026-10-03T15:04:30.0000000Z"
+      "metric": "55,585 stars",
+      "publishedAtUtc": "2026-10-04T04:06:30.0000000Z"
     },
     {
       "title": "ShareX",
@@ -166,8 +166,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,856 stars",
-      "publishedAtUtc": "2026-10-03T15:37:44.0000000Z"
+      "metric": "39,862 stars",
+      "publishedAtUtc": "2026-10-04T04:18:32.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -175,8 +175,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,464 stars",
-      "publishedAtUtc": "2026-10-03T13:09:44.0000000Z"
+      "metric": "38,465 stars",
+      "publishedAtUtc": "2026-10-04T03:13:49.0000000Z"
     },
     {
       "title": "DevToys",
@@ -184,8 +184,8 @@
       "summary": "A Swiss Army knife for developers. Introduction DevToys helps with daily development tasks by offering a bundle of tiny tools designed to do quick, specific tiny tasks.",
       "url": "https://github.com/DevToys-app/DevToys",
       "category": "C#",
-      "metric": "32,055 stars",
-      "publishedAtUtc": "2026-10-03T13:25:35.0000000Z"
+      "metric": "32,060 stars",
+      "publishedAtUtc": "2026-10-04T02:02:15.0000000Z"
     }
   ]
 }
