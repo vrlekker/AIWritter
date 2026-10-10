@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-10-09T17:58:40.3299688Z",
+  "generatedAtUtc": "2026-10-10T04:24:36.6419274Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-02 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-03 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "117,706 stars",
-          "publishedAtUtc": "2026-10-09T17:41:31.0000000Z"
+          "metric": "117,732 stars",
+          "publishedAtUtc": "2026-10-10T04:17:56.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "57,937 stars",
-          "publishedAtUtc": "2026-10-09T17:41:59.0000000Z"
+          "metric": "57,953 stars",
+          "publishedAtUtc": "2026-10-10T04:17:42.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,660 stars",
-          "publishedAtUtc": "2026-10-09T17:50:49.0000000Z"
+          "metric": "55,664 stars",
+          "publishedAtUtc": "2026-10-10T03:19:00.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "45,871 stars",
-          "publishedAtUtc": "2026-10-09T17:42:14.0000000Z"
+          "metric": "45,876 stars",
+          "publishedAtUtc": "2026-10-10T03:54:24.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "39,959 stars",
-          "publishedAtUtc": "2026-10-09T17:54:31.0000000Z"
+          "metric": "39,964 stars",
+          "publishedAtUtc": "2026-10-10T02:58:17.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,462 stars",
-          "publishedAtUtc": "2026-10-09T17:48:52.0000000Z"
+          "metric": "38,461 stars",
+          "publishedAtUtc": "2026-10-09T20:07:13.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "commandkit",
-          "subtitle": "@neplexlabs",
-          "summary": "The discord.js meta-framework with features such as AI-powered command handler, analytics, feature flags, and more The discord.js meta-framework for building powerful, modular...",
-          "url": "https://github.com/neplexlabs/commandkit",
-          "category": "TypeScript",
-          "metric": "165 stars",
-          "publishedAtUtc": "2026-10-09T17:58:34.0000000Z"
+          "title": "ethereum-flashloan-mev-bot",
+          "subtitle": "@MIgHTy-alIeN",
+          "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation.",
+          "url": "https://github.com/MIgHTy-alIeN/ethereum-flashloan-mev-bot",
+          "category": "Solidity",
+          "metric": "2,787 stars",
+          "publishedAtUtc": "2026-10-10T04:24:36.0000000Z"
         },
         {
-          "title": "collie",
-          "subtitle": "@AltanS",
-          "summary": "Herdr mobile client for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr... ColliePWA · A real Collie build running in the page against...",
-          "url": "https://github.com/AltanS/collie",
+          "title": "DeskcommCRM",
+          "subtitle": "@melgarafael",
+          "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk... \uD83C\uDDE7\uD83C\uDDF7 Português · \uD83C\uDDFA\uD83C\uDDF8 English · \uD83C\uDDEA\uD83C\uDDF8 Español \uD83D\uDEE0️...",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
           "category": "TypeScript",
-          "metric": "1,270 stars",
-          "publishedAtUtc": "2026-10-09T17:58:18.0000000Z"
+          "metric": "4,510 stars",
+          "publishedAtUtc": "2026-10-10T04:24:07.0000000Z"
         },
         {
-          "title": "CopilotKit",
-          "subtitle": "@CopilotKit",
-          "summary": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol CopilotKit Docs · Examples · CopilotKit Intelligence ·...",
-          "url": "https://github.com/CopilotKit/CopilotKit",
-          "category": "TypeScript",
-          "metric": "37,863 stars",
-          "publishedAtUtc": "2026-10-09T17:58:13.0000000Z"
-        },
-        {
-          "title": "adk-python",
-          "subtitle": "@google",
-          "summary": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with... Agent Development Kit (ADK) 2.0 An open-source, code-first...",
-          "url": "https://github.com/google/adk-python",
+          "title": "omi",
+          "subtitle": "@BasedHardware",
+          "summary": "AI that sees your screen, listens to your conversations and tells you what to do omi A 2nd brain you trust more than your 1st Omi captures your screen and conversations...",
+          "url": "https://github.com/BasedHardware/omi",
           "category": "Python",
-          "metric": "21,758 stars",
-          "publishedAtUtc": "2026-10-09T17:58:41.0000000Z"
+          "metric": "13,677 stars",
+          "publishedAtUtc": "2026-10-10T04:23:57.0000000Z"
         },
         {
-          "title": "legal-ai-skills",
-          "subtitle": "@rohasnagpal",
-          "summary": "Set Up an AI-Powered Full-Service Law Firm in 90 Seconds 17 Specialist Lawyers: Handle matters across practice areas such as corporate, criminal defence, contracts, family law...",
-          "url": "https://github.com/rohasnagpal/legal-ai-skills",
-          "category": "JavaScript",
-          "metric": "176 stars",
-          "publishedAtUtc": "2026-10-09T17:58:01.0000000Z"
-        },
-        {
-          "title": "hyperframes",
-          "subtitle": "@heygen-com",
-          "summary": "Write HTML. Render video. Built for agents. HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos.",
-          "url": "https://github.com/heygen-com/hyperframes",
+          "title": "agent-native",
+          "subtitle": "@BuilderIO",
+          "summary": "A framework for building agentic apps Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI.",
+          "url": "https://github.com/BuilderIO/agent-native",
           "category": "TypeScript",
-          "metric": "59,658 stars",
-          "publishedAtUtc": "2026-10-09T17:58:13.0000000Z"
+          "metric": "7,113 stars",
+          "publishedAtUtc": "2026-10-10T04:23:48.0000000Z"
+        },
+        {
+          "title": "imgcompress",
+          "subtitle": "@karimz1",
+          "summary": "Imgcompress is a self-hosted image processing toolbox that handles compression, format conversion, and AI background... Convert 70+ formats, crop per file, compress in bulk, and...",
+          "url": "https://github.com/karimz1/imgcompress",
+          "category": "TypeScript",
+          "metric": "344 stars",
+          "publishedAtUtc": "2026-10-10T04:23:44.0000000Z"
+        },
+        {
+          "title": "local-operator",
+          "subtitle": "@damianvtran",
+          "summary": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other... Local Operator An open-source AI agent hub: build...",
+          "url": "https://github.com/damianvtran/local-operator",
+          "category": "Python",
+          "metric": "217 stars",
+          "publishedAtUtc": "2026-10-10T04:23:09.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "117,706 stars",
-      "publishedAtUtc": "2026-10-09T17:41:31.0000000Z"
+      "metric": "117,732 stars",
+      "publishedAtUtc": "2026-10-10T04:17:56.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "57,937 stars",
-      "publishedAtUtc": "2026-10-09T17:41:59.0000000Z"
+      "metric": "57,953 stars",
+      "publishedAtUtc": "2026-10-10T04:17:42.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,660 stars",
-      "publishedAtUtc": "2026-10-09T17:50:49.0000000Z"
+      "metric": "55,664 stars",
+      "publishedAtUtc": "2026-10-10T03:19:00.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "45,871 stars",
-      "publishedAtUtc": "2026-10-09T17:42:14.0000000Z"
+      "metric": "45,876 stars",
+      "publishedAtUtc": "2026-10-10T03:54:24.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "39,959 stars",
-      "publishedAtUtc": "2026-10-09T17:54:31.0000000Z"
+      "metric": "39,964 stars",
+      "publishedAtUtc": "2026-10-10T02:58:17.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,462 stars",
-      "publishedAtUtc": "2026-10-09T17:48:52.0000000Z"
+      "metric": "38,461 stars",
+      "publishedAtUtc": "2026-10-09T20:07:13.0000000Z"
     }
   ]
 }
