@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-10-17T03:03:11.6596655Z",
+  "generatedAtUtc": "2026-10-17T14:58:54.4801504Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "118,385 stars",
-          "publishedAtUtc": "2026-10-17T02:53:37.0000000Z"
+          "metric": "118,443 stars",
+          "publishedAtUtc": "2026-10-17T14:44:41.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "58,148 stars",
-          "publishedAtUtc": "2026-10-17T02:30:24.0000000Z"
+          "metric": "58,154 stars",
+          "publishedAtUtc": "2026-10-17T14:26:40.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,781 stars",
-          "publishedAtUtc": "2026-10-17T01:06:38.0000000Z"
+          "metric": "55,794 stars",
+          "publishedAtUtc": "2026-10-17T14:26:42.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,020 stars",
-          "publishedAtUtc": "2026-10-17T01:46:03.0000000Z"
+          "metric": "46,027 stars",
+          "publishedAtUtc": "2026-10-17T14:46:00.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "40,122 stars",
-          "publishedAtUtc": "2026-10-17T02:33:03.0000000Z"
+          "metric": "40,135 stars",
+          "publishedAtUtc": "2026-10-17T14:29:05.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "OpenContracts",
-          "subtitle": "@Open-Source-Legal",
-          "summary": "The open document intelligence platform for builders and hackers - DMS for the agentic world OpenContracts (Demo) Open-source document intelligence you can build on.",
-          "url": "https://github.com/Open-Source-Legal/OpenContracts",
+          "title": "Prism",
+          "subtitle": "@Hash-Studios",
+          "summary": "Prism is an open-source Flutter wallpapers and home screen setups app for Android and iOS, with community uploads... Prism Prism is an open-source wallpaper app for Android and...",
+          "url": "https://github.com/Hash-Studios/Prism",
+          "category": "Dart",
+          "metric": "664 stars",
+          "publishedAtUtc": "2026-10-17T14:58:53.0000000Z"
+        },
+        {
+          "title": "OpenAnt",
+          "subtitle": "@knostic",
+          "summary": "OpenAnt from Knostic is the leading open source LLM-based vulnerability discovery product, helping defenders... OpenAnt OpenAnt from Knostic is the first open source LLM-based...",
+          "url": "https://github.com/knostic/OpenAnt",
           "category": "Python",
-          "metric": "1,508 stars",
-          "publishedAtUtc": "2026-10-17T03:03:10.0000000Z"
+          "metric": "775 stars",
+          "publishedAtUtc": "2026-10-17T14:58:52.0000000Z"
         },
         {
-          "title": "grok-app",
-          "subtitle": "@RongleCat",
-          "summary": "Open-source Grok App — desktop workbench (GUI) for the local Grok Build CLI: sessions, projects, media, automations... Grok App Modern Desktop Workbench for Local Grok Build CLI...",
-          "url": "https://github.com/RongleCat/grok-app",
-          "category": "TypeScript",
-          "metric": "1,457 stars",
-          "publishedAtUtc": "2026-10-17T03:02:37.0000000Z"
+          "title": "JobNavigator",
+          "subtitle": "@vesaias",
+          "summary": "Self-hosted, multi-account job-hunt automation: scrape career pages and job boards, score jobs against your résumés... JobNavigator Self-hosted, multi-account job-hunt automation.",
+          "url": "https://github.com/vesaias/JobNavigator",
+          "category": "Python",
+          "metric": "158 stars",
+          "publishedAtUtc": "2026-10-17T14:58:38.0000000Z"
         },
         {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant...",
-          "url": "https://github.com/openclaw/openclaw",
-          "category": "TypeScript",
-          "metric": "392,212 stars",
-          "publishedAtUtc": "2026-10-17T03:02:35.0000000Z"
+          "title": "aicr",
+          "subtitle": "@NVIDIA",
+          "summary": "Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes NVIDIA AI Cluster Runtime AI Cluster Runtime (AICR) makes it easy to stand up...",
+          "url": "https://github.com/NVIDIA/aicr",
+          "category": "Go",
+          "metric": "443 stars",
+          "publishedAtUtc": "2026-10-17T14:58:32.0000000Z"
         },
         {
-          "title": "ethereum-flashloan-mev-bot",
-          "subtitle": "@MIgHTy-alIeN",
-          "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. Step-by-Step Guide AI Trading Bot Hi everyone!",
-          "url": "https://github.com/MIgHTy-alIeN/ethereum-flashloan-mev-bot",
-          "category": "HTML",
-          "metric": "2,790 stars",
-          "publishedAtUtc": "2026-10-17T03:02:27.0000000Z"
+          "title": "nebula",
+          "subtitle": "@berylliumsec",
+          "summary": "Cybersecurity Harness Without Him, this would not be possible.",
+          "url": "https://github.com/berylliumsec/nebula",
+          "category": "Python",
+          "metric": "1,126 stars",
+          "publishedAtUtc": "2026-10-17T14:57:53.0000000Z"
         },
         {
-          "title": "agent-native",
-          "subtitle": "@BuilderIO",
-          "summary": "A framework for building agentic apps Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI.",
-          "url": "https://github.com/BuilderIO/agent-native",
-          "category": "TypeScript",
-          "metric": "7,397 stars",
-          "publishedAtUtc": "2026-10-17T03:02:14.0000000Z"
-        },
-        {
-          "title": "ruby_llm",
-          "subtitle": "@crmne",
-          "summary": "The Ruby AI framework. The Ruby AI framework Build AI features the Ruby way: models, tools, agents, sandboxed code, evaluations, and Rails conventions, designed...",
-          "url": "https://github.com/crmne/ruby_llm",
-          "category": "Ruby",
-          "metric": "4,468 stars",
-          "publishedAtUtc": "2026-10-17T03:02:13.0000000Z"
+          "title": "pr-agent",
+          "subtitle": "@The-PR-Agent",
+          "summary": "\uD83D\uDE80 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. The Original Open-Source PR Reviewer -- This repository contains the open-source PR...",
+          "url": "https://github.com/The-PR-Agent/pr-agent",
+          "category": "Python",
+          "metric": "13,425 stars",
+          "publishedAtUtc": "2026-10-17T14:57:45.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "118,385 stars",
-      "publishedAtUtc": "2026-10-17T02:53:37.0000000Z"
+      "metric": "118,443 stars",
+      "publishedAtUtc": "2026-10-17T14:44:41.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "58,148 stars",
-      "publishedAtUtc": "2026-10-17T02:30:24.0000000Z"
+      "metric": "58,154 stars",
+      "publishedAtUtc": "2026-10-17T14:26:40.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,781 stars",
-      "publishedAtUtc": "2026-10-17T01:06:38.0000000Z"
+      "metric": "55,794 stars",
+      "publishedAtUtc": "2026-10-17T14:26:42.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,020 stars",
-      "publishedAtUtc": "2026-10-17T01:46:03.0000000Z"
+      "metric": "46,027 stars",
+      "publishedAtUtc": "2026-10-17T14:46:00.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "40,122 stars",
-      "publishedAtUtc": "2026-10-17T02:33:03.0000000Z"
+      "metric": "40,135 stars",
+      "publishedAtUtc": "2026-10-17T14:29:05.0000000Z"
     },
     {
       "title": "aspnetcore",
