@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-10-17T14:58:54.4801504Z",
+  "generatedAtUtc": "2026-10-18T03:05:18.8560102Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-10 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-11 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "118,443 stars",
-          "publishedAtUtc": "2026-10-17T14:44:41.0000000Z"
+          "metric": "118,473 stars",
+          "publishedAtUtc": "2026-10-18T02:54:58.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "58,154 stars",
-          "publishedAtUtc": "2026-10-17T14:26:40.0000000Z"
+          "metric": "58,171 stars",
+          "publishedAtUtc": "2026-10-18T00:38:12.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,794 stars",
-          "publishedAtUtc": "2026-10-17T14:26:42.0000000Z"
+          "metric": "55,803 stars",
+          "publishedAtUtc": "2026-10-18T02:53:10.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,027 stars",
-          "publishedAtUtc": "2026-10-17T14:46:00.0000000Z"
+          "metric": "46,039 stars",
+          "publishedAtUtc": "2026-10-18T01:23:14.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "40,135 stars",
-          "publishedAtUtc": "2026-10-17T14:29:05.0000000Z"
+          "metric": "40,149 stars",
+          "publishedAtUtc": "2026-10-18T03:03:23.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,473 stars",
-          "publishedAtUtc": "2026-10-16T23:46:18.0000000Z"
+          "metric": "38,477 stars",
+          "publishedAtUtc": "2026-10-18T01:51:38.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "Prism",
-          "subtitle": "@Hash-Studios",
-          "summary": "Prism is an open-source Flutter wallpapers and home screen setups app for Android and iOS, with community uploads... Prism Prism is an open-source wallpaper app for Android and...",
-          "url": "https://github.com/Hash-Studios/Prism",
-          "category": "Dart",
-          "metric": "664 stars",
-          "publishedAtUtc": "2026-10-17T14:58:53.0000000Z"
+          "title": "AIProductHome",
+          "subtitle": "@Eternaldeath",
+          "summary": "Collect various AI products 搜集各种 AI 工具和产品 AI Product Home \uD83E\uDD16 发现优质 AI 产品的一站式索引 —— 收录 · 筛选 · 推荐 提供帮助？ \uD83D\uDC49 提交 ISSUE \uD83D\uDC48️ 支持自我推荐 / 资源失效 / 提供资源 / 帮助纠错 产品排序策略：广告商工具（会注明广告商）→ 大型商业工具（如...",
+          "url": "https://github.com/Eternaldeath/AIProductHome",
+          "category": "Repository",
+          "metric": "1,185 stars",
+          "publishedAtUtc": "2026-10-18T03:05:17.0000000Z"
         },
         {
-          "title": "OpenAnt",
-          "subtitle": "@knostic",
-          "summary": "OpenAnt from Knostic is the leading open source LLM-based vulnerability discovery product, helping defenders... OpenAnt OpenAnt from Knostic is the first open source LLM-based...",
-          "url": "https://github.com/knostic/OpenAnt",
+          "title": "comfy-cli",
+          "subtitle": "@Comfy-Org",
+          "summary": "CLI for using ComfyUI comfy-cli: A Command Line Tool for ComfyUI comfy-cli is a command-line tool for installing, running, and extending ComfyUI — the...",
+          "url": "https://github.com/Comfy-Org/comfy-cli",
           "category": "Python",
-          "metric": "775 stars",
-          "publishedAtUtc": "2026-10-17T14:58:52.0000000Z"
+          "metric": "1,015 stars",
+          "publishedAtUtc": "2026-10-18T03:04:59.0000000Z"
         },
         {
-          "title": "JobNavigator",
-          "subtitle": "@vesaias",
-          "summary": "Self-hosted, multi-account job-hunt automation: scrape career pages and job boards, score jobs against your résumés... JobNavigator Self-hosted, multi-account job-hunt automation.",
-          "url": "https://github.com/vesaias/JobNavigator",
+          "title": "ethereum-flashloan-mev-bot",
+          "subtitle": "@MIgHTy-alIeN",
+          "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. Step-by-Step Guide AI Trading Bot Hi everyone!",
+          "url": "https://github.com/MIgHTy-alIeN/ethereum-flashloan-mev-bot",
+          "category": "HTML",
+          "metric": "2,790 stars",
+          "publishedAtUtc": "2026-10-18T03:04:33.0000000Z"
+        },
+        {
+          "title": "BMAD-METHOD",
+          "subtitle": "@bmad-code-org",
+          "summary": "Breakthrough Method for Agile Ai Driven Development Agile Ai Driven Development — turn an idea or change request into working software without giving up the thinking.",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
           "category": "Python",
-          "metric": "158 stars",
-          "publishedAtUtc": "2026-10-17T14:58:38.0000000Z"
+          "metric": "54,267 stars",
+          "publishedAtUtc": "2026-10-18T03:04:15.0000000Z"
         },
         {
-          "title": "aicr",
-          "subtitle": "@NVIDIA",
-          "summary": "Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes NVIDIA AI Cluster Runtime AI Cluster Runtime (AICR) makes it easy to stand up...",
-          "url": "https://github.com/NVIDIA/aicr",
-          "category": "Go",
-          "metric": "443 stars",
-          "publishedAtUtc": "2026-10-17T14:58:32.0000000Z"
-        },
-        {
-          "title": "nebula",
-          "subtitle": "@berylliumsec",
-          "summary": "Cybersecurity Harness Without Him, this would not be possible.",
-          "url": "https://github.com/berylliumsec/nebula",
+          "title": "local-operator",
+          "subtitle": "@damianvtran",
+          "summary": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other... Local Operator An open-source AI agent hub: build...",
+          "url": "https://github.com/damianvtran/local-operator",
           "category": "Python",
-          "metric": "1,126 stars",
-          "publishedAtUtc": "2026-10-17T14:57:53.0000000Z"
+          "metric": "218 stars",
+          "publishedAtUtc": "2026-10-18T03:04:00.0000000Z"
         },
         {
-          "title": "pr-agent",
-          "subtitle": "@The-PR-Agent",
-          "summary": "\uD83D\uDE80 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. The Original Open-Source PR Reviewer -- This repository contains the open-source PR...",
-          "url": "https://github.com/The-PR-Agent/pr-agent",
-          "category": "Python",
-          "metric": "13,425 stars",
-          "publishedAtUtc": "2026-10-17T14:57:45.0000000Z"
+          "title": "dbx",
+          "subtitle": "@t8y2",
+          "summary": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis... Desktop, Docker, CLI, built-in AI assistant, and MCP Server.",
+          "url": "https://github.com/t8y2/dbx",
+          "category": "Rust",
+          "metric": "27,062 stars",
+          "publishedAtUtc": "2026-10-18T03:04:02.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "118,443 stars",
-      "publishedAtUtc": "2026-10-17T14:44:41.0000000Z"
+      "metric": "118,473 stars",
+      "publishedAtUtc": "2026-10-18T02:54:58.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "58,154 stars",
-      "publishedAtUtc": "2026-10-17T14:26:40.0000000Z"
+      "metric": "58,171 stars",
+      "publishedAtUtc": "2026-10-18T00:38:12.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,794 stars",
-      "publishedAtUtc": "2026-10-17T14:26:42.0000000Z"
+      "metric": "55,803 stars",
+      "publishedAtUtc": "2026-10-18T02:53:10.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,027 stars",
-      "publishedAtUtc": "2026-10-17T14:46:00.0000000Z"
+      "metric": "46,039 stars",
+      "publishedAtUtc": "2026-10-18T01:23:14.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "40,135 stars",
-      "publishedAtUtc": "2026-10-17T14:29:05.0000000Z"
+      "metric": "40,149 stars",
+      "publishedAtUtc": "2026-10-18T03:03:23.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,473 stars",
-      "publishedAtUtc": "2026-10-16T23:46:18.0000000Z"
+      "metric": "38,477 stars",
+      "publishedAtUtc": "2026-10-18T01:51:38.0000000Z"
     }
   ]
 }
