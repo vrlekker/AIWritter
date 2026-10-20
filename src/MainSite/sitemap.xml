@@ -55,37 +55,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=gai</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=textus</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=snapotter</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=kagent</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=adk-python</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=clickhouse</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=audio-cpp</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=modal-client</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=fabric</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=aft</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=cli-wechat-bridge</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
