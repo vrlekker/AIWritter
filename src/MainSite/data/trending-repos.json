@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-10-20T16:22:33.7548363Z",
+  "generatedAtUtc": "2026-10-21T03:22:35.7320335Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-13 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-14 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "118,667 stars",
-          "publishedAtUtc": "2026-10-20T16:10:41.0000000Z"
+          "metric": "118,682 stars",
+          "publishedAtUtc": "2026-10-21T03:02:42.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "58,291 stars",
-          "publishedAtUtc": "2026-10-20T16:22:26.0000000Z"
+          "metric": "58,306 stars",
+          "publishedAtUtc": "2026-10-21T02:16:13.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,868 stars",
-          "publishedAtUtc": "2026-10-20T16:02:08.0000000Z"
+          "metric": "55,878 stars",
+          "publishedAtUtc": "2026-10-21T03:10:56.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,109 stars",
-          "publishedAtUtc": "2026-10-20T16:09:56.0000000Z"
+          "metric": "46,117 stars",
+          "publishedAtUtc": "2026-10-21T02:22:44.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "40,251 stars",
-          "publishedAtUtc": "2026-10-20T16:16:08.0000000Z"
+          "metric": "40,265 stars",
+          "publishedAtUtc": "2026-10-21T02:53:52.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,478 stars",
-          "publishedAtUtc": "2026-10-20T16:05:15.0000000Z"
+          "metric": "38,473 stars",
+          "publishedAtUtc": "2026-10-21T02:51:27.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "Textus",
-          "subtitle": "@CatVinci-Studio",
-          "summary": "The next-generation Markdown editor, with an AI writing assistant. Free and open source for macOS, Windows and Linux. .md follows its structure section by section...",
-          "url": "https://github.com/CatVinci-Studio/Textus",
-          "category": "TypeScript",
-          "metric": "430 stars",
-          "publishedAtUtc": "2026-10-20T16:22:09.0000000Z"
-        },
-        {
-          "title": "kagent",
-          "subtitle": "@kagent-dev",
-          "summary": "Cloud Native Agentic AI Discord: - kagent is a Kubernetes native framework for building AI agents.",
-          "url": "https://github.com/kagent-dev/kagent",
-          "category": "Go",
-          "metric": "4,060 stars",
-          "publishedAtUtc": "2026-10-20T16:22:01.0000000Z"
-        },
-        {
-          "title": "ClickHouse",
-          "subtitle": "@ClickHouse",
-          "summary": "ClickHouse® is a real-time analytics database management system ClickHouse® is an open-source column-oriented database management system that allows generating analytical data...",
-          "url": "https://github.com/ClickHouse/ClickHouse",
-          "category": "C++",
-          "metric": "50,501 stars",
-          "publishedAtUtc": "2026-10-20T16:22:02.0000000Z"
-        },
-        {
-          "title": "modal-client",
-          "subtitle": "@modal-labs",
-          "summary": "SDK libraries for Modal Modal SDKs This repository contains the source code for Modal's official SDKs.",
-          "url": "https://github.com/modal-labs/modal-client",
+          "title": "neuro-san-studio",
+          "subtitle": "@cognizant-ai-lab",
+          "summary": "A playground for neuro-san Neuro SAN library Neuro SAN Studio Your launchpad for building intelligent multi-agent systems.",
+          "url": "https://github.com/cognizant-ai-lab/neuro-san-studio",
           "category": "Python",
-          "metric": "526 stars",
-          "publishedAtUtc": "2026-10-20T16:21:58.0000000Z"
+          "metric": "1,167 stars",
+          "publishedAtUtc": "2026-10-21T03:22:11.0000000Z"
         },
         {
-          "title": "aft",
-          "subtitle": "@cortexkit",
-          "summary": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit... AFT Give your agent a proper IDE and OS.",
-          "url": "https://github.com/cortexkit/aft",
-          "category": "Rust",
-          "metric": "329 stars",
-          "publishedAtUtc": "2026-10-20T16:21:50.0000000Z"
-        },
-        {
-          "title": "CLI-WeChat-Bridge",
-          "subtitle": "@UNLINEARITY",
-          "summary": "Bridge WeChat, WeCom & Telegram to local Codex, Claude Code, OpenCode & Pi. Keep the native terminal experience & CLI... CLI Chat Bridge 简体中文 · English 命令行工具的微信、企业微信与 Telegram...",
-          "url": "https://github.com/UNLINEARITY/CLI-WeChat-Bridge",
+          "title": "cohub",
+          "subtitle": "@netaart",
+          "summary": "A living space where people and agents create, play, and build together. Cohub · quick start · docs · 简体中文 -- We burn 100 billion tokens per week inside our company within Cohub...",
+          "url": "https://github.com/netaart/cohub",
           "category": "TypeScript",
-          "metric": "541 stars",
-          "publishedAtUtc": "2026-10-20T16:21:47.0000000Z"
+          "metric": "571 stars",
+          "publishedAtUtc": "2026-10-21T03:22:06.0000000Z"
+        },
+        {
+          "title": "memoria",
+          "subtitle": "@matrixorigin",
+          "summary": "Secure memory management for AI Agents • Ensures data integrity • Reduces hallucinations • Maintains consistent... Memoria The World's First Git for AI Agent Memory Snapshot ·...",
+          "url": "https://github.com/matrixorigin/memoria",
+          "category": "Rust",
+          "metric": "614 stars",
+          "publishedAtUtc": "2026-10-21T03:22:06.0000000Z"
+        },
+        {
+          "title": "firecrawl",
+          "subtitle": "@firecrawl",
+          "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. \uD83D\uDD25 - \uD83D\uDD25 Firecrawl The API to search, scrape, and interact with the web...",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "category": "TypeScript",
+          "metric": "193,520 stars",
+          "publishedAtUtc": "2026-10-21T03:22:00.0000000Z"
+        },
+        {
+          "title": "skyvern",
+          "subtitle": "@Skyvern-AI",
+          "summary": "Automate browser based workflows with AI \uD83D\uDC09 Automate Browser-based workflows using LLMs and Computer Vision \uD83D\uDC09 --> Skyvern automates browser-based workflows using LLMs and...",
+          "url": "https://github.com/Skyvern-AI/skyvern",
+          "category": "Python",
+          "metric": "23,239 stars",
+          "publishedAtUtc": "2026-10-21T03:21:31.0000000Z"
+        },
+        {
+          "title": "onyx",
+          "subtitle": "@onyx-dot-app",
+          "summary": "Open Source AI Platform - AI Chat with advanced features that works with every LLM Onyx - The context layer powered by all your apps \"LLMs know about everything public, but what...",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "category": "Python",
+          "metric": "32,613 stars",
+          "publishedAtUtc": "2026-10-21T03:21:33.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "118,667 stars",
-      "publishedAtUtc": "2026-10-20T16:10:41.0000000Z"
+      "metric": "118,682 stars",
+      "publishedAtUtc": "2026-10-21T03:02:42.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "58,291 stars",
-      "publishedAtUtc": "2026-10-20T16:22:26.0000000Z"
+      "metric": "58,306 stars",
+      "publishedAtUtc": "2026-10-21T02:16:13.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,868 stars",
-      "publishedAtUtc": "2026-10-20T16:02:08.0000000Z"
+      "metric": "55,878 stars",
+      "publishedAtUtc": "2026-10-21T03:10:56.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,109 stars",
-      "publishedAtUtc": "2026-10-20T16:09:56.0000000Z"
+      "metric": "46,117 stars",
+      "publishedAtUtc": "2026-10-21T02:22:44.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "40,251 stars",
-      "publishedAtUtc": "2026-10-20T16:16:08.0000000Z"
+      "metric": "40,265 stars",
+      "publishedAtUtc": "2026-10-21T02:53:52.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,478 stars",
-      "publishedAtUtc": "2026-10-20T16:05:15.0000000Z"
+      "metric": "38,473 stars",
+      "publishedAtUtc": "2026-10-21T02:51:27.0000000Z"
     }
   ]
 }
