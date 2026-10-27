@@ -61,7 +61,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=repowise</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=hyperframes</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=hash</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -73,19 +79,13 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=agno</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
-    <lastmod>2026-10-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ragflow</loc>
-    <lastmod>2026-10-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=folio</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
