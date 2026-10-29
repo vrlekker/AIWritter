@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-10-28T17:53:58.5985898Z",
+  "generatedAtUtc": "2026-10-29T04:26:55.1591310Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-21 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-22 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "119,361 stars",
-          "publishedAtUtc": "2026-10-28T17:38:53.0000000Z"
+          "metric": "119,384 stars",
+          "publishedAtUtc": "2026-10-29T03:56:11.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "58,744 stars",
-          "publishedAtUtc": "2026-10-28T17:46:29.0000000Z"
+          "metric": "58,762 stars",
+          "publishedAtUtc": "2026-10-29T04:14:01.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "55,943 stars",
-          "publishedAtUtc": "2026-10-28T17:11:03.0000000Z"
+          "metric": "55,947 stars",
+          "publishedAtUtc": "2026-10-29T04:05:10.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,311 stars",
-          "publishedAtUtc": "2026-10-28T17:41:49.0000000Z"
+          "metric": "46,327 stars",
+          "publishedAtUtc": "2026-10-29T03:20:53.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "40,477 stars",
-          "publishedAtUtc": "2026-10-28T15:49:28.0000000Z"
+          "metric": "40,486 stars",
+          "publishedAtUtc": "2026-10-29T03:59:17.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -63,7 +63,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "38,500 stars",
-          "publishedAtUtc": "2026-10-28T17:04:33.0000000Z"
+          "publishedAtUtc": "2026-10-29T02:06:45.0000000Z"
         }
       ]
     },
@@ -76,49 +76,13 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "hyperfide",
-          "subtitle": "@Sidiora-Labs",
-          "summary": "The ai agent workflow tool that scales from small, simple projects to large, complex codebases. Hyperfide The agent workflow tool that scales from small, simple projects to...",
-          "url": "https://github.com/Sidiora-Labs/hyperfide",
+          "title": "reactive-resume",
+          "subtitle": "@reactive-resume",
+          "summary": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source... [!IMPORTANT] Reactive Resume now lives at...",
+          "url": "https://github.com/reactive-resume/reactive-resume",
           "category": "TypeScript",
-          "metric": "613 stars",
-          "publishedAtUtc": "2026-10-28T17:54:02.0000000Z"
-        },
-        {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant...",
-          "url": "https://github.com/openclaw/openclaw",
-          "category": "TypeScript",
-          "metric": "393,275 stars",
-          "publishedAtUtc": "2026-10-28T17:53:59.0000000Z"
-        },
-        {
-          "title": "ha-mcp",
-          "subtitle": "@homeassistant-ai",
-          "summary": "The Unofficial and Awesome Home Assistant MCP Server Breaking change (v7.3.0): ha_config_set_yaml has been moved to beta.",
-          "url": "https://github.com/homeassistant-ai/ha-mcp",
-          "category": "Python",
-          "metric": "5,323 stars",
-          "publishedAtUtc": "2026-10-28T17:53:46.0000000Z"
-        },
-        {
-          "title": "Trenova",
-          "subtitle": "@emoss08",
-          "summary": "An AI-driven asset based Transportation Management System Trenova: Transportation Management System for Trucking Carriers Source-available trucking TMS written in Go, PostgreSQL...",
-          "url": "https://github.com/emoss08/Trenova",
-          "category": "Go",
-          "metric": "314 stars",
-          "publishedAtUtc": "2026-10-28T17:53:48.0000000Z"
-        },
-        {
-          "title": "letta-code",
-          "subtitle": "@letta-ai",
-          "summary": "Stateful agents that are like people, with memory, identity, and the ability to learn and adapt Letta Code Letta Code is a stateful agent harness for creating agents that are...",
-          "url": "https://github.com/letta-ai/letta-code",
-          "category": "TypeScript",
-          "metric": "3,728 stars",
-          "publishedAtUtc": "2026-10-28T17:53:32.0000000Z"
+          "metric": "45,018 stars",
+          "publishedAtUtc": "2026-10-29T04:26:56.0000000Z"
         },
         {
           "title": "ethereum-flashloan-mev-bot",
@@ -126,8 +90,44 @@
           "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. Arbitrage Bot with Built-in Python Automation An arbitrage bot is a...",
           "url": "https://github.com/MIgHTy-alIeN/ethereum-flashloan-mev-bot",
           "category": "Solidity",
-          "metric": "930 stars",
-          "publishedAtUtc": "2026-10-28T17:53:33.0000000Z"
+          "metric": "931 stars",
+          "publishedAtUtc": "2026-10-29T04:26:50.0000000Z"
+        },
+        {
+          "title": "tt-metal",
+          "subtitle": "@tenstorrent",
+          "summary": ":metal: TT-NN operator library, and TT-Metalium low level kernel programming model. Hardware Install Discord Join Us Bounty $ TT-NN is a Python & C++ Neural Network OP library.",
+          "url": "https://github.com/tenstorrent/tt-metal",
+          "category": "Python",
+          "metric": "1,731 stars",
+          "publishedAtUtc": "2026-10-29T04:26:41.0000000Z"
+        },
+        {
+          "title": "letta-code",
+          "subtitle": "@letta-ai",
+          "summary": "Agents that self-improve with experience Letta Code Letta Code is a stateful agent harness for creating agents that are more like people than tools.",
+          "url": "https://github.com/letta-ai/letta-code",
+          "category": "TypeScript",
+          "metric": "3,732 stars",
+          "publishedAtUtc": "2026-10-29T04:26:37.0000000Z"
+        },
+        {
+          "title": "lobehub",
+          "subtitle": "@lobehub",
+          "summary": "\uD83E\uDD2F LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and... [![][image-banner]][vercel-link] LobeHub LobeHub organizes your...",
+          "url": "https://github.com/lobehub/lobehub",
+          "category": "TypeScript",
+          "metric": "83,570 stars",
+          "publishedAtUtc": "2026-10-29T04:26:10.0000000Z"
+        },
+        {
+          "title": "awesome-REA-cases",
+          "subtitle": "@songshikang0111",
+          "summary": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours. Awesome REA Cases English (default) 简体中文 Explore software...",
+          "url": "https://github.com/songshikang0111/awesome-REA-cases",
+          "category": "Python",
+          "metric": "360 stars",
+          "publishedAtUtc": "2026-10-29T04:25:36.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "119,361 stars",
-      "publishedAtUtc": "2026-10-28T17:38:53.0000000Z"
+      "metric": "119,384 stars",
+      "publishedAtUtc": "2026-10-29T03:56:11.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "58,744 stars",
-      "publishedAtUtc": "2026-10-28T17:46:29.0000000Z"
+      "metric": "58,762 stars",
+      "publishedAtUtc": "2026-10-29T04:14:01.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "55,943 stars",
-      "publishedAtUtc": "2026-10-28T17:11:03.0000000Z"
+      "metric": "55,947 stars",
+      "publishedAtUtc": "2026-10-29T04:05:10.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,311 stars",
-      "publishedAtUtc": "2026-10-28T17:41:49.0000000Z"
+      "metric": "46,327 stars",
+      "publishedAtUtc": "2026-10-29T03:20:53.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "40,477 stars",
-      "publishedAtUtc": "2026-10-28T15:49:28.0000000Z"
+      "metric": "40,486 stars",
+      "publishedAtUtc": "2026-10-29T03:59:17.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -185,7 +185,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "38,500 stars",
-      "publishedAtUtc": "2026-10-28T17:04:33.0000000Z"
+      "publishedAtUtc": "2026-10-29T02:06:45.0000000Z"
     }
   ]
 }
