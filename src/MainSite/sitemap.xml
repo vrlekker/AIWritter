@@ -55,13 +55,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=monkeycode</loc>
-    <lastmod>2026-11-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ai-design-check</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=aidevops</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -73,19 +67,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=hyperframes</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=azure-dev</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=gaia</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=macro</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=comanda</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=arc</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=design-extract</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
