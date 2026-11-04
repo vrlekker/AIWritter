@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-11-03T19:03:42.5492044Z",
+  "generatedAtUtc": "2026-11-04T04:53:48.1488745Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-27 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-28 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "119,862 stars",
-          "publishedAtUtc": "2026-11-03T19:00:33.0000000Z"
+          "metric": "119,884 stars",
+          "publishedAtUtc": "2026-11-04T04:22:31.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "58,972 stars",
-          "publishedAtUtc": "2026-11-03T18:53:00.0000000Z"
+          "metric": "58,982 stars",
+          "publishedAtUtc": "2026-11-04T02:51:36.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "56,016 stars",
-          "publishedAtUtc": "2026-11-03T18:47:09.0000000Z"
+          "metric": "56,018 stars",
+          "publishedAtUtc": "2026-11-04T02:49:12.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,476 stars",
-          "publishedAtUtc": "2026-11-03T18:51:31.0000000Z"
+          "metric": "46,481 stars",
+          "publishedAtUtc": "2026-11-04T04:03:19.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "40,607 stars",
-          "publishedAtUtc": "2026-11-03T18:24:05.0000000Z"
+          "metric": "40,610 stars",
+          "publishedAtUtc": "2026-11-04T03:40:45.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,495 stars",
-          "publishedAtUtc": "2026-11-03T18:30:12.0000000Z"
+          "metric": "38,499 stars",
+          "publishedAtUtc": "2026-11-04T02:58:14.0000000Z"
         }
       ]
     },
@@ -76,31 +76,13 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "LocalAI",
-          "subtitle": "@mudler",
-          "summary": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU... LocalAI is the open-source AI engine.",
-          "url": "https://github.com/mudler/LocalAI",
-          "category": "Go",
-          "metric": "50,175 stars",
-          "publishedAtUtc": "2026-11-03T19:03:21.0000000Z"
-        },
-        {
-          "title": "ha-mcp",
-          "subtitle": "@homeassistant-ai",
-          "summary": "The Unofficial and Awesome Home Assistant MCP Server Breaking change (v7.3.0): ha_config_set_yaml has been moved to beta.",
-          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "title": "headroom",
+          "subtitle": "@headroomlabs-ai",
+          "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents... Headroom for Teams · Install · Proof · Agents · llms.txt AI...",
+          "url": "https://github.com/headroomlabs-ai/headroom",
           "category": "Python",
-          "metric": "5,412 stars",
-          "publishedAtUtc": "2026-11-03T19:03:18.0000000Z"
-        },
-        {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant...",
-          "url": "https://github.com/openclaw/openclaw",
-          "category": "TypeScript",
-          "metric": "393,844 stars",
-          "publishedAtUtc": "2026-11-03T19:03:22.0000000Z"
+          "metric": "78,775 stars",
+          "publishedAtUtc": "2026-11-04T04:53:44.0000000Z"
         },
         {
           "title": "ethereum-flashloan-mev-bot",
@@ -109,25 +91,43 @@
           "url": "https://github.com/MIgHTy-alIeN/ethereum-flashloan-mev-bot",
           "category": "Solidity",
           "metric": "931 stars",
-          "publishedAtUtc": "2026-11-03T19:03:11.0000000Z"
+          "publishedAtUtc": "2026-11-04T04:53:21.0000000Z"
         },
         {
-          "title": "switch",
-          "subtitle": "@sandbox-quantum",
-          "summary": "Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and... Open-source AI teammates, working alongside your team in...",
-          "url": "https://github.com/sandbox-quantum/switch",
-          "category": "Python",
-          "metric": "3,456 stars",
-          "publishedAtUtc": "2026-11-03T19:03:09.0000000Z"
+          "title": "aidevops",
+          "subtitle": "@marcusquinn",
+          "summary": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and... AI DevOps Framework aidevops.sh is an OpenCode plugin and...",
+          "url": "https://github.com/marcusquinn/aidevops",
+          "category": "Shell",
+          "metric": "438 stars",
+          "publishedAtUtc": "2026-11-04T04:52:52.0000000Z"
         },
         {
-          "title": "metaflow",
-          "subtitle": "@Netflix",
-          "summary": "Build, Manage and Deploy AI/ML Systems Metaflow Metaflow is a human-centric framework designed to help scientists and engineers build and manage real-life AI and ML systems.",
-          "url": "https://github.com/Netflix/metaflow",
+          "title": "openagent",
+          "subtitle": "@Haohao-end",
+          "summary": "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building... An end-to-end AI agent platform for building, orchestrating...",
+          "url": "https://github.com/Haohao-end/openagent",
           "category": "Python",
-          "metric": "10,338 stars",
-          "publishedAtUtc": "2026-11-03T19:03:19.0000000Z"
+          "metric": "767 stars",
+          "publishedAtUtc": "2026-11-04T04:52:29.0000000Z"
+        },
+        {
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant...",
+          "url": "https://github.com/openclaw/openclaw",
+          "category": "TypeScript",
+          "metric": "393,868 stars",
+          "publishedAtUtc": "2026-11-04T04:53:50.0000000Z"
+        },
+        {
+          "title": "nnstreamer",
+          "subtitle": "@nnstreamer",
+          "summary": ":twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices. NNStreamer [![Gitter][gitter-image]][gitter-url] Neural...",
+          "url": "https://github.com/nnstreamer/nnstreamer",
+          "category": "C++",
+          "metric": "800 stars",
+          "publishedAtUtc": "2026-11-04T04:51:29.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "119,862 stars",
-      "publishedAtUtc": "2026-11-03T19:00:33.0000000Z"
+      "metric": "119,884 stars",
+      "publishedAtUtc": "2026-11-04T04:22:31.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "58,972 stars",
-      "publishedAtUtc": "2026-11-03T18:53:00.0000000Z"
+      "metric": "58,982 stars",
+      "publishedAtUtc": "2026-11-04T02:51:36.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "56,016 stars",
-      "publishedAtUtc": "2026-11-03T18:47:09.0000000Z"
+      "metric": "56,018 stars",
+      "publishedAtUtc": "2026-11-04T02:49:12.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,476 stars",
-      "publishedAtUtc": "2026-11-03T18:51:31.0000000Z"
+      "metric": "46,481 stars",
+      "publishedAtUtc": "2026-11-04T04:03:19.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "40,607 stars",
-      "publishedAtUtc": "2026-11-03T18:24:05.0000000Z"
+      "metric": "40,610 stars",
+      "publishedAtUtc": "2026-11-04T03:40:45.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,495 stars",
-      "publishedAtUtc": "2026-11-03T18:30:12.0000000Z"
+      "metric": "38,499 stars",
+      "publishedAtUtc": "2026-11-04T02:58:14.0000000Z"
     }
   ]
 }
