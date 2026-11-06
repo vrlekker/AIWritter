@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-11-05T19:30:29.5127828Z",
+  "generatedAtUtc": "2026-11-06T05:11:27.4733534Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-29 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-10-30 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "120,006 stars",
-          "publishedAtUtc": "2026-11-05T19:19:15.0000000Z"
+          "metric": "120,030 stars",
+          "publishedAtUtc": "2026-11-06T05:08:03.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "59,041 stars",
-          "publishedAtUtc": "2026-11-05T19:14:12.0000000Z"
+          "metric": "59,055 stars",
+          "publishedAtUtc": "2026-11-06T03:46:41.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "56,028 stars",
-          "publishedAtUtc": "2026-11-05T18:48:28.0000000Z"
+          "metric": "56,034 stars",
+          "publishedAtUtc": "2026-11-06T03:33:12.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,511 stars",
-          "publishedAtUtc": "2026-11-05T19:16:49.0000000Z"
+          "metric": "46,515 stars",
+          "publishedAtUtc": "2026-11-06T05:07:38.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "40,647 stars",
-          "publishedAtUtc": "2026-11-05T19:16:26.0000000Z"
+          "metric": "40,651 stars",
+          "publishedAtUtc": "2026-11-06T05:05:40.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -62,8 +62,8 @@
           "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "38,497 stars",
-          "publishedAtUtc": "2026-11-05T18:25:49.0000000Z"
+          "metric": "38,498 stars",
+          "publishedAtUtc": "2026-11-05T22:59:11.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "smart-tree",
-          "subtitle": "@8b-is",
-          "summary": "Smart Tree: not just a tree, a philosophy. A context-aware, AI-crafted replacement for 20+ tools with MEM8 quantum... \uD83C\uDF33 Smart Tree - The Smart Treehouse: Cyber-Botanical...",
-          "url": "https://github.com/8b-is/smart-tree",
+          "title": "zeroclaw",
+          "subtitle": "@zeroclaw-labs",
+          "summary": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap... \uD83E\uDD80 ZeroClaw — Personal AI Assistant You own the agent.",
+          "url": "https://github.com/zeroclaw-labs/zeroclaw",
           "category": "Rust",
-          "metric": "272 stars",
-          "publishedAtUtc": "2026-11-05T19:30:30.0000000Z"
+          "metric": "33,143 stars",
+          "publishedAtUtc": "2026-11-06T05:11:23.0000000Z"
         },
         {
-          "title": "SeaGOAT",
-          "subtitle": "@kantord",
-          "summary": "local-first semantic code search engine [!TIP] Check out zeitgrep, another search tool I am working on!",
-          "url": "https://github.com/kantord/SeaGOAT",
-          "category": "Python",
-          "metric": "1,317 stars",
-          "publishedAtUtc": "2026-11-05T19:30:26.0000000Z"
-        },
-        {
-          "title": "prism-insight",
-          "subtitle": "@dragon1086",
-          "summary": "AI-based stock analysis and trading system &nbsp;&nbsp; Priso · Official PRISM Mascot PRISM-INSIGHT AI-Powered Stock Market Analysis & Trading System 13+ specialized AI agents...",
-          "url": "https://github.com/dragon1086/prism-insight",
-          "category": "Python",
-          "metric": "794 stars",
-          "publishedAtUtc": "2026-11-05T19:30:21.0000000Z"
-        },
-        {
-          "title": "llm-d-router",
-          "subtitle": "@llm-d",
-          "summary": "llm-d Router: The intelligent entry point for inference requests llm-d Router [!IMPORTANT] Terminology Change: The Inference Scheduler has been renamed to llm-d Router; see...",
-          "url": "https://github.com/llm-d/llm-d-router",
-          "category": "Go",
-          "metric": "455 stars",
-          "publishedAtUtc": "2026-11-05T19:30:10.0000000Z"
-        },
-        {
-          "title": "crw",
-          "subtitle": "@fastcrw",
-          "summary": "Fast, lightweight Firecrawl/Tavily alternative in Rust. Web scraper, crawler & search API with MCP server for AI... fastCRW Turn URLs into clean markdown or structured JSON with...",
-          "url": "https://github.com/fastcrw/crw",
-          "category": "Rust",
-          "metric": "1,228 stars",
-          "publishedAtUtc": "2026-11-05T19:30:05.0000000Z"
-        },
-        {
-          "title": "DeskcommCRM",
-          "subtitle": "@melgarafael",
-          "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk... \uD83C\uDDE7\uD83C\uDDF7 Português · \uD83C\uDDFA\uD83C\uDDF8 English · \uD83C\uDDEA\uD83C\uDDF8 Español \uD83D\uDEE0️...",
-          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "title": "openclaw",
+          "subtitle": "@openclaw",
+          "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant...",
+          "url": "https://github.com/openclaw/openclaw",
           "category": "TypeScript",
-          "metric": "5,183 stars",
-          "publishedAtUtc": "2026-11-05T19:29:50.0000000Z"
+          "metric": "394,001 stars",
+          "publishedAtUtc": "2026-11-06T05:10:54.0000000Z"
+        },
+        {
+          "title": "unsloth",
+          "subtitle": "@unslothai",
+          "summary": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4... Unsloth is the first desktop app to run and train models.",
+          "url": "https://github.com/unslothai/unsloth",
+          "category": "Python",
+          "metric": "79,092 stars",
+          "publishedAtUtc": "2026-11-06T05:09:36.0000000Z"
+        },
+        {
+          "title": "headroom",
+          "subtitle": "@headroomlabs-ai",
+          "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents... Headroom for Teams · Install · Proof · Agents · AI agents /...",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "category": "Python",
+          "metric": "78,956 stars",
+          "publishedAtUtc": "2026-11-06T05:09:33.0000000Z"
+        },
+        {
+          "title": "openvino",
+          "subtitle": "@openvinotoolkit",
+          "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference Open-source software toolkit for optimizing and deploying deep learning models.",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "category": "C++",
+          "metric": "11,116 stars",
+          "publishedAtUtc": "2026-11-06T05:08:36.0000000Z"
+        },
+        {
+          "title": "nanocode",
+          "subtitle": "@gakonst",
+          "summary": "SDK for Frontier Embedded Agents.",
+          "url": "https://github.com/gakonst/nanocode",
+          "category": "Rust",
+          "metric": "652 stars",
+          "publishedAtUtc": "2026-11-06T05:08:31.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "120,006 stars",
-      "publishedAtUtc": "2026-11-05T19:19:15.0000000Z"
+      "metric": "120,030 stars",
+      "publishedAtUtc": "2026-11-06T05:08:03.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "59,041 stars",
-      "publishedAtUtc": "2026-11-05T19:14:12.0000000Z"
+      "metric": "59,055 stars",
+      "publishedAtUtc": "2026-11-06T03:46:41.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "56,028 stars",
-      "publishedAtUtc": "2026-11-05T18:48:28.0000000Z"
+      "metric": "56,034 stars",
+      "publishedAtUtc": "2026-11-06T03:33:12.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,511 stars",
-      "publishedAtUtc": "2026-11-05T19:16:49.0000000Z"
+      "metric": "46,515 stars",
+      "publishedAtUtc": "2026-11-06T05:07:38.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "40,647 stars",
-      "publishedAtUtc": "2026-11-05T19:16:26.0000000Z"
+      "metric": "40,651 stars",
+      "publishedAtUtc": "2026-11-06T05:05:40.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -184,8 +184,8 @@
       "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "38,497 stars",
-      "publishedAtUtc": "2026-11-05T18:25:49.0000000Z"
+      "metric": "38,498 stars",
+      "publishedAtUtc": "2026-11-05T22:59:11.0000000Z"
     }
   ]
 }
