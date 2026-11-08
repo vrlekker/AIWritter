@@ -43,7 +43,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=aspnetcore</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=csharp-repos&amp;item=revokemsgpatcher</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -55,37 +55,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=paxeer-monorepo</loc>
-    <lastmod>2026-11-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ethereum-flashloan-mev-bot</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=dify</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=avibe</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=rssh</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=ryugi</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=thinkterm</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=affectui</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=learnopencv</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=unsloth</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=qwen-code</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
