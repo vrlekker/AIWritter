@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-11-08T17:37:20.0085822Z",
+  "generatedAtUtc": "2026-11-09T04:43:48.9568204Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-01 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-02 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "120,197 stars",
-          "publishedAtUtc": "2026-11-08T17:07:47.0000000Z"
+          "metric": "120,219 stars",
+          "publishedAtUtc": "2026-11-09T04:43:22.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "59,131 stars",
-          "publishedAtUtc": "2026-11-08T16:35:32.0000000Z"
+          "metric": "59,143 stars",
+          "publishedAtUtc": "2026-11-09T03:36:39.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "56,060 stars",
-          "publishedAtUtc": "2026-11-08T16:17:14.0000000Z"
+          "metric": "56,064 stars",
+          "publishedAtUtc": "2026-11-09T04:05:37.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,542 stars",
-          "publishedAtUtc": "2026-11-08T17:22:43.0000000Z"
+          "metric": "46,547 stars",
+          "publishedAtUtc": "2026-11-09T04:18:18.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "40,827 stars",
-          "publishedAtUtc": "2026-11-08T17:34:42.0000000Z"
+          "metric": "40,853 stars",
+          "publishedAtUtc": "2026-11-09T03:54:13.0000000Z"
         },
         {
           "title": "RevokeMsgPatcher",
@@ -62,8 +62,8 @@
           "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
           "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
           "category": "C#",
-          "metric": "39,137 stars",
-          "publishedAtUtc": "2026-11-08T17:35:04.0000000Z"
+          "metric": "39,140 stars",
+          "publishedAtUtc": "2026-11-09T04:19:13.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
+          "title": "pi-commandcode-provider",
+          "subtitle": "@patlux",
+          "summary": "pi custom provider for the Command Code API — 18 models including Claude, GPT, DeepSeek, Kimi, GLM, MiniMax, and Qwen pi-commandcode-provider A custom provider for pi that...",
+          "url": "https://github.com/patlux/pi-commandcode-provider",
+          "category": "TypeScript",
+          "metric": "216 stars",
+          "publishedAtUtc": "2026-11-09T04:43:53.0000000Z"
+        },
+        {
           "title": "ethereum-flashloan-mev-bot",
           "subtitle": "@MIgHTy-alIeN",
           "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. Arbitrage Bot with Built-in Python Automation An arbitrage bot is a...",
           "url": "https://github.com/MIgHTy-alIeN/ethereum-flashloan-mev-bot",
           "category": "Solidity",
           "metric": "931 stars",
-          "publishedAtUtc": "2026-11-08T17:37:16.0000000Z"
+          "publishedAtUtc": "2026-11-09T04:42:54.0000000Z"
         },
         {
-          "title": "avibe",
-          "subtitle": "@avibe-bot",
-          "summary": "Make your computer a home for your AI partner. Avibe is the local-first Agent OS: Vibey, its built-in AI partner... Avibe Make your computer a home for your AI partner.",
-          "url": "https://github.com/avibe-bot/avibe",
+          "title": "VTCode",
+          "subtitle": "@vinhnx",
+          "summary": "A local-first AI coding agent for your terminal and desktop. Explore, plan, edit, and verify with your model of choice.",
+          "url": "https://github.com/vinhnx/VTCode",
+          "category": "Rust",
+          "metric": "903 stars",
+          "publishedAtUtc": "2026-11-09T04:42:30.0000000Z"
+        },
+        {
+          "title": "LogiSheets",
+          "subtitle": "@logisky",
+          "summary": "LogiSheets is an AI-friendly spreadsheet application that is compatible with Excel and a good place where human and AI... LogiSheets The spreadsheet as common ground for people...",
+          "url": "https://github.com/logisky/LogiSheets",
+          "category": "Rust",
+          "metric": "273 stars",
+          "publishedAtUtc": "2026-11-09T04:42:20.0000000Z"
+        },
+        {
+          "title": "freecad-addon-robust-mcp-server",
+          "subtitle": "@spkane",
+          "summary": "The FreeCAD Robust MCP server and MCP Bridge Workbench/Addon FreeCAD Robust MCP Server An MCP (Model Context Protocol) server that enables integration between AI assistants...",
+          "url": "https://github.com/spkane/freecad-addon-robust-mcp-server",
           "category": "Python",
-          "metric": "638 stars",
-          "publishedAtUtc": "2026-11-08T17:37:01.0000000Z"
+          "metric": "267 stars",
+          "publishedAtUtc": "2026-11-09T04:42:13.0000000Z"
         },
         {
-          "title": "ryugi",
-          "subtitle": "@Innei",
-          "summary": "流儀 — a skills collection for coding agents and the artifacts workbench they design in: live artboards, commentable... Ryugi 流儀 Your coding agent draws its options instead of...",
-          "url": "https://github.com/Innei/ryugi",
-          "category": "JavaScript",
-          "metric": "379 stars",
-          "publishedAtUtc": "2026-11-08T17:36:51.0000000Z"
-        },
-        {
-          "title": "affectui",
-          "subtitle": "@flohoeller",
-          "summary": "UI for AI agents. React components for what agents do – agent trees, tool calls, traces, handoffs and approvals – and... &nbsp;·&nbsp; Install &nbsp;·&nbsp; UI for AI agents.",
-          "url": "https://github.com/flohoeller/affectui",
-          "category": "TypeScript",
-          "metric": "544 stars",
-          "publishedAtUtc": "2026-11-08T17:36:48.0000000Z"
-        },
-        {
-          "title": "unsloth",
-          "subtitle": "@unslothai",
-          "summary": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4... Unsloth is the first desktop app to run and train models.",
-          "url": "https://github.com/unslothai/unsloth",
-          "category": "Python",
-          "metric": "79,189 stars",
-          "publishedAtUtc": "2026-11-08T17:36:26.0000000Z"
-        },
-        {
-          "title": "qwen-code",
-          "subtitle": "@QwenLM",
-          "summary": "An open-source AI coding agent that lives in your terminal. The open-source AI coding agent for your terminal, editor, desktop, browser, and chat.",
-          "url": "https://github.com/QwenLM/qwen-code",
-          "category": "TypeScript",
-          "metric": "29,096 stars",
-          "publishedAtUtc": "2026-11-08T17:36:21.0000000Z"
+          "title": "doorman",
+          "subtitle": "@doorman-dev",
+          "summary": "The fastest AI & API Gateway One gateway for your team's AI and APIs.",
+          "url": "https://github.com/doorman-dev/doorman",
+          "category": "Rust",
+          "metric": "243 stars",
+          "publishedAtUtc": "2026-11-09T04:42:13.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "120,197 stars",
-      "publishedAtUtc": "2026-11-08T17:07:47.0000000Z"
+      "metric": "120,219 stars",
+      "publishedAtUtc": "2026-11-09T04:43:22.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "59,131 stars",
-      "publishedAtUtc": "2026-11-08T16:35:32.0000000Z"
+      "metric": "59,143 stars",
+      "publishedAtUtc": "2026-11-09T03:36:39.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "56,060 stars",
-      "publishedAtUtc": "2026-11-08T16:17:14.0000000Z"
+      "metric": "56,064 stars",
+      "publishedAtUtc": "2026-11-09T04:05:37.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,542 stars",
-      "publishedAtUtc": "2026-11-08T17:22:43.0000000Z"
+      "metric": "46,547 stars",
+      "publishedAtUtc": "2026-11-09T04:18:18.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "40,827 stars",
-      "publishedAtUtc": "2026-11-08T17:34:42.0000000Z"
+      "metric": "40,853 stars",
+      "publishedAtUtc": "2026-11-09T03:54:13.0000000Z"
     },
     {
       "title": "RevokeMsgPatcher",
@@ -184,8 +184,8 @@
       "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
       "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
       "category": "C#",
-      "metric": "39,137 stars",
-      "publishedAtUtc": "2026-11-08T17:35:04.0000000Z"
+      "metric": "39,140 stars",
+      "publishedAtUtc": "2026-11-09T04:19:13.0000000Z"
     }
   ]
 }
