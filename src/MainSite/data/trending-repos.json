@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-11-09T21:56:14.1626226Z",
+  "generatedAtUtc": "2026-11-10T05:58:46.9221846Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-02 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-03 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "120,281 stars",
-          "publishedAtUtc": "2026-11-09T20:58:20.0000000Z"
+          "metric": "120,300 stars",
+          "publishedAtUtc": "2026-11-10T05:57:59.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "59,163 stars",
-          "publishedAtUtc": "2026-11-09T21:44:07.0000000Z"
+          "metric": "59,171 stars",
+          "publishedAtUtc": "2026-11-10T05:06:41.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "56,073 stars",
-          "publishedAtUtc": "2026-11-09T19:26:51.0000000Z"
+          "metric": "56,081 stars",
+          "publishedAtUtc": "2026-11-10T05:34:33.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,564 stars",
-          "publishedAtUtc": "2026-11-09T21:13:01.0000000Z"
+          "metric": "46,567 stars",
+          "publishedAtUtc": "2026-11-10T05:28:14.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "40,887 stars",
-          "publishedAtUtc": "2026-11-09T21:53:37.0000000Z"
+          "metric": "40,895 stars",
+          "publishedAtUtc": "2026-11-10T05:33:22.0000000Z"
         },
         {
           "title": "RevokeMsgPatcher",
@@ -62,8 +62,8 @@
           "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
           "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
           "category": "C#",
-          "metric": "39,147 stars",
-          "publishedAtUtc": "2026-11-09T18:20:06.0000000Z"
+          "metric": "39,157 stars",
+          "publishedAtUtc": "2026-11-10T05:42:58.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "penguin-harness",
-          "subtitle": "@Prism-Shadow",
-          "summary": "\uD83D\uDC27 Unified and Stable RSI Platform PenguinHarness Unified and Stable RSI Framework Fully automatic optimization: any model&nbsp;· any algorithm&nbsp;· any benchmark = 24\" />...",
-          "url": "https://github.com/Prism-Shadow/penguin-harness",
-          "category": "TypeScript",
-          "metric": "3,205 stars",
-          "publishedAtUtc": "2026-11-09T21:55:58.0000000Z"
-        },
-        {
-          "title": "ethereum-flashloan-mev-bot",
-          "subtitle": "@MIgHTy-alIeN",
-          "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation. Arbitrage Bot with Built-in Python Automation An arbitrage bot is a...",
-          "url": "https://github.com/MIgHTy-alIeN/ethereum-flashloan-mev-bot",
-          "category": "Solidity",
-          "metric": "930 stars",
-          "publishedAtUtc": "2026-11-09T21:55:51.0000000Z"
-        },
-        {
-          "title": "hyperframes",
-          "subtitle": "@heygen-com",
-          "summary": "Write HTML. Render video. Built for agents. Download the desktop app: HyperFrames is a free, open-source framework for turning HTML, CSS, media, and seekable animations into...",
-          "url": "https://github.com/heygen-com/hyperframes",
-          "category": "TypeScript",
-          "metric": "81,641 stars",
-          "publishedAtUtc": "2026-11-09T21:55:41.0000000Z"
-        },
-        {
-          "title": "mastra",
-          "subtitle": "@mastra-ai",
-          "summary": "Mastra is the modern TypeScript framework for AI-powered applications and agents. Mastra Mastra is a framework for building AI-powered applications and agents with a modern...",
-          "url": "https://github.com/mastra-ai/mastra",
-          "category": "TypeScript",
-          "metric": "29,435 stars",
-          "publishedAtUtc": "2026-11-09T21:55:21.0000000Z"
-        },
-        {
-          "title": "skyvern",
-          "subtitle": "@Skyvern-AI",
-          "summary": "Automate browser based workflows with AI \uD83D\uDC09 Automate Browser-based workflows using LLMs and Computer Vision \uD83D\uDC09 --> Skyvern automates browser-based workflows using LLMs and...",
-          "url": "https://github.com/Skyvern-AI/skyvern",
+          "title": "open-nvr",
+          "subtitle": "@open-nvr",
+          "summary": "The open platform for AI on your cameras: a self-hosted NVR (ONVIF/RTSP, recording, WebRTC) running any AI model... The open platform for AI on your cameras — new capabilities...",
+          "url": "https://github.com/open-nvr/open-nvr",
           "category": "Python",
-          "metric": "23,374 stars",
-          "publishedAtUtc": "2026-11-09T21:55:18.0000000Z"
+          "metric": "198 stars",
+          "publishedAtUtc": "2026-11-10T05:58:49.0000000Z"
         },
         {
-          "title": "ClickHouse",
-          "subtitle": "@ClickHouse",
-          "summary": "ClickHouse® is a real-time analytics database management system ClickHouse® is an open-source column-oriented database management system that allows generating analytical data...",
-          "url": "https://github.com/ClickHouse/ClickHouse",
-          "category": "C++",
-          "metric": "50,839 stars",
-          "publishedAtUtc": "2026-11-09T21:55:19.0000000Z"
+          "title": "OpenSandbox",
+          "subtitle": "@opensandbox-group",
+          "summary": "Secure, Fast, and Extensible Sandbox runtime for AI agents. OpenSandbox Run AI agents in sandboxes on your own infrastructure.",
+          "url": "https://github.com/opensandbox-group/OpenSandbox",
+          "category": "Python",
+          "metric": "17,003 stars",
+          "publishedAtUtc": "2026-11-10T05:57:13.0000000Z"
+        },
+        {
+          "title": "decapod",
+          "subtitle": "@DecapodLabs",
+          "summary": "Metacognition for AI agents. A repo-native governance kernel for bounded, convergent, proof-backed work. \uD83E\uDD80 Decapod Metacognition for AI agents.",
+          "url": "https://github.com/DecapodLabs/decapod",
+          "category": "Rust",
+          "metric": "239 stars",
+          "publishedAtUtc": "2026-11-10T05:56:55.0000000Z"
+        },
+        {
+          "title": "Cotal",
+          "subtitle": "@Cotal-AI",
+          "summary": "The open standard for agent coordination The open pub/sub standard for AI agents.",
+          "url": "https://github.com/Cotal-AI/Cotal",
+          "category": "TypeScript",
+          "metric": "386 stars",
+          "publishedAtUtc": "2026-11-10T05:56:39.0000000Z"
+        },
+        {
+          "title": "timefold-solver",
+          "subtitle": "@TimefoldAI",
+          "summary": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem... _Planning optimization made easy._ timefold.ai Timefold...",
+          "url": "https://github.com/TimefoldAI/timefold-solver",
+          "category": "Java",
+          "metric": "1,861 stars",
+          "publishedAtUtc": "2026-11-10T05:56:23.0000000Z"
+        },
+        {
+          "title": "aicr",
+          "subtitle": "@NVIDIA",
+          "summary": "Tooling for optimized, validated, and reproducible GPU-accelerated AI runtime in Kubernetes NVIDIA AI Cluster Runtime AI Cluster Runtime (AICR) makes it easy to stand up...",
+          "url": "https://github.com/NVIDIA/aicr",
+          "category": "Go",
+          "metric": "472 stars",
+          "publishedAtUtc": "2026-11-10T05:56:01.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "120,281 stars",
-      "publishedAtUtc": "2026-11-09T20:58:20.0000000Z"
+      "metric": "120,300 stars",
+      "publishedAtUtc": "2026-11-10T05:57:59.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "59,163 stars",
-      "publishedAtUtc": "2026-11-09T21:44:07.0000000Z"
+      "metric": "59,171 stars",
+      "publishedAtUtc": "2026-11-10T05:06:41.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "56,073 stars",
-      "publishedAtUtc": "2026-11-09T19:26:51.0000000Z"
+      "metric": "56,081 stars",
+      "publishedAtUtc": "2026-11-10T05:34:33.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,564 stars",
-      "publishedAtUtc": "2026-11-09T21:13:01.0000000Z"
+      "metric": "46,567 stars",
+      "publishedAtUtc": "2026-11-10T05:28:14.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "40,887 stars",
-      "publishedAtUtc": "2026-11-09T21:53:37.0000000Z"
+      "metric": "40,895 stars",
+      "publishedAtUtc": "2026-11-10T05:33:22.0000000Z"
     },
     {
       "title": "RevokeMsgPatcher",
@@ -184,8 +184,8 @@
       "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
       "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
       "category": "C#",
-      "metric": "39,147 stars",
-      "publishedAtUtc": "2026-11-09T18:20:06.0000000Z"
+      "metric": "39,157 stars",
+      "publishedAtUtc": "2026-11-10T05:42:58.0000000Z"
     }
   ]
 }
