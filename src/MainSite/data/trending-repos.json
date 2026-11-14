@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-11-13T19:13:34.9170719Z",
+  "generatedAtUtc": "2026-11-14T04:58:48.4743022Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-06 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-07 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "120,550 stars",
-          "publishedAtUtc": "2026-11-13T19:00:06.0000000Z"
+          "metric": "120,564 stars",
+          "publishedAtUtc": "2026-11-14T04:56:39.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "59,324 stars",
-          "publishedAtUtc": "2026-11-13T18:06:20.0000000Z"
+          "metric": "59,334 stars",
+          "publishedAtUtc": "2026-11-14T04:16:23.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "56,158 stars",
-          "publishedAtUtc": "2026-11-13T18:56:18.0000000Z"
+          "metric": "56,160 stars",
+          "publishedAtUtc": "2026-11-14T04:18:35.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,625 stars",
-          "publishedAtUtc": "2026-11-13T17:53:15.0000000Z"
+          "metric": "46,634 stars",
+          "publishedAtUtc": "2026-11-14T04:39:11.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "41,014 stars",
-          "publishedAtUtc": "2026-11-13T18:51:05.0000000Z"
+          "metric": "41,019 stars",
+          "publishedAtUtc": "2026-11-14T04:27:09.0000000Z"
         },
         {
           "title": "RevokeMsgPatcher",
@@ -62,8 +62,8 @@
           "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
           "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
           "category": "C#",
-          "metric": "39,237 stars",
-          "publishedAtUtc": "2026-11-13T16:57:59.0000000Z"
+          "metric": "39,239 stars",
+          "publishedAtUtc": "2026-11-14T04:32:31.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
+          "title": "MemoryMesh",
+          "subtitle": "@CheMiguel23",
+          "summary": "A knowledge graph server that uses the Model Context Protocol (MCP) to provide structured memory persistence for AI... MemoryMesh MemoryMesh is an MCP server that gives AI models...",
+          "url": "https://github.com/CheMiguel23/MemoryMesh",
+          "category": "TypeScript",
+          "metric": "355 stars",
+          "publishedAtUtc": "2026-11-14T04:58:37.0000000Z"
+        },
+        {
           "title": "t3code",
           "subtitle": "@pingdotgg",
           "summary": "The best way to control Claude Code, Codex and more from any computer or phone T3 Code The open-source control plane for coding agents.",
           "url": "https://github.com/pingdotgg/t3code",
           "category": "TypeScript",
-          "metric": "59,395 stars",
-          "publishedAtUtc": "2026-11-13T19:13:17.0000000Z"
+          "metric": "59,750 stars",
+          "publishedAtUtc": "2026-11-14T04:58:41.0000000Z"
         },
         {
-          "title": "SnapOtter",
-          "subtitle": "@snapotter-hq",
-          "summary": "Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video... Open-source, self-hosted file-processing infrastructure.",
-          "url": "https://github.com/snapotter-hq/SnapOtter",
+          "title": "aidevops",
+          "subtitle": "@marcusquinn",
+          "summary": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and... AI DevOps Framework aidevops.sh is an OpenCode plugin and...",
+          "url": "https://github.com/marcusquinn/aidevops",
+          "category": "Shell",
+          "metric": "455 stars",
+          "publishedAtUtc": "2026-11-14T04:58:37.0000000Z"
+        },
+        {
+          "title": "hyperframes",
+          "subtitle": "@heygen-com",
+          "summary": "Write HTML. Render video. Built for agents. Download the desktop app: HyperFrames is a free, open-source framework for turning HTML, CSS, media, and seekable animations into...",
+          "url": "https://github.com/heygen-com/hyperframes",
           "category": "TypeScript",
-          "metric": "2,976 stars",
-          "publishedAtUtc": "2026-11-13T09:44:21.0000000Z"
+          "metric": "84,016 stars",
+          "publishedAtUtc": "2026-11-14T04:58:17.0000000Z"
         },
         {
-          "title": "openclaw",
-          "subtitle": "@openclaw",
-          "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. \uD83E\uDD9E OpenClaw \uD83E\uDD9E — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant...",
-          "url": "https://github.com/openclaw/openclaw",
-          "category": "TypeScript",
-          "metric": "394,384 stars",
-          "publishedAtUtc": "2026-11-13T19:12:49.0000000Z"
+          "title": "impeccable",
+          "subtitle": "@pbakaus",
+          "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI... Impeccable The design vocabulary for your coding agent.",
+          "url": "https://github.com/pbakaus/impeccable",
+          "category": "Rust",
+          "metric": "109,713 stars",
+          "publishedAtUtc": "2026-11-14T04:55:13.0000000Z"
         },
         {
-          "title": "rea",
-          "subtitle": "@morluto",
-          "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español ·...",
-          "url": "https://github.com/morluto/rea",
-          "category": "TypeScript",
-          "metric": "457,257 stars",
-          "publishedAtUtc": "2026-11-13T19:12:46.0000000Z"
-        },
-        {
-          "title": "openaccountants",
-          "subtitle": "@openaccountants",
-          "summary": "Open tax skills for AI: 2,000+ skills for 190+ countries and states, every figure cited to the law. Works in ChatGPT... OpenAccountants Open tax skills for AI.",
-          "url": "https://github.com/openaccountants/openaccountants",
-          "category": "HTML",
-          "metric": "489 stars",
-          "publishedAtUtc": "2026-11-13T10:55:04.0000000Z"
-        },
-        {
-          "title": "awesome-gemini-3-prompts",
-          "subtitle": "@YouMind-OpenLab",
-          "summary": "♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt... \uD83D\uDE80 Awesome Gemini 3 Prompts \uD83C\uDFA8 A curated collection of...",
-          "url": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-          "category": "TypeScript",
-          "metric": "522 stars",
-          "publishedAtUtc": "2026-11-12T17:31:38.0000000Z"
+          "title": "ComfyUI",
+          "subtitle": "@Comfy-Org",
+          "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local... ComfyUI The most powerful and modular AI engine for content...",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "category": "Python",
+          "metric": "146,719 stars",
+          "publishedAtUtc": "2026-11-14T04:58:06.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "120,550 stars",
-      "publishedAtUtc": "2026-11-13T19:00:06.0000000Z"
+      "metric": "120,564 stars",
+      "publishedAtUtc": "2026-11-14T04:56:39.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "59,324 stars",
-      "publishedAtUtc": "2026-11-13T18:06:20.0000000Z"
+      "metric": "59,334 stars",
+      "publishedAtUtc": "2026-11-14T04:16:23.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "56,158 stars",
-      "publishedAtUtc": "2026-11-13T18:56:18.0000000Z"
+      "metric": "56,160 stars",
+      "publishedAtUtc": "2026-11-14T04:18:35.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,625 stars",
-      "publishedAtUtc": "2026-11-13T17:53:15.0000000Z"
+      "metric": "46,634 stars",
+      "publishedAtUtc": "2026-11-14T04:39:11.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "41,014 stars",
-      "publishedAtUtc": "2026-11-13T18:51:05.0000000Z"
+      "metric": "41,019 stars",
+      "publishedAtUtc": "2026-11-14T04:27:09.0000000Z"
     },
     {
       "title": "RevokeMsgPatcher",
@@ -184,8 +184,8 @@
       "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
       "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
       "category": "C#",
-      "metric": "39,237 stars",
-      "publishedAtUtc": "2026-11-13T16:57:59.0000000Z"
+      "metric": "39,239 stars",
+      "publishedAtUtc": "2026-11-14T04:32:31.0000000Z"
     }
   ]
 }
