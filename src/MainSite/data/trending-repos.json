@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-11-15T04:52:39.6917259Z",
+  "generatedAtUtc": "2026-11-15T18:29:26.5721393Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "120,638 stars",
-          "publishedAtUtc": "2026-11-15T04:45:38.0000000Z"
+          "metric": "120,684 stars",
+          "publishedAtUtc": "2026-11-15T18:00:00.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "59,379 stars",
-          "publishedAtUtc": "2026-11-15T04:27:14.0000000Z"
+          "metric": "59,403 stars",
+          "publishedAtUtc": "2026-11-15T18:06:19.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "56,182 stars",
-          "publishedAtUtc": "2026-11-15T02:41:46.0000000Z"
+          "metric": "56,193 stars",
+          "publishedAtUtc": "2026-11-15T17:22:26.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,654 stars",
-          "publishedAtUtc": "2026-11-15T01:37:50.0000000Z"
+          "metric": "46,661 stars",
+          "publishedAtUtc": "2026-11-15T16:08:22.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "41,043 stars",
-          "publishedAtUtc": "2026-11-15T04:31:10.0000000Z"
+          "metric": "41,054 stars",
+          "publishedAtUtc": "2026-11-15T17:23:51.0000000Z"
         },
         {
           "title": "aspnetcore",
@@ -63,7 +63,7 @@
           "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
           "metric": "38,525 stars",
-          "publishedAtUtc": "2026-11-14T21:44:42.0000000Z"
+          "publishedAtUtc": "2026-11-15T13:51:49.0000000Z"
         }
       ]
     },
@@ -76,22 +76,13 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "t3code",
-          "subtitle": "@pingdotgg",
-          "summary": "The best way to control Claude Code, Codex and more from any computer or phone T3 Code The open-source control plane for coding agents.",
-          "url": "https://github.com/pingdotgg/t3code",
-          "category": "TypeScript",
-          "metric": "60,736 stars",
-          "publishedAtUtc": "2026-11-15T04:52:34.0000000Z"
-        },
-        {
-          "title": "qwen-code",
-          "subtitle": "@QwenLM",
-          "summary": "An open-source AI coding agent that lives in your terminal. The open-source AI coding agent for your terminal, editor, desktop, browser, and chat.",
-          "url": "https://github.com/QwenLM/qwen-code",
-          "category": "TypeScript",
-          "metric": "30,401 stars",
-          "publishedAtUtc": "2026-11-15T04:50:45.0000000Z"
+          "title": "AITreasureBox",
+          "subtitle": "@superiorlu",
+          "summary": "\uD83E\uDD16 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 \uD83D\uDC8E AI TreasureBox English 中文 Collect practical AI repos, tools, websites, papers and tutorials...",
+          "url": "https://github.com/superiorlu/AITreasureBox",
+          "category": "Ruby",
+          "metric": "924 stars",
+          "publishedAtUtc": "2026-11-12T15:34:53.0000000Z"
         },
         {
           "title": "hyperframes",
@@ -99,35 +90,44 @@
           "summary": "Write HTML. Render video. Built for agents. Download the desktop app: HyperFrames is a free, open-source framework for turning HTML, CSS, media, and seekable animations into...",
           "url": "https://github.com/heygen-com/hyperframes",
           "category": "TypeScript",
-          "metric": "84,411 stars",
-          "publishedAtUtc": "2026-11-15T04:51:07.0000000Z"
+          "metric": "84,652 stars",
+          "publishedAtUtc": "2026-11-15T18:27:44.0000000Z"
         },
         {
-          "title": "impeccable",
-          "subtitle": "@pbakaus",
-          "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI... Impeccable The design vocabulary for your coding agent.",
-          "url": "https://github.com/pbakaus/impeccable",
-          "category": "Rust",
-          "metric": "110,309 stars",
-          "publishedAtUtc": "2026-11-15T04:49:46.0000000Z"
-        },
-        {
-          "title": "rea",
-          "subtitle": "@morluto",
-          "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español ·...",
-          "url": "https://github.com/morluto/rea",
+          "title": "oh-my-openagent",
+          "subtitle": "@code-yeongyu",
+          "summary": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering. English 简体中文 日本語 Русский 한국어 Español Français Deutsch Português (Brasil) Italiano...",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
           "category": "TypeScript",
-          "metric": "460,232 stars",
-          "publishedAtUtc": "2026-11-15T04:52:23.0000000Z"
+          "metric": "70,920 stars",
+          "publishedAtUtc": "2026-11-15T18:28:22.0000000Z"
         },
         {
-          "title": "pinvou-agent",
-          "subtitle": "@Pinvou",
-          "summary": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables. Pinvou Agent An open-source desktop AI agent workspace for work, design, and coding.",
-          "url": "https://github.com/Pinvou/pinvou-agent",
-          "category": "Rust",
-          "metric": "3,026 stars",
-          "publishedAtUtc": "2026-11-15T04:47:04.0000000Z"
+          "title": "BYDMate",
+          "subtitle": "@AndyShaman",
+          "summary": "BYD DiLink app (3.0/5.0/5.1, UI7): split screen 1/3+2/3, navigation on instrument cluster, Yandex Navigator on HUD... BYDMate Trip Logger & Energy Analytics & Touch of Magic for...",
+          "url": "https://github.com/AndyShaman/BYDMate",
+          "category": "Kotlin",
+          "metric": "514 stars",
+          "publishedAtUtc": "2026-11-15T18:22:32.0000000Z"
+        },
+        {
+          "title": "t3code",
+          "subtitle": "@pingdotgg",
+          "summary": "The best way to control Claude Code, Codex and more from any computer or phone T3 Code The open-source control plane for coding agents.",
+          "url": "https://github.com/pingdotgg/t3code",
+          "category": "TypeScript",
+          "metric": "61,327 stars",
+          "publishedAtUtc": "2026-11-15T18:29:27.0000000Z"
+        },
+        {
+          "title": "PHP-Antimalware-Scanner",
+          "subtitle": "@marcocesarato",
+          "summary": "AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code... PHP Antimalware Scanner Scan PHP projects and WordPress...",
+          "url": "https://github.com/marcocesarato/PHP-Antimalware-Scanner",
+          "category": "PHP",
+          "metric": "810 stars",
+          "publishedAtUtc": "2026-11-11T22:27:54.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "120,638 stars",
-      "publishedAtUtc": "2026-11-15T04:45:38.0000000Z"
+      "metric": "120,684 stars",
+      "publishedAtUtc": "2026-11-15T18:00:00.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "59,379 stars",
-      "publishedAtUtc": "2026-11-15T04:27:14.0000000Z"
+      "metric": "59,403 stars",
+      "publishedAtUtc": "2026-11-15T18:06:19.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "56,182 stars",
-      "publishedAtUtc": "2026-11-15T02:41:46.0000000Z"
+      "metric": "56,193 stars",
+      "publishedAtUtc": "2026-11-15T17:22:26.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,654 stars",
-      "publishedAtUtc": "2026-11-15T01:37:50.0000000Z"
+      "metric": "46,661 stars",
+      "publishedAtUtc": "2026-11-15T16:08:22.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "41,043 stars",
-      "publishedAtUtc": "2026-11-15T04:31:10.0000000Z"
+      "metric": "41,054 stars",
+      "publishedAtUtc": "2026-11-15T17:23:51.0000000Z"
     },
     {
       "title": "aspnetcore",
@@ -185,7 +185,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
       "metric": "38,525 stars",
-      "publishedAtUtc": "2026-11-14T21:44:42.0000000Z"
+      "publishedAtUtc": "2026-11-15T13:51:49.0000000Z"
     }
   ]
 }
