@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-11-16T21:39:12.8143577Z",
+  "generatedAtUtc": "2026-11-17T06:36:41.4162257Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-09 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-10 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "120,762 stars",
-          "publishedAtUtc": "2026-11-16T20:03:43.0000000Z"
+          "metric": "120,788 stars",
+          "publishedAtUtc": "2026-11-17T06:30:47.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "59,439 stars",
-          "publishedAtUtc": "2026-11-16T21:25:05.0000000Z"
+          "metric": "59,451 stars",
+          "publishedAtUtc": "2026-11-17T06:21:06.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -36,7 +36,7 @@
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
           "metric": "56,212 stars",
-          "publishedAtUtc": "2026-11-16T21:34:10.0000000Z"
+          "publishedAtUtc": "2026-11-17T06:34:03.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,673 stars",
-          "publishedAtUtc": "2026-11-16T20:11:26.0000000Z"
+          "metric": "46,677 stars",
+          "publishedAtUtc": "2026-11-17T06:19:50.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,17 +53,17 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "41,080 stars",
-          "publishedAtUtc": "2026-11-16T20:58:06.0000000Z"
+          "metric": "41,091 stars",
+          "publishedAtUtc": "2026-11-17T06:17:12.0000000Z"
         },
         {
-          "title": "aspnetcore",
-          "subtitle": "@dotnet",
-          "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
-          "url": "https://github.com/dotnet/aspnetcore",
+          "title": "RevokeMsgPatcher",
+          "subtitle": "@huiyadanli",
+          "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
+          "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
           "category": "C#",
-          "metric": "38,529 stars",
-          "publishedAtUtc": "2026-11-16T15:34:50.0000000Z"
+          "metric": "39,283 stars",
+          "publishedAtUtc": "2026-11-17T06:34:25.0000000Z"
         }
       ]
     },
@@ -76,58 +76,58 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "supabase",
-          "subtitle": "@supabase",
-          "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI... Supabase Supabase is the Postgres development platform.",
-          "url": "https://github.com/supabase/supabase",
-          "category": "TypeScript",
-          "metric": "115,061 stars",
-          "publishedAtUtc": "2026-11-16T21:38:58.0000000Z"
-        },
-        {
           "title": "t3code",
           "subtitle": "@pingdotgg",
           "summary": "The best way to control Claude Code, Codex and more from any computer or phone T3 Code The open-source control plane for coding agents.",
           "url": "https://github.com/pingdotgg/t3code",
           "category": "TypeScript",
-          "metric": "62,686 stars",
-          "publishedAtUtc": "2026-11-16T21:38:42.0000000Z"
+          "metric": "63,122 stars",
+          "publishedAtUtc": "2026-11-17T06:36:41.0000000Z"
         },
         {
-          "title": "rea",
-          "subtitle": "@morluto",
-          "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español ·...",
-          "url": "https://github.com/morluto/rea",
-          "category": "TypeScript",
-          "metric": "463,944 stars",
-          "publishedAtUtc": "2026-11-16T21:39:02.0000000Z"
-        },
-        {
-          "title": "BMAD-METHOD",
-          "subtitle": "@bmad-code-org",
-          "summary": "Breakthrough Method for Agile Ai Driven Development Agile Ai Driven Development — turn an idea or change request into working software without giving up the thinking.",
-          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "title": "unsloth",
+          "subtitle": "@unslothai",
+          "summary": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4... Unsloth is the first desktop app to run and train models.",
+          "url": "https://github.com/unslothai/unsloth",
           "category": "Python",
-          "metric": "55,431 stars",
-          "publishedAtUtc": "2026-11-16T21:37:06.0000000Z"
+          "metric": "79,640 stars",
+          "publishedAtUtc": "2026-11-17T06:36:12.0000000Z"
         },
         {
-          "title": "nurb",
-          "subtitle": "@Shpigford",
-          "summary": "Agentic CAD for 3D printing nurb Tell your AI what you need printed.",
-          "url": "https://github.com/Shpigford/nurb",
-          "category": "Python",
-          "metric": "644 stars",
-          "publishedAtUtc": "2026-11-16T19:31:05.0000000Z"
+          "title": "AITreasureBox",
+          "subtitle": "@superiorlu",
+          "summary": "\uD83E\uDD16 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 \uD83D\uDC8E AI TreasureBox English 中文 Collect practical AI repos, tools, websites, papers and tutorials...",
+          "url": "https://github.com/superiorlu/AITreasureBox",
+          "category": "Ruby",
+          "metric": "930 stars",
+          "publishedAtUtc": "2026-11-17T02:05:10.0000000Z"
         },
         {
-          "title": "firecrawl",
-          "subtitle": "@firecrawl",
-          "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. \uD83D\uDD25 - \uD83D\uDD25 Firecrawl The API to search, scrape, and interact with the web...",
-          "url": "https://github.com/firecrawl/firecrawl",
+          "title": "hyperframes",
+          "subtitle": "@heygen-com",
+          "summary": "Write HTML. Render video. Built for agents. Download the desktop app: HyperFrames is a free, open-source framework for turning HTML, CSS, media, and seekable animations into...",
+          "url": "https://github.com/heygen-com/hyperframes",
           "category": "TypeScript",
-          "metric": "202,330 stars",
-          "publishedAtUtc": "2026-11-16T21:37:40.0000000Z"
+          "metric": "85,388 stars",
+          "publishedAtUtc": "2026-11-17T06:35:28.0000000Z"
+        },
+        {
+          "title": "onyx",
+          "subtitle": "@onyx-dot-app",
+          "summary": "Open Source AI Platform - AI Chat with advanced features that works with every LLM Onyx - The context layer powered by all your apps \"LLMs know about everything public, but what...",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "category": "Python",
+          "metric": "33,426 stars",
+          "publishedAtUtc": "2026-11-17T06:25:45.0000000Z"
+        },
+        {
+          "title": "paddock",
+          "subtitle": "@truespar",
+          "summary": "Native Rust inference server for open models on NVIDIA and Apple Silicon. OpenAI- and Anthropic-compatible APIs, GGUF... Paddock Community Questions, setups that do not work...",
+          "url": "https://github.com/truespar/paddock",
+          "category": "Rust",
+          "metric": "164 stars",
+          "publishedAtUtc": "2026-11-12T03:38:43.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "120,762 stars",
-      "publishedAtUtc": "2026-11-16T20:03:43.0000000Z"
+      "metric": "120,788 stars",
+      "publishedAtUtc": "2026-11-17T06:30:47.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "59,439 stars",
-      "publishedAtUtc": "2026-11-16T21:25:05.0000000Z"
+      "metric": "59,451 stars",
+      "publishedAtUtc": "2026-11-17T06:21:06.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -158,7 +158,7 @@
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
       "metric": "56,212 stars",
-      "publishedAtUtc": "2026-11-16T21:34:10.0000000Z"
+      "publishedAtUtc": "2026-11-17T06:34:03.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,673 stars",
-      "publishedAtUtc": "2026-11-16T20:11:26.0000000Z"
+      "metric": "46,677 stars",
+      "publishedAtUtc": "2026-11-17T06:19:50.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,17 +175,17 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "41,080 stars",
-      "publishedAtUtc": "2026-11-16T20:58:06.0000000Z"
+      "metric": "41,091 stars",
+      "publishedAtUtc": "2026-11-17T06:17:12.0000000Z"
     },
     {
-      "title": "aspnetcore",
-      "subtitle": "@dotnet",
-      "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
-      "url": "https://github.com/dotnet/aspnetcore",
+      "title": "RevokeMsgPatcher",
+      "subtitle": "@huiyadanli",
+      "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
+      "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
       "category": "C#",
-      "metric": "38,529 stars",
-      "publishedAtUtc": "2026-11-16T15:34:50.0000000Z"
+      "metric": "39,283 stars",
+      "publishedAtUtc": "2026-11-17T06:34:25.0000000Z"
     }
   ]
 }
