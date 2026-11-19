@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-11-18T19:59:17.5016939Z",
+  "generatedAtUtc": "2026-11-19T05:57:24.6573337Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-11 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-12 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "120,898 stars",
-          "publishedAtUtc": "2026-11-18T19:01:05.0000000Z"
+          "metric": "120,933 stars",
+          "publishedAtUtc": "2026-11-19T05:55:13.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "59,504 stars",
-          "publishedAtUtc": "2026-11-18T18:40:59.0000000Z"
+          "metric": "59,526 stars",
+          "publishedAtUtc": "2026-11-19T05:45:18.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "56,234 stars",
-          "publishedAtUtc": "2026-11-18T19:00:38.0000000Z"
+          "metric": "56,233 stars",
+          "publishedAtUtc": "2026-11-19T04:33:01.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,709 stars",
-          "publishedAtUtc": "2026-11-18T19:18:48.0000000Z"
+          "metric": "46,710 stars",
+          "publishedAtUtc": "2026-11-19T05:10:29.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,8 +53,8 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "41,142 stars",
-          "publishedAtUtc": "2026-11-18T19:21:55.0000000Z"
+          "metric": "41,150 stars",
+          "publishedAtUtc": "2026-11-19T04:48:07.0000000Z"
         },
         {
           "title": "RevokeMsgPatcher",
@@ -62,8 +62,8 @@
           "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
           "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
           "category": "C#",
-          "metric": "39,305 stars",
-          "publishedAtUtc": "2026-11-18T15:15:22.0000000Z"
+          "metric": "39,308 stars",
+          "publishedAtUtc": "2026-11-19T05:56:58.0000000Z"
         }
       ]
     },
@@ -76,31 +76,31 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "t3code",
-          "subtitle": "@pingdotgg",
-          "summary": "The best way to control Claude Code, Codex and more from any computer or phone T3 Code The open-source control plane for coding agents.",
-          "url": "https://github.com/pingdotgg/t3code",
-          "category": "TypeScript",
-          "metric": "65,091 stars",
-          "publishedAtUtc": "2026-11-18T19:59:00.0000000Z"
-        },
-        {
-          "title": "ai--manus",
-          "subtitle": "@meirz911",
+          "title": "manus--ai",
+          "subtitle": "@ITprogamatikDedSec",
           "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox... Manus - Autonomous AI Agent PROMO2026 -- Manus Highlights...",
-          "url": "https://github.com/meirz911/ai--manus",
+          "url": "https://github.com/ITprogamatikDedSec/manus--ai",
           "category": "Repository",
-          "metric": "182 stars",
-          "publishedAtUtc": "2026-11-18T07:35:53.0000000Z"
+          "metric": "201 stars",
+          "publishedAtUtc": "2026-11-15T17:01:10.0000000Z"
         },
         {
           "title": "manus--ai",
-          "subtitle": "@meirz911",
+          "subtitle": "@lloweryfn-rgb",
           "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox... Manus - Autonomous AI Agent PROMO2026 -- Manus Highlights...",
-          "url": "https://github.com/meirz911/manus--ai",
+          "url": "https://github.com/lloweryfn-rgb/manus--ai",
           "category": "Repository",
-          "metric": "181 stars",
-          "publishedAtUtc": "2026-11-18T07:35:52.0000000Z"
+          "metric": "202 stars",
+          "publishedAtUtc": "2026-11-16T11:23:01.0000000Z"
+        },
+        {
+          "title": "manus--ai",
+          "subtitle": "@mohamedhamdytaha",
+          "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox... Manus - Autonomous AI Agent PROMO2026 -- Manus Highlights...",
+          "url": "https://github.com/mohamedhamdytaha/manus--ai",
+          "category": "Repository",
+          "metric": "180 stars",
+          "publishedAtUtc": "2026-11-15T17:01:22.0000000Z"
         },
         {
           "title": "manus--ai",
@@ -112,22 +112,22 @@
           "publishedAtUtc": "2026-11-15T17:01:07.0000000Z"
         },
         {
-          "title": "manus--ai",
-          "subtitle": "@stancaedy10-glitch",
+          "title": "ai--manus",
+          "subtitle": "@lloweryfn-rgb",
           "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox... Manus - Autonomous AI Agent PROMO2026 -- Manus Highlights...",
-          "url": "https://github.com/stancaedy10-glitch/manus--ai",
+          "url": "https://github.com/lloweryfn-rgb/ai--manus",
           "category": "Repository",
           "metric": "202 stars",
-          "publishedAtUtc": "2026-11-15T17:01:06.0000000Z"
+          "publishedAtUtc": "2026-11-15T17:01:03.0000000Z"
         },
         {
-          "title": "manus--ai",
-          "subtitle": "@mohamedhamdytaha",
+          "title": "ai--manus",
+          "subtitle": "@ITprogamatikDedSec",
           "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox... Manus - Autonomous AI Agent PROMO2026 -- Manus Highlights...",
-          "url": "https://github.com/mohamedhamdytaha/manus--ai",
+          "url": "https://github.com/ITprogamatikDedSec/ai--manus",
           "category": "Repository",
-          "metric": "180 stars",
-          "publishedAtUtc": "2026-11-15T17:01:22.0000000Z"
+          "metric": "202 stars",
+          "publishedAtUtc": "2026-11-15T17:01:10.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "120,898 stars",
-      "publishedAtUtc": "2026-11-18T19:01:05.0000000Z"
+      "metric": "120,933 stars",
+      "publishedAtUtc": "2026-11-19T05:55:13.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "59,504 stars",
-      "publishedAtUtc": "2026-11-18T18:40:59.0000000Z"
+      "metric": "59,526 stars",
+      "publishedAtUtc": "2026-11-19T05:45:18.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "56,234 stars",
-      "publishedAtUtc": "2026-11-18T19:00:38.0000000Z"
+      "metric": "56,233 stars",
+      "publishedAtUtc": "2026-11-19T04:33:01.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,709 stars",
-      "publishedAtUtc": "2026-11-18T19:18:48.0000000Z"
+      "metric": "46,710 stars",
+      "publishedAtUtc": "2026-11-19T05:10:29.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,8 +175,8 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "41,142 stars",
-      "publishedAtUtc": "2026-11-18T19:21:55.0000000Z"
+      "metric": "41,150 stars",
+      "publishedAtUtc": "2026-11-19T04:48:07.0000000Z"
     },
     {
       "title": "RevokeMsgPatcher",
@@ -184,8 +184,8 @@
       "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
       "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
       "category": "C#",
-      "metric": "39,305 stars",
-      "publishedAtUtc": "2026-11-18T15:15:22.0000000Z"
+      "metric": "39,308 stars",
+      "publishedAtUtc": "2026-11-19T05:56:58.0000000Z"
     }
   ]
 }
