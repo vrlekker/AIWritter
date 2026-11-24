@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAtUtc": "2026-11-23T23:23:54.6935481Z",
+  "generatedAtUtc": "2026-11-24T08:28:05.6966185Z",
   "featuredFeedId": "csharp-repos",
   "totalItemCount": 12,
   "feeds": [
@@ -9,7 +9,7 @@
       "description": "Fresh .NET and C# projects gaining attention this week.",
       "itemType": "repository",
       "actionLabel": "View Repository",
-      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-16 archived:false",
+      "sourceQuery": "language:C# stars:>20 pushed:>2026-11-17 archived:false",
       "items": [
         {
           "title": "v2rayN",
@@ -17,8 +17,8 @@
           "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
           "url": "https://github.com/2dust/v2rayN",
           "category": "C#",
-          "metric": "121,266 stars",
-          "publishedAtUtc": "2026-11-23T23:07:18.0000000Z"
+          "metric": "121,301 stars",
+          "publishedAtUtc": "2026-11-24T08:15:03.0000000Z"
         },
         {
           "title": "jellyfin",
@@ -26,8 +26,8 @@
           "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
           "url": "https://github.com/jellyfin/jellyfin",
           "category": "C#",
-          "metric": "59,682 stars",
-          "publishedAtUtc": "2026-11-23T22:24:33.0000000Z"
+          "metric": "59,697 stars",
+          "publishedAtUtc": "2026-11-24T06:56:53.0000000Z"
         },
         {
           "title": "PowerShell",
@@ -35,8 +35,8 @@
           "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
           "url": "https://github.com/PowerShell/PowerShell",
           "category": "C#",
-          "metric": "56,276 stars",
-          "publishedAtUtc": "2026-11-23T23:09:09.0000000Z"
+          "metric": "56,278 stars",
+          "publishedAtUtc": "2026-11-24T07:41:04.0000000Z"
         },
         {
           "title": "Files",
@@ -44,8 +44,8 @@
           "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
           "url": "https://github.com/files-community/Files",
           "category": "C#",
-          "metric": "46,772 stars",
-          "publishedAtUtc": "2026-11-23T20:33:59.0000000Z"
+          "metric": "46,781 stars",
+          "publishedAtUtc": "2026-11-24T08:03:49.0000000Z"
         },
         {
           "title": "ShareX",
@@ -53,17 +53,17 @@
           "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
           "url": "https://github.com/ShareX/ShareX",
           "category": "C#",
-          "metric": "41,334 stars",
-          "publishedAtUtc": "2026-11-23T23:11:35.0000000Z"
+          "metric": "41,341 stars",
+          "publishedAtUtc": "2026-11-24T08:27:37.0000000Z"
         },
         {
-          "title": "RevokeMsgPatcher",
-          "subtitle": "@huiyadanli",
-          "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
-          "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+          "title": "aspnetcore",
+          "subtitle": "@dotnet",
+          "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
+          "url": "https://github.com/dotnet/aspnetcore",
           "category": "C#",
-          "metric": "39,375 stars",
-          "publishedAtUtc": "2026-11-23T16:06:27.0000000Z"
+          "metric": "38,538 stars",
+          "publishedAtUtc": "2026-11-24T06:57:02.0000000Z"
         }
       ]
     },
@@ -76,40 +76,22 @@
       "sourceQuery": "topic:ai stars:>150 archived:false",
       "items": [
         {
-          "title": "PanWatch",
-          "subtitle": "@TNT-Likely",
-          "summary": "PanWatch — AI stock monitoring for A-shares, HK & US markets, powered by TradingAgents. Portfolio insights, real-time... PanWatch — Self-hosted AI stock monitoring English 简体中文...",
-          "url": "https://github.com/TNT-Likely/PanWatch",
-          "category": "Python",
-          "metric": "2,563 stars",
-          "publishedAtUtc": "2026-11-23T17:05:38.0000000Z"
-        },
-        {
-          "title": "openai",
-          "subtitle": "@anasfik",
-          "summary": "A typed OpenAI SDK for Dart and Flutter, with streaming and support for OpenAI-compatible providers. dart_openai Unofficial Dart/Flutter SDK for the OpenAI API.",
-          "url": "https://github.com/anasfik/openai",
-          "category": "Dart",
-          "metric": "664 stars",
-          "publishedAtUtc": "2026-11-23T23:20:42.0000000Z"
-        },
-        {
           "title": "rea",
           "subtitle": "@morluto",
           "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español ·...",
           "url": "https://github.com/morluto/rea",
           "category": "TypeScript",
-          "metric": "475,536 stars",
-          "publishedAtUtc": "2026-11-23T23:23:15.0000000Z"
+          "metric": "476,133 stars",
+          "publishedAtUtc": "2026-11-24T08:27:47.0000000Z"
         },
         {
-          "title": "supabase",
-          "subtitle": "@supabase",
-          "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI... Supabase Supabase is the Postgres development platform.",
-          "url": "https://github.com/supabase/supabase",
+          "title": "hyperframes",
+          "subtitle": "@heygen-com",
+          "summary": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free... The open-source AI video editor: create, edit, remake.",
+          "url": "https://github.com/heygen-com/hyperframes",
           "category": "TypeScript",
-          "metric": "115,309 stars",
-          "publishedAtUtc": "2026-11-23T23:21:41.0000000Z"
+          "metric": "89,163 stars",
+          "publishedAtUtc": "2026-11-24T08:27:40.0000000Z"
         },
         {
           "title": "t3code",
@@ -117,17 +99,35 @@
           "summary": "The best way to control Claude Code, Codex and more from any computer or phone T3 Code The open-source control plane for coding agents.",
           "url": "https://github.com/pingdotgg/t3code",
           "category": "TypeScript",
-          "metric": "74,609 stars",
-          "publishedAtUtc": "2026-11-23T23:21:54.0000000Z"
+          "metric": "75,919 stars",
+          "publishedAtUtc": "2026-11-24T08:27:29.0000000Z"
         },
         {
-          "title": "omnigent",
-          "subtitle": "@omnigent-ai",
-          "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom... Omnigent The open-source meta-harness for all your AI...",
-          "url": "https://github.com/omnigent-ai/omnigent",
+          "title": "hermes-agent",
+          "subtitle": "@NousResearch",
+          "summary": "The agent that grows with you Hermes Agent ☤ The self-improving AI agent built by Nous Research.",
+          "url": "https://github.com/NousResearch/hermes-agent",
           "category": "Python",
-          "metric": "11,509 stars",
-          "publishedAtUtc": "2026-11-23T20:58:02.0000000Z"
+          "metric": "265,742 stars",
+          "publishedAtUtc": "2026-11-24T08:27:15.0000000Z"
+        },
+        {
+          "title": "macro",
+          "subtitle": "@macro-inc",
+          "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with... The unified workspace for your team · · Feature requests ·...",
+          "url": "https://github.com/macro-inc/macro",
+          "category": "Rust",
+          "metric": "6,456 stars",
+          "publishedAtUtc": "2026-11-24T06:35:10.0000000Z"
+        },
+        {
+          "title": "doris",
+          "subtitle": "@apache",
+          "summary": "Apache Doris is a real-time analytics and hybrid search database for AI agents. \uD83C\uDF0D Read this in other language English • العربية • বাংলা • Deutsch • Español • فارسی • Français •...",
+          "url": "https://github.com/apache/doris",
+          "category": "Java",
+          "metric": "16,257 stars",
+          "publishedAtUtc": "2026-11-24T08:18:51.0000000Z"
         }
       ]
     }
@@ -139,8 +139,8 @@
       "summary": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others v2rayN A GUI client for Windows, Linux and macOS.",
       "url": "https://github.com/2dust/v2rayN",
       "category": "C#",
-      "metric": "121,266 stars",
-      "publishedAtUtc": "2026-11-23T23:07:18.0000000Z"
+      "metric": "121,301 stars",
+      "publishedAtUtc": "2026-11-24T08:15:03.0000000Z"
     },
     {
       "title": "jellyfin",
@@ -148,8 +148,8 @@
       "summary": "The Free Software Media System - Server Backend & API Jellyfin The Free Software Media System -- -- Jellyfin is a Free Software Media System that puts you in control of managing...",
       "url": "https://github.com/jellyfin/jellyfin",
       "category": "C#",
-      "metric": "59,682 stars",
-      "publishedAtUtc": "2026-11-23T22:24:33.0000000Z"
+      "metric": "59,697 stars",
+      "publishedAtUtc": "2026-11-24T06:56:53.0000000Z"
     },
     {
       "title": "PowerShell",
@@ -157,8 +157,8 @@
       "summary": "PowerShell for every system! ![logo][] PowerShell Welcome to the PowerShell GitHub Community!",
       "url": "https://github.com/PowerShell/PowerShell",
       "category": "C#",
-      "metric": "56,276 stars",
-      "publishedAtUtc": "2026-11-23T23:09:09.0000000Z"
+      "metric": "56,278 stars",
+      "publishedAtUtc": "2026-11-24T07:41:04.0000000Z"
     },
     {
       "title": "Files",
@@ -166,8 +166,8 @@
       "summary": "A modern file manager that helps users organize their files and folders. Our mission with Files is to build the best file manager for Windows, and we’re proud to be building it...",
       "url": "https://github.com/files-community/Files",
       "category": "C#",
-      "metric": "46,772 stars",
-      "publishedAtUtc": "2026-11-23T20:33:59.0000000Z"
+      "metric": "46,781 stars",
+      "publishedAtUtc": "2026-11-24T08:03:49.0000000Z"
     },
     {
       "title": "ShareX",
@@ -175,17 +175,17 @@
       "summary": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a... Screen capture, file sharing and productivity tool For...",
       "url": "https://github.com/ShareX/ShareX",
       "category": "C#",
-      "metric": "41,334 stars",
-      "publishedAtUtc": "2026-11-23T23:11:35.0000000Z"
+      "metric": "41,341 stars",
+      "publishedAtUtc": "2026-11-24T08:27:37.0000000Z"
     },
     {
-      "title": "RevokeMsgPatcher",
-      "subtitle": "@huiyadanli",
-      "summary": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） \uD83D\uDC40微信/QQ/TIM防撤回补丁 适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁。支持微信/QQ/TIM，其中微信能够选择安装多开功能。 <img width=\"180px\"...",
-      "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+      "title": "aspnetcore",
+      "subtitle": "@dotnet",
+      "summary": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or... ASP.NET Core ============ ASP.NET Core is an open-source...",
+      "url": "https://github.com/dotnet/aspnetcore",
       "category": "C#",
-      "metric": "39,375 stars",
-      "publishedAtUtc": "2026-11-23T16:06:27.0000000Z"
+      "metric": "38,538 stars",
+      "publishedAtUtc": "2026-11-24T06:57:02.0000000Z"
     }
   ]
 }
