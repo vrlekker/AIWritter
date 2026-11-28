@@ -55,19 +55,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=t3code</loc>
-    <lastmod>2026-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
-    <lastmod>2026-11-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=agentscope-java</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=qwen-code</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -79,13 +67,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=markflowy</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=t3code</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=clickhouse</loc>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=cotal</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=unsloth</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vrlekker.github.io/AIWritter/?feed=ai-tools&amp;item=openclaw</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
